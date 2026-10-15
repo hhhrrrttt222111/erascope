@@ -1,0 +1,289 @@
+{
+  "year": 2010,
+  "country": "in",
+  "title": "India, 2010",
+  "tagline": "The first Aadhaar number, a new rupee sign and the Commonwealth Games.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in India (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.2010.morning.aadhaar",
+      "time": "Morning",
+      "activity": "A twelve-digit identity",
+      "detail": "The first Aadhaar number, a 12-digit identity linked to a photograph, ten fingerprints and two iris scans, was issued in September 2010.",
+      "icon": "Badge",
+      "source": {
+        "label": "Wikipedia: Aadhaar",
+        "url": "https://en.wikipedia.org/wiki/Aadhaar",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.morning.rupee",
+      "time": "Morning",
+      "activity": "The new rupee sign",
+      "detail": "The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition.",
+      "icon": "CurrencyRupee",
+      "source": {
+        "label": "Wikipedia: Indian rupee sign",
+        "url": "https://en.wikipedia.org/wiki/Indian_rupee_sign",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.morning.cinema",
+      "time": "Evening",
+      "activity": "Dabangg",
+      "detail": "Dabangg was the highest-grossing Hindi film of 2010.",
+      "icon": "Movie",
+      "source": {
+        "label": "Wikipedia: List of Hindi films of 2010",
+        "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.morning.games",
+      "time": "Evening",
+      "activity": "The Commonwealth Games on television",
+      "detail": "India won 101 medals at the 2010 Commonwealth Games in Delhi, 38 gold, 27 silver and 36 bronze, second in the table.",
+      "icon": "EmojiEvents",
+      "source": {
+        "label": "Wikipedia: India at the 2010 Commonwealth Games",
+        "url": "https://en.wikipedia.org/wiki/India_at_the_2010_Commonwealth_Games",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.2010.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "A Bhopal court convicts eight people for the 1984 gas leak, 25 years on (2010-06-07).",
+      "imageAlt": "A social-network style news feed with a headline card",
+      "highlights": [
+        "A Bhopal court convicts eight people for the 1984 gas leak, 25 years on"
+      ],
+      "source": {
+        "label": "Wikipedia: 2010 in India",
+        "url": "https://en.wikipedia.org/wiki/2010_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.2010.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "Dabangg, with Salman Khan, was the highest-grossing Hindi film of 2010.",
+      "imageAlt": "A 2010 living room with a television and a laptop",
+      "highlights": [
+        "Dabangg"
+      ],
+      "source": {
+        "label": "Wikipedia: List of Hindi films of 2010",
+        "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "The rupee sign: The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition; it is based on the Devanagari letter ra with a double horizontal line, and later received the Unicode codepoint U+20B9.",
+      "imageAlt": "A city street with signage for a sports event",
+      "highlights": [
+        "The rupee sign"
+      ],
+      "source": {
+        "label": "Wikipedia: Indian rupee sign",
+        "url": "https://en.wikipedia.org/wiki/Indian_rupee_sign",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.2010.prices.petrol",
+      "item": "Petrol at Delhi, 1 April 2010",
+      "price": "Rs 47.93 per litre",
+      "originalUnits": "rupees per litre, Indian Oil prices",
+      "decimalINR": "₹47.93 per litre",
+      "adjusted2026": "about ₹112 per litre",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)",
+        "url": "https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.prices.diesel",
+      "item": "Diesel at Delhi, 1 April 2010",
+      "price": "Rs 38.10 per litre",
+      "originalUnits": "rupees per litre",
+      "decimalINR": "₹38.10 per litre",
+      "adjusted2026": "about ₹88.8 per litre",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)",
+        "url": "https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.prices.exchange",
+      "item": "Rupees to the US dollar (annual average)",
+      "price": "Rs 45.73",
+      "originalUnits": "official rate, rupees per US dollar",
+      "source": {
+        "label": "World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)",
+        "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.prices.inflation",
+      "item": "Consumer price inflation",
+      "price": "12.0% in the year",
+      "originalUnits": "per cent, annual",
+      "source": {
+        "label": "World Bank, World Development Indicators: Inflation, consumer prices (annual %)",
+        "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.prices.output",
+      "item": "Output per person (GDP per capita)",
+      "price": "Rs 61,396 a year",
+      "originalUnits": "current rupees per person per year",
+      "source": {
+        "label": "World Bank, World Development Indicators: GDP per capita (current LCU)",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.2010.technology.rupee",
+      "name": "The rupee sign",
+      "category": "work",
+      "description": "The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition; it is based on the Devanagari letter ra with a double horizontal line, and later received the Unicode codepoint U+20B9.",
+      "source": {
+        "label": "Wikipedia: Indian rupee sign",
+        "url": "https://en.wikipedia.org/wiki/Indian_rupee_sign",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.technology.aadhaar",
+      "name": "The first Aadhaar number",
+      "category": "communication",
+      "description": "The first Aadhaar number, a 12-digit unique identity linked to a photograph, ten fingerprints and two iris scans, was issued in September 2010.",
+      "source": {
+        "label": "Wikipedia: Aadhaar",
+        "url": "https://en.wikipedia.org/wiki/Aadhaar",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.technology.gslv",
+      "name": "A cryogenic engine fails on its first flight",
+      "category": "work",
+      "description": "On 15 April 2010 the first GSLV flight with an indigenous cryogenic upper stage failed: the liquid-hydrogen turbopump failed, the stage fired for about 1.5 seconds and the GSAT-4 satellite was lost in the Bay of Bengal.",
+      "source": {
+        "label": "Wikipedia: 2010 in India",
+        "url": "https://en.wikipedia.org/wiki/2010_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.2010.headlines.bhopal",
+      "date": "2010-06-07",
+      "headline": "A Bhopal court convicts eight people for the 1984 gas leak, 25 years on",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2010 in India",
+        "url": "https://en.wikipedia.org/wiki/2010_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.headlines.gsat",
+      "date": "2010-04-15",
+      "headline": "First flight of an Indian cryogenic engine ends in failure",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2010 in India",
+        "url": "https://en.wikipedia.org/wiki/2010_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2010.headlines.rupee",
+      "date": "2010-07-15",
+      "headline": "Government presents the new rupee sign",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Indian rupee sign",
+        "url": "https://en.wikipedia.org/wiki/Indian_rupee_sign",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "A smartphone, as in the World view.",
+  "notes": {
+    "prices": "Only prices that could be read from a source are shown; none was found for the others. Items that could not be verified were removed.",
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed.",
+    "technology": "Only sourced entries are shown. Items that could not be verified were removed."
+  }
+}

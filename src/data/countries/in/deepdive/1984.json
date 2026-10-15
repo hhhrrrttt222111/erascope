@@ -1,0 +1,1252 @@
+{
+  "country": "in",
+  "year": 1984,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1984",
+    "summary": "Highlights of this year's checked items: The assassination of Indira Gandhi; Rakesh Sharma flies on Soyuz T-11; P. T. Usha, 400 m hurdles final: fourth; First Indian woman on Everest; The Bhopal gas disaster; The 1984 general election.",
+    "sources": [
+      {
+        "label": "Wikipedia: 1984 in India",
+        "url": "https://en.wikipedia.org/wiki/1984_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Operation Blue Star",
+        "url": "https://en.wikipedia.org/wiki/Operation_Blue_Star",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Assassination of Indira Gandhi",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Bhopal disaster",
+        "url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Rakesh Sharma",
+        "url": "https://en.wikipedia.org/wiki/Rakesh_Sharma",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1984.dd.freedom-history.assassination",
+    "in.1984.dd.technology-science.rakesh-sharma-flight",
+    "in.1984.dd.sports.usha-400h",
+    "in.1984.dd.achievements.everest-woman",
+    "in.1984.dd.freedom-history.bhopal",
+    "in.1984.dd.government-politics.election-1984"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: Rakesh Sharma flies on Soyuz T-11; Kolkata Metro opens; The Maruti 800.",
+      "items": [
+        {
+          "id": "in.1984.dd.technology-science.rakesh-sharma-flight",
+          "kind": "tech",
+          "title": "Rakesh Sharma flies on Soyuz T-11",
+          "summary": "Squadron Leader Rakesh Sharma flew aboard the Soviet Soyuz T-11 in April 1984 as part of the Interkosmos programme and became the first Indian to travel to outer space.",
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Rakesh Sharma",
+              "url": "https://en.wikipedia.org/wiki/Rakesh_Sharma",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.technology-science.kolkata-metro",
+          "kind": "tech",
+          "title": "Kolkata Metro opens",
+          "summary": "India's first metro railway opened in Calcutta on 24 October 1984; it was the first rapid-transit system in South Asia.",
+          "availability": "urban",
+          "regionTag": "east",
+          "place": "Calcutta",
+          "sources": [
+            {
+              "label": "Wikipedia: Kolkata Metro",
+              "url": "https://en.wikipedia.org/wiki/Kolkata_Metro",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Rail transport in India",
+              "url": "https://en.wikipedia.org/wiki/Rail_transport_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.technology-science.maruti-800",
+          "kind": "tech",
+          "title": "The Maruti 800",
+          "summary": "The Maruti 800, based on the Suzuki Alto and built from 1983, became the most influential automobile in India; about 2.87 million were made over its production life.",
+          "availability": "urban",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Maruti 800",
+              "url": "https://en.wikipedia.org/wiki/Maruti_800",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      },
+      "scarcityNote": "Only 3 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: President: Zail Singh; Two Prime Ministers in one year; A new Vice-President; The 1984 general election.",
+      "items": [
+        {
+          "id": "in.1984.dd.government-politics.president-zail-singh",
+          "kind": "governance",
+          "title": "President: Zail Singh",
+          "summary": "Giani Zail Singh was President of India through 1984.",
+          "office": "President of India",
+          "holder": "Zail Singh",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Zail Singh",
+              "url": "https://en.wikipedia.org/wiki/Zail_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.government-politics.pm-succession",
+          "kind": "governance",
+          "title": "Two Prime Ministers in one year",
+          "summary": "Indira Gandhi was Prime Minister until her assassination on 31 October 1984; her son Rajiv Gandhi succeeded her.",
+          "office": "Prime Minister of India",
+          "holder": "Rajiv Gandhi (from 31 October)",
+          "sensitivity": {
+            "level": "care",
+            "note": "Follows the assassination of the previous Prime Minister."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Assassination of Indira Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.government-politics.vice-president-change",
+          "kind": "governance",
+          "title": "A new Vice-President",
+          "summary": "Mohammad Hidayatullah was Vice-President until 30 August 1984; R. Venkataraman then took the office.",
+          "office": "Vice-President of India",
+          "holder": "R. Venkataraman (from 30 August)",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.government-politics.election-1984",
+          "kind": "governance",
+          "title": "The 1984 general election",
+          "summary": "In polling on 24, 27 and 28 December 1984 Rajiv Gandhi's Congress (I) won 414 of the 541 seats contested, with 49.10 percent of the vote and turnout of 64.01 percent; the Telugu Desam Party won 30.",
+          "instrument": "1984 Lok Sabha election",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 Indian general election",
+              "url": "https://en.wikipedia.org/wiki/1984_Indian_general_election",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "Zail Singh",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "Indira Gandhi until 31 October; Rajiv Gandhi after",
+                "role": "Head of government; Vice-President: M. Hidayatullah until 30 August, then R. Venkataraman",
+                "children": [
+                  {
+                    "id": "ls",
+                    "label": "Lok Sabha",
+                    "role": "Elected 24, 27 and 28 December 1984: Congress (I) won 414 of 541 seats"
+                  },
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice Y. V. Chandrachud",
+                    "role": "Highest court"
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "A change of Prime Minister, 1984",
+            "steps": [
+              {
+                "label": "31 October",
+                "detail": "Indira Gandhi is assassinated at her residence by two of her security guards."
+              },
+              {
+                "label": "Succession",
+                "detail": "Her son Rajiv Gandhi succeeds her as Prime Minister."
+              },
+              {
+                "label": "December",
+                "detail": "A general election on 24, 27 and 28 December returns Rajiv Gandhi with 414 of 541 seats."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1984 in India",
+            "url": "https://en.wikipedia.org/wiki/1984_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1984 Indian general election",
+            "url": "https://en.wikipedia.org/wiki/1984_Indian_general_election",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Assassination of Indira Gandhi",
+            "url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: Operation Blue Star; The assassination of Indira Gandhi; The anti-Sikh violence; The Bhopal gas disaster.",
+      "items": [
+        {
+          "id": "in.1984.dd.freedom-history.blue-star",
+          "kind": "event",
+          "title": "Operation Blue Star",
+          "summary": "In early June 1984 the army stormed the Harmandir Sahib complex at Amritsar to remove Jarnail Singh Bhindranwale and his followers. Forces took full control by the morning of 7 June; Bhindranwale was killed.",
+          "eventType": "conflict",
+          "date": "1984-06",
+          "regionTag": "north",
+          "place": "Amritsar",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "Armed assault on a holy site, with heavy loss of life."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Operation Blue Star",
+              "url": "https://en.wikipedia.org/wiki/Operation_Blue_Star",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.freedom-history.assassination",
+          "kind": "event",
+          "title": "The assassination of Indira Gandhi",
+          "summary": "On 31 October 1984 Indira Gandhi was shot at about 9:30 a.m. at her residence in New Delhi by two of her Sikh bodyguards, Satwant Singh and Beant Singh.",
+          "eventType": "other",
+          "date": "1984-10-31",
+          "regionTag": "north",
+          "place": "New Delhi",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A political killing."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Assassination of Indira Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.freedom-history.anti-sikh-riots",
+          "kind": "event",
+          "title": "The anti-Sikh violence",
+          "summary": "From 31 October to 3 November 1984, organised mobs attacked Sikhs in Delhi and other cities. The government counted about 2,800 killed in Delhi and 3,350 nationwide; other estimates run from 8,000 to 17,000.",
+          "eventType": "conflict",
+          "date": "1984-11",
+          "regionTag": "north",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "Mass killing of a religious minority."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 anti-Sikh riots",
+              "url": "https://en.wikipedia.org/wiki/1984_anti-Sikh_riots",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.freedom-history.bhopal",
+          "kind": "event",
+          "title": "The Bhopal gas disaster",
+          "summary": "A methyl isocyanate leak from the Union Carbide India plant in Bhopal in the night of 2-3 December 1984 killed at least 3,787 people; over 16,000 deaths have been claimed.",
+          "eventType": "disaster",
+          "date": "1984-12",
+          "regionTag": "central",
+          "place": "Bhopal",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "An industrial disaster with mass casualties and lasting harm."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Bhopal disaster",
+              "url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      }
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Indira Gandhi; Rajiv Gandhi; P. T. Usha; Rakesh Sharma; Bachendri Pal.",
+      "items": [
+        {
+          "id": "in.1984.dd.personalities.indira-gandhi",
+          "kind": "person",
+          "title": "Indira Gandhi",
+          "summary": "Prime Minister, born in 1917.",
+          "field": "Politics",
+          "born": "1917",
+          "whyThisYear": "She was assassinated on 31 October 1984.",
+          "regionTag": "national",
+          "died": "1984",
+          "sensitivity": {
+            "level": "care",
+            "note": "Assassinated in 1984."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Indira Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Assassination of Indira Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.personalities.rajiv-gandhi",
+          "kind": "person",
+          "title": "Rajiv Gandhi",
+          "summary": "Pilot turned politician, born in 1944.",
+          "field": "Politics",
+          "born": "1944",
+          "whyThisYear": "He became Prime Minister on 31 October and led Congress to 414 seats in December.",
+          "regionTag": "national",
+          "died": "1991",
+          "sources": [
+            {
+              "label": "Wikipedia: Rajiv Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Rajiv_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 Indian general election",
+              "url": "https://en.wikipedia.org/wiki/1984_Indian_general_election",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.personalities.pt-usha",
+          "kind": "person",
+          "title": "P. T. Usha",
+          "summary": "Sprinter and hurdler from Kerala, born in 1964.",
+          "field": "Athletics",
+          "born": "1964",
+          "whyThisYear": "She finished fourth in the Olympic 400 m hurdles, a hundredth of a second behind a bronze.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: P. T. Usha",
+              "url": "https://en.wikipedia.org/wiki/P._T._Usha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: 400 metres Hurdles, Women (Los Angeles 1984)",
+              "url": "https://www.olympedia.org/results/63108",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.personalities.rakesh-sharma",
+          "kind": "person",
+          "title": "Rakesh Sharma",
+          "summary": "Air force pilot, born in 1949.",
+          "field": "Space flight",
+          "born": "1949",
+          "whyThisYear": "He became the first Indian in space in April 1984.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Rakesh Sharma",
+              "url": "https://en.wikipedia.org/wiki/Rakesh_Sharma",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.personalities.bachendri-pal",
+          "kind": "person",
+          "title": "Bachendri Pal",
+          "summary": "Mountaineer, born in 1954.",
+          "field": "Mountaineering",
+          "born": "1954",
+          "whyThisYear": "She became the first Indian woman to reach the summit of Mount Everest, on 23 May 1984.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Bachendri Pal",
+              "url": "https://en.wikipedia.org/wiki/Bachendri_Pal",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.personalities.zail-singh",
+          "kind": "person",
+          "title": "Zail Singh",
+          "summary": "President, born in 1916.",
+          "field": "Politics",
+          "born": "1916",
+          "whyThisYear": "He was President when Operation Blue Star and the assassination took place.",
+          "regionTag": "national",
+          "died": "1994",
+          "sources": [
+            {
+              "label": "Wikipedia: Zail Singh",
+              "url": "https://en.wikipedia.org/wiki/Zail_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.personalities.thakazhi",
+          "kind": "person",
+          "title": "Thakazhi Sivasankara Pillai",
+          "summary": "Malayalam novelist, born in 1912.",
+          "field": "Literature",
+          "born": "1912",
+          "whyThisYear": "He was given the 20th Jnanpith Award for lifetime contribution, in 1984.",
+          "regionTag": "national",
+          "died": "1999",
+          "sources": [
+            {
+              "label": "Wikipedia: Thakazhi Sivasankara Pillai",
+              "url": "https://en.wikipedia.org/wiki/Thakazhi_Sivasankara_Pillai",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.personalities.manohar-shyam-joshi",
+          "kind": "person",
+          "title": "Manohar Shyam Joshi",
+          "summary": "Hindi writer, born in 1933.",
+          "field": "Writing for television",
+          "born": "1933",
+          "whyThisYear": "He wrote Hum Log, India's first soap opera, which began on 7 July 1984.",
+          "regionTag": "national",
+          "died": "2006",
+          "sources": [
+            {
+              "label": "Wikipedia: Manohar Shyam Joshi",
+              "url": "https://en.wikipedia.org/wiki/Manohar_Shyam_Joshi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Hum Log (TV series)",
+              "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: The first Indian in space; First Indian woman on Everest; A hundredth of a second; India's first soap opera.",
+      "items": [
+        {
+          "id": "in.1984.dd.achievements.first-indian-in-space",
+          "kind": "achievement",
+          "title": "The first Indian in space",
+          "summary": "Rakesh Sharma travelled aboard Soyuz T-11 in April 1984, the first Indian to go into outer space.",
+          "domain": "space",
+          "firstOfKind": true,
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Rakesh Sharma",
+              "url": "https://en.wikipedia.org/wiki/Rakesh_Sharma",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.achievements.everest-woman",
+          "kind": "achievement",
+          "title": "First Indian woman on Everest",
+          "summary": "Bachendri Pal, one of six women and eleven men on the 'Everest '84' expedition, reached the summit.",
+          "domain": "sport",
+          "firstOfKind": true,
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Bachendri Pal",
+              "url": "https://en.wikipedia.org/wiki/Bachendri_Pal",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.achievements.usha-near-miss",
+          "kind": "achievement",
+          "title": "A hundredth of a second",
+          "summary": "P. T. Usha ran 55.42 in the Olympic 400 m hurdles final, one hundredth of a second behind the bronze medallist.",
+          "domain": "sport",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Olympedia: 400 metres Hurdles, Women (Los Angeles 1984)",
+              "url": "https://www.olympedia.org/results/63108",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Athletics at the 1984 Summer Olympics – Women's 400 metres hurdles",
+              "url": "https://en.wikipedia.org/wiki/Athletics_at_the_1984_Summer_Olympics_–_Women's_400_metres_hurdles",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.achievements.hum-log-first",
+          "kind": "achievement",
+          "title": "India's first soap opera",
+          "summary": "Hum Log began on Doordarshan on 7 July 1984 and ran for 65 episodes; Ashok Kumar was its narrator.",
+          "domain": "arts",
+          "firstOfKind": true,
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Hum Log (TV series)",
+              "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Episodes of Hum Log",
+              "value": 65,
+              "unit": "episodes"
+            },
+            {
+              "label": "Athletes in India's Olympic team at Los Angeles",
+              "value": 48,
+              "unit": "athletes"
+            },
+            {
+              "label": "Seats won by Congress (I) in December 1984",
+              "value": 414,
+              "unit": "of 541 seats"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Hum Log (TV series)",
+            "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: India at the 1984 Summer Olympics",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_1984_Summer_Olympics",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1984 Indian general election",
+            "url": "https://en.wikipedia.org/wiki/1984_Indian_general_election",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: P. T. Usha, 400 m hurdles final: fourth; Olympic hockey: fifth; India win the first Asia Cup; Women's 4x400 m relay: seventh.",
+      "items": [
+        {
+          "id": "in.1984.dd.sports.usha-400h",
+          "kind": "sport",
+          "title": "P. T. Usha, 400 m hurdles final: fourth",
+          "summary": "P. T. Usha finished fourth in the first Olympic women's 400 m hurdles final, in 55.42 seconds; bronze was won in 55.41.",
+          "sport": "Athletics",
+          "competition": "Olympic Games, Los Angeles",
+          "result": "4th",
+          "scoreline": "55.42 s (bronze 55.41 s)",
+          "athletes": [
+            "P. T. Usha"
+          ],
+          "date": "1984-08-08",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Olympedia: 400 metres Hurdles, Women (Los Angeles 1984)",
+              "url": "https://www.olympedia.org/results/63108",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Athletics at the 1984 Summer Olympics – Women's 400 metres hurdles",
+              "url": "https://en.wikipedia.org/wiki/Athletics_at_the_1984_Summer_Olympics_–_Women's_400_metres_hurdles",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.sports.hockey-la",
+          "kind": "sport",
+          "title": "Olympic hockey: fifth",
+          "summary": "India finished fifth in the men's hockey tournament at Los Angeles.",
+          "sport": "Hockey",
+          "competition": "Olympic Games, Los Angeles",
+          "result": "5th",
+          "athletes": [
+            "Zafar Iqbal",
+            "Merwyn Fernandis",
+            "Joaquim Carvalho"
+          ],
+          "date": "1984-08",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Olympedia: Hockey, Men (Los Angeles 1984)",
+              "url": "https://www.olympedia.org/results/36041",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Olympedia: India at the 1984 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/21",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.sports.asia-cup-1984",
+          "kind": "sport",
+          "title": "India win the first Asia Cup",
+          "summary": "India won both of their matches at the inaugural Asia Cup in Sharjah, 6-13 April 1984, to take the cup ahead of Sri Lanka and Pakistan.",
+          "sport": "Cricket",
+          "competition": "Asia Cup, Sharjah",
+          "result": "Champions",
+          "date": "1984-04",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 Asia Cup",
+              "url": "https://en.wikipedia.org/wiki/1984_Asia_Cup",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Asia Cup",
+              "url": "https://en.wikipedia.org/wiki/Asia_Cup",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.sports.usha-relay",
+          "kind": "sport",
+          "title": "Women's 4x400 m relay: seventh",
+          "summary": "India's women's 4x400 m relay team of M. D. Valsamma, Vandana Rao, Shiny Abraham and P. T. Usha finished seventh at the Olympics.",
+          "sport": "Athletics",
+          "competition": "Olympic Games, Los Angeles",
+          "result": "7th",
+          "date": "1984-08",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Olympedia: India at the 1984 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/21",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: India at the 1984 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1984_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "Women's 400 m hurdles, Los Angeles 1984: P. T. Usha",
+            "steps": [
+              {
+                "label": "Heat 1, 5 August",
+                "text": "Usha runs 56.81 and finishes second in her heat.",
+                "score": "56.81"
+              },
+              {
+                "label": "Semifinal, 6 August",
+                "text": "She wins semifinal 2 in 55.54.",
+                "score": "55.54"
+              },
+              {
+                "label": "Final, 8 August",
+                "text": "She runs 55.42 and finishes fourth; the bronze goes to Cristieana Cojocaru in 55.41.",
+                "score": "55.42"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Olympedia: 400 metres Hurdles, Women (Los Angeles 1984)",
+            "url": "https://www.olympedia.org/results/63108",
+            "accessed": "2026-10-13",
+            "quality": "primary"
+          },
+          {
+            "label": "Wikipedia: Athletics at the 1984 Summer Olympics – Women's 400 metres hurdles",
+            "url": "https://en.wikipedia.org/wiki/Athletics_at_the_1984_Summer_Olympics_–_Women's_400_metres_hurdles",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: In Custody; Chemmeen; A Tiger for Malgudi.",
+      "items": [
+        {
+          "id": "in.1984.dd.literature.in-custody",
+          "kind": "work",
+          "title": "In Custody",
+          "summary": "Anita Desai's novel about a lecturer who seeks out an ageing Urdu poet was released on 8 October 1984.",
+          "workType": "novel",
+          "creator": "Anita Desai",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: In Custody (novel)",
+              "url": "https://en.wikipedia.org/wiki/In_Custody_(novel)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.literature.chemmeen",
+          "kind": "work",
+          "title": "Chemmeen",
+          "summary": "Thakazhi's 1956 Malayalam novel is, with Kayar (1978), among his best-known works.",
+          "workType": "novel",
+          "creator": "Thakazhi Sivasankara Pillai",
+          "originalTitle": {
+            "text": "ചെമ്മീൻ",
+            "lang": "ml"
+          },
+          "transliteration": "Chemmeen",
+          "translatedTitle": "Prawns",
+          "languages": [
+            "Malayalam"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Thakazhi Sivasankara Pillai",
+              "url": "https://en.wikipedia.org/wiki/Thakazhi_Sivasankara_Pillai",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.literature.tiger-for-malgudi",
+          "kind": "work",
+          "title": "A Tiger for Malgudi",
+          "summary": "R. K. Narayan's 1983 novel, narrated by a tiger, was the book he published the year before 1984.",
+          "workType": "novel",
+          "creator": "R. K. Narayan",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: A Tiger for Malgudi",
+              "url": "https://en.wikipedia.org/wiki/A_Tiger_for_Malgudi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 3 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Hum Log; Amar Chitra Katha.",
+      "items": [
+        {
+          "id": "in.1984.dd.books-reading.hum-log-scripts",
+          "kind": "work",
+          "title": "Hum Log",
+          "summary": "Manohar Shyam Joshi wrote the 65-episode serial that Doordarshan began on 7 July 1984.",
+          "workType": "play",
+          "creator": "Manohar Shyam Joshi",
+          "languages": [
+            "Hindi"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Hum Log (TV series)",
+              "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.books-reading.amar-chitra-katha-1984",
+          "kind": "work",
+          "title": "Amar Chitra Katha",
+          "summary": "The comics series, founded in 1967 by Anant Pai, was one of India's best-known sources of illustrated history and myth.",
+          "workType": "comic",
+          "creator": "Anant Pai",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Amar Chitra Katha",
+              "url": "https://en.wikipedia.org/wiki/Amar_Chitra_Katha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      },
+      "scarcityNote": "Only 2 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Tohfa; Sharaabi; Mashaal.",
+      "items": [
+        {
+          "id": "in.1984.dd.cinema.tohfa",
+          "kind": "film",
+          "title": "Tohfa",
+          "summary": "Tohfa, with Jeetendra, Jaya Prada and Sridevi, was the highest-grossing Hindi film of 1984.",
+          "language": "Hindi-Urdu",
+          "cast": [
+            "Jeetendra",
+            "Jaya Prada",
+            "Sridevi"
+          ],
+          "notable": "Top grosser of 1984",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1984",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1984",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.cinema.sharaabi",
+          "kind": "film",
+          "title": "Sharaabi",
+          "summary": "Amitabh Bachchan's Sharaabi, with Jaya Prada, Pran and Om Prakash, was the third highest-grossing Hindi film of 1984.",
+          "language": "Hindi-Urdu",
+          "cast": [
+            "Amitabh Bachchan",
+            "Jaya Prada",
+            "Pran",
+            "Om Prakash"
+          ],
+          "notable": "Third-highest grosser of 1984",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1984",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1984",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Amitabh Bachchan",
+              "url": "https://en.wikipedia.org/wiki/Amitabh_Bachchan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.cinema.mashaal",
+          "kind": "film",
+          "title": "Mashaal",
+          "summary": "Yash Chopra's action film with Dilip Kumar, Anil Kapoor, Rati Agnihotri, Waheeda Rehman and Amrish Puri was among the year's releases.",
+          "language": "Hindi-Urdu",
+          "director": "Yash Chopra",
+          "cast": [
+            "Dilip Kumar",
+            "Anil Kapoor",
+            "Waheeda Rehman"
+          ],
+          "notable": "Action film of 1984",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1984",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1984",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      },
+      "scarcityNote": "Only 3 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: Hum Log on Doordarshan; A metro for Calcutta.",
+      "items": [
+        {
+          "id": "in.1984.dd.music-arts.hum-log-tv",
+          "kind": "art",
+          "title": "Hum Log on Doordarshan",
+          "summary": "Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.",
+          "form": "broadcast",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Hum Log (TV series)",
+              "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.music-arts.kolkata-metro-art",
+          "kind": "art",
+          "title": "A metro for Calcutta",
+          "summary": "The Kolkata Metro, opened in 1984, is South Asia's first rapid-transit system.",
+          "form": "architecture",
+          "regionTag": "east",
+          "place": "Calcutta",
+          "sources": [
+            {
+              "label": "Wikipedia: Kolkata Metro",
+              "url": "https://en.wikipedia.org/wiki/Kolkata_Metro",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 2 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: GDP at current prices.",
+      "items": [
+        {
+          "id": "in.1984.dd.economy-business.national-income-1984",
+          "kind": "indicator",
+          "title": "GDP at current prices",
+          "summary": "India's gross domestic product at current prices was Rs 2,521,882 million (about Rs 2.52 trillion) in 1984, in the World Bank's national-accounts series.",
+          "metric": "GDP at current prices",
+          "value": "2521882",
+          "unit": "million rupees",
+          "asOf": "1984",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN",
+              "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "wage": {
+            "amount": 9.15,
+            "unit": "rupees a day",
+            "label": "Output per person per day (GDP per capita ÷ 365; not a wage)"
+          },
+          "buys": [
+            {
+              "label": "Grams of gold",
+              "cost": 198.392,
+              "unit": "rupees per gram"
+            },
+            {
+              "label": "Grams of silver",
+              "cost": 3.5936,
+              "unit": "rupees per gram"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "World Bank, World Development Indicators: GDP per capita (current LCU), NY.GDP.PCAP.CN",
+            "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive",
+            "url": "https://archive.org/details/dli.ministry.23191",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          }
+        ]
+      },
+      "scarcityNote": "Only 1 item for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

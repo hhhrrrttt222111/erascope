@@ -1,0 +1,388 @@
+{
+  "year": 1930,
+  "country": "world",
+  "title": "Deco and Depression",
+  "tagline": "Talking pictures, sliced bread and new skyscrapers, as the Depression deepens.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "an office clerk's family in New York City"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1930.morning.wake-radio",
+      "time": "6:30 AM",
+      "activity": "Wake to the radio",
+      "detail": "The 1930 census counted radios in about 12 million homes, 40% of all households.",
+      "icon": "Radio",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series R 93–105: households with radio and television sets",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.morning.toast-sliced-loaf",
+      "time": "6:45 AM",
+      "activity": "Toast from a sliced loaf",
+      "detail": "Pre-sliced, wrapped bread was new. Wonder Bread was one of the first sold sliced nationwide by 1930.",
+      "icon": "BreakfastDining",
+      "source": {
+        "label": "Wikipedia: Sliced bread",
+        "url": "https://en.wikipedia.org/wiki/Sliced_bread",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.morning.scan-want-ads",
+      "time": "7:00 AM",
+      "activity": "Scan the want ads",
+      "detail": "Unemployment had jumped from 3.2% in 1929 to 8.7% in 1930, more than 4 million people, so the job pages were read closely.",
+      "icon": "Newspaper",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series D 85–86: unemployment",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chD.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.morning.subway-office",
+      "time": "7:30 AM",
+      "activity": "Subway to the office",
+      "detail": "A ride of any length on the subway or elevated trains cost a nickel, as it had since 1904.",
+      "icon": "Train",
+      "source": {
+        "label": "Wikipedia: New York City transit fares",
+        "url": "https://en.wikipedia.org/wiki/New_York_City_transit_fares",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.morning.past-new-towers",
+      "time": "8:00 AM",
+      "activity": "Past the new towers",
+      "detail": "Skyscrapers were rising across Manhattan; the Chrysler Building was completed in May 1930.",
+      "icon": "Work",
+      "source": {
+        "label": "Wikipedia: Chrysler Building",
+        "url": "https://en.wikipedia.org/wiki/Chrysler_Building",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1930.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "The news mixed wonder and worry: a new planet, new towers and a worsening economy.",
+      "imageAlt": "An early-1930s front page with bold headlines about a new planet and a new tariff",
+      "highlights": [
+        "Pluto discovered at Lowell Observatory",
+        "Hoover signs the Smoot–Hawley Tariff Act",
+        "Chrysler Building completed in New York",
+        "Hoover asks Congress for public works funds"
+      ],
+      "source": {
+        "label": "Wikipedia: 1930 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1930_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.places.bedroom",
+      "kind": "bedroom",
+      "title": "The home",
+      "description": "About 68.2% of US dwellings had electric service in 1930.",
+      "imageAlt": "A 1930s bedroom with a cathedral-shaped radio and a round mirror",
+      "highlights": [
+        "68.2% of dwellings with electric service"
+      ],
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series S 108-119: dwellings with electric service",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chS.pdf",
+        "accessed": "2026-10-15",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1930.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "26,749,853 motor vehicles were registered in the United States in 1930.",
+      "imageAlt": "A city street with a boxy 1930 car and a stepped Art Deco skyscraper",
+      "highlights": [
+        "26,749,853 registered motor vehicles"
+      ],
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1930.prices.loaf-bread-1-lb",
+      "item": "Bread (1 lb, city average)",
+      "price": "8.6¢",
+      "adjusted2026": "about $1.73",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.02",
+      "adjusted2026": "about $0.40",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.prices.ford-model-tudor-sedan",
+      "item": "Ford Model A Tudor sedan (1929 list price)",
+      "price": "$500",
+      "adjusted2026": "about $10,000",
+      "source": {
+        "label": "Wikipedia: Ford Model A (1927–1932)",
+        "url": "https://en.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931932)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.prices.subway-fare-new-york",
+      "item": "Subway fare (New York)",
+      "price": "$0.05",
+      "adjusted2026": "about $1.00",
+      "source": {
+        "label": "Wikipedia: New York City transit fares",
+        "url": "https://en.wikipedia.org/wiki/New_York_City_transit_fares",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.prices.eggs-dozen",
+      "item": "Eggs (dozen, city average)",
+      "price": "44.5¢",
+      "adjusted2026": "about $8.93",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.prices.milk-half-gallon",
+      "item": "Milk, delivered (half gallon, city average)",
+      "price": "28.2¢",
+      "adjusted2026": "about $5.66",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1930.technology.household-radio",
+      "name": "Household radio",
+      "category": "entertainment",
+      "description": "Census figures counted a radio in 40% of households in 1930; it was the family's news, music and serials.",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series R 93–105: households with radio and television sets",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.technology.ford-model",
+      "name": "Ford Model A",
+      "category": "transport",
+      "description": "Ford's successor to the Model T; two million had been sold by July 1929.",
+      "source": {
+        "label": "Wikipedia: Ford Model A (1927–1932)",
+        "url": "https://en.wikipedia.org/wiki/Ford_Model_A_(1927%E2%80%931932)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.technology.clear-cellophane-tape",
+      "name": "Clear cellophane tape",
+      "category": "work",
+      "description": "Richard Drew developed the first transparent sticky tape in St. Paul, Minnesota, in 1930.",
+      "source": {
+        "label": "Wikipedia: Scotch tape",
+        "url": "https://en.wikipedia.org/wiki/Scotch_tape",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.technology.bread-slicing-machine",
+      "name": "Bread-slicing machine",
+      "category": "home",
+      "description": "Sliced, wrapped bread arrived in 1928 and spread nationwide by 1930.",
+      "source": {
+        "label": "Wikipedia: Sliced bread",
+        "url": "https://en.wikipedia.org/wiki/Sliced_bread",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.technology.talking-pictures",
+      "name": "Talking pictures",
+      "category": "entertainment",
+      "description": "Studios had stopped making purely silent features, though many films still came in silent versions for theatres not yet wired for sound.",
+      "source": {
+        "label": "Wikipedia: Sound film",
+        "url": "https://en.wikipedia.org/wiki/Sound_film",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.technology.electric-refrigerator",
+      "name": "Electric refrigerator",
+      "category": "home",
+      "description": "Sold since 1915 and catching on during the 1930s, the electric refrigerator was starting to replace the icebox.",
+      "source": {
+        "label": "Wikipedia: Refrigerator",
+        "url": "https://en.wikipedia.org/wiki/Refrigerator",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1930.visions.century-rising-productivity-will",
+      "prediction": "A hundred years from now, rising productivity may let people work three-hour shifts, a fifteen-hour week.",
+      "whoSaidIt": "John Maynard Keynes, \"Economic Possibilities for our Grandchildren\", 1930",
+      "cameTrue": "no",
+      "note": "Not on track: full-time work weeks are still far longer than fifteen hours, four years before his deadline.",
+      "source": {
+        "label": "John Maynard Keynes, \"Economic Possibilities for our Grandchildren\" (1930), full text (Yale course reader)",
+        "url": "http://www.econ.yale.edu/smith/econ116a/keynes1.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.visions.standard-life-four-eight-times",
+      "prediction": "In a hundred years the standard of living in progressive countries will be between four and eight times as high as it is today.",
+      "whoSaidIt": "John Maynard Keynes, \"Economic Possibilities for our Grandchildren\", 1930",
+      "cameTrue": "yes",
+      "note": "U.S. real GDP per person rose from about $8,800 in 1930 to about $69,700 in 2025 (2017 dollars), almost eight times as high.",
+      "source": {
+        "label": "John Maynard Keynes, \"Economic Possibilities for our Grandchildren\" (1930), full text (Yale course reader)",
+        "url": "http://www.econ.yale.edu/smith/econ116a/keynes1.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.visions.humans-will-redesign-own-species",
+      "prediction": "Humans will one day redesign their own species by deliberately changing heredity.",
+      "whoSaidIt": "Olaf Stapledon, Last and First Men, a \"future history\" novel published 23 October 1930",
+      "cameTrue": "partly",
+      "note": "Gene editing now exists: the first CRISPR therapy was approved in 2023, for sickle cell disease. Redesigning the species has not happened.",
+      "source": {
+        "label": "Wikipedia: Last and First Men",
+        "url": "https://en.wikipedia.org/wiki/Last_and_First_Men",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1930.headlines.1930-03-13",
+      "date": "1930-03-13",
+      "headline": "Lowell Observatory announces the discovery of a ninth planet",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Pluto",
+        "url": "https://en.wikipedia.org/wiki/Pluto",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.headlines.1930-05-27",
+      "date": "1930-05-27",
+      "headline": "Chrysler Building completed, the first structure over 1,000 feet",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Chrysler Building",
+        "url": "https://en.wikipedia.org/wiki/Chrysler_Building",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1930.headlines.1930-06-17",
+      "date": "1930-06-17",
+      "headline": "Hoover signs the Smoot–Hawley Tariff Act",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Smoot–Hawley Tariff Act",
+        "url": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A cinema projector with two spinning film reels."
+}

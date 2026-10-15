@@ -1,0 +1,336 @@
+{
+  "year": 1960,
+  "country": "in",
+  "title": "India, 1960",
+  "tagline": "Steel, a research reactor and two new states.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in the Republic of India (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1960.morning.radio",
+      "time": "Morning",
+      "activity": "Vividh Bharati on the radio",
+      "detail": "All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.",
+      "icon": "Radio",
+      "source": {
+        "label": "Wikipedia: Vividh Bharati",
+        "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.morning.children",
+      "time": "Afternoon",
+      "activity": "Chandamama for the children",
+      "detail": "The children's monthly Chandamama was founded in 1947, first in Telugu, and later appeared in many Indian languages.",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: Chandamama",
+        "url": "https://en.wikipedia.org/wiki/Chandamama",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.morning.weekly",
+      "time": "Evening",
+      "activity": "The Illustrated Weekly",
+      "detail": "An English-language weekly newsmagazine, begun in 1880 as the Times of India's weekly edition and renamed in 1923.",
+      "icon": "Newspaper",
+      "source": {
+        "label": "Wikipedia: The Illustrated Weekly of India",
+        "url": "https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.morning.cinema",
+      "time": "Evening",
+      "activity": "Mughal-e-Azam in the cinema",
+      "detail": "K. Asif's epic, released on 5 August 1960, became the highest-grossing Indian film.",
+      "icon": "Movie",
+      "source": {
+        "label": "Wikipedia: Mughal-e-Azam",
+        "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1960.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Maharashtra formed from the division of Bombay State, with Gujarat (1960-05-01).",
+      "imageAlt": "A newspaper front page in mid-century style with a headline about two new states",
+      "highlights": [
+        "Maharashtra formed from the division of Bombay State, with Gujarat"
+      ],
+      "source": {
+        "label": "Wikipedia: Maharashtra Day",
+        "url": "https://en.wikipedia.org/wiki/Maharashtra_Day",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1960.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.",
+      "imageAlt": "A mid-century room with a radio set on a table and a few magazines",
+      "highlights": [
+        "Vividh Bharati radio service"
+      ],
+      "source": {
+        "label": "Wikipedia: Vividh Bharati",
+        "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "The CIRUS research reactor: CIRUS, a 40 MW research reactor at Trombay near Bombay supplied by Canada, first went critical in July 1960. It ran on natural uranium with heavy water supplied by the United States.",
+      "imageAlt": "A street with a signboard, a lamp post and a half-built concrete building",
+      "highlights": [
+        "The CIRUS research reactor"
+      ],
+      "source": {
+        "label": "Wikipedia: CIRUS reactor",
+        "url": "https://en.wikipedia.org/wiki/CIRUS_reactor",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.1960.prices.rice",
+      "item": "Rice, aman medium, wholesale at Calcutta",
+      "price": "Rs 67.43 per quintal",
+      "originalUnits": "decimal rupees per quintal (100 kg)",
+      "decimalINR": "₹0.67 per kg",
+      "adjusted2026": "about ₹6,220 per quintal",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23179",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.prices.wheat",
+      "item": "Wheat, ordinary, wholesale at Hapur",
+      "price": "Rs 47.51 per quintal",
+      "originalUnits": "decimal rupees per quintal",
+      "decimalINR": "₹0.48 per kg",
+      "adjusted2026": "about ₹4,380 per quintal",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23179",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.prices.sugar",
+      "item": "Sugar (E-27), wholesale at Kanpur",
+      "price": "Rs 57.72 per quintal",
+      "originalUnits": "decimal rupees per quintal",
+      "decimalINR": "₹0.58 per kg",
+      "adjusted2026": "about ₹5,320 per quintal",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23179",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.prices.mutton",
+      "item": "Mutton, wholesale at Calcutta",
+      "price": "Rs 308.11 per quintal",
+      "originalUnits": "decimal rupees per quintal",
+      "decimalINR": "₹3.08 per kg",
+      "adjusted2026": "about ₹28,400 per quintal",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23179",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.prices.gold",
+      "item": "Gold, spot at Bombay (average of 1960-61)",
+      "price": "Rs 114.91 per 10 grams",
+      "originalUnits": "decimal rupees per 10 grams; highest 124.40, lowest 107.12",
+      "decimalINR": "₹11.49 per gram",
+      "adjusted2026": "about ₹10,600 per 10 grams",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23191",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.prices.exchange",
+      "item": "Rupees to the US dollar (annual average)",
+      "price": "Rs 4.76",
+      "originalUnits": "official rate, rupees per US dollar",
+      "decimalINR": "₹4.76 = US$1",
+      "source": {
+        "label": "World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)",
+        "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.1960.technology.cirus",
+      "name": "The CIRUS research reactor",
+      "category": "work",
+      "description": "CIRUS, a 40 MW research reactor at Trombay near Bombay supplied by Canada, first went critical in July 1960. It ran on natural uranium with heavy water supplied by the United States.",
+      "source": {
+        "label": "Wikipedia: CIRUS reactor",
+        "url": "https://en.wikipedia.org/wiki/CIRUS_reactor",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.technology.tifrac",
+      "name": "TIFRAC, India's first home-built computer",
+      "category": "work",
+      "description": "The Tata Institute of Fundamental Research Automatic Calculator, based on the IAS machine design, was formally commissioned and named by Nehru in 1960 and stayed in use until 1965.",
+      "source": {
+        "label": "Wikipedia: TIFRAC",
+        "url": "https://en.wikipedia.org/wiki/TIFRAC",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.technology.iit-kanpur",
+      "name": "IIT Kanpur",
+      "category": "work",
+      "description": "IIT Kanpur began in December 1959 on the campus of the Harcourt Butler Technological Institute and was established by an Act of Parliament in 1960.",
+      "source": {
+        "label": "Wikipedia: IIT Kanpur",
+        "url": "https://en.wikipedia.org/wiki/IIT_Kanpur",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.technology.bhilai",
+      "name": "Bhilai Steel Plant",
+      "category": "work",
+      "description": "The Bhilai Steel Plant, set up with Soviet help from 1955, became India's main producer of steel rails.",
+      "source": {
+        "label": "Wikipedia: Bhilai Steel Plant",
+        "url": "https://en.wikipedia.org/wiki/Bhilai_Steel_Plant",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.technology.vividh-bharati",
+      "name": "Vividh Bharati radio service",
+      "category": "entertainment",
+      "description": "All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.",
+      "source": {
+        "label": "Wikipedia: Vividh Bharati",
+        "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1960.headlines.states",
+      "date": "1960-05-01",
+      "headline": "Maharashtra formed from the division of Bombay State, with Gujarat",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Maharashtra Day",
+        "url": "https://en.wikipedia.org/wiki/Maharashtra_Day",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.headlines.cirus",
+      "date": "1960-07",
+      "headline": "India's CIRUS research reactor goes critical",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: CIRUS reactor",
+        "url": "https://en.wikipedia.org/wiki/CIRUS_reactor",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1960.headlines.mughal",
+      "date": "1960-08-05",
+      "headline": "Mughal-e-Azam is released",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Mughal-e-Azam",
+        "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "The family television set, as in the World view.",
+  "notes": {
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed."
+  }
+}

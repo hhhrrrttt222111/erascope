@@ -1,0 +1,23 @@
+{
+  "year": 1984,
+  "speculative": false,
+  "theme": {
+    "chrome": "terminal",
+    "transition": "typeout",
+    "palette": {
+      "primary": "#33ff66",
+      "secondary": "#ffb000",
+      "background": "#000000",
+      "paper": "#030a05",
+      "text": "#33ff66"
+    },
+    "fonts": {
+      "heading": "VT323",
+      "body": "IBM Plex Mono"
+    },
+    "sound": "floppy"
+  },
+  "scene": {
+    "component": "FloppyDrive1984"
+  }
+}

@@ -1,0 +1,64 @@
+/* 2050: glassmorphism panels with an animated neon gradient border. */
+.fx-glass {
+  background: rgba(255, 255, 255, 0.045);
+  backdrop-filter: blur(16px) saturate(140%);
+  -webkit-backdrop-filter: blur(16px) saturate(140%);
+  border: 1px solid rgba(34, 228, 255, 0.22);
+}
+
+.fx-glow-border {
+  position: relative;
+  isolation: isolate;
+}
+
+.fx-glow-border::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  padding: 1px;
+  border-radius: inherit;
+  background: linear-gradient(120deg, #22e4ff, #ff4fd8, #7c5cff, #22e4ff);
+  background-size: 300% 300%;
+  animation: fx-glow-shift 8s linear infinite;
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+}
+
+@keyframes fx-glow-shift {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 300% 50%; }
+}
+
+/* Drifting aurora background for the future desktop. */
+.fx-aurora {
+  background:
+    radial-gradient(40vw 40vw at 15% 10%, rgba(34, 228, 255, 0.16), transparent 60%),
+    radial-gradient(45vw 45vw at 85% 30%, rgba(255, 79, 216, 0.14), transparent 60%),
+    radial-gradient(50vw 40vw at 50% 100%, rgba(124, 92, 255, 0.16), transparent 60%),
+    #05060f;
+  background-size: 140% 140%;
+  animation: fx-aurora-drift 24s ease-in-out infinite alternate;
+}
+
+@keyframes fx-aurora-drift {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 100% 100%; }
+}
+
+/* Faint HUD grid. */
+.fx-hud-grid {
+  background-image:
+    linear-gradient(rgba(34, 228, 255, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(34, 228, 255, 0.06) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fx-glow-border::before,
+  .fx-aurora {
+    animation: none;
+  }
+}

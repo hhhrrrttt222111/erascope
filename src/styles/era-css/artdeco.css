@@ -1,0 +1,47 @@
+/* 1930: Art Deco. Sunbursts, stepped ziggurats and marquee bulbs. */
+
+.deco-sunburst {
+  background:
+    radial-gradient(circle at 50% 120%, transparent 0 18%, #0b0b0b 70%),
+    repeating-conic-gradient(from -90deg at 50% 120%, rgba(212, 175, 55, 0.32) 0 4deg, transparent 4deg 10deg);
+}
+
+/* Cinema marquee: a frame of bulbs that chase around the edge. */
+.deco-marquee {
+  position: relative;
+  padding: 14px;
+  background:
+    radial-gradient(circle, #ffe7a3 0 3px, rgba(255, 200, 80, 0.35) 4px, transparent 6px) 0 0 / 22px 22px,
+    #2a2110;
+  border: 2px solid #d4af37;
+  animation: deco-chase 1.2s steps(2) infinite;
+}
+
+.deco-marquee > .deco-marquee-inner {
+  position: relative;
+  background: #16130d;
+  border: 1px solid #d4af37;
+}
+
+@keyframes deco-chase {
+  0% { background-position: 0 0, 0 0; }
+  100% { background-position: 11px 11px, 0 0; }
+}
+
+/* Stepped (ziggurat) plaque behind section titles. */
+.deco-ziggurat {
+  clip-path: polygon(0 100%, 0 40%, 6% 40%, 6% 20%, 12% 20%, 12% 0, 88% 0, 88% 20%, 94% 20%, 94% 40%, 100% 40%, 100% 100%);
+}
+
+.deco-rule {
+  height: 10px;
+  background: linear-gradient(90deg, transparent, #d4af37 15%, #d4af37 85%, transparent);
+  -webkit-mask: repeating-linear-gradient(90deg, #000 0 6px, transparent 6px 9px);
+  mask: repeating-linear-gradient(90deg, #000 0 6px, transparent 6px 9px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .deco-marquee {
+    animation: none;
+  }
+}

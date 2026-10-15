@@ -1,0 +1,23 @@
+{
+  "year": 2010,
+  "speculative": false,
+  "theme": {
+    "chrome": "flatweb",
+    "transition": "flatslide",
+    "palette": {
+      "primary": "#3b5998",
+      "secondary": "#42b72a",
+      "background": "#e9ebee",
+      "paper": "#ffffff",
+      "text": "#1d2129"
+    },
+    "fonts": {
+      "heading": "Open Sans",
+      "body": "Open Sans"
+    },
+    "sound": "pop"
+  },
+  "scene": {
+    "component": "Smartphone2010"
+  }
+}

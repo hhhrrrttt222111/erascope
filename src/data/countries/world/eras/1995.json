@@ -1,0 +1,322 @@
+{
+  "year": 1995,
+  "country": "world",
+  "title": "The Web Goes Public",
+  "tagline": "Dial-up tones, home pages and new online shops.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a college student going online from the family PC"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1995.morning.dial",
+      "time": "7:15 AM",
+      "activity": "Dial in",
+      "detail": "Online services still charged by the hour; AOL only switched to a flat monthly rate in December 1996.",
+      "icon": "Phone",
+      "source": {
+        "label": "Wikipedia: AOL",
+        "url": "https://en.wikipedia.org/wiki/AOL",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1995.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Newspapers were still the main source of news, selling about 58 million copies each weekday. 1995 brought tragedy in Oklahoma City, a record stock market and a new version of Windows.",
+      "imageAlt": "An early news web page in a browser window with blue underlined links",
+      "highlights": [
+        "Bombing destroys the federal building in Oklahoma City",
+        "Windows 95 goes on sale",
+        "Dow closes above 5,000 for the first time",
+        "Toy Story opens in theaters"
+      ],
+      "source": {
+        "label": "Wikipedia: 1995 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1995_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedroom",
+      "description": "Windows 95: Released to retail on August 24, 1995, introducing the Start menu and the taskbar.",
+      "imageAlt": "A mid-1990s bedroom with a CRT TV, a games console and a stack of CDs",
+      "highlights": [
+        "Windows 95"
+      ],
+      "source": {
+        "label": "Wikipedia: Windows 95",
+        "url": "https://en.wikipedia.org/wiki/Windows_95",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1995.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "201,530,021 motor vehicles were registered in the United States in 1995.",
+      "imageAlt": "A mid-1990s street with a minivan and a payphone",
+      "highlights": [
+        "201,530,021 registered motor vehicles"
+      ],
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1995.prices.loaf-white-bread-1",
+      "item": "Loaf of white bread (1 lb)",
+      "price": "$0.79",
+      "adjusted2026": "about $1.74",
+      "source": {
+        "label": "BLS average price, white bread per lb (series APU0000702111), 1995 annual average of monthly data, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000702111",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.prices.gallon-unleaded-gasoline",
+      "item": "Gallon of unleaded gasoline",
+      "price": "$1.15",
+      "adjusted2026": "about $2.53",
+      "source": {
+        "label": "BLS average price, unleaded regular gasoline per gallon (series APU000074714), 1995 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU000074714",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.prices.gallon-whole-milk-july",
+      "item": "Gallon of whole milk (July–December average)",
+      "price": "$2.48",
+      "adjusted2026": "about $5.45",
+      "source": {
+        "label": "BLS average price, whole milk per gallon (series APU0000709112), July–December 1995 average (series starts July 1995), via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000709112",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.32",
+      "adjusted2026": "about $0.70",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour)",
+      "price": "$4.25",
+      "adjusted2026": "about $9.34",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.prices.sony-playstation-u-launch",
+      "item": "Sony PlayStation (U.S. launch)",
+      "price": "$299",
+      "adjusted2026": "about $660",
+      "source": {
+        "label": "Wikipedia: PlayStation (console)",
+        "url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.prices.first-item-ever-sold",
+      "item": "First item ever sold on eBay: a broken laser pointer",
+      "price": "$14.83",
+      "adjusted2026": "about $33",
+      "source": {
+        "label": "Wikipedia: eBay",
+        "url": "https://en.wikipedia.org/wiki/EBay",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1995.technology.windows-95",
+      "name": "Windows 95",
+      "category": "work",
+      "description": "Released to retail on August 24, 1995, introducing the Start menu and the taskbar.",
+      "source": {
+        "label": "Wikipedia: Windows 95",
+        "url": "https://en.wikipedia.org/wiki/Windows_95",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.technology.online-bookshop",
+      "name": "Online bookshop",
+      "category": "home",
+      "description": "The Amazon website launched on July 16, 1995, selling books sourced from wholesalers and publishers.",
+      "source": {
+        "label": "Wikipedia: Amazon (company)",
+        "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.technology.online-auctions",
+      "name": "Online auctions",
+      "category": "home",
+      "description": "eBay began as AuctionWeb on September 3, 1995.",
+      "source": {
+        "label": "Wikipedia: eBay",
+        "url": "https://en.wikipedia.org/wiki/EBay",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.technology.playstation",
+      "name": "PlayStation",
+      "category": "entertainment",
+      "description": "Went on sale in North America on September 9, 1995, at $299.",
+      "source": {
+        "label": "Wikipedia: PlayStation (console)",
+        "url": "https://en.wikipedia.org/wiki/PlayStation_(console)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.technology.dial-up-modem",
+      "name": "Dial-up modem",
+      "category": "communication",
+      "description": "Modems on the phone line connected at up to 28.8 kbit/s under a standard approved in 1994; many older ones ran at 14.4 kbit/s.",
+      "source": {
+        "label": "Wikipedia: List of ITU-T V-series recommendations (V.34)",
+        "url": "https://en.wikipedia.org/wiki/List_of_ITU-T_V-series_recommendations",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1995.visions.predictions-that-well-soon",
+      "prediction": "\"No online database will replace your daily newspaper\", and online catalogue shopping won't make stores obsolete.",
+      "whoSaidIt": "Clifford Stoll, \"The Internet? Bah!\", Newsweek, February 1995",
+      "cameTrue": "no",
+      "note": "U.S. daily newspaper circulation fell from about 58 million on weekdays in 1995 to 21 million in 2022, print and digital combined.",
+      "source": {
+        "label": "Clifford Stoll, \"Why the Web Won't Be Nirvana\" (\"The Internet? Bah!\"), Newsweek, posted 26 February 1995",
+        "url": "https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.visions.todays-internet-only-beginning",
+      "prediction": "The Internet and the World Wide Web are only a subset of a larger \"information highway\".",
+      "whoSaidIt": "Bill Gates, The Road Ahead (November 1995)",
+      "cameTrue": "yes",
+      "note": "Streaming, online shopping and mobile internet went far beyond the 1995 web.",
+      "source": {
+        "label": "The Seattle Times, 22 November 1995: review of The Road Ahead",
+        "url": "https://archive.seattletimes.com/archive/19951122/2153890/road-ahead-gates-and-our-pc-future",
+        "accessed": "2026-10-15",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1995.headlines.1995-04-19",
+      "date": "1995-04-19",
+      "headline": "Bombing at the Oklahoma City federal building kills 168",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1995 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1995_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.headlines.1995-08-24",
+      "date": "1995-08-24",
+      "headline": "Microsoft releases Windows 95",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Windows 95",
+        "url": "https://en.wikipedia.org/wiki/Windows_95",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1995.headlines.1995-11-21",
+      "date": "1995-11-21",
+      "headline": "Dow Jones closes above 5,000 for the first time",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1995 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1995_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "An external dial-up modem, status lights blinking.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "futureVisions": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

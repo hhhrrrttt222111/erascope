@@ -1,0 +1,23 @@
+{
+  "year": 1970,
+  "speculative": false,
+  "theme": {
+    "chrome": "groovy",
+    "transition": "lavablob",
+    "palette": {
+      "primary": "#b4500e",
+      "secondary": "#5e6b22",
+      "background": "#e9b44c",
+      "paper": "#fbefd2",
+      "text": "#3b2414"
+    },
+    "fonts": {
+      "heading": "Shrikhand",
+      "body": "Nunito"
+    },
+    "sound": "needle-drop"
+  },
+  "scene": {
+    "component": "Turntable1970"
+  }
+}

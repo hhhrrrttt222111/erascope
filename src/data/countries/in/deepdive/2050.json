@@ -1,0 +1,688 @@
+{
+  "country": "in",
+  "year": 2050,
+  "speculative": true,
+  "intro": {
+    "headline": "India in 2050: an imagined year, built on today's targets",
+    "summary": "Everything on these pages is speculation. Where a plan or projection exists today, it is named and sourced; what follows from it is imagined, and no real person or real event is claimed.",
+    "sources": [
+      {
+        "label": "Wikipedia: Demographics of India",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Viksit Bharat @2047",
+        "url": "https://en.wikipedia.org/wiki/Viksit_Bharat_@2047",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Bharatiya Antariksh Station",
+        "url": "https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Climate change in India",
+        "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.2050.dd.technology-science.space-station",
+    "in.2050.dd.government-politics.viksit-bharat",
+    "in.2050.dd.economy-business.population-2050",
+    "in.2050.dd.freedom-history.centenary-of-republic",
+    "in.2050.dd.technology-science.clean-grid",
+    "in.2050.dd.achievements.net-zero-path"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "Today's plans for a space station and a net-zero economy, extended forward as scenarios.",
+      "items": [
+        {
+          "id": "in.2050.dd.technology-science.space-station",
+          "kind": "tech",
+          "title": "An Indian space station in orbit (imagined)",
+          "summary": "The Bharatiya Antariksh Station is planned today to weigh about 52 tonnes, orbit near 400 km and be complete by 2035. By 2050 it might have been staffed for years and be due for replacement.",
+          "availability": "elite-urban",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Bharatiya Antariksh Station",
+              "url": "https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.technology-science.crewed-flight",
+          "kind": "tech",
+          "title": "Routine crewed flights (imagined)",
+          "summary": "Gaganyaan is designed to carry three people to low Earth orbit; by 2050 crewed flights might be unremarkable.",
+          "availability": "elite-urban",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Gaganyaan",
+              "url": "https://en.wikipedia.org/wiki/Gaganyaan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.technology-science.clean-grid",
+          "kind": "tech",
+          "title": "A grid closer to net zero (imagined)",
+          "summary": "India has said it aims for net-zero emissions by 2070; by 2050 the electricity grid might be well on the way, with coal a smaller share of supply.",
+          "availability": "widespread",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Climate change in India",
+              "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.technology-science.ai-translation",
+          "kind": "tech",
+          "title": "Everyday machine translation (imagined)",
+          "summary": "With dozens of widely spoken languages, a phone that translates speech between them fluently might be an ordinary utility by 2050.",
+          "availability": "widespread",
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      }
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "Possible futures for a country that has set itself a date.",
+      "items": [
+        {
+          "id": "in.2050.dd.government-politics.viksit-bharat",
+          "kind": "governance",
+          "title": "After the Viksit Bharat deadline (imagined)",
+          "summary": "The government's Viksit Bharat @2047 framework targets a developed-country economy of about 29-30 trillion US dollars by 2047. By 2050 India would either be judged to have met it or be explaining why not.",
+          "office": "Government of India",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Viksit Bharat @2047",
+              "url": "https://en.wikipedia.org/wiki/Viksit_Bharat_@2047",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.government-politics.census-cycle",
+          "kind": "governance",
+          "title": "Counting 1.7 billion (imagined)",
+          "summary": "Projections suggest India's population will approach 1.7 billion by 2050, so the census that year, if held, would be the largest administrative exercise ever mounted.",
+          "office": "Registrar General",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Demographics of India",
+              "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.government-politics.federal-balance",
+          "kind": "governance",
+          "title": "States and the Union (imagined)",
+          "summary": "Fiscal and linguistic arrangements between the Union and the states might look different by 2050; no one can say which way.",
+          "office": "Union and states",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.government-politics.digital-services",
+          "kind": "governance",
+          "title": "Public services by default digital (imagined)",
+          "summary": "Most government dealings might be possible without a visit to an office, if identity and payment systems keep spreading.",
+          "office": "Public services",
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned"
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "Looking back from a hundred and three years of independence.",
+      "items": [
+        {
+          "id": "in.2050.dd.freedom-history.centenary-of-republic",
+          "kind": "event",
+          "title": "The republic's centenary (imagined)",
+          "summary": "The Constitution came into force on 26 January 1950, so 26 January 2050 would be the republic's hundredth anniversary.",
+          "eventType": "other",
+          "date": "2050-01",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.freedom-history.net-zero-midpoint",
+          "kind": "event",
+          "title": "Halfway to the 2070 pledge (imagined)",
+          "summary": "India's net-zero pledge is dated 2070; by 2050 the country would be about midway between the pledge and now.",
+          "eventType": "reform",
+          "date": "2050",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Climate change in India",
+              "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.freedom-history.heat-years",
+          "kind": "event",
+          "title": "Living with heat (imagined)",
+          "summary": "Heatwaves like the one that reached 53 C in 2010 might be more frequent and planned for.",
+          "eventType": "disaster",
+          "date": "2050",
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A speculative scenario about heat and health."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.freedom-history.memory-projects",
+          "kind": "event",
+          "title": "Archives of the independence era (imagined)",
+          "summary": "By 2050 almost no one who remembers independence will be alive, so oral-history collections might matter more.",
+          "eventType": "other",
+          "date": "2050",
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      }
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "Archetypes, not real people: imagined roles that might matter in 2050.",
+      "items": [
+        {
+          "id": "in.2050.dd.personalities.telemedicine-nurse",
+          "kind": "person",
+          "title": "A village telemedicine nurse (imagined)",
+          "summary": "A fictional archetype used to imagine 2050; not a real person.",
+          "field": "Health",
+          "whyThisYear": "Connects patients to specialists by video and manages follow-up in a rural clinic.",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.personalities.grid-engineer",
+          "kind": "person",
+          "title": "A grid-balancing engineer (imagined)",
+          "summary": "A fictional archetype used to imagine 2050; not a real person.",
+          "field": "Energy",
+          "whyThisYear": "Keeps a renewables-heavy grid stable hour by hour.",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.personalities.language-teacher",
+          "kind": "person",
+          "title": "A multilingual classroom teacher (imagined)",
+          "summary": "A fictional archetype used to imagine 2050; not a real person.",
+          "field": "Education",
+          "whyThisYear": "Teaches in the mother tongue while using translation tools for other languages.",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.personalities.space-station-medic",
+          "kind": "person",
+          "title": "A space-station physician (imagined)",
+          "summary": "A fictional archetype used to imagine 2050; not a real person.",
+          "field": "Space medicine",
+          "whyThisYear": "Looks after crews for stays of three to six months.",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.personalities.river-ecologist",
+          "kind": "person",
+          "title": "A river ecologist (imagined)",
+          "summary": "A fictional archetype used to imagine 2050; not a real person.",
+          "field": "Environment",
+          "whyThisYear": "Monitors the health of a basin with sensors and local volunteers.",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.personalities.archivist",
+          "kind": "person",
+          "title": "A digital archivist (imagined)",
+          "summary": "A fictional archetype used to imagine 2050; not a real person.",
+          "field": "Heritage",
+          "whyThisYear": "Preserves newspapers, films and recordings from the twentieth century.",
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "Targets that might, or might not, have been met.",
+      "items": [
+        {
+          "id": "in.2050.dd.achievements.space-station-complete",
+          "kind": "achievement",
+          "title": "A completed space station (imagined)",
+          "summary": "Planned for completion by 2035, a finished station might by 2050 be a settled achievement.",
+          "domain": "space",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Bharatiya Antariksh Station",
+              "url": "https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.achievements.net-zero-path",
+          "kind": "achievement",
+          "title": "A net-zero path (imagined)",
+          "summary": "By 2050 India might be able to show a falling emissions curve against its 2070 pledge.",
+          "domain": "engineering",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Climate change in India",
+              "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.achievements.universal-literacy",
+          "kind": "achievement",
+          "title": "Universal digital literacy (imagined)",
+          "summary": "A generation raised with ubiquitous phones might make basic digital literacy near-universal.",
+          "domain": "social",
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "Imagined contests; no results exist.",
+      "items": [
+        {
+          "id": "in.2050.dd.sports.home-olympics",
+          "kind": "sport",
+          "title": "Hosting an Olympic Games (imagined)",
+          "summary": "India has said it is interested in hosting a summer Olympics; whether it does by 2050 is open.",
+          "sport": "Multi-sport",
+          "competition": "Olympic Games",
+          "result": "Imagined",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.sports.football-rise",
+          "kind": "sport",
+          "title": "A football breakthrough (imagined)",
+          "summary": "A large youth population might lift the national football team in Asian competitions.",
+          "sport": "Football",
+          "competition": "Asian competitions",
+          "result": "Imagined",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.sports.chess-depth",
+          "kind": "sport",
+          "title": "A deep chess bench (imagined)",
+          "summary": "Having produced several grandmasters, India might field several world-class players at once.",
+          "sport": "Chess",
+          "competition": "World events",
+          "result": "Imagined",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.sports.esports",
+          "kind": "sport",
+          "title": "Esports alongside cricket (imagined)",
+          "summary": "Competitive gaming might draw crowds comparable to some traditional sports.",
+          "sport": "Esports",
+          "competition": "Leagues",
+          "result": "Imagined",
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay"
+      }
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "What might be written: no works exist.",
+      "items": [
+        {
+          "id": "in.2050.dd.literature.novel-heat",
+          "kind": "work",
+          "title": "A novel of a hotter city (imagined)",
+          "summary": "Fiction set in a city adapting to extreme heat.",
+          "workType": "novel",
+          "creator": "Not a real author",
+          "languages": [
+            "Multiple"
+          ],
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.literature.poems-translation",
+          "kind": "work",
+          "title": "Poems in translation by default (imagined)",
+          "summary": "Poems published in several languages at once with machine-assisted translation.",
+          "workType": "poetry",
+          "creator": "Not a real author",
+          "languages": [
+            "Multiple"
+          ],
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.literature.memoir-migrants",
+          "kind": "work",
+          "title": "A memoir of a migrant family (imagined)",
+          "summary": "A family history across districts, cities and countries.",
+          "workType": "nonfiction",
+          "creator": "Not a real author",
+          "languages": [
+            "Multiple"
+          ],
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.literature.play-archive",
+          "kind": "work",
+          "title": "A play set in an archive (imagined)",
+          "summary": "Characters who reconstruct a lost century from fragments.",
+          "workType": "play",
+          "creator": "Not a real author",
+          "languages": [
+            "Multiple"
+          ],
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      }
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "Reading habits are the hardest thing to project.",
+      "items": [
+        {
+          "id": "in.2050.dd.books-reading.audio-first",
+          "kind": "work",
+          "title": "Audio-first reading (imagined)",
+          "summary": "Many readers might listen in their own language while commuting.",
+          "workType": "periodical",
+          "creator": "Not a real publication",
+          "languages": [
+            "Multiple"
+          ],
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.books-reading.school-library",
+          "kind": "work",
+          "title": "School libraries as makerspaces (imagined)",
+          "summary": "Libraries might combine books, tools and quiet corners.",
+          "workType": "periodical",
+          "creator": "Not a real publication",
+          "languages": [
+            "Multiple"
+          ],
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.books-reading.long-form-feeds",
+          "kind": "work",
+          "title": "Long-form in the feed (imagined)",
+          "summary": "Serialised fiction might return in short daily instalments.",
+          "workType": "periodical",
+          "creator": "Not a real publication",
+          "languages": [
+            "Multiple"
+          ],
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.books-reading.printed-edition",
+          "kind": "work",
+          "title": "The printed edition (imagined)",
+          "summary": "Print might survive as a premium and a keepsake.",
+          "workType": "periodical",
+          "creator": "Not a real publication",
+          "languages": [
+            "Multiple"
+          ],
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      }
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "Imagined films, not real ones.",
+      "items": [
+        {
+          "id": "in.2050.dd.cinema.film-monsoon",
+          "kind": "film",
+          "title": "A film about a flooded city (imagined)",
+          "summary": "A drama of neighbours in a street during an extreme monsoon.",
+          "language": "Multiple",
+          "notable": "Not a real film",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.cinema.film-station",
+          "kind": "film",
+          "title": "A film set on a space station (imagined)",
+          "summary": "A comedy of crew life three hundred kilometres up.",
+          "language": "Multiple",
+          "notable": "Not a real film",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.cinema.film-archive",
+          "kind": "film",
+          "title": "A film about restoring old reels (imagined)",
+          "summary": "A restorer rebuilds a lost silent film.",
+          "language": "Multiple",
+          "notable": "Not a real film",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.cinema.film-school",
+          "kind": "film",
+          "title": "A film about a rural school (imagined)",
+          "summary": "A teacher and students invent a language game.",
+          "language": "Multiple",
+          "notable": "Not a real film",
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "Imagined sounds and sights.",
+      "items": [
+        {
+          "id": "in.2050.dd.music-arts.raga-remix",
+          "kind": "art",
+          "title": "New ragas from old (imagined)",
+          "summary": "Young musicians might combine classical forms with synthesised sound.",
+          "form": "music",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.music-arts.public-murals",
+          "kind": "art",
+          "title": "Murals for heat shelters (imagined)",
+          "summary": "Shade structures might double as large public canvases.",
+          "form": "painting",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.music-arts.digital-dance",
+          "kind": "art",
+          "title": "Dance on a virtual stage (imagined)",
+          "summary": "Performers might share a stage across cities in real time.",
+          "form": "dance",
+          "regionTag": "national",
+          "sources": []
+        },
+        {
+          "id": "in.2050.dd.music-arts.craft-revival",
+          "kind": "art",
+          "title": "A craft revival (imagined)",
+          "summary": "Weaving and metalwork traditions might find new markets online.",
+          "form": "craft",
+          "regionTag": "national",
+          "sources": []
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      }
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "Today's targets and projections, not forecasts.",
+      "items": [
+        {
+          "id": "in.2050.dd.economy-business.population-2050",
+          "kind": "indicator",
+          "title": "Projected population",
+          "summary": "Current projections suggest India's population will reach about 1.7 billion by 2050.",
+          "metric": "Population (projection)",
+          "value": "1.7",
+          "unit": "billion people",
+          "asOf": "2050 (projected)",
+          "sources": [
+            {
+              "label": "Wikipedia: Demographics of India",
+              "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.economy-business.target-2047",
+          "kind": "indicator",
+          "title": "The 2047 economic target",
+          "summary": "The government's stated target is an economy of about 29-30 trillion US dollars by 2047.",
+          "metric": "GDP target",
+          "value": "29-30",
+          "unit": "trillion US dollars",
+          "asOf": "2047 (target)",
+          "sources": [
+            {
+              "label": "Wikipedia: Viksit Bharat @2047",
+              "url": "https://en.wikipedia.org/wiki/Viksit_Bharat_@2047",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        },
+        {
+          "id": "in.2050.dd.economy-business.net-zero-year",
+          "kind": "indicator",
+          "title": "The net-zero year",
+          "summary": "India has announced a target of net-zero emissions by 2070.",
+          "metric": "Net-zero target year",
+          "value": "2070",
+          "unit": "year",
+          "asOf": "target",
+          "sources": [
+            {
+              "label": "Wikipedia: Climate change in India",
+              "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ]
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard"
+      }
+    }
+  }
+}

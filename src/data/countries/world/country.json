@@ -1,0 +1,11 @@
+{
+  "id": "world",
+  "name": "World",
+  "selectorLabel": "World (original, US-centred)",
+  "enabled": true,
+  "defaultLocale": {
+    "region": "United States",
+    "currency": "USD",
+    "currencySymbol": "$"
+  }
+}

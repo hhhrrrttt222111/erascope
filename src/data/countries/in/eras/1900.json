@@ -1,0 +1,326 @@
+{
+  "year": 1900,
+  "country": "in",
+  "title": "India, 1900",
+  "tagline": "Famine relief, plague vaccine and a railway of 25,400 miles.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "a household in a town or village of British India (typical, not one named family)",
+    "politicalStatus": "British India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1900.morning.fuel",
+      "time": "Dawn",
+      "activity": "Cooking fires",
+      "detail": "For most working families fuel meant sticks and cow-dung; the Gazetteer notes a labourer's hut and scanty clothing cost him little and that food was by far his chief expense.",
+      "icon": "LocalFireDepartment",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.morning.staple",
+      "time": "Morning",
+      "activity": "The day's grain",
+      "detail": "In Bengal and Assam the staple food was rice, the grain whose price the Gazetteer says had risen more than that of any other food-grain since 1873.",
+      "icon": "RiceBowl",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.morning.grain-wages",
+      "time": "Morning",
+      "activity": "Wages in grain",
+      "detail": "Many farm labourers were paid wholly or partly in grain, with perhaps a free meal or a cash wage near towns; casual workers might be idle three or four months of the year.",
+      "icon": "Agriculture",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.morning.money-order",
+      "time": "Mid-morning",
+      "activity": "A money order from the post office",
+      "detail": "The post office issued 12,922,465 inland money orders in 1900-01, worth about Rs 26 crore, up from 7.3 million ten years earlier.",
+      "icon": "Mail",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1900.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "The sixteenth annual session of the Indian National Congress met at Lahore in December 1900 with N. (1900-12).",
+      "imageAlt": "A newspaper front page drawn in woodcut style with a famine-relief headline and a railway engraving",
+      "highlights": [
+        "The sixteenth annual session of the Indian National Congress met at Lahore in December 1900 with N."
+      ],
+      "source": {
+        "label": "Wikipedia: List of presidents of the Indian National Congress",
+        "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1900.places.bedroom",
+      "kind": "bedroom",
+      "title": "The home",
+      "description": "The Gazetteer notes that a labouring family's hut and scanty clothing cost very little, and that food was by far the chief expense.",
+      "imageAlt": "A simple mud-walled room with a rope bed and cooking pots, drawn as a plain illustration",
+      "highlights": [
+        "Hut and clothing cost little",
+        "Food the chief expense"
+      ],
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Railways: about 25,400 miles open: The Gazetteer's table of railway mileage open for traffic gives a total of about 25,400 miles for 1901, mostly on the broad (5 ft 6 in) and metre gauges.",
+      "imageAlt": "A busy town street with a bullock cart, a few pedestrians and a railway station in the distance",
+      "highlights": [
+        "Railways: about 25,400 miles open"
+      ],
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.1900.prices.rice",
+      "item": "Rice (average, 1896-1900)",
+      "price": "11.7 seers per rupee",
+      "originalUnits": "11.7 seers per rupee (a seer is about 0.93 kg)",
+      "decimalINR": "₹0.085 per seer",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.prices.wheat",
+      "item": "Wheat (average, 1896-1900)",
+      "price": "12.1 seers per rupee",
+      "originalUnits": "12.1 seers per rupee",
+      "decimalINR": "₹0.083 per seer",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.prices.jowar",
+      "item": "Jowar (average, 1896-1900)",
+      "price": "16.5 seers per rupee",
+      "originalUnits": "16.5 seers per rupee",
+      "decimalINR": "₹0.061 per seer",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.prices.gram",
+      "item": "Gram (average, 1896-1900)",
+      "price": "13.5 seers per rupee",
+      "originalUnits": "13.5 seers per rupee",
+      "decimalINR": "₹0.074 per seer",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.prices.grain-index",
+      "item": "All food-grains, price index (1871-5 = 100)",
+      "price": "164",
+      "originalUnits": "index number, 1896-1900 average",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.prices.rupee-exchange",
+      "item": "Value of a rupee in sterling",
+      "price": "about 16 pence (1s 4d)",
+      "originalUnits": "1s 4d = 16 pence; 15 rupees to the pound",
+      "decimalINR": "₹1 = 1s 4d",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive",
+        "url": "https://archive.org/details/TheImperialGazetteerOfIndia-Volume04",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.1900.technology.railways",
+      "name": "Railways: about 25,400 miles open",
+      "category": "transport",
+      "description": "The Gazetteer's table of railway mileage open for traffic gives a total of about 25,400 miles for 1901, mostly on the broad (5 ft 6 in) and metre gauges.",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.technology.plague-vaccine",
+      "name": "Haffkine's plague vaccine",
+      "category": "work",
+      "description": "Waldemar Haffkine tested his plague vaccine on himself in Bombay in January 1897. By the turn of the century about four million people in India had received it.",
+      "source": {
+        "label": "Wikipedia: Waldemar Haffkine",
+        "url": "https://en.wikipedia.org/wiki/Waldemar_Haffkine",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.technology.radio-waves",
+      "name": "Bose's millimetre radio waves",
+      "category": "communication",
+      "description": "In Calcutta in 1895 Jagadish Chandra Bose rang a bell and fired gunpowder from across a room with millimetre-wavelength waves. In 1900 he presented his research at the International Congress of Physics in Paris.",
+      "source": {
+        "label": "Wikipedia: Jagadish Chandra Bose",
+        "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.technology.money-orders",
+      "name": "Inland money orders",
+      "category": "communication",
+      "description": "The post office issued 12,922,465 inland money orders in 1900-01, worth about Rs 26 crore, up from 7.3 million orders ten years earlier.",
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.technology.saraswati",
+      "name": "Saraswati, a Hindi monthly",
+      "category": "communication",
+      "description": "Saraswati, founded in 1900 by Chintamani Ghosh at the Indian Press in Allahabad, is described as the first Hindi monthly magazine of India.",
+      "source": {
+        "label": "Wikipedia: Saraswati (magazine)",
+        "url": "https://en.wikipedia.org/wiki/Saraswati_(magazine)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1900.headlines.congress-lahore",
+      "date": "1900-12",
+      "headline": "The sixteenth annual session of the Indian National Congress met at Lahore in December 1900 with N.",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: List of presidents of the Indian National Congress",
+        "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.headlines.famine",
+      "date": "1900-07",
+      "headline": "The 1899 monsoon failed over the west and centre of India.",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1900.headlines.birsa",
+      "date": "1900-06",
+      "headline": "Birsa Munda led a millenarian movement among the Munda people of the Bengal Presidency (now Jharkhand).",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Birsa Munda",
+        "url": "https://en.wikipedia.org/wiki/Birsa_Munda",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "The family's gramophone and horn, as in the World view.",
+  "notes": {
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed."
+  }
+}

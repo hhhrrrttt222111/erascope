@@ -1,0 +1,365 @@
+{
+  "year": 2020,
+  "country": "world",
+  "title": "The Year at Home",
+  "tagline": "Lockdowns, video calls and a world working from the kitchen table.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a family working and schooling from home in an apartment"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.2020.morning.commute-bedroom-kitchen-table",
+      "time": "7:00 AM",
+      "activity": "Commute: bedroom to kitchen table",
+      "detail": "After the national emergency was declared on March 13 and states issued stay-at-home orders, many people worked from home.",
+      "icon": "Home",
+      "source": {
+        "label": "Proclamation 9994 of March 13, 2020: Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Outbreak, Federal Register 85 FR 15337",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2020-03-18/pdf/2020-05794.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.morning.camera-morning-meeting",
+      "time": "7:30 AM",
+      "activity": "Camera on for the morning meeting",
+      "detail": "Video-call apps became the office; Zoom's usage increased substantially during the pandemic.",
+      "icon": "Laptop",
+      "source": {
+        "label": "Wikipedia: Zoom Communications",
+        "url": "https://en.wikipedia.org/wiki/Zoom_Communications",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.morning.walk-mask-pocket",
+      "time": "12:00 PM",
+      "activity": "A walk, mask in pocket",
+      "detail": "From April 3 the CDC recommended cloth face coverings in public places such as grocery stores, so masks became part of leaving the house.",
+      "icon": "DirectionsWalk",
+      "source": {
+        "label": "Wikipedia: Face masks during the COVID-19 pandemic in the United States",
+        "url": "https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.2020.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "The pandemic dominated the year's news, alongside a presidential election and the first vaccines.",
+      "imageAlt": "A dark-mode news app with live updates about the pandemic and the election",
+      "highlights": [
+        "WHO calls COVID-19 a pandemic",
+        "U.S. declares a national emergency",
+        "Biden projected winner of the election",
+        "First COVID-19 vaccines given in the U.S."
+      ],
+      "source": {
+        "label": "World Health Organization: Timeline of WHO's response to COVID-19 (entry for 11 March 2020)",
+        "url": "https://www.who.int/news/item/29-06-2020-covidtimeline",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedroom",
+      "description": "Video-call apps: Work meetings, school and family gatherings moved to video calls; Zoom's mobile app was among the most downloaded apps of 2020.",
+      "imageAlt": "A bedroom set up as a home office with a laptop, a ring light and a face mask on a hook",
+      "highlights": [
+        "Video-call apps"
+      ],
+      "source": {
+        "label": "Wikipedia: Zoom Communications",
+        "url": "https://en.wikipedia.org/wiki/Zoom_Communications",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.2020.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "PlayStation 5: Launched in North America on November 12, 2020.",
+      "imageAlt": "A quiet street with a masked pedestrian and a delivery cyclist",
+      "highlights": [
+        "PlayStation 5"
+      ],
+      "source": {
+        "label": "Wikipedia: PlayStation 5",
+        "url": "https://en.wikipedia.org/wiki/PlayStation_5",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.2020.prices.loaf-white-bread-1",
+      "item": "Loaf of white bread (1 lb)",
+      "price": "$1.45",
+      "adjusted2026": "about $1.88",
+      "source": {
+        "label": "BLS average price, white bread per lb (series APU0000702111), 2020 annual average of monthly data, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000702111",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.prices.gallon-unleaded-gasoline",
+      "item": "Gallon of unleaded gasoline",
+      "price": "$2.17",
+      "adjusted2026": "about $2.81",
+      "source": {
+        "label": "BLS average price, unleaded regular gasoline per gallon (series APU000074714), 2020 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU000074714",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.prices.gallon-whole-milk",
+      "item": "Gallon of whole milk",
+      "price": "$3.32",
+      "adjusted2026": "about $4.30",
+      "source": {
+        "label": "BLS average price, whole milk per gallon (series APU0000709112), 2020 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000709112",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.55",
+      "adjusted2026": "about $0.71",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.prices.playstation-5-digital-standard",
+      "item": "PlayStation 5 (Digital / standard, at launch)",
+      "price": "$399 / $499",
+      "adjusted2026": "about $520–$650",
+      "source": {
+        "label": "Wikipedia: PlayStation 5",
+        "url": "https://en.wikipedia.org/wiki/PlayStation_5",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.prices.xbox-series-series-x",
+      "item": "Xbox Series S / Series X (at launch)",
+      "price": "$299.99 / $499.99",
+      "adjusted2026": "about $390–$650",
+      "source": {
+        "label": "Wikipedia: Xbox Series X and Series S",
+        "url": "https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour, unchanged since July 2009)",
+      "price": "$7.25",
+      "adjusted2026": "about $9.38",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.2020.technology.video-call-apps",
+      "name": "Video-call apps",
+      "category": "communication",
+      "description": "Work meetings, school and family gatherings moved to video calls; Zoom's mobile app was among the most downloaded apps of 2020.",
+      "source": {
+        "label": "Wikipedia: Zoom Communications",
+        "url": "https://en.wikipedia.org/wiki/Zoom_Communications",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.technology.playstation-5",
+      "name": "PlayStation 5",
+      "category": "entertainment",
+      "description": "Launched in North America on November 12, 2020.",
+      "source": {
+        "label": "Wikipedia: PlayStation 5",
+        "url": "https://en.wikipedia.org/wiki/PlayStation_5",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.technology.xbox-series-x",
+      "name": "Xbox Series X and S",
+      "category": "entertainment",
+      "description": "Both consoles launched on November 10, 2020.",
+      "source": {
+        "label": "Wikipedia: Xbox Series X and Series S",
+        "url": "https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.technology.driverless-taxis",
+      "name": "Driverless taxis",
+      "category": "transport",
+      "description": "In October 2020 Waymo began public rides in Phoenix with no safety driver.",
+      "source": {
+        "label": "Wikipedia: Waymo",
+        "url": "https://en.wikipedia.org/wiki/Waymo",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.2020.visions.employees-who-can-work",
+      "prediction": "Employees who can work from home may continue to do so \"forever\".",
+      "whoSaidIt": "Twitter, announced May 12, 2020",
+      "cameTrue": "partly",
+      "note": "Hybrid work stuck for many office jobs, though many companies later called staff back.",
+      "source": {
+        "label": "InsideHook, 13 May 2020: Jack Dorsey says Twitter employees can work from home 'forever'",
+        "url": "https://www.insidehook.com/?p=372812",
+        "accessed": "2026-10-15",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.2020.visions.300-million-vaccine-doses",
+      "prediction": "The program will produce and deliver 300 million doses of safe and effective vaccines, with the first doses available by January 2021.",
+      "whoSaidIt": "U.S. Department of Health and Human Services, Operation Warp Speed (announced May 15, 2020)",
+      "cameTrue": "partly",
+      "note": "The first doses came early, on December 14, 2020, but 100 million doses had been given only by March 2021.",
+      "source": {
+        "label": "Wikipedia: Operation Warp Speed",
+        "url": "https://en.wikipedia.org/wiki/Operation_Warp_Speed",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.visions.level-five-autonomy-this-year",
+      "prediction": "\"I remain confident that we will have the basic functionality for level five autonomy complete this year.\"",
+      "whoSaidIt": "Elon Musk, July 2020",
+      "cameTrue": "no",
+      "note": "Tesla had not reached full (level 5) autonomy by 2026.",
+      "source": {
+        "label": "Wikipedia: List of predictions for autonomous Tesla vehicles by Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/List_of_predictions_for_autonomous_Tesla_vehicles_by_Elon_Musk",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.2020.headlines.2020-03-11",
+      "date": "2020-03-11",
+      "headline": "WHO describes COVID-19 as a pandemic",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "World Health Organization: Timeline of WHO's response to COVID-19 (entry for 11 March 2020)",
+        "url": "https://www.who.int/news/item/29-06-2020-covidtimeline",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.headlines.2020-03-13",
+      "date": "2020-03-13",
+      "headline": "President declares a national emergency over the coronavirus",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Proclamation 9994 of March 13, 2020: Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Outbreak, Federal Register 85 FR 15337",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2020-03-18/pdf/2020-05794.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.headlines.2020-11-07",
+      "date": "2020-11-07",
+      "headline": "Biden projected winner of the presidential election",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2020 United States presidential election",
+        "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2020.headlines.2020-12-14",
+      "date": "2020-12-14",
+      "headline": "First Americans receive an authorized COVID-19 vaccine",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: COVID-19 vaccination in the United States",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A laptop on a video call, lit by a ring light.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "technology": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

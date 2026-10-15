@@ -1,0 +1,259 @@
+{
+  "year": 1999,
+  "country": "world",
+  "title": "The Dot-Com Dawn",
+  "tagline": "Dial-up modems, beige boxes and a world counting down to Y2K.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a suburban family with a new desktop PC"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1999.morning.print-directions",
+      "time": "7:20 AM",
+      "activity": "Print directions",
+      "detail": "Headed somewhere new? You print turn-by-turn directions from a website before leaving the house.",
+      "icon": "Print",
+      "source": {
+        "label": "Wikipedia: MapQuest",
+        "url": "https://en.wikipedia.org/wiki/MapQuest",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1999.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Headlines tracked the dot-com boom, a new European currency and the countdown to 2000.",
+      "imageAlt": "A late-1990s news web page in a browser window with blue underlined links",
+      "highlights": [
+        "Dow Jones closes above 10,000 for the first time",
+        "Euro launches as an electronic currency",
+        "U.S. wins the Women's World Cup on penalties",
+        "Y2K: governments and banks race to patch old code"
+      ],
+      "source": {
+        "label": "Wikipedia: 1999 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedroom",
+      "description": "Nokia 3210 mobile phone: Announced in March 1999: the first mass-market phone with an internal antenna, with changeable covers, T9 text and Snake.",
+      "imageAlt": "A teenager's bedroom with a beige computer and bulky CRT monitor on a desk",
+      "highlights": [
+        "Nokia 3210 mobile phone"
+      ],
+      "source": {
+        "label": "Wikipedia: Nokia 3210",
+        "url": "https://en.wikipedia.org/wiki/Nokia_3210",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1999.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "PalmPilot: Pocket organisers launched in March 1997 with \"Graffiti\" handwriting input.",
+      "imageAlt": "A street corner with a payphone, a video rental store and a parked sedan",
+      "highlights": [
+        "PalmPilot"
+      ],
+      "source": {
+        "label": "Wikipedia: PalmPilot",
+        "url": "https://en.wikipedia.org/wiki/PalmPilot",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1999.prices.loaf-white-bread-1",
+      "item": "Loaf of white bread (1 lb)",
+      "price": "$0.89",
+      "adjusted2026": "about $1.79",
+      "source": {
+        "label": "BLS average price, white bread per lb (series APU0000702111), 1999 annual average of monthly data, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000702111",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.prices.gallon-unleaded-gasoline",
+      "item": "Gallon of unleaded gasoline",
+      "price": "$1.17",
+      "adjusted2026": "about $2.35",
+      "source": {
+        "label": "BLS average price, unleaded regular gasoline per gallon (series APU000074714), 1999 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU000074714",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp (from January 10)",
+      "price": "$0.33",
+      "adjusted2026": "about $0.66",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour)",
+      "price": "$5.15",
+      "adjusted2026": "about $10",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1999.technology.nokia-3210-mobile-phone",
+      "name": "Nokia 3210 mobile phone",
+      "category": "communication",
+      "description": "Announced in March 1999: the first mass-market phone with an internal antenna, with changeable covers, T9 text and Snake.",
+      "source": {
+        "label": "Wikipedia: Nokia 3210",
+        "url": "https://en.wikipedia.org/wiki/Nokia_3210",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.technology.palmpilot",
+      "name": "PalmPilot",
+      "category": "work",
+      "description": "Pocket organisers launched in March 1997 with \"Graffiti\" handwriting input.",
+      "source": {
+        "label": "Wikipedia: PalmPilot",
+        "url": "https://en.wikipedia.org/wiki/PalmPilot",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.technology.56k-dial-up-modem",
+      "name": "56k dial-up modem",
+      "category": "communication",
+      "description": "Connected through the phone line at up to 56 kbit/s downloading; a 4 MB music file took about 10 minutes even at full speed.",
+      "source": {
+        "label": "Wikipedia: List of ITU-T V-series recommendations (V.90)",
+        "url": "https://en.wikipedia.org/wiki/List_of_ITU-T_V-series_recommendations",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1999.visions.most-pcs-unaffected-y2k",
+      "prediction": "Most personal computer hardware and software will be unaffected by the year 2000 problem.",
+      "whoSaidIt": "Running Office 2000 Professional (Microsoft Press), May 1999",
+      "cameTrue": "yes",
+      "note": "Few major errors occurred in 2000, after remediation estimated at $308 billion worldwide.",
+      "source": {
+        "label": "Wikipedia: Year 2000 problem",
+        "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.visions.moores-law-will-end-2020",
+      "prediction": "Moore's law will end \"by the year 2020\", and a new technology will carry on the exponential growth of computing.",
+      "whoSaidIt": "Ray Kurzweil, The Age of Spiritual Machines, 1999",
+      "cameTrue": "partly",
+      "note": "Chip progress slowed below Moore's pace from around 2010, but experts still disagree on whether the law has ended.",
+      "source": {
+        "label": "Wikipedia: The Age of Spiritual Machines",
+        "url": "https://en.wikipedia.org/wiki/The_Age_of_Spiritual_Machines",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1999.headlines.1999-01-01",
+      "date": "1999-01-01",
+      "headline": "The euro is introduced as an accounting currency",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Euro",
+        "url": "https://en.wikipedia.org/wiki/Euro",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.headlines.1999-03-29",
+      "date": "1999-03-29",
+      "headline": "Dow Jones closes above 10,000 for the first time",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1999 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1999.headlines.1999-07-10",
+      "date": "1999-07-10",
+      "headline": "U.S. beats China on penalties to win the Women's World Cup",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1999 FIFA Women's World Cup final",
+        "url": "https://en.wikipedia.org/wiki/1999_FIFA_Women%27s_World_Cup_final",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A beige CRT monitor and keyboard, humming quietly.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "prices": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "technology": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "futureVisions": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

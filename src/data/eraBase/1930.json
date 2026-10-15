@@ -1,0 +1,23 @@
+{
+  "year": 1930,
+  "speculative": false,
+  "theme": {
+    "chrome": "artdeco",
+    "transition": "curtain",
+    "palette": {
+      "primary": "#d4af37",
+      "secondary": "#b08a2e",
+      "background": "#0b0b0b",
+      "paper": "#16130d",
+      "text": "#f3ead3"
+    },
+    "fonts": {
+      "heading": "Limelight",
+      "body": "Libre Baskerville"
+    },
+    "sound": "projector"
+  },
+  "scene": {
+    "component": "Projector1930"
+  }
+}

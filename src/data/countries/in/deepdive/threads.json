@@ -1,0 +1,98 @@
+{
+  "threads": [
+    {
+      "id": "women-in-public-life",
+      "title": "Women across the years",
+      "description": "Women named in the deep dive: a recording singer, a screen actor, a writer, a mountaineer, athletes and novelists. Each stop says only what its source supports.",
+      "itemIds": [
+        "in.1920.dd.cinema.nala-damayanti",
+        "in.1930.dd.music-arts.gauhar-jaan-dies",
+        "in.1945.dd.literature.lihaaf",
+        "in.1984.dd.achievements.everest-woman",
+        "in.1984.dd.sports.usha-400h",
+        "in.1999.dd.literature.interpreter-of-maladies",
+        "in.2005.dd.achievements.sania-newcomer",
+        "in.2005.dd.sports.mirza-us-open"
+      ]
+    },
+    {
+      "id": "science-space-atom",
+      "title": "Lab, reactor and launch pad",
+      "description": "From a millimetre-wave laboratory in Calcutta to an imagined space station: science and space items in order.",
+      "itemIds": [
+        "in.1900.dd.technology-science.radio-waves",
+        "in.1920.dd.technology-science.saha-ionisation",
+        "in.1930.dd.technology-science.raman-effect",
+        "in.1945.dd.technology-science.tifr-founded",
+        "in.1960.dd.technology-science.cirus",
+        "in.1970.dd.technology-science.tarapur",
+        "in.1970.dd.technology-science.isro-formed",
+        "in.1984.dd.technology-science.rakesh-sharma-flight",
+        "in.1995.dd.technology-science.gmrt",
+        "in.1999.dd.technology-science.pslv-c2",
+        "in.2005.dd.technology-science.cartosat-1",
+        "in.2020.dd.technology-science.covaxin",
+        "in.2050.dd.technology-science.space-station"
+      ]
+    },
+    {
+      "id": "connecting-india",
+      "title": "From the money order to Aadhaar",
+      "description": "How messages, broadcasts and identities travelled, from the post office to the internet and an identity number. 2050 is imagined.",
+      "itemIds": [
+        "in.1900.dd.technology-science.money-orders",
+        "in.1930.dd.technology-science.state-broadcasting",
+        "in.1984.dd.music-arts.hum-log-tv",
+        "in.1995.dd.technology-science.internet-public",
+        "in.2010.dd.technology-science.aadhaar-first",
+        "in.2020.dd.technology-science.aarogya-setu",
+        "in.2050.dd.technology-science.ai-translation"
+      ]
+    },
+    {
+      "id": "indian-language-cinema",
+      "title": "Cinema in many languages",
+      "description": "Films across the years, in Hindi, Tamil, Malayalam, Bengali and silent-era titles. The items name the language where the source does.",
+      "itemIds": [
+        "in.1900.dd.cinema.lumiere-bombay",
+        "in.1920.dd.cinema.nala-damayanti",
+        "in.1930.dd.cinema.hamara-hindustan",
+        "in.1945.dd.cinema.zeenat",
+        "in.1960.dd.cinema.mughal-e-azam",
+        "in.1970.dd.cinema.pratidwandi",
+        "in.1995.dd.cinema.ddlj",
+        "in.1999.dd.cinema.padayappa",
+        "in.2020.dd.cinema.soorarai-pottru"
+      ]
+    },
+    {
+      "id": "cricket-years",
+      "title": "Cricket through the years",
+      "description": "Seasons, innings and decisions from the cricket items in the sports section.",
+      "section": "sports",
+      "itemIds": [
+        "in.1900.dd.sports.ranji-1900-season",
+        "in.1930.dd.sports.duleep-333",
+        "in.1945.dd.sports.modi-season",
+        "in.1984.dd.sports.asia-cup-1984",
+        "in.1999.dd.sports.kumble-10-74"
+      ]
+    },
+    {
+      "id": "road-to-the-republic",
+      "title": "From Congress sessions to the Republic",
+      "description": "Meetings, movements and constitutional changes from the freedom-history and government items, ending with an imagined centenary.",
+      "section": "freedom-history",
+      "itemIds": [
+        "in.1900.dd.freedom-history.congress-lahore",
+        "in.1920.dd.freedom-history.non-cooperation",
+        "in.1930.dd.freedom-history.purna-swaraj",
+        "in.1930.dd.freedom-history.salt-march",
+        "in.1945.dd.freedom-history.simla-conference",
+        "in.1945.dd.freedom-history.ina-trials",
+        "in.1960.dd.freedom-history.maharashtra-gujarat",
+        "in.2050.dd.freedom-history.centenary-of-republic"
+      ]
+    }
+  ]
+}

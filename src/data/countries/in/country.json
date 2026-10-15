@@ -1,0 +1,17 @@
+{
+  "id": "in",
+  "name": "India",
+  "nativeNames": [
+    {
+      "lang": "hi",
+      "text": "भारत"
+    }
+  ],
+  "selectorLabel": "India",
+  "enabled": true,
+  "defaultLocale": {
+    "region": "India",
+    "currency": "INR",
+    "currencySymbol": "₹"
+  }
+}

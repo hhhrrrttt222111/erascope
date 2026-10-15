@@ -1,0 +1,23 @@
+{
+  "year": 2020,
+  "speculative": false,
+  "theme": {
+    "chrome": "videocall",
+    "transition": "reconnect",
+    "palette": {
+      "primary": "#8b7cf6",
+      "secondary": "#3ddc97",
+      "background": "#18181b",
+      "paper": "#232329",
+      "text": "#ececf1"
+    },
+    "fonts": {
+      "heading": "DM Sans",
+      "body": "Plus Jakarta Sans"
+    },
+    "sound": "call-join"
+  },
+  "scene": {
+    "component": "Laptop2020"
+  }
+}

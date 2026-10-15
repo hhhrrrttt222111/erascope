@@ -1,0 +1,1178 @@
+{
+  "country": "in",
+  "year": 1945,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1945",
+    "summary": "Highlights of this year's checked items: The Simla Conference; The Red Fort trials; Tata Institute of Fundamental Research; Ranji Trophy final: Bombay beat Holkar; Zeenat; The Discovery of India.",
+    "sources": [
+      {
+        "label": "Wikipedia: 1945 in India",
+        "url": "https://en.wikipedia.org/wiki/1945_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Simla Conference",
+        "url": "https://en.wikipedia.org/wiki/Simla_Conference",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Indian National Army trials",
+        "url": "https://en.wikipedia.org/wiki/Indian_National_Army_trials",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: 1945 Indian general election",
+        "url": "https://en.wikipedia.org/wiki/1945_Indian_general_election",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1945.dd.freedom-history.simla-conference",
+    "in.1945.dd.freedom-history.ina-trials",
+    "in.1945.dd.technology-science.tifr-founded",
+    "in.1945.dd.sports.ranji-final-1945",
+    "in.1945.dd.cinema.zeenat",
+    "in.1945.dd.literature.discovery-of-india"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: Tata Institute of Fundamental Research; A council for technical education; Bajaj Auto begins.",
+      "items": [
+        {
+          "id": "in.1945.dd.technology-science.tifr-founded",
+          "kind": "tech",
+          "title": "Tata Institute of Fundamental Research",
+          "summary": "The Tata Institute of Fundamental Research was established on 1 June 1945 in Bombay; its founder was the physicist Homi Bhabha.",
+          "availability": "lab-or-official",
+          "regionTag": "west",
+          "place": "Bombay",
+          "sources": [
+            {
+              "label": "Wikipedia: Tata Institute of Fundamental Research",
+              "url": "https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Homi J. Bhabha",
+              "url": "https://en.wikipedia.org/wiki/Homi_J._Bhabha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.technology-science.aicte",
+          "kind": "tech",
+          "title": "A council for technical education",
+          "summary": "The All India Council for Technical Education was established in November 1945 as an advisory body for engineering and technical schooling.",
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: All India Council for Technical Education",
+              "url": "https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1945 in India",
+              "url": "https://en.wikipedia.org/wiki/1945_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.technology-science.bajaj-auto",
+          "kind": "tech",
+          "title": "Bajaj Auto begins",
+          "summary": "Bajaj Auto was founded by Jamnalal Bajaj on 29 November 1945.",
+          "availability": "urban",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Bajaj Auto",
+              "url": "https://en.wikipedia.org/wiki/Bajaj_Auto",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1945 in India",
+              "url": "https://en.wikipedia.org/wiki/1945_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      },
+      "scarcityNote": "Only 3 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: Viceroy: Lord Wavell; Two Secretaries of State in one summer; The Wavell Plan; Central elections, December 1945.",
+      "items": [
+        {
+          "id": "in.1945.dd.government-politics.viceroy-wavell",
+          "kind": "governance",
+          "title": "Viceroy: Lord Wavell",
+          "summary": "Archibald Wavell was Viceroy and Governor-General from 1 October 1943 to 21 February 1947.",
+          "office": "Viceroy and Governor-General of India",
+          "holder": "Lord Wavell",
+          "sources": [
+            {
+              "label": "Wikipedia: Archibald Wavell, 1st Earl Wavell",
+              "url": "https://en.wikipedia.org/wiki/Archibald_Wavell,_1st_Earl_Wavell",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1945 in India",
+              "url": "https://en.wikipedia.org/wiki/1945_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.government-politics.secretary-of-state-1945",
+          "kind": "governance",
+          "title": "Two Secretaries of State in one summer",
+          "summary": "Leo Amery, Conservative, was Secretary of State for India until 26 July 1945. Frederick Pethick-Lawrence, Labour, took over on 3 August 1945 after the British general election.",
+          "office": "Secretary of State for India",
+          "holder": "Lord Pethick-Lawrence",
+          "sources": [
+            {
+              "label": "Wikipedia: Secretary of State for India",
+              "url": "https://en.wikipedia.org/wiki/Secretary_of_State_for_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.government-politics.wavell-plan",
+          "kind": "governance",
+          "title": "The Wavell Plan",
+          "summary": "On 14 June 1945 Wavell announced a plan for a new Executive Council in which all members except the Viceroy and the Commander-in-Chief would be Indians, as a stop-gap until a permanent constitution was agreed.",
+          "instrument": "Wavell Plan",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Simla Conference",
+              "url": "https://en.wikipedia.org/wiki/Simla_Conference",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1945 in India",
+              "url": "https://en.wikipedia.org/wiki/1945_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.government-politics.elections-1945",
+          "kind": "governance",
+          "title": "Central elections, December 1945",
+          "summary": "In December 1945 voters, only about 10 percent of the population in directly governed provinces being eligible, elected the Central Legislative Assembly. Congress won 57 of the 102 elected seats and the Muslim League 30, winning all Muslim constituencies.",
+          "instrument": "Government of India Act 1935 franchise",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1945 Indian general election",
+              "url": "https://en.wikipedia.org/wiki/1945_Indian_general_election",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "crown",
+            "label": "The Crown",
+            "holder": "George VI, Emperor of India",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "sos",
+                "label": "Secretary of State for India",
+                "holder": "Lord Pethick-Lawrence (from 3 August 1945)",
+                "role": "Minister in London; Leo Amery until 26 July 1945",
+                "children": [
+                  {
+                    "id": "viceroy",
+                    "label": "Viceroy and Governor-General",
+                    "holder": "Lord Wavell",
+                    "role": "Head of the Government of India since 1 October 1943",
+                    "children": [
+                      {
+                        "id": "exec",
+                        "label": "Executive Council",
+                        "role": "Under Wavell's plan, all but the Viceroy and Commander-in-Chief would be Indians"
+                      },
+                      {
+                        "id": "leg",
+                        "label": "Central Legislative Assembly and Council of State",
+                        "role": "Elected December 1945: 102 elected seats in the Assembly"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "The Wavell Plan, 1945",
+            "steps": [
+              {
+                "label": "Plan",
+                "detail": "On 14 June 1945 Wavell announced a new Executive Council in which all members except the Viceroy and the Commander-in-Chief would be Indians."
+              },
+              {
+                "label": "Conference",
+                "detail": "Leaders met at the Viceregal Lodge in Simla in June and July 1945."
+              },
+              {
+                "label": "Stalemate",
+                "detail": "Talks stalled over who should choose the Muslim members, and the conference failed."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Archibald Wavell, 1st Earl Wavell",
+            "url": "https://en.wikipedia.org/wiki/Archibald_Wavell,_1st_Earl_Wavell",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Secretary of State for India",
+            "url": "https://en.wikipedia.org/wiki/Secretary_of_State_for_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Simla Conference",
+            "url": "https://en.wikipedia.org/wiki/Simla_Conference",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1945 Indian general election",
+            "url": "https://en.wikipedia.org/wiki/1945_Indian_general_election",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: The Simla Conference; The Red Fort trials; The Bengal famine in the record.",
+      "items": [
+        {
+          "id": "in.1945.dd.freedom-history.simla-conference",
+          "kind": "event",
+          "title": "The Simla Conference",
+          "summary": "Wavell met the major political leaders of British India at the Viceregal Lodge in Simla from 25 June 1945. It failed over who should select the Muslim members of the proposed Council.",
+          "eventType": "treaty",
+          "date": "1945-06",
+          "regionTag": "north",
+          "place": "Simla",
+          "sources": [
+            {
+              "label": "Wikipedia: Simla Conference",
+              "url": "https://en.wikipedia.org/wiki/Simla_Conference",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1945 in India",
+              "url": "https://en.wikipedia.org/wiki/1945_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.freedom-history.ina-trials",
+          "kind": "event",
+          "title": "The Red Fort trials",
+          "summary": "From November 1945 to May 1946 officers of the Indian National Army were tried by court-martial at the Red Fort in Delhi, starting with Prem Sahgal, Gurbaksh Singh Dhillon and Shah Nawaz Khan. Congress set up a defence committee.",
+          "eventType": "other",
+          "date": "1945-11",
+          "regionTag": "north",
+          "place": "Delhi",
+          "sensitivity": {
+            "level": "care",
+            "note": "Wartime treason charges, with torture and murder among the allegations."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Indian National Army trials",
+              "url": "https://en.wikipedia.org/wiki/Indian_National_Army_trials",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.freedom-history.bengal-famine-aftermath",
+          "kind": "event",
+          "title": "The Bengal famine in the record",
+          "summary": "The Famine Inquiry Commission's report, published in 1945, estimated about 1.5 million famine-related deaths in Bengal; later scholars' estimates range from 0.8 to 3.8 million.",
+          "eventType": "disaster",
+          "date": "1945",
+          "regionTag": "east",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "Mass death by starvation and disease."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Bengal famine of 1943",
+              "url": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      },
+      "scarcityNote": "Only 3 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Archibald Wavell; Jawaharlal Nehru; Muhammad Ali Jinnah; Subhas Chandra Bose; Homi J. Bhabha.",
+      "items": [
+        {
+          "id": "in.1945.dd.personalities.archibald-wavell",
+          "kind": "person",
+          "title": "Archibald Wavell",
+          "summary": "Field marshal and Viceroy, born 1883.",
+          "field": "Government",
+          "born": "1883",
+          "whyThisYear": "He proposed the plan for an Executive Council of Indians and convened the Simla Conference.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Archibald Wavell, 1st Earl Wavell",
+              "url": "https://en.wikipedia.org/wiki/Archibald_Wavell,_1st_Earl_Wavell",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.personalities.jawaharlal-nehru",
+          "kind": "person",
+          "title": "Jawaharlal Nehru",
+          "summary": "Born in Allahabad in 1889.",
+          "field": "Politics and writing",
+          "born": "1889",
+          "whyThisYear": "He finished The Discovery of India, written in Ahmednagar Fort jail between 1942 and 1945, and sat on Congress's committee for the defence of the INA prisoners.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Jawaharlal Nehru",
+              "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: The Discovery of India",
+              "url": "https://en.wikipedia.org/wiki/The_Discovery_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.personalities.muhammad-ali-jinnah",
+          "kind": "person",
+          "title": "Muhammad Ali Jinnah",
+          "summary": "Born in Karachi in 1876.",
+          "field": "Politics",
+          "born": "1876",
+          "whyThisYear": "At Simla he refused any plan in which Congress appointed Muslim members, and the League won every Muslim seat in the December elections.",
+          "regionTag": "national",
+          "died": "1948",
+          "sources": [
+            {
+              "label": "Wikipedia: Muhammad Ali Jinnah",
+              "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Simla Conference",
+              "url": "https://en.wikipedia.org/wiki/Simla_Conference",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.personalities.subhas-chandra-bose",
+          "kind": "person",
+          "title": "Subhas Chandra Bose",
+          "summary": "Born in Cuttack in 1897.",
+          "field": "Politics and the Indian National Army",
+          "born": "1897",
+          "whyThisYear": "He is presumed to have died in a plane crash in Taiwan on 18 August 1945.",
+          "regionTag": "national",
+          "died": "1945",
+          "sensitivity": {
+            "level": "care",
+            "note": "His fate remains disputed in popular memory."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Subhas Chandra Bose",
+              "url": "https://en.wikipedia.org/wiki/Subhas_Chandra_Bose",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1945 in India",
+              "url": "https://en.wikipedia.org/wiki/1945_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.personalities.homi-bhabha",
+          "kind": "person",
+          "title": "Homi J. Bhabha",
+          "summary": "Physicist, born in Bombay in 1909.",
+          "field": "Physics",
+          "born": "1909",
+          "whyThisYear": "He founded the Tata Institute of Fundamental Research on 1 June 1945.",
+          "regionTag": "national",
+          "died": "1966",
+          "sources": [
+            {
+              "label": "Wikipedia: Homi J. Bhabha",
+              "url": "https://en.wikipedia.org/wiki/Homi_J._Bhabha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Tata Institute of Fundamental Research",
+              "url": "https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.personalities.rusi-modi",
+          "kind": "person",
+          "title": "Rusi Modi",
+          "summary": "Batsman, born in Bombay in 1924.",
+          "field": "Cricket",
+          "born": "1924",
+          "whyThisYear": "He scored 1,008 runs at 201.60 in the 1944-45 Ranji Trophy, then a record for a season.",
+          "regionTag": "national",
+          "died": "1996",
+          "sources": [
+            {
+              "label": "Wikipedia: Rusi Modi",
+              "url": "https://en.wikipedia.org/wiki/Rusi_Modi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1944–45 Ranji Trophy",
+              "url": "https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.personalities.noor-jehan",
+          "kind": "person",
+          "title": "Noor Jehan",
+          "summary": "Singer and actress, born in 1926.",
+          "field": "Film and music",
+          "born": "1926",
+          "whyThisYear": "She starred in Zeenat, the highest-grossing Indian film of 1945.",
+          "regionTag": "national",
+          "died": "2000",
+          "sources": [
+            {
+              "label": "Wikipedia: Noor Jehan",
+              "url": "https://en.wikipedia.org/wiki/Noor_Jehan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Zeenat (1945 film)",
+              "url": "https://en.wikipedia.org/wiki/Zeenat_(1945_film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.personalities.ismat-chughtai",
+          "kind": "person",
+          "title": "Ismat Chughtai",
+          "summary": "Urdu writer, born in 1911.",
+          "field": "Literature",
+          "born": "1911",
+          "whyThisYear": "Her obscenity trial over the story Lihaaf took place in 1945 and she won.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Ismat Chughtai",
+              "url": "https://en.wikipedia.org/wiki/Ismat_Chughtai",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Lihaaf",
+              "url": "https://en.wikipedia.org/wiki/Lihaaf",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: A national home for basic research; 1,008 runs in a Ranji season; The year's highest-grossing film.",
+      "items": [
+        {
+          "id": "in.1945.dd.achievements.tifr-achievement",
+          "kind": "achievement",
+          "title": "A national home for basic research",
+          "summary": "The Tata Institute of Fundamental Research, founded in 1945, became a public research institute under the Department of Atomic Energy.",
+          "domain": "science",
+          "firstOfKind": false,
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Tata Institute of Fundamental Research",
+              "url": "https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.achievements.modi-1008",
+          "kind": "achievement",
+          "title": "1,008 runs in a Ranji season",
+          "summary": "Rusi Modi scored 1,008 runs at an average of 201.60 in five matches in 1944-45, the first player to reach 1,000 in a Ranji Trophy season.",
+          "domain": "sport",
+          "firstOfKind": true,
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Rusi Modi",
+              "url": "https://en.wikipedia.org/wiki/Rusi_Modi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1944–45 Ranji Trophy",
+              "url": "https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.achievements.zeenat-hit",
+          "kind": "achievement",
+          "title": "The year's highest-grossing film",
+          "summary": "Zeenat, with its qawwali 'Aahen Na Bharin Shikwe Na Kiye', was the highest-grossing Indian film of 1945.",
+          "domain": "arts",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Zeenat (1945 film)",
+              "url": "https://en.wikipedia.org/wiki/Zeenat_(1945_film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 1945",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1945",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Runs scored by Rusi Modi in the 1944-45 Ranji Trophy",
+              "value": 1008,
+              "unit": "runs"
+            },
+            {
+              "label": "Elected seats in the Central Legislative Assembly, December 1945",
+              "value": 102,
+              "unit": "seats"
+            },
+            {
+              "label": "Margin of Bombay's win in the Ranji final",
+              "value": 374,
+              "unit": "runs"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1944–45 Ranji Trophy",
+            "url": "https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1945 Indian general election",
+            "url": "https://en.wikipedia.org/wiki/1945_Indian_general_election",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Ranji Trophy final: Bombay beat Holkar; Rusi Modi's record season; Delhi win the Santosh Trophy; Denis Compton for Holkar.",
+      "items": [
+        {
+          "id": "in.1945.dd.sports.ranji-final-1945",
+          "kind": "sport",
+          "title": "Ranji Trophy final: Bombay beat Holkar",
+          "summary": "Bombay beat Holkar by 374 runs at the Brabourne Stadium in a timeless final played from 4 to 9 March 1945. Rusi Modi scored 98 and 151.",
+          "sport": "Cricket",
+          "competition": "Ranji Trophy 1944-45 final",
+          "result": "Bombay won by 374 runs",
+          "scoreline": "Bombay 462 and 764; Holkar 360 and 492",
+          "athletes": [
+            "Rusi Modi"
+          ],
+          "date": "1945-03",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: 1944–45 Ranji Trophy",
+              "url": "https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Rusi Modi",
+              "url": "https://en.wikipedia.org/wiki/Rusi_Modi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.sports.modi-season",
+          "kind": "sport",
+          "title": "Rusi Modi's record season",
+          "summary": "Modi scored 1,008 runs in five matches at 201.60 in the 1944-45 Ranji Trophy, a total no one passed until W. V. Raman made 1,018 in 1988-89.",
+          "sport": "Cricket",
+          "competition": "Ranji Trophy 1944-45",
+          "result": "1,008 runs at 201.60",
+          "athletes": [
+            "Rusi Modi"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Rusi Modi",
+              "url": "https://en.wikipedia.org/wiki/Rusi_Modi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1944–45 Ranji Trophy",
+              "url": "https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.sports.santosh-1944-45",
+          "kind": "sport",
+          "title": "Delhi win the Santosh Trophy",
+          "summary": "Delhi beat Bengal 2-0 to win the 1944-45 Santosh Trophy, the second edition of India's national football championship.",
+          "sport": "Football",
+          "competition": "Santosh Trophy 1944-45",
+          "result": "Delhi 2, Bengal 0",
+          "scoreline": "2-0",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Santosh Trophy",
+              "url": "https://en.wikipedia.org/wiki/Santosh_Trophy",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1944–45 Santosh Trophy",
+              "url": "https://en.wikipedia.org/wiki/1944–45_Santosh_Trophy",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.sports.compton-holkar",
+          "kind": "sport",
+          "title": "Denis Compton for Holkar",
+          "summary": "The England batsman Denis Compton made 249 not out for Holkar in the Ranji final.",
+          "sport": "Cricket",
+          "competition": "Ranji Trophy 1944-45 final",
+          "result": "249 not out",
+          "athletes": [
+            "Denis Compton"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: 1944–45 Ranji Trophy",
+              "url": "https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wisden Cricketers' Almanack, 1997: obituary of Denis Compton (ESPNcricinfo archive)",
+              "url": "https://i.imgci.com/link_to_database/ARCHIVE/CRICKET_NEWS/1997/JAN/423475_WISDEN_01JAN1997.html",
+              "accessed": "2026-10-14",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "Ranji Trophy final, Bombay v Holkar, Brabourne Stadium, 4-9 March 1945",
+            "steps": [
+              {
+                "label": "Bombay, 1st innings",
+                "text": "Bombay bat first and make 462, with Rusi Modi 98.",
+                "score": "462"
+              },
+              {
+                "label": "Holkar, 1st innings",
+                "text": "Holkar reply with 360; Mushtaq Ali scores 109.",
+                "score": "360"
+              },
+              {
+                "label": "Bombay, 2nd innings",
+                "text": "Bombay pile up 764, with Rusi Modi 151 and two other centuries.",
+                "score": "764"
+              },
+              {
+                "label": "Holkar, 2nd innings",
+                "text": "Holkar make 492, but Bombay win by 374 runs after a six-day timeless match.",
+                "score": "492"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1944–45 Ranji Trophy",
+            "url": "https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Rusi Modi",
+            "url": "https://en.wikipedia.org/wiki/Rusi_Modi",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: The English Teacher; The Discovery of India; Lihaaf (The Quilt).",
+      "items": [
+        {
+          "id": "in.1945.dd.literature.the-english-teacher",
+          "kind": "work",
+          "title": "The English Teacher",
+          "summary": "R. K. Narayan's novel, set in the fictional town of Malgudi, was published in 1945.",
+          "workType": "novel",
+          "creator": "R. K. Narayan",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: The English Teacher",
+              "url": "https://en.wikipedia.org/wiki/The_English_Teacher",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: R. K. Narayan",
+              "url": "https://en.wikipedia.org/wiki/R._K._Narayan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.literature.discovery-of-india",
+          "kind": "work",
+          "title": "The Discovery of India",
+          "summary": "Nehru wrote the book in Ahmednagar Fort prison between 1942 and 1945; it was first published in 1946.",
+          "workType": "nonfiction",
+          "creator": "Jawaharlal Nehru",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: The Discovery of India",
+              "url": "https://en.wikipedia.org/wiki/The_Discovery_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.literature.lihaaf",
+          "kind": "work",
+          "title": "Lihaaf (The Quilt)",
+          "summary": "Ismat Chughtai's 1942 Urdu story was tried for obscenity in Lahore in 1945; she refused to apologise and won the case.",
+          "workType": "short-story",
+          "creator": "Ismat Chughtai",
+          "originalTitle": {
+            "text": "لحاف",
+            "lang": "ur"
+          },
+          "transliteration": "Lihaaf",
+          "translatedTitle": "The Quilt",
+          "languages": [
+            "Urdu"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Lihaaf",
+              "url": "https://en.wikipedia.org/wiki/Lihaaf",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Ismat Chughtai",
+              "url": "https://en.wikipedia.org/wiki/Ismat_Chughtai",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 3 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: The English Teacher (first edition); A Brief Memorandum Outlining a Plan of Economic Development for India; The Discovery of India (as read).",
+      "items": [
+        {
+          "id": "in.1945.dd.books-reading.english-teacher-edition",
+          "kind": "work",
+          "title": "The English Teacher (first edition)",
+          "summary": "The first edition of Narayan's novel appeared in 1945.",
+          "workType": "novel",
+          "creator": "R. K. Narayan",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: The English Teacher",
+              "url": "https://en.wikipedia.org/wiki/The_English_Teacher",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.books-reading.bombay-plan-booklet",
+          "kind": "work",
+          "title": "A Brief Memorandum Outlining a Plan of Economic Development for India",
+          "summary": "Eight industrialists, among them J. R. D. Tata and G. D. Birla, published the 'Bombay Plan' in January 1944, with a second edition following in 1945.",
+          "workType": "nonfiction",
+          "creator": "J. R. D. Tata, G. D. Birla and six others",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Bombay Plan",
+              "url": "https://en.wikipedia.org/wiki/Bombay_Plan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.books-reading.discovery-readers",
+          "kind": "work",
+          "title": "The Discovery of India (as read)",
+          "summary": "The book circulated after its 1946 publication from Signet Press, Calcutta; in 1945 it existed as the manuscript Nehru finished in Ahmednagar Fort.",
+          "workType": "nonfiction",
+          "creator": "Jawaharlal Nehru",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: The Discovery of India",
+              "url": "https://en.wikipedia.org/wiki/The_Discovery_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      },
+      "scarcityNote": "Only 3 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Zeenat; Badi Maa; Amrapali; Bachpan.",
+      "items": [
+        {
+          "id": "in.1945.dd.cinema.zeenat",
+          "kind": "film",
+          "title": "Zeenat",
+          "summary": "Shaukat Hussain Rizvi's social melodrama starring Noor Jehan was the highest-grossing Indian film of 1945, known for its qawwali 'Aahen Na Bharin Shikwe Na Kiye'.",
+          "language": "Hindi-Urdu",
+          "releaseDate": "1945-11",
+          "director": "Shaukat Hussain Rizvi",
+          "cast": [
+            "Noor Jehan",
+            "Yakub",
+            "Karan Dewan"
+          ],
+          "notable": "Highest-grossing film of 1945",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Zeenat (1945 film)",
+              "url": "https://en.wikipedia.org/wiki/Zeenat_(1945_film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 1945",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1945",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.cinema.badi-maa",
+          "kind": "film",
+          "title": "Badi Maa",
+          "summary": "A film directed by Master Vinayak with Noor Jehan and Sitara Devi, third among the year's highest grossers.",
+          "language": "Hindi-Urdu",
+          "director": "Master Vinayak",
+          "cast": [
+            "Noor Jehan",
+            "Sitara Devi"
+          ],
+          "notable": "Third-highest grossing of 1945",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1945",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1945",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.cinema.amrapali",
+          "kind": "film",
+          "title": "Amrapali",
+          "summary": "A costume drama directed by Nandlal Jaswantlal with Prem Adib and Sabita Devi.",
+          "language": "Hindi-Urdu",
+          "director": "Nandlal Jaswantlal",
+          "cast": [
+            "Prem Adib",
+            "Sabita Devi"
+          ],
+          "notable": "Costume drama",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1945",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1945",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.cinema.bachpan",
+          "kind": "film",
+          "title": "Bachpan",
+          "summary": "A social family drama directed by Homi Wadia.",
+          "language": "Hindi-Urdu",
+          "director": "Homi Wadia",
+          "notable": "Social family drama",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1945",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1945",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: 'Aahen Na Bharin Shikwe Na Kiye'; Indian People's Theatre Association.",
+      "items": [
+        {
+          "id": "in.1945.dd.music-arts.zeenat-qawwali",
+          "kind": "art",
+          "title": "'Aahen Na Bharin Shikwe Na Kiye'",
+          "summary": "The qawwali from Zeenat is the film's best-known song.",
+          "form": "music",
+          "creator": "Meer Saheb and Hafiz Khan (composers)",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Zeenat (1945 film)",
+              "url": "https://en.wikipedia.org/wiki/Zeenat_(1945_film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.music-arts.ipta",
+          "kind": "art",
+          "title": "Indian People's Theatre Association",
+          "summary": "IPTA, formed in Bombay on 25 May 1943, took theatre to audiences with themes from the freedom struggle and, after the famine, the plight of Bengal.",
+          "form": "theatre",
+          "regionTag": "west",
+          "place": "Bombay",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian People's Theatre Association",
+              "url": "https://en.wikipedia.org/wiki/Indian_People's_Theatre_Association",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 2 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "No item for this section could be checked against sources.",
+      "items": [],
+      "interactive": {
+        "component": "RupeeDashboard"
+      },
+      "scarcityNote": "No item for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

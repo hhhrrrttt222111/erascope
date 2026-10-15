@@ -1,0 +1,1221 @@
+{
+  "country": "in",
+  "year": 1930,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1930",
+    "summary": "Highlights of this year's checked items: The Salt March; The Raman effect; Independence Day declared; The first Round Table Conference; The Deccan Queen; B. R. Ambedkar.",
+    "sources": [
+      {
+        "label": "Wikipedia: 1930 in India",
+        "url": "https://en.wikipedia.org/wiki/1930_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Salt March",
+        "url": "https://en.wikipedia.org/wiki/Salt_March",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Purna Swaraj",
+        "url": "https://en.wikipedia.org/wiki/Purna_Swaraj",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Round Table Conferences (India)",
+        "url": "https://en.wikipedia.org/wiki/Round_Table_Conferences_(India)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1930.dd.freedom-history.salt-march",
+    "in.1930.dd.technology-science.raman-effect",
+    "in.1930.dd.freedom-history.purna-swaraj",
+    "in.1930.dd.government-politics.round-table-conference",
+    "in.1930.dd.technology-science.deccan-queen",
+    "in.1930.dd.personalities.br-ambedkar"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: The Deccan Queen; State broadcasting begins; The Raman effect; Calculations on a voyage to England.",
+      "items": [
+        {
+          "id": "in.1930.dd.technology-science.deccan-queen",
+          "kind": "tech",
+          "title": "The Deccan Queen",
+          "summary": "The Deccan Queen began running on 1 June 1930 between Bombay and Poona. It is described as India's first superfast, long-distance electric-hauled and vestibuled train, with a women-only car and a dining car.",
+          "availability": "urban",
+          "regionTag": "west",
+          "place": "Bombay and Poona",
+          "sources": [
+            {
+              "label": "Wikipedia: Deccan Queen",
+              "url": "https://en.wikipedia.org/wiki/Deccan_Queen",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.technology-science.state-broadcasting",
+          "kind": "tech",
+          "title": "State broadcasting begins",
+          "summary": "After the private Indian Broadcasting Company went into liquidation on 1 March 1930, the government took over its stations and launched the Indian State Broadcasting Service on 1 April 1930.",
+          "availability": "elite-urban",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: All India Radio",
+              "url": "https://en.wikipedia.org/wiki/All_India_Radio",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.technology-science.raman-effect",
+          "kind": "tech",
+          "title": "The Raman effect",
+          "summary": "C. V. Raman won the 1930 Nobel Prize in Physics 'for his work on the scattering of light and for the discovery of the effect named after him'.",
+          "availability": "lab-or-official",
+          "regionTag": "east",
+          "place": "Calcutta",
+          "sources": [
+            {
+              "label": "NobelPrize.org: C. V. Raman, facts (The Nobel Prize in Physics 1930)",
+              "url": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: C. V. Raman",
+              "url": "https://en.wikipedia.org/wiki/C._V._Raman",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.technology-science.chandrasekhar-voyage",
+          "kind": "tech",
+          "title": "Calculations on a voyage to England",
+          "summary": "On a trip from India to England in 1930, the young physicist Subrahmanyan Chandrasekhar worked on the statistics of a degenerate Fermi gas, the start of papers that led to the Chandrasekhar limit for white dwarfs.",
+          "availability": "lab-or-official",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Chandrasekhar limit",
+              "url": "https://en.wikipedia.org/wiki/Chandrasekhar_limit",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Subrahmanyan Chandrasekhar",
+              "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow",
+        "data": {
+          "comparisons": [
+            {
+              "itemId": "in.1930.dd.technology-science.deccan-queen",
+              "nowTitle": "The Deccan Queen today",
+              "specs": [
+                {
+                  "label": "Service",
+                  "then": "A weekend train with two rakes of seven coaches each (1 June 1930)",
+                  "now": "A daily Mumbai–Pune service run by Central Railway"
+                }
+              ]
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Deccan Queen",
+            "url": "https://en.wikipedia.org/wiki/Deccan_Queen",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: Viceroy: Lord Irwin; Secretary of State: Wedgwood Benn; The Simon Commission; The first Round Table Conference.",
+      "items": [
+        {
+          "id": "in.1930.dd.government-politics.viceroy-irwin",
+          "kind": "governance",
+          "title": "Viceroy: Lord Irwin",
+          "summary": "Lord Irwin was Viceroy and Governor-General in 1930, the year of the Salt March and the first Round Table Conference.",
+          "office": "Viceroy and Governor-General of India",
+          "holder": "Lord Irwin",
+          "sources": [
+            {
+              "label": "Wikipedia: 1930 in India",
+              "url": "https://en.wikipedia.org/wiki/1930_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.government-politics.secretary-of-state-benn",
+          "kind": "governance",
+          "title": "Secretary of State: Wedgwood Benn",
+          "summary": "William Wedgwood Benn, a Labour MP, was Secretary of State for India from 7 June 1929 to 24 August 1931.",
+          "office": "Secretary of State for India",
+          "holder": "William Wedgwood Benn",
+          "sources": [
+            {
+              "label": "Wikipedia: Secretary of State for India",
+              "url": "https://en.wikipedia.org/wiki/Secretary_of_State_for_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.government-politics.simon-commission",
+          "kind": "governance",
+          "title": "The Simon Commission",
+          "summary": "The Indian Statutory Commission, seven British members of Parliament under John Simon, was appointed in November 1927 to review constitutional reform. The Congress and the Muslim League opposed it because it had no Indian member.",
+          "instrument": "Indian Statutory Commission",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Simon Commission",
+              "url": "https://en.wikipedia.org/wiki/Simon_Commission",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1930 in India",
+              "url": "https://en.wikipedia.org/wiki/1930_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.government-politics.round-table-conference",
+          "kind": "governance",
+          "title": "The first Round Table Conference",
+          "summary": "George V opened the conference at the House of Lords on 12 November 1930. Seventy-four delegates came from India, 58 from British India and 16 from princely states, but Congress, whose leaders including Gandhi were in jail, kept away.",
+          "instrument": "Round Table Conference, London",
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Wikipedia: Round Table Conferences (India)",
+              "url": "https://en.wikipedia.org/wiki/Round_Table_Conferences_(India)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "crown",
+            "label": "The Crown",
+            "holder": "George V, Emperor of India",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "sos",
+                "label": "Secretary of State for India",
+                "holder": "William Wedgwood Benn",
+                "role": "Minister in London",
+                "children": [
+                  {
+                    "id": "viceroy",
+                    "label": "Viceroy and Governor-General",
+                    "holder": "Lord Irwin",
+                    "role": "Head of the Government of India",
+                    "children": [
+                      {
+                        "id": "assembly",
+                        "label": "Central Legislative Assembly and Council of State",
+                        "role": "Two-chamber legislature created in 1919"
+                      },
+                      {
+                        "id": "prov",
+                        "label": "Provincial governments",
+                        "role": "Dyarchy from 1919"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "How constitutional reform was being decided in 1930",
+            "steps": [
+              {
+                "label": "Commission",
+                "detail": "In November 1927 the British government appointed the Simon Commission, with seven British members and no Indians."
+              },
+              {
+                "label": "Report",
+                "detail": "The Commission's report was published in 1930."
+              },
+              {
+                "label": "Conference",
+                "detail": "The first Round Table Conference opened in London on 12 November 1930; Congress kept away."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1930 in India",
+            "url": "https://en.wikipedia.org/wiki/1930_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Secretary of State for India",
+            "url": "https://en.wikipedia.org/wiki/Secretary_of_State_for_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Simon Commission",
+            "url": "https://en.wikipedia.org/wiki/Simon_Commission",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Round Table Conferences (India)",
+            "url": "https://en.wikipedia.org/wiki/Round_Table_Conferences_(India)",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: Independence Day declared; The Salt March; The Chittagong armoury raid; Dharasana Salt Works; The Allahabad Address.",
+      "items": [
+        {
+          "id": "in.1930.dd.freedom-history.purna-swaraj",
+          "kind": "event",
+          "title": "Independence Day declared",
+          "summary": "The Congress asked people to observe 26 January 1930 as Independence Day, after its Lahore session under Jawaharlal Nehru adopted the goal of complete independence.",
+          "eventType": "movement",
+          "date": "1930-01-26",
+          "regionTag": "national",
+          "place": "Lahore",
+          "sources": [
+            {
+              "label": "Wikipedia: Purna Swaraj",
+              "url": "https://en.wikipedia.org/wiki/Purna_Swaraj",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1930 in India",
+              "url": "https://en.wikipedia.org/wiki/1930_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.freedom-history.salt-march",
+          "kind": "event",
+          "title": "The Salt March",
+          "summary": "Gandhi and 78 others set out from Sabarmati on 12 March 1930 and reached Dandi on the Gujarat coast on 6 April, a 24-day march against the salt tax.",
+          "eventType": "movement",
+          "date": "1930-03-12",
+          "regionTag": "west",
+          "place": "Sabarmati to Dandi",
+          "sources": [
+            {
+              "label": "Wikipedia: Salt March",
+              "url": "https://en.wikipedia.org/wiki/Salt_March",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1930 in India",
+              "url": "https://en.wikipedia.org/wiki/1930_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.freedom-history.chittagong-raid",
+          "kind": "event",
+          "title": "The Chittagong armoury raid",
+          "summary": "On 18 April 1930 revolutionaries led by Surya Sen attempted to raid the police and auxiliary-force armouries at Chittagong.",
+          "eventType": "conflict",
+          "date": "1930-04-18",
+          "regionTag": "east",
+          "place": "Chittagong",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "Armed attack and its aftermath, including executions."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Chittagong armoury raid",
+              "url": "https://en.wikipedia.org/wiki/Chittagong_armoury_raid",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1930 in India",
+              "url": "https://en.wikipedia.org/wiki/1930_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.freedom-history.dharasana",
+          "kind": "event",
+          "title": "Dharasana Salt Works",
+          "summary": "On 21 May 1930 satyagrahis led by Sarojini Naidu marched on the Dharasana Salt Works and were beaten by police; the journalist Webb Miller reported 320 wounded.",
+          "eventType": "movement",
+          "date": "1930-05",
+          "regionTag": "west",
+          "place": "Dharasana",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "Police violence against unarmed protesters."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Dharasana Satyagraha",
+              "url": "https://en.wikipedia.org/wiki/Dharasana_Satyagraha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.freedom-history.allahabad-address",
+          "kind": "event",
+          "title": "The Allahabad Address",
+          "summary": "Muhammad Iqbal, as president of the All-India Muslim League's 21st session, spoke at Allahabad on 29 December 1930.",
+          "eventType": "other",
+          "date": "1930-12",
+          "regionTag": "north",
+          "place": "Allahabad",
+          "sources": [
+            {
+              "label": "Wikipedia: Allahabad Address",
+              "url": "https://en.wikipedia.org/wiki/Allahabad_Address",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      }
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Mohandas Karamchand Gandhi; Jawaharlal Nehru; C. V. Raman; Subrahmanyan Chandrasekhar; Surya Sen.",
+      "items": [
+        {
+          "id": "in.1930.dd.personalities.mohandas-gandhi",
+          "kind": "person",
+          "title": "Mohandas Karamchand Gandhi",
+          "summary": "Born in Porbandar in 1869.",
+          "field": "Public life",
+          "born": "1869",
+          "whyThisYear": "He led the Salt March in March and April 1930 and was arrested on 4-5 May.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Salt March",
+              "url": "https://en.wikipedia.org/wiki/Salt_March",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.personalities.jawaharlal-nehru",
+          "kind": "person",
+          "title": "Jawaharlal Nehru",
+          "summary": "Born in Allahabad in 1889.",
+          "field": "Politics",
+          "born": "1889",
+          "whyThisYear": "He presided over the Lahore session whose resolution was followed by the 26 January 1930 Independence Day pledge.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Jawaharlal Nehru",
+              "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Purna Swaraj",
+              "url": "https://en.wikipedia.org/wiki/Purna_Swaraj",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.personalities.cv-raman",
+          "kind": "person",
+          "title": "C. V. Raman",
+          "summary": "Physicist, born in 1888.",
+          "field": "Physics",
+          "born": "1888",
+          "whyThisYear": "He won the 1930 Nobel Prize in Physics.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: C. V. Raman",
+              "url": "https://en.wikipedia.org/wiki/C._V._Raman",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "NobelPrize.org: C. V. Raman, facts (The Nobel Prize in Physics 1930)",
+              "url": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.personalities.s-chandrasekhar",
+          "kind": "person",
+          "title": "Subrahmanyan Chandrasekhar",
+          "summary": "Born in 1910.",
+          "field": "Astrophysics",
+          "born": "1910",
+          "whyThisYear": "He made the calculations behind the Chandrasekhar limit on a voyage to England.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Subrahmanyan Chandrasekhar",
+              "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Chandrasekhar limit",
+              "url": "https://en.wikipedia.org/wiki/Chandrasekhar_limit",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.personalities.surya-sen",
+          "kind": "person",
+          "title": "Surya Sen",
+          "summary": "Revolutionary, born in 1894.",
+          "field": "Revolutionary politics",
+          "born": "1894",
+          "whyThisYear": "He led the Chittagong armoury raid on 18 April 1930.",
+          "regionTag": "national",
+          "died": "1934",
+          "sources": [
+            {
+              "label": "Wikipedia: Surya Sen",
+              "url": "https://en.wikipedia.org/wiki/Surya_Sen",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Chittagong armoury raid",
+              "url": "https://en.wikipedia.org/wiki/Chittagong_armoury_raid",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.personalities.muhammad-iqbal",
+          "kind": "person",
+          "title": "Muhammad Iqbal",
+          "summary": "Poet and philosopher, born in 1877.",
+          "field": "Poetry and philosophy",
+          "born": "1877",
+          "whyThisYear": "He delivered the Allahabad Address on 29 December 1930.",
+          "regionTag": "national",
+          "died": "1938",
+          "sources": [
+            {
+              "label": "Wikipedia: Muhammad Iqbal",
+              "url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Allahabad Address",
+              "url": "https://en.wikipedia.org/wiki/Allahabad_Address",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.personalities.duleepsinhji",
+          "kind": "person",
+          "title": "K. S. Duleepsinhji",
+          "summary": "Cricketer, born in Nawanagar in 1905.",
+          "field": "Cricket",
+          "born": "1905",
+          "whyThisYear": "He scored 2,562 runs in the 1930 English season, with a highest score of 333.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Duleepsinhji",
+              "url": "https://en.wikipedia.org/wiki/Duleepsinhji",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1930 English cricket season",
+              "url": "https://en.wikipedia.org/wiki/1930_English_cricket_season",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.personalities.br-ambedkar",
+          "kind": "person",
+          "title": "B. R. Ambedkar",
+          "summary": "Jurist and reformer, born in 1891.",
+          "field": "Law and social reform",
+          "born": "1891",
+          "whyThisYear": "He was a delegate for the Depressed Classes at the first Round Table Conference and launched the Kalaram Temple movement.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: B. R. Ambedkar",
+              "url": "https://en.wikipedia.org/wiki/B._R._Ambedkar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Round Table Conferences (India)",
+              "url": "https://en.wikipedia.org/wiki/Round_Table_Conferences_(India)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: A Nobel Prize in Physics; A 24-day march; A train of firsts.",
+      "items": [
+        {
+          "id": "in.1930.dd.achievements.nobel-raman",
+          "kind": "achievement",
+          "title": "A Nobel Prize in Physics",
+          "summary": "Raman's 1930 Nobel Prize in Physics honoured his work on the scattering of light, done in Calcutta.",
+          "domain": "science",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "NobelPrize.org: C. V. Raman, facts (The Nobel Prize in Physics 1930)",
+              "url": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: C. V. Raman",
+              "url": "https://en.wikipedia.org/wiki/C._V._Raman",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.achievements.salt-march-24-days",
+          "kind": "achievement",
+          "title": "A 24-day march",
+          "summary": "The Salt March lasted 24 days from 12 March to 6 April 1930, led by Gandhi with 78 others.",
+          "domain": "social",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Salt March",
+              "url": "https://en.wikipedia.org/wiki/Salt_March",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.achievements.deccan-queen-first",
+          "kind": "achievement",
+          "title": "A train of firsts",
+          "summary": "The Deccan Queen is described as India's first superfast, long-distance electric-hauled and vestibuled train, and the first with a women-only car.",
+          "domain": "engineering",
+          "firstOfKind": true,
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Deccan Queen",
+              "url": "https://en.wikipedia.org/wiki/Deccan_Queen",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Days the Salt March lasted",
+              "value": 24,
+              "unit": "days"
+            },
+            {
+              "label": "Followers who set out with Gandhi",
+              "value": 78,
+              "unit": "people"
+            },
+            {
+              "label": "Delegates from India at the first Round Table Conference",
+              "value": 74,
+              "unit": "delegates"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Salt March",
+            "url": "https://en.wikipedia.org/wiki/Salt_March",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Round Table Conferences (India)",
+            "url": "https://en.wikipedia.org/wiki/Round_Table_Conferences_(India)",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Duleepsinhji's 333 for Sussex; A 2,562-run season.",
+      "items": [
+        {
+          "id": "in.1930.dd.sports.duleep-333",
+          "kind": "sport",
+          "title": "Duleepsinhji's 333 for Sussex",
+          "summary": "K. S. Duleepsinhji made 333 in a single day against Northamptonshire in the 1930 English season, still the highest score by a Sussex batter.",
+          "sport": "Cricket",
+          "competition": "English County Championship, Sussex v Northamptonshire",
+          "result": "333 in one day",
+          "athletes": [
+            "K. S. Duleepsinhji"
+          ],
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Wikipedia: Duleepsinhji",
+              "url": "https://en.wikipedia.org/wiki/Duleepsinhji",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1930 English cricket season",
+              "url": "https://en.wikipedia.org/wiki/1930_English_cricket_season",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.sports.duleep-2562",
+          "kind": "sport",
+          "title": "A 2,562-run season",
+          "summary": "Duleepsinhji scored 2,562 runs at an average of 56.93 in 48 innings in the 1930 English season, with nine centuries.",
+          "sport": "Cricket",
+          "competition": "1930 English first-class season",
+          "result": "2,562 runs at 56.93",
+          "athletes": [
+            "K. S. Duleepsinhji"
+          ],
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Wikipedia: 1930 English cricket season",
+              "url": "https://en.wikipedia.org/wiki/1930_English_cricket_season",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Duleepsinhji",
+              "url": "https://en.wikipedia.org/wiki/Duleepsinhji",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay"
+      },
+      "scarcityNote": "Only 2 items for 1930 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Shesher Kobita; Jogajog; Mahua; Pather Panchali.",
+      "items": [
+        {
+          "id": "in.1930.dd.literature.shesher-kobita",
+          "kind": "work",
+          "title": "Shesher Kobita",
+          "summary": "Tagore's novel Shesher Kobita ('Farewell Song') is dated 1929 in the list of his works.",
+          "workType": "novel",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "শেষের কবিতা",
+            "lang": "bn"
+          },
+          "transliteration": "Shesher Kobita",
+          "translatedTitle": "Farewell Song",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.literature.jogajog",
+          "kind": "work",
+          "title": "Jogajog",
+          "summary": "Tagore's novel Jogajog ('Relationships') is dated 1929.",
+          "workType": "novel",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "যোগাযোগ",
+            "lang": "bn"
+          },
+          "transliteration": "Jogajog",
+          "translatedTitle": "Relationships",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.literature.mahua",
+          "kind": "work",
+          "title": "Mahua",
+          "summary": "Tagore's poetry collection Mahua is dated 1929.",
+          "workType": "poetry",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "মহুয়া",
+            "lang": "bn"
+          },
+          "transliteration": "Mahua",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.literature.pather-panchali-novel",
+          "kind": "work",
+          "title": "Pather Panchali",
+          "summary": "Bibhutibhushan Bandyopadhyay's 1929 Bengali novel, later made into Satyajit Ray's film.",
+          "workType": "novel",
+          "creator": "Bibhutibhushan Bandyopadhyay",
+          "originalTitle": {
+            "text": "পথের পাঁচালী",
+            "lang": "bn"
+          },
+          "transliteration": "Pather Panchali",
+          "translatedTitle": "Song of the Little Road",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Pather Panchali (1955 film; notes the 1929 novel)",
+              "url": "https://en.wikipedia.org/wiki/Pather_Panchali",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Few works dated exactly to 1930 were verified; these were published in 1929 and read in 1930."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Sahaj Path; Ingreji Sahaj Siksha; Young India; Navajivan.",
+      "items": [
+        {
+          "id": "in.1930.dd.books-reading.sahaj-path",
+          "kind": "work",
+          "title": "Sahaj Path",
+          "summary": "Tagore's two-part Bengali primer is dated 1930 in the list of his works.",
+          "workType": "textbook",
+          "creator": "Rabindranath Tagore",
+          "transliteration": "Sahaj Path",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.books-reading.ingreji-sahaj-siksha",
+          "kind": "work",
+          "title": "Ingreji Sahaj Siksha",
+          "summary": "Tagore's two-part primer for learning English, dated 1930.",
+          "workType": "textbook",
+          "creator": "Rabindranath Tagore",
+          "transliteration": "Ingreji Sahaj Siksha",
+          "languages": [
+            "Bengali",
+            "English"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.books-reading.young-india",
+          "kind": "work",
+          "title": "Young India",
+          "summary": "Gandhi's English weekly was in its twelfth year; it ran from 1919 to 1931.",
+          "workType": "periodical",
+          "creator": "Mohandas Gandhi",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Young India",
+              "url": "https://en.wikipedia.org/wiki/Young_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.books-reading.navajivan",
+          "kind": "work",
+          "title": "Navajivan",
+          "summary": "Gandhi's Gujarati periodical Navajivan, published from Ahmedabad from 1919, was in its twelfth year; sources give its end as 1931 or 1932.",
+          "workType": "periodical",
+          "creator": "Mohandas Gandhi",
+          "languages": [
+            "Gujarati"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Navajivan Trust",
+              "url": "https://en.wikipedia.org/wiki/Navajivan_Trust",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Mahatma Gandhi Foundation (mkgandhi.org): Journals by Mahatma Gandhi",
+              "url": "https://www.mkgandhi.org/articles/journals-by-Mahatma-Gandhi.php",
+              "accessed": "2026-10-14",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      }
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Hamara Hindustan (Father India); Bharat Ramani; Lanka Dahan; Khooni Khanjar.",
+      "items": [
+        {
+          "id": "in.1930.dd.cinema.hamara-hindustan",
+          "kind": "film",
+          "title": "Hamara Hindustan (Father India)",
+          "summary": "A social film directed by R. S. Choudhary for the Imperial Film Company, with Sulochana (Ruby Myers).",
+          "language": "Silent (intertitles)",
+          "director": "R. S. Choudhary",
+          "cast": [
+            "Sulochana (Ruby Myers)",
+            "Jal Merchant"
+          ],
+          "notable": "Imperial Film Company",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1930",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1930",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.cinema.bharat-ramani",
+          "kind": "film",
+          "title": "Bharat Ramani",
+          "summary": "A historical film directed by Jyotish Bannerji for Madan Theatres, with Seeta Devi and Patience Cooper.",
+          "language": "Silent (intertitles)",
+          "director": "Jyotish Bannerji",
+          "cast": [
+            "Seeta Devi",
+            "Patience Cooper"
+          ],
+          "notable": "Madan Theatres",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1930",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1930",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.cinema.lanka-dahan-1930",
+          "kind": "film",
+          "title": "Lanka Dahan",
+          "summary": "A mythological film directed by R. Prakasa for General Pictures Corporation, Madras.",
+          "language": "Silent (intertitles)",
+          "director": "R. Prakasa",
+          "cast": [
+            "Devaki",
+            "M. V. Raju"
+          ],
+          "notable": "Made in Madras",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1930",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1930",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.cinema.khooni-khanjar",
+          "kind": "film",
+          "title": "Khooni Khanjar",
+          "summary": "A costume action film from the Prabhat Film Company, directed by V. Shantaram and Keshavrao Dhaiber.",
+          "language": "Silent (intertitles)",
+          "director": "V. Shantaram",
+          "cast": [],
+          "notable": "Prabhat Film Company",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1930",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1930",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: Gauhar Jaan dies; Nandalal Bose at Santiniketan; Madan Theatres at its peak.",
+      "items": [
+        {
+          "id": "in.1930.dd.music-arts.gauhar-jaan-dies",
+          "kind": "art",
+          "title": "Gauhar Jaan dies",
+          "summary": "Gauhar Jaan, known as the 'gramophone girl' and India's first celebrity singer, died in January 1930. She had been among the first to record on 78 rpm discs in India, around 1902.",
+          "form": "music",
+          "creator": "Gauhar Jaan",
+          "regionTag": "east",
+          "place": "Calcutta",
+          "date": "1930-01",
+          "sources": [
+            {
+              "label": "Wikipedia: Gauhar Jaan",
+              "url": "https://en.wikipedia.org/wiki/Gauhar_Jaan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.music-arts.nandalal-bose",
+          "kind": "art",
+          "title": "Nandalal Bose at Santiniketan",
+          "summary": "Nandalal Bose, a pupil of Abanindranath Tagore, was principal of Kala Bhavan at Santiniketan from 1921 and painted scenes from mythology, women and village life.",
+          "form": "painting",
+          "creator": "Nandalal Bose",
+          "regionTag": "east",
+          "place": "Santiniketan",
+          "sources": [
+            {
+              "label": "Wikipedia: Nandalal Bose",
+              "url": "https://en.wikipedia.org/wiki/Nandalal_Bose",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.music-arts.madan-theatres",
+          "kind": "art",
+          "title": "Madan Theatres at its peak",
+          "summary": "By the late 1920s Madan Theatres owned 127 theatres and controlled half of the country's box office.",
+          "form": "theatre",
+          "regionTag": "east",
+          "place": "Calcutta",
+          "sources": [
+            {
+              "label": "Wikipedia: Madan Theatre",
+              "url": "https://en.wikipedia.org/wiki/Madan_Theatre",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 3 items for 1930 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "No item for this section could be checked against sources.",
+      "items": [],
+      "interactive": {
+        "component": "RupeeDashboard"
+      },
+      "scarcityNote": "No item for 1930 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

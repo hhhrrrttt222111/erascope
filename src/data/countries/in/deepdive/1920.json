@@ -1,0 +1,1326 @@
+{
+  "country": "in",
+  "year": 1920,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1920",
+    "summary": "Highlights of this year's checked items: Non-co-operation is launched; Government of India Act 1919; Srinivasa Ramanujan; Dinkarrao Shinde, fourth; The Saha ionisation equation; Nala Damayanti.",
+    "sources": [
+      {
+        "label": "Wikipedia: 1920 in India",
+        "url": "https://en.wikipedia.org/wiki/1920_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Government of India Act 1919",
+        "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1919",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Montagu–Chelmsford Reforms",
+        "url": "https://en.wikipedia.org/wiki/Montagu–Chelmsford_Reforms",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1920.dd.freedom-history.non-cooperation",
+    "in.1920.dd.government-politics.goi-act-1919",
+    "in.1920.dd.personalities.srinivasa-ramanujan",
+    "in.1920.dd.sports.shinde-wrestling",
+    "in.1920.dd.technology-science.saha-ionisation",
+    "in.1920.dd.cinema.nala-damayanti"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: The Saha ionisation equation; Tata hydroelectric power; Steel at Jamshedpur; Raman and the Calcutta laboratories.",
+      "items": [
+        {
+          "id": "in.1920.dd.technology-science.saha-ionisation",
+          "kind": "tech",
+          "title": "The Saha ionisation equation",
+          "summary": "Meghnad Saha's work on the thermal ionisation of elements produced the equation, dated about 1920, that lets astronomers relate a star's spectrum to its temperature.",
+          "availability": "lab-or-official",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Meghnad Saha",
+              "url": "https://en.wikipedia.org/wiki/Meghnad_Saha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.technology-science.tata-hydro",
+          "kind": "tech",
+          "title": "Tata hydroelectric power",
+          "summary": "The Tata hydroelectric company commissioned its Khopoli plant in 1915 and a second at Bhivpuri in 1919, bringing hydro power from the Western Ghats to Bombay.",
+          "availability": "urban",
+          "regionTag": "west",
+          "place": "Bombay region",
+          "sources": [
+            {
+              "label": "Wikipedia: Tata Power",
+              "url": "https://en.wikipedia.org/wiki/Tata_Power",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.technology-science.jamshedpur-steel",
+          "kind": "tech",
+          "title": "Steel at Jamshedpur",
+          "summary": "The Tata Iron and Steel Company began producing pig iron in 1911 and steel in 1912 at Jamshedpur, and kept working through the First World War.",
+          "availability": "urban",
+          "regionTag": "east",
+          "place": "Jamshedpur",
+          "sources": [
+            {
+              "label": "Wikipedia: Tata Steel",
+              "url": "https://en.wikipedia.org/wiki/Tata_Steel",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.technology-science.raman-calcutta",
+          "kind": "tech",
+          "title": "Raman and the Calcutta laboratories",
+          "summary": "C. V. Raman became the first Palit Professor of Physics at the University of Calcutta in 1917, and research scholars from several universities worked under him at the Indian Association for the Cultivation of Science.",
+          "availability": "lab-or-official",
+          "regionTag": "east",
+          "place": "Calcutta (now Kolkata)",
+          "sources": [
+            {
+              "label": "Wikipedia: C. V. Raman",
+              "url": "https://en.wikipedia.org/wiki/C._V._Raman",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      }
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: Viceroy: Lord Chelmsford; Government of India Act 1919; Dyarchy in the provinces; The first elections under the Act.",
+      "items": [
+        {
+          "id": "in.1920.dd.government-politics.viceroy-chelmsford",
+          "kind": "governance",
+          "title": "Viceroy: Lord Chelmsford",
+          "summary": "Frederic Thesiger, Viscount Chelmsford, took office as Viceroy and Governor-General on 4 April 1916 and was Viceroy throughout 1920.",
+          "office": "Viceroy and Governor-General of India",
+          "holder": "Lord Chelmsford",
+          "sources": [
+            {
+              "label": "Wikipedia: Frederic Thesiger, 1st Viscount Chelmsford",
+              "url": "https://en.wikipedia.org/wiki/Frederic_Thesiger,_1st_Viscount_Chelmsford",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.government-politics.goi-act-1919",
+          "kind": "governance",
+          "title": "Government of India Act 1919",
+          "summary": "The Act turned the Imperial Legislative Council into a two-chamber legislature: a Legislative Assembly of 145 members (104 elected) and a Council of State of 60 (34 elected).",
+          "instrument": "Government of India Act 1919",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Government of India Act 1919",
+              "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1919",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Montagu–Chelmsford Reforms",
+              "url": "https://en.wikipedia.org/wiki/Montagu–Chelmsford_Reforms",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.government-politics.dyarchy",
+          "kind": "governance",
+          "title": "Dyarchy in the provinces",
+          "summary": "In the provinces some subjects, such as education, health and agriculture, were 'transferred' to Indian ministers; law and order, finance and land revenue stayed 'reserved' to the Governor.",
+          "instrument": "Dyarchy under the 1919 Act",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Government of India Act 1919",
+              "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1919",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.government-politics.elections-1920",
+          "kind": "governance",
+          "title": "The first elections under the Act",
+          "summary": "104 seats were contested for the new Legislative Assembly. Congress, which had adopted non-co-operation, did not field candidates.",
+          "instrument": "Elections under the 1919 Act",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1920 Indian general election",
+              "url": "https://en.wikipedia.org/wiki/1920_Indian_general_election",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Montagu–Chelmsford Reforms",
+              "url": "https://en.wikipedia.org/wiki/Montagu–Chelmsford_Reforms",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "crown",
+            "label": "The Crown",
+            "holder": "George V, Emperor of India",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "sos",
+                "label": "Secretary of State for India",
+                "holder": "Edwin Montagu",
+                "role": "Minister in London",
+                "children": [
+                  {
+                    "id": "viceroy",
+                    "label": "Viceroy and Governor-General",
+                    "holder": "Lord Chelmsford",
+                    "role": "Head of the Government of India",
+                    "children": [
+                      {
+                        "id": "assembly",
+                        "label": "Central Legislative Assembly",
+                        "role": "Lower house: 145 members, 104 elected"
+                      },
+                      {
+                        "id": "state",
+                        "label": "Council of State",
+                        "role": "Upper house: 60 members, 34 elected"
+                      },
+                      {
+                        "id": "prov",
+                        "label": "Provincial governments",
+                        "role": "Dyarchy: reserved subjects under the Governor, transferred subjects under Indian ministers"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "The Government of India Act 1919",
+            "steps": [
+              {
+                "label": "Report",
+                "detail": "The Montagu–Chelmsford report, by the Secretary of State and the Viceroy, recommended wider Indian participation in government."
+              },
+              {
+                "label": "Act",
+                "detail": "The Act received royal assent on 23 December 1919."
+              },
+              {
+                "label": "Elections",
+                "detail": "A bicameral central legislature was elected; Congress, following Gandhi, did not field candidates."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Government of India Act 1919",
+            "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1919",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Montagu–Chelmsford Reforms",
+            "url": "https://en.wikipedia.org/wiki/Montagu–Chelmsford_Reforms",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1920 Indian general election",
+            "url": "https://en.wikipedia.org/wiki/1920_Indian_general_election",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Frederic Thesiger, 1st Viscount Chelmsford",
+            "url": "https://en.wikipedia.org/wiki/Frederic_Thesiger,_1st_Viscount_Chelmsford",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Secretary of State for India",
+            "url": "https://en.wikipedia.org/wiki/Secretary_of_State_for_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: Non-co-operation is launched; The All India Trade Union Congress; National institutions of education; Death of Bal Gangadhar Tilak.",
+      "items": [
+        {
+          "id": "in.1920.dd.freedom-history.non-cooperation",
+          "kind": "event",
+          "title": "Non-co-operation is launched",
+          "summary": "The Non-cooperation movement was launched by Gandhi on 1 September 1920. A Congress session in September endorsed his proposal of swaraj through non-co-operation with British rule.",
+          "eventType": "movement",
+          "date": "1920-09-01",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Montagu–Chelmsford Reforms",
+              "url": "https://en.wikipedia.org/wiki/Montagu–Chelmsford_Reforms",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.freedom-history.aituc-founded",
+          "kind": "event",
+          "title": "The All India Trade Union Congress",
+          "summary": "The All India Trade Union Congress was founded in Bombay in October 1920 with Lala Lajpat Rai as its first president.",
+          "eventType": "founding",
+          "date": "1920-10",
+          "regionTag": "west",
+          "place": "Bombay (now Mumbai)",
+          "sources": [
+            {
+              "label": "Wikipedia: All India Trade Union Congress",
+              "url": "https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.freedom-history.national-universities",
+          "kind": "event",
+          "title": "National institutions of education",
+          "summary": "Within weeks of one another: the Muhammadan Anglo-Oriental College became Aligarh Muslim University (14 September), Gujarat Vidyapith opened at Ahmedabad (18 October) and Jamia Millia Islamia was established at Aligarh (29 October).",
+          "eventType": "founding",
+          "date": "1920-10",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Aligarh Muslim University",
+              "url": "https://en.wikipedia.org/wiki/Aligarh_Muslim_University",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Gujarat Vidyapith",
+              "url": "https://en.wikipedia.org/wiki/Gujarat_Vidyapith",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Jamia Millia Islamia",
+              "url": "https://en.wikipedia.org/wiki/Jamia_Millia_Islamia",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.freedom-history.tilak-dies",
+          "kind": "event",
+          "title": "Death of Bal Gangadhar Tilak",
+          "summary": "Tilak, called Lokmanya by his followers, one of the 'Lal Bal Pal' triumvirate of nationalists, died on 1 August 1920.",
+          "eventType": "other",
+          "date": "1920-08-01",
+          "regionTag": "west",
+          "place": "Bombay",
+          "sources": [
+            {
+              "label": "Wikipedia: Bal Gangadhar Tilak",
+              "url": "https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      }
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Mohandas Karamchand Gandhi; Bal Gangadhar Tilak; Srinivasa Ramanujan; Meghnad Saha; C. V. Raman.",
+      "items": [
+        {
+          "id": "in.1920.dd.personalities.mohandas-gandhi",
+          "kind": "person",
+          "title": "Mohandas Karamchand Gandhi",
+          "summary": "Leader of the Congress's new mass movement, born in Porbandar in 1869.",
+          "field": "Public life",
+          "born": "1869",
+          "whyThisYear": "He launched the non-co-operation movement on 1 September 1920.",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.personalities.bal-gangadhar-tilak",
+          "kind": "person",
+          "title": "Bal Gangadhar Tilak",
+          "summary": "Nationalist and journalist from Ratnagiri, born in 1856.",
+          "field": "Politics and journalism",
+          "born": "1856",
+          "died": "1920",
+          "whyThisYear": "He died on 1 August 1920.",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Bal Gangadhar Tilak",
+              "url": "https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.personalities.srinivasa-ramanujan",
+          "kind": "person",
+          "title": "Srinivasa Ramanujan",
+          "summary": "Mathematician from Erode, born in 1887, Fellow of the Royal Society since 1918.",
+          "field": "Mathematics",
+          "born": "1887",
+          "died": "1920",
+          "whyThisYear": "He died on 26 April 1920 aged 32; his last letters to G. H. Hardy, written in January 1920, still held new ideas.",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Srinivasa Ramanujan",
+              "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.personalities.meghnad-saha",
+          "kind": "person",
+          "title": "Meghnad Saha",
+          "summary": "Astrophysicist, born in 1893.",
+          "field": "Astrophysics",
+          "born": "1893",
+          "whyThisYear": "His thermal-ionisation equation is dated to about 1920.",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Meghnad Saha",
+              "url": "https://en.wikipedia.org/wiki/Meghnad_Saha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.personalities.cv-raman",
+          "kind": "person",
+          "title": "C. V. Raman",
+          "summary": "Physicist, born in Tamil Nadu in 1888.",
+          "field": "Physics",
+          "born": "1888",
+          "whyThisYear": "He held the Palit Chair of Physics at Calcutta and supervised research scholars from several universities.",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: C. V. Raman",
+              "url": "https://en.wikipedia.org/wiki/C._V._Raman",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.personalities.lala-lajpat-rai",
+          "kind": "person",
+          "title": "Lala Lajpat Rai",
+          "summary": "Punjab leader, born in 1865.",
+          "field": "Politics and labour",
+          "born": "1865",
+          "whyThisYear": "He returned from the United States, was elected president of the Calcutta special session of Congress and became first president of the AITUC.",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Lala Lajpat Rai",
+              "url": "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: All India Trade Union Congress",
+              "url": "https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.personalities.premchand",
+          "kind": "person",
+          "title": "Premchand",
+          "summary": "Hindi and Urdu novelist, born in 1880.",
+          "field": "Literature",
+          "born": "1880",
+          "whyThisYear": "His first major novel, Seva Sadan, had appeared in Hindi in 1919; Gandhi's call to resign government posts reached him in February 1921.",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Premchand",
+              "url": "https://en.wikipedia.org/wiki/Premchand",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.personalities.purma-bannerjee",
+          "kind": "person",
+          "title": "Purma Bannerjee",
+          "summary": "Sprinter who carried the flag for India at the Antwerp Olympics.",
+          "field": "Athletics",
+          "whyThisYear": "He ran the 100 m and 400 m at the 1920 Olympics.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1920 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India at the 1920 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/7",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: A tool for reading starlight; An Indian team at Antwerp; Ramanujan's lost notebook; A national labour federation.",
+      "items": [
+        {
+          "id": "in.1920.dd.achievements.saha-equation",
+          "kind": "achievement",
+          "title": "A tool for reading starlight",
+          "summary": "Saha's ionisation equation, from about 1920, remains a basic tool for interpreting the spectra of stars.",
+          "domain": "science",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Meghnad Saha",
+              "url": "https://en.wikipedia.org/wiki/Meghnad_Saha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.achievements.antwerp-team",
+          "kind": "achievement",
+          "title": "An Indian team at Antwerp",
+          "summary": "Five Indian athletes in two sports went to the 1920 Olympics. The freestyle wrestler Dinkarrao Shinde finished fourth.",
+          "domain": "sport",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1920 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India at the 1920 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/7",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.achievements.ramanujan-notebook",
+          "kind": "achievement",
+          "title": "Ramanujan's lost notebook",
+          "summary": "In his last months Ramanujan wrote down discoveries that became known as his 'lost notebook'; in his lifetime he compiled nearly 3,900 results.",
+          "domain": "science",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Srinivasa Ramanujan",
+              "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.achievements.aituc",
+          "kind": "achievement",
+          "title": "A national labour federation",
+          "summary": "The AITUC became the first federation of trade unions across India.",
+          "domain": "social",
+          "firstOfKind": true,
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: All India Trade Union Congress",
+              "url": "https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Athletes in India's team at Antwerp",
+              "value": 5,
+              "unit": "athletes"
+            },
+            {
+              "label": "Results Ramanujan compiled in his lifetime",
+              "value": 3900,
+              "unit": "results (nearly)"
+            },
+            {
+              "label": "Elected seats in the Legislative Assembly",
+              "value": 104,
+              "unit": "seats"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: India at the 1920 Summer Olympics",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Srinivasa Ramanujan",
+            "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Government of India Act 1919",
+            "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1919",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Dinkarrao Shinde, fourth; Kumar Navale, middleweight; Phadeppa Chaugule, marathon; Purma Bannerjee, 100 m and 400 m.",
+      "items": [
+        {
+          "id": "in.1920.dd.sports.shinde-wrestling",
+          "kind": "sport",
+          "title": "Dinkarrao Shinde, fourth",
+          "summary": "In India's debut in Olympic wrestling, Dinkarrao Shinde won his quarterfinal, lost the semifinal and the bronze-medal match, and finished fourth in the freestyle featherweight class.",
+          "sport": "Wrestling",
+          "competition": "1920 Summer Olympics, Antwerp",
+          "result": "Fourth, freestyle featherweight",
+          "athletes": [
+            "Dinkarrao Shinde"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1920 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India at the 1920 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/7",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.sports.navale-wrestling",
+          "kind": "sport",
+          "title": "Kumar Navale, middleweight",
+          "summary": "Kumar Navale lost in the round of 16 in freestyle middleweight wrestling and was ranked joint ninth.",
+          "sport": "Wrestling",
+          "competition": "1920 Summer Olympics, Antwerp",
+          "result": "Joint ninth, freestyle middleweight",
+          "athletes": [
+            "Kumar Navale"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1920 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India at the 1920 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/7",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.sports.chaugule-marathon",
+          "kind": "sport",
+          "title": "Phadeppa Chaugule, marathon",
+          "summary": "Phadeppa Chaugule finished 19th in the Olympic marathon; his team-mate Sadashiv Datar did not finish.",
+          "sport": "Athletics",
+          "competition": "1920 Summer Olympics, Antwerp",
+          "result": "19th, marathon",
+          "athletes": [
+            "Phadeppa Chaugule",
+            "Sadashiv Datar"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1920 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India at the 1920 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/7",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.sports.bannerjee-sprints",
+          "kind": "sport",
+          "title": "Purma Bannerjee, 100 m and 400 m",
+          "summary": "Purma Bannerjee, India's flag-bearer, was fifth in his 100 m heat and fourth in his 400 m heat and did not advance.",
+          "sport": "Athletics",
+          "competition": "1920 Summer Olympics, Antwerp",
+          "result": "Eliminated in heats",
+          "athletes": [
+            "Purma Bannerjee"
+          ],
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1920 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India at the 1920 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/7",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "Freestyle wrestling, featherweight, Antwerp 1920: Dinkarrao Shinde",
+            "steps": [
+              {
+                "label": "Round of 16",
+                "text": "Bye."
+              },
+              {
+                "label": "Quarterfinal",
+                "text": "Shinde beats Inman of Great Britain."
+              },
+              {
+                "label": "Semifinal",
+                "text": "Loses to Gerson of the United States."
+              },
+              {
+                "label": "Bronze-medal match",
+                "text": "Loses to Bernard of Great Britain and finishes fourth."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: India at the 1920 Summer Olympics",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Olympedia: India at the 1920 Summer Olympics",
+            "url": "https://www.olympedia.org/countries/IND/editions/7",
+            "accessed": "2026-10-13",
+            "quality": "primary"
+          }
+        ]
+      }
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Poila Nombor; Arupratan; Biraj Bou; Japan Jatri.",
+      "items": [
+        {
+          "id": "in.1920.dd.literature.poila-nombor",
+          "kind": "work",
+          "title": "Poila Nombor",
+          "summary": "Rabindranath Tagore's short story 'House Number One' is listed with a 1920 date.",
+          "workType": "short-story",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "পয়লা নম্বর",
+            "lang": "bn"
+          },
+          "transliteration": "Poila Nombor",
+          "translatedTitle": "House Number One",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.literature.arupratan",
+          "kind": "work",
+          "title": "Arupratan",
+          "summary": "Tagore's 1920 stage version of his play Raja ('The King of the Dark Chamber').",
+          "workType": "play",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "অরূপরতন",
+            "lang": "bn"
+          },
+          "transliteration": "Arupratan",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.literature.biraj-bou",
+          "kind": "work",
+          "title": "Biraj Bou",
+          "summary": "Sarat Chandra Chattopadhyay's novel was staged in Calcutta in 1918 and translated into Hindi in 1919, the first translation of his work into another Indian language.",
+          "workType": "novel",
+          "creator": "Sarat Chandra Chattopadhyay",
+          "originalTitle": {
+            "text": "বিরাজ বৌ",
+            "lang": "bn"
+          },
+          "transliteration": "Biraj Bou",
+          "languages": [
+            "Bengali",
+            "Hindi"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Sarat Chandra Chattopadhyay",
+              "url": "https://en.wikipedia.org/wiki/Sarat_Chandra_Chattopadhyay",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.literature.japan-jatri",
+          "kind": "work",
+          "title": "Japan Jatri",
+          "summary": "Tagore's travel account of Japan, dated 1919 in the list of his works.",
+          "workType": "nonfiction",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "জাপান যাত্রী",
+            "lang": "bn"
+          },
+          "transliteration": "Japan Jatri",
+          "translatedTitle": "Travel in Japan",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Few works securely dated to 1920 itself were verified; two are 1920 books by Tagore and two are from 1918-19 that were circulating in 1920."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Young India; Navajivan; Saraswati; Seva Sadan.",
+      "items": [
+        {
+          "id": "in.1920.dd.books-reading.young-india",
+          "kind": "work",
+          "title": "Young India",
+          "summary": "Gandhi's English-language periodical, published from 1919 to 1931.",
+          "workType": "periodical",
+          "creator": "Mohandas Gandhi",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Young India",
+              "url": "https://en.wikipedia.org/wiki/Young_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.books-reading.navajivan-weekly",
+          "kind": "work",
+          "title": "Navajivan",
+          "summary": "Gandhi's Gujarati periodical Navajivan was published from Ahmedabad from 1919; one account says it began as a monthly and became a weekly on 7 September 1919.",
+          "workType": "periodical",
+          "creator": "Mohandas Gandhi",
+          "languages": [
+            "Gujarati"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Navajivan Trust",
+              "url": "https://en.wikipedia.org/wiki/Navajivan_Trust",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Mahatma Gandhi Foundation (mkgandhi.org): Journals by Mahatma Gandhi",
+              "url": "https://www.mkgandhi.org/articles/journals-by-Mahatma-Gandhi.php",
+              "accessed": "2026-10-14",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        },
+        {
+          "id": "in.1920.dd.books-reading.saraswati-dwivedi",
+          "kind": "work",
+          "title": "Saraswati",
+          "summary": "The Hindi monthly Saraswati: Mahavir Prasad Dwivedi edited it from 1903 to 1920 and gave a platform to writers such as Premchand.",
+          "workType": "periodical",
+          "creator": "Mahavir Prasad Dwivedi (editor)",
+          "languages": [
+            "Hindi"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Saraswati (magazine)",
+              "url": "https://en.wikipedia.org/wiki/Saraswati_(magazine)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.books-reading.seva-sadan",
+          "kind": "work",
+          "title": "Seva Sadan",
+          "summary": "Premchand's first major novel was written in Urdu as Bazaar-e-Husn but first published in Hindi, in 1919, by a Calcutta publisher who offered him Rs 450.",
+          "workType": "novel",
+          "creator": "Premchand",
+          "originalTitle": {
+            "text": "बाज़ार-ए-हुस्न",
+            "lang": "ur"
+          },
+          "languages": [
+            "Hindi",
+            "Urdu"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Premchand",
+              "url": "https://en.wikipedia.org/wiki/Premchand",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      }
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Nala Damayanti; Katorabhar Khoon; Sairandhri; Shakuntala.",
+      "items": [
+        {
+          "id": "in.1920.dd.cinema.nala-damayanti",
+          "kind": "film",
+          "title": "Nala Damayanti",
+          "summary": "Madan Theatres' 1920 silent film, directed by the Italian Eugenio de Liguoro, with Patience Cooper as Damayanti.",
+          "language": "Silent (intertitles)",
+          "director": "Eugenio de Liguoro",
+          "cast": [
+            "Patience Cooper"
+          ],
+          "notable": "Madan Theatres of Calcutta",
+          "regionTag": "east",
+          "place": "Calcutta",
+          "sources": [
+            {
+              "label": "Wikipedia: Nala and Damayanti",
+              "url": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Madan Theatre",
+              "url": "https://en.wikipedia.org/wiki/Madan_Theatre",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.cinema.katorabhar-khoon",
+          "kind": "film",
+          "title": "Katorabhar Khoon",
+          "summary": "A 1920 social film directed by S. N. Patankar, also known as The Stinger Stung.",
+          "language": "Silent (Hindi title)",
+          "director": "S. N. Patankar",
+          "notable": "A social, not a mythological, subject",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Katorabhar Khoon",
+              "url": "https://en.wikipedia.org/wiki/Katorabhar_Khoon",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 1920",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1920",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.cinema.sairandhri",
+          "kind": "film",
+          "title": "Sairandhri",
+          "summary": "A mythological film directed by Baburao Painter for the Maharashtra Film Company, listed among the year's releases.",
+          "language": "Silent (intertitles)",
+          "director": "Baburao Painter",
+          "notable": "From the Maharashtra Film Company",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1920",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1920",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.cinema.shakuntala-1920",
+          "kind": "film",
+          "title": "Shakuntala",
+          "summary": "The Oriental Film Manufacturing Co. made a mythological Shakuntala directed by Suchet Singh; he died in a car crash the same year.",
+          "language": "Silent (intertitles)",
+          "director": "Suchet Singh",
+          "notable": "Oriental Film Manufacturing Co.",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1920",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1920",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel",
+        "data": {
+          "ticket": {
+            "price": "as low as 1 anna",
+            "note": "One-sixteenth of a rupee, in Bombay; the article does not date the figure more closely than the silent era."
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Cinema of India",
+            "url": "https://en.wikipedia.org/wiki/Cinema_of_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: Kala Bhavana, Santiniketan; Victoria Memorial, Calcutta; Gateway of India; Ravi Shankar is born.",
+      "items": [
+        {
+          "id": "in.1920.dd.music-arts.kala-bhavana",
+          "kind": "art",
+          "title": "Kala Bhavana, Santiniketan",
+          "summary": "Tagore's institute of fine arts at Santiniketan began teaching music and art in 1919.",
+          "form": "painting",
+          "creator": "Rabindranath Tagore",
+          "regionTag": "east",
+          "place": "Santiniketan",
+          "sources": [
+            {
+              "label": "Wikipedia: Kala Bhavana",
+              "url": "https://en.wikipedia.org/wiki/Kala_Bhavana",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.music-arts.victoria-memorial",
+          "kind": "art",
+          "title": "Victoria Memorial, Calcutta",
+          "summary": "A marble monument on the Maidan, built from 1906 and finished in 1921, designed by William Emerson.",
+          "form": "architecture",
+          "creator": "William Emerson",
+          "regionTag": "east",
+          "place": "Calcutta",
+          "sources": [
+            {
+              "label": "Wikipedia: Victoria Memorial, Kolkata",
+              "url": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.music-arts.gateway-of-india",
+          "kind": "art",
+          "title": "Gateway of India",
+          "summary": "The arch at Bombay's waterfront was begun in 1913 and completed in 1924, to commemorate George V's landing in 1911.",
+          "form": "architecture",
+          "regionTag": "west",
+          "place": "Bombay",
+          "sources": [
+            {
+              "label": "Wikipedia: Gateway of India",
+              "url": "https://en.wikipedia.org/wiki/Gateway_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.music-arts.ravi-shankar-born",
+          "kind": "art",
+          "title": "Ravi Shankar is born",
+          "summary": "The sitar player and composer Ravi Shankar was born on 7 April 1920.",
+          "form": "music",
+          "creator": "Ravi Shankar",
+          "regionTag": "north",
+          "date": "1920-04-07",
+          "sources": [
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Ravi Shankar",
+              "url": "https://en.wikipedia.org/wiki/Ravi_Shankar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      }
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "No item for this section could be checked against sources.",
+      "items": [],
+      "interactive": {
+        "component": "RupeeDashboard"
+      },
+      "scarcityNote": "No item for 1920 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

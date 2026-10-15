@@ -1,0 +1,290 @@
+{
+  "year": 2050,
+  "country": "in",
+  "title": "India, 2050 (imagined)",
+  "tagline": "An imagined year, built on named plans and projections. Nothing here is a prediction.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an imagined urban household in India (not a real family)",
+    "politicalStatus": "Republic of India (imagined)",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.2050.morning.heat",
+      "time": "Early morning",
+      "activity": "A heat advisory on the phone",
+      "detail": "In this imagined 2050 the day starts with a heat advisory, because heatwaves like the 2010 one that reached 53 C might be more frequent and planned for.",
+      "icon": "WbSunny",
+      "source": {
+        "label": "Wikipedia: 2010 in India",
+        "url": "https://en.wikipedia.org/wiki/2010_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.morning.translate",
+      "time": "Morning",
+      "activity": "A call across languages",
+      "detail": "A phone might translate speech between India's widely spoken languages fluently, as an ordinary utility.",
+      "icon": "Translate",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.morning.grid",
+      "time": "Morning",
+      "activity": "A cleaner grid",
+      "detail": "The electricity grid might be well on the way to the 2070 net-zero pledge, with coal a smaller share of supply.",
+      "icon": "ElectricBolt",
+      "source": {
+        "label": "Wikipedia: Climate change in India",
+        "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.morning.station",
+      "time": "Evening",
+      "activity": "A station overhead",
+      "detail": "The Bharatiya Antariksh Station, planned for completion by 2035, might have been staffed for years.",
+      "icon": "Satellite",
+      "source": {
+        "label": "Wikipedia: Bharatiya Antariksh Station",
+        "url": "https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.2050.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "An imagined front page for the hundredth anniversary of the Constitution on 26 January 2050.",
+      "imageAlt": "An imagined holographic front page with a headline about a centenary",
+      "highlights": [
+        "The Republic's hundredth anniversary, 26 January 2050 (imagined)",
+        "Halfway to the 2070 net-zero pledge (imagined)",
+        "Oral histories of independence collected (imagined)"
+      ],
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.places.bedroom",
+      "kind": "bedroom",
+      "title": "The home",
+      "description": "An imagined room with a translation speaker, a cooling vent and a library of audio books.",
+      "imageAlt": "A glowing imagined room with an ambient speaker and a window",
+      "highlights": [
+        "Audio-first reading",
+        "Everyday translation",
+        "Heat-ready cooling"
+      ],
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "An imagined street with shade structures that double as large public canvases, and a space-station map in the metro.",
+      "imageAlt": "A shaded street with shaded canvases and a transit stop",
+      "highlights": [
+        "Shade structures as murals",
+        "Heat-aware streets",
+        "A station overhead"
+      ],
+      "checked": "2026-10-14"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.2050.prices.population",
+      "item": "Projected population",
+      "price": "about 1.7 billion",
+      "originalUnits": "people, a current projection for 2050",
+      "source": {
+        "label": "Wikipedia: Demographics of India",
+        "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.prices.economy",
+      "item": "Government's economic target for 2047",
+      "price": "about US$29-30 trillion",
+      "originalUnits": "US dollars, the target year is 2047",
+      "source": {
+        "label": "Wikipedia: Viksit Bharat @2047",
+        "url": "https://en.wikipedia.org/wiki/Viksit_Bharat_@2047",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.prices.net-zero",
+      "item": "Net-zero emissions pledge year",
+      "price": "2070",
+      "originalUnits": "calendar year of the pledge",
+      "source": {
+        "label": "Wikipedia: Climate change in India",
+        "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.prices.station-mass",
+      "item": "Planned space station mass",
+      "price": "about 52 tonnes",
+      "originalUnits": "tonnes, orbit near 400 km, completion planned by 2035",
+      "source": {
+        "label": "Wikipedia: Bharatiya Antariksh Station",
+        "url": "https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.prices.gaganyaan",
+      "item": "Gaganyaan crew size",
+      "price": "3 people",
+      "originalUnits": "people per design flight to low Earth orbit",
+      "source": {
+        "label": "Wikipedia: Gaganyaan",
+        "url": "https://en.wikipedia.org/wiki/Gaganyaan",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.2050.technology.space-station",
+      "name": "An Indian space station in orbit (imagined)",
+      "category": "transport",
+      "description": "The Bharatiya Antariksh Station is planned today to weigh about 52 tonnes, orbit near 400 km and be complete by 2035. By 2050 it might have been staffed for years and be due for replacement.",
+      "source": {
+        "label": "Wikipedia: Bharatiya Antariksh Station",
+        "url": "https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.technology.crewed-flight",
+      "name": "Routine crewed flights (imagined)",
+      "category": "transport",
+      "description": "Gaganyaan is designed to carry three people to low Earth orbit; by 2050 crewed flights might be unremarkable.",
+      "source": {
+        "label": "Wikipedia: Gaganyaan",
+        "url": "https://en.wikipedia.org/wiki/Gaganyaan",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.technology.clean-grid",
+      "name": "A grid closer to net zero (imagined)",
+      "category": "home",
+      "description": "India has said it aims for net-zero emissions by 2070; by 2050 the electricity grid might be well on the way, with coal a smaller share of supply.",
+      "source": {
+        "label": "Wikipedia: Climate change in India",
+        "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.technology.translation",
+      "name": "Everyday machine translation (imagined)",
+      "category": "communication",
+      "description": "With dozens of widely spoken languages, a phone that translates speech between them fluently might be an ordinary utility by 2050.",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.technology.audio-books",
+      "name": "Audio-first reading (imagined)",
+      "category": "entertainment",
+      "description": "Many readers might listen in their own language while commuting.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "in.2050.visions.cities-heat",
+      "prediction": "By 2100 cities might be planned around heat first, with shade, water and night-time hours built into the street.",
+      "whoSaidIt": "An imagined resident of 2050 (not a real person)",
+      "cameTrue": "unknown",
+      "note": "Imagined.",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.visions.space",
+      "prediction": "By 2100 India might have a routine presence beyond low Earth orbit.",
+      "whoSaidIt": "An imagined resident of 2050 (not a real person)",
+      "cameTrue": "unknown",
+      "note": "Imagined.",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.visions.languages",
+      "prediction": "By 2100 language might no longer decide who can take part in a conversation.",
+      "whoSaidIt": "An imagined resident of 2050 (not a real person)",
+      "cameTrue": "unknown",
+      "note": "Imagined.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "in.2050.headlines.centenary",
+      "date": "2050-01-26",
+      "headline": "Imagined: the republic marks its hundredth anniversary",
+      "publication": "Imagined headline for a speculative year",
+      "verbatim": false,
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.headlines.net-zero",
+      "date": "2050-06",
+      "headline": "Imagined: halfway to the 2070 net-zero pledge",
+      "publication": "Imagined headline for a speculative year",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Climate change in India",
+        "url": "https://en.wikipedia.org/wiki/Climate_change_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2050.headlines.memory",
+      "date": "2050-08",
+      "headline": "Imagined: oral histories of the independence era are archived",
+      "publication": "Imagined headline for a speculative year",
+      "verbatim": false,
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "The same 3D scene as the World view. Everything about India in 2050 is imagined.",
+  "notes": {
+    "prices": "No prices are given for 2050. These are baselines: today's projections, targets and plans that the imagined year builds on."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "year": 1960,
+  "speculative": false,
+  "theme": {
+    "chrome": "midcentury",
+    "transition": "tvclick",
+    "palette": {
+      "primary": "#0f6e6e",
+      "secondary": "#d9822b",
+      "background": "#f3e9d2",
+      "paper": "#fffaf0",
+      "text": "#2b2118"
+    },
+    "fonts": {
+      "heading": "Jost",
+      "body": "Jost"
+    },
+    "sound": "tv-click"
+  },
+  "scene": {
+    "component": "Television1960"
+  }
+}

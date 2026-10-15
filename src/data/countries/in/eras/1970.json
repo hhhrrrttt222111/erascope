@@ -1,0 +1,351 @@
+{
+  "year": 1970,
+  "country": "in",
+  "title": "India, 1970",
+  "tagline": "A milk grid, a rock memorial and the end of the privy purses.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in the Republic of India (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1970.morning.radio",
+      "time": "Morning",
+      "activity": "Film music on Vividh Bharati",
+      "detail": "All India Radio's Vividh Bharati service, launched on 3 October 1957, carried film music and commercials across India.",
+      "icon": "Radio",
+      "source": {
+        "label": "Wikipedia: Vividh Bharati",
+        "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.morning.milk",
+      "time": "Early morning",
+      "activity": "Milk from a co-operative",
+      "detail": "Operation Flood, launched on 13 January 1970 by the National Dairy Development Board, built a national milk grid linking village co-operatives to consumers.",
+      "icon": "LocalDrink",
+      "source": {
+        "label": "Wikipedia: White revolution (India)",
+        "url": "https://en.wikipedia.org/wiki/White_revolution_(India)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.morning.comics",
+      "time": "Afternoon",
+      "activity": "Amar Chitra Katha",
+      "detail": "The comic-book series, founded by Anant Pai in 1967, retold myths and history.",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: Amar Chitra Katha",
+        "url": "https://en.wikipedia.org/wiki/Amar_Chitra_Katha",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.morning.weekly",
+      "time": "Evening",
+      "activity": "The Illustrated Weekly",
+      "detail": "An English-language weekly newsmagazine published from 1880 to 1993.",
+      "icon": "Newspaper",
+      "source": {
+        "label": "Wikipedia: The Illustrated Weekly of India",
+        "url": "https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1970.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Operation Flood, the 'White Revolution', is launched (1970-01-13).",
+      "imageAlt": "A newspaper front page in 1970s poster style with a bold headline",
+      "highlights": [
+        "Operation Flood, the 'White Revolution', is launched"
+      ],
+      "source": {
+        "label": "Wikipedia: White revolution (India)",
+        "url": "https://en.wikipedia.org/wiki/White_revolution_(India)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1970.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "The Amar Chitra Katha comic-book series, founded by Anant Pai in 1967, retold myths and history.",
+      "imageAlt": "A 1970s room with a radio, a comic book and a weekly magazine on a low table",
+      "highlights": [
+        "Amar Chitra Katha"
+      ],
+      "source": {
+        "label": "Wikipedia: Amar Chitra Katha",
+        "url": "https://en.wikipedia.org/wiki/Amar_Chitra_Katha",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Tarapur Atomic Power Station: India's first nuclear power station, Tarapur, with two boiling-water reactors, was commissioned on 28 October 1969.",
+      "imageAlt": "A street scene with a hand-painted film hoarding",
+      "highlights": [
+        "Tarapur Atomic Power Station"
+      ],
+      "source": {
+        "label": "Wikipedia: Tarapur Atomic Power Station",
+        "url": "https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.1970.prices.rice",
+      "item": "Rice, coarse second sort, wholesale at Vijayawada",
+      "price": "Rs 93.17 per quintal",
+      "originalUnits": "decimal rupees per quintal",
+      "decimalINR": "₹0.93 per kg",
+      "adjusted2026": "about ₹4,720 per quintal",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23183",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.prices.wheat",
+      "item": "Wheat, dara, wholesale at Abohar",
+      "price": "Rs 90.05 per quintal",
+      "originalUnits": "decimal rupees per quintal",
+      "decimalINR": "₹0.90 per kg",
+      "adjusted2026": "about ₹4,560 per quintal",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23183",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.prices.milk",
+      "item": "Milk, wholesale at Delhi",
+      "price": "Rs 127.08 per 100 litres",
+      "originalUnits": "decimal rupees per 100 litres",
+      "decimalINR": "₹1.27 per litre",
+      "adjusted2026": "about ₹6,440 per 100 litres",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23183",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.prices.sugar",
+      "item": "Sugar (D-29), ex-factory at Kanpur",
+      "price": "Rs 157.02 per quintal",
+      "originalUnits": "decimal rupees per quintal; the average control price of all factories in Uttar Pradesh",
+      "decimalINR": "₹1.57 per kg",
+      "adjusted2026": "about ₹7,960 per quintal",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23183",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.prices.petrol",
+      "item": "Petrol, ex-pump, in bulk at Calcutta",
+      "price": "Rs 1,190.30 per kilolitre",
+      "originalUnits": "decimal rupees per kilolitre, inclusive of sale tax",
+      "decimalINR": "₹1.19 per litre",
+      "adjusted2026": "about ₹60,300 per kilolitre",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23183",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.prices.gold",
+      "item": "Gold, spot at Bombay (average of 1970-71)",
+      "price": "Rs 184.96 per 10 grams",
+      "originalUnits": "decimal rupees per 10 grams; highest 198.00, lowest 177.50",
+      "decimalINR": "₹18.50 per gram",
+      "adjusted2026": "about ₹9,380 per 10 grams",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23191",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.prices.exchange",
+      "item": "Rupees to the US dollar (annual average)",
+      "price": "Rs 7.50",
+      "originalUnits": "official rate, rupees per US dollar",
+      "source": {
+        "label": "World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)",
+        "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.1970.technology.tarapur",
+      "name": "Tarapur Atomic Power Station",
+      "category": "home",
+      "description": "India's first nuclear power station, Tarapur, with two boiling-water reactors, was commissioned on 28 October 1969.",
+      "source": {
+        "label": "Wikipedia: Tarapur Atomic Power Station",
+        "url": "https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.technology.isro",
+      "name": "ISRO takes its name",
+      "category": "work",
+      "description": "The Indian National Committee for Space Research, set up in 1962 on Vikram Sarabhai's recommendation, was renamed the Indian Space Research Organisation on 15 August 1969.",
+      "source": {
+        "label": "Wikipedia: ISRO",
+        "url": "https://en.wikipedia.org/wiki/ISRO",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.technology.milk-grid",
+      "name": "The national milk grid",
+      "category": "home",
+      "description": "Operation Flood, launched on 13 January 1970 by the National Dairy Development Board, built a national milk grid linking village co-operatives to consumers in over 700 towns and cities.",
+      "source": {
+        "label": "Wikipedia: White revolution (India)",
+        "url": "https://en.wikipedia.org/wiki/White_revolution_(India)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.technology.rock-memorial",
+      "name": "Vivekananda Rock Memorial",
+      "category": "work",
+      "description": "The memorial at Kanyakumari, opened on 2 September 1970, stands on a rock off the southern tip of India.",
+      "source": {
+        "label": "Wikipedia: Vivekananda Rock Memorial",
+        "url": "https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.technology.vividh-bharati",
+      "name": "Vividh Bharati radio service",
+      "category": "entertainment",
+      "description": "All India Radio's Vividh Bharati service, launched on 3 October 1957, carried film music and commercials across India.",
+      "source": {
+        "label": "Wikipedia: Vividh Bharati",
+        "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1970.headlines.operation-flood",
+      "date": "1970-01-13",
+      "headline": "Operation Flood, the 'White Revolution', is launched",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: White revolution (India)",
+        "url": "https://en.wikipedia.org/wiki/White_revolution_(India)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.headlines.rock-memorial",
+      "date": "1970-09-02",
+      "headline": "Vivekananda Rock Memorial opened at Kanyakumari",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Vivekananda Rock Memorial",
+        "url": "https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1970.headlines.privy-purses",
+      "date": "1970-09-06",
+      "headline": "President orders that all former rulers cease to be recognised, ending privy purses",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Privy purse in India",
+        "url": "https://en.wikipedia.org/wiki/Privy_purse_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "The record player, as in the World view.",
+  "notes": {
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed."
+  }
+}

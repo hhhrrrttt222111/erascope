@@ -1,0 +1,377 @@
+{
+  "year": 1900,
+  "country": "world",
+  "title": "The Turn of the Century",
+  "tagline": "Kerosene lamps, horse-drawn wagons and a one-dollar camera.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a farm family in the rural Midwest"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1900.morning.light-kerosene-lamp",
+      "time": "5:00 AM",
+      "activity": "Light the kerosene lamp",
+      "detail": "Farmhouses had no electricity: as late as 1920 only about 2 in 100 farm homes had electric service, so light came from kerosene lamps and candles.",
+      "icon": "LocalFireDepartment",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series S 108–119: dwellings with electric service",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chS.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.morning.walk-one-room-schoolhouse",
+      "time": "7:30 AM",
+      "activity": "Walk to the one-room schoolhouse",
+      "detail": "Children of all ages often shared one room and one teacher, walking there along country roads.",
+      "icon": "DirectionsWalk",
+      "source": {
+        "label": "NCES, 120 Years of American Education: A Statistical Portrait (1993), Table 20",
+        "url": "https://nces.ed.gov/pubs93/93442.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1900.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Front pages were dense columns of small type under stacked headlines. The biggest American stories of 1900 included a hurricane that killed thousands in Galveston, Texas, and a presidential election.",
+      "imageAlt": "A dense turn-of-the-century front page with narrow columns and stacked headlines",
+      "highlights": [
+        "Hurricane devastates Galveston, Texas",
+        "McKinley re-elected over Bryan",
+        "Hawaii becomes a U.S. territory",
+        "Gold Standard Act becomes law"
+      ],
+      "source": {
+        "label": "Wikipedia: 1900 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1900_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.places.bedroom",
+      "kind": "bedroom",
+      "title": "The home",
+      "description": "About 1.36 million telephones were in service in the United States in 1900, 17.6 per 1,000 people.",
+      "imageAlt": "A farmhouse bedroom with a quilt-covered bed, a kerosene lamp and a washstand with a pitcher",
+      "highlights": [
+        "1.36 million telephones in service"
+      ],
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series R 1-12: telephones",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf",
+        "accessed": "2026-10-15",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1900.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "8,000 motor vehicles were registered in the United States in 1900.",
+      "imageAlt": "A small-town street with a horse and buggy, a hitching rail and wooden storefronts",
+      "highlights": [
+        "8,000 registered motor vehicles"
+      ],
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1900.prices.kodak-brownie-camera",
+      "item": "Brownie box camera (Kodak)",
+      "price": "$1.00",
+      "adjusted2026": "about $40",
+      "source": {
+        "label": "Science Museum Group collection: No. 1 Brownie box camera",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8406729/no-1-brownie-box-camera",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.02",
+      "adjusted2026": "about $0.80",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.prices.quart-milk",
+      "item": "Milk, delivered (half gallon, city average)",
+      "price": "13.6¢",
+      "adjusted2026": "about $5.44",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.prices.streetcar-fare-town",
+      "item": "Streetcar fare (typical city fare)",
+      "price": "5¢",
+      "adjusted2026": "about $2.00",
+      "source": {
+        "label": "Chicago-L.org: Original fare systems (nickel fare on Chicago streetcars and elevated lines)",
+        "url": "https://www.chicago-l.org/fares/fares.html",
+        "accessed": "2026-10-12",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.prices.eggs-dozen",
+      "item": "Eggs (dozen, city average)",
+      "price": "20.7¢",
+      "adjusted2026": "about $8.27",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.prices.sugar-5lb",
+      "item": "Sugar (5 lb, city average)",
+      "price": "30.3¢",
+      "adjusted2026": "about $12",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1900.technology.kodak-brownie-camera",
+      "name": "Brownie box camera",
+      "category": "entertainment",
+      "description": "Launched in February 1900 for $1, it put photography into the hands of ordinary families and children.",
+      "source": {
+        "label": "Science Museum Group collection: No. 1 Brownie box camera",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8406729/no-1-brownie-box-camera",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.technology.telephone",
+      "name": "Telephone",
+      "category": "communication",
+      "description": "About 1.4 million telephones in 1900, fewer than 2 for every 100 people, so most farm families had none. Calls went through a switchboard operator.",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series R 1–12: telephones",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.technology.phonograph-gramophone",
+      "name": "Phonograph and gramophone",
+      "category": "entertainment",
+      "description": "Wind-up machines played wax cylinders or flat discs through a large horn; records had been on sale since the 1890s.",
+      "source": {
+        "label": "Wikipedia: Phonograph record",
+        "url": "https://en.wikipedia.org/wiki/Phonograph_record",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.technology.safety-bicycle",
+      "name": "Safety bicycle",
+      "category": "transport",
+      "description": "The safety bicycle, with two equal wheels and a chain drive, set off the bicycle boom of the 1890s.",
+      "source": {
+        "label": "Wikipedia: Safety bicycle",
+        "url": "https://en.wikipedia.org/wiki/Safety_bicycle",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.technology.mail-order-catalogue",
+      "name": "Mail-order catalogue",
+      "category": "home",
+      "description": "Thick catalogues from two Chicago mail-order houses offered farm families city goods, from cook stoves to ready-made clothing. Free rural mail delivery, begun in 1896, was still spreading.",
+      "source": {
+        "label": "The Henry Ford: Rural America Shops by Mail",
+        "url": "https://www.thehenryford.org/collections/explore/articles/rural-america-shops-by-mail",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.technology.typewriter",
+      "name": "Typewriter",
+      "category": "work",
+      "description": "Sold since 1874; newer machines such as the 1896 Underwood let typists see their words as they typed.",
+      "source": {
+        "label": "Wikipedia: Typewriter",
+        "url": "https://en.wikipedia.org/wiki/Typewriter",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1900.visions.photographs-will-be-telegraphed",
+      "prediction": "Photographs will be telegraphed from any distance.",
+      "whoSaidIt": "John Elfreth Watkins Jr., Ladies' Home Journal, December 1900",
+      "cameTrue": "yes",
+      "note": "Western Union wired its first photograph in 1921 and a news wirephoto network began in 1935; today photos travel instantly.",
+      "source": {
+        "label": "Transcription of John Elfreth Watkins Jr., \"What May Happen in the Next Hundred Years\", Ladies' Home Journal, December 1900 (Playing in the World Game)",
+        "url": "https://playingintheworldgame.com/tag/predictions-from-1900/",
+        "accessed": "2026-10-12",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.visions.americans-will-be-taller",
+      "prediction": "Americans will be taller by from one to two inches.",
+      "whoSaidIt": "John Elfreth Watkins Jr., Ladies' Home Journal, December 1900",
+      "cameTrue": "yes",
+      "note": "Even more than predicted: men born around 1900 averaged about 170 cm, men born in the 1950s–1980s about 177–179 cm, roughly 3 inches taller.",
+      "source": {
+        "label": "Transcription of John Elfreth Watkins Jr., \"What May Happen in the Next Hundred Years\", Ladies' Home Journal, December 1900 (Playing in the World Game)",
+        "url": "https://playingintheworldgame.com/tag/predictions-from-1900/",
+        "accessed": "2026-10-12",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.visions.ready-cooked-meals-will",
+      "prediction": "Ready-cooked meals will be bought from establishments similar to our bakeries of today.",
+      "whoSaidIt": "John Elfreth Watkins Jr., Ladies' Home Journal, December 1900",
+      "cameTrue": "yes",
+      "note": "Restaurants, takeout and delivery now take more than half of U.S. food spending.",
+      "source": {
+        "label": "Transcription of John Elfreth Watkins Jr., \"What May Happen in the Next Hundred Years\", Ladies' Home Journal, December 1900 (Playing in the World Game)",
+        "url": "https://playingintheworldgame.com/tag/predictions-from-1900/",
+        "accessed": "2026-10-12",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.visions.there-will-be-no",
+      "prediction": "There will be no C, X or Q in our everyday alphabet.",
+      "whoSaidIt": "John Elfreth Watkins Jr., Ladies' Home Journal, December 1900",
+      "cameTrue": "no",
+      "note": "English still uses all 26 letters, C, X and Q included.",
+      "source": {
+        "label": "Transcription of John Elfreth Watkins Jr., \"What May Happen in the Next Hundred Years\", Ladies' Home Journal, December 1900 (Playing in the World Game)",
+        "url": "https://playingintheworldgame.com/tag/predictions-from-1900/",
+        "accessed": "2026-10-12",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.visions.strawberries-as-large-as",
+      "prediction": "Strawberries as large as apples will be eaten by our great-great-grandchildren.",
+      "whoSaidIt": "John Elfreth Watkins Jr., Ladies' Home Journal, December 1900",
+      "cameTrue": "no",
+      "note": "Strawberries got bigger, but nowhere near the size of apples.",
+      "source": {
+        "label": "Watkins, 'What May Happen in the Next Hundred Years', Ladies' Home Journal, December 1900: transcription",
+        "url": "https://playingintheworldgame.com/tag/predictions-from-1900/",
+        "accessed": "2026-10-15",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1900.headlines.1900-04-30",
+      "date": "1900-04-30",
+      "headline": "President signs act making Hawaii a U.S. territory",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Hawaiian Organic Act",
+        "url": "https://en.wikipedia.org/wiki/Hawaiian_Organic_Act",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.headlines.1900-09-08",
+      "date": "1900-09-08",
+      "headline": "Hurricane makes landfall at Galveston, Texas",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Texas State Historical Association, Handbook of Texas: Galveston Hurricane of 1900",
+        "url": "https://www.tshaonline.org/handbook/entries/galveston-hurricane-of-1900",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1900.headlines.1900-11-06",
+      "date": "1900-11-06",
+      "headline": "McKinley re-elected president, defeating Bryan",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1900 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1900_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A disc gramophone with a flared horn.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

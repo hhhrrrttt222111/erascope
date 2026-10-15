@@ -1,0 +1,24 @@
+{
+  "year": 1995,
+  "speculative": false,
+  "theme": {
+    "chrome": "earlyweb",
+    "transition": "interlace",
+    "palette": {
+      "primary": "#0000ee",
+      "secondary": "#551a8b",
+      "background": "#bfbfbf",
+      "paper": "#ffffff",
+      "text": "#000000"
+    },
+    "fonts": {
+      "heading": "Times New Roman",
+      "body": "Times New Roman",
+      "mono": "Comic Neue"
+    },
+    "sound": "dialup"
+  },
+  "scene": {
+    "component": "Modem1995"
+  }
+}

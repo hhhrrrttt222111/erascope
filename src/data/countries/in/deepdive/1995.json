@@ -1,0 +1,1049 @@
+{
+  "country": "in",
+  "year": 1995,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1995",
+    "summary": "Highlights of this year's checked items: The Internet for the public; Dilwale Dulhania Le Jayenge; Kasparov v Anand, New York; The Ganesha milk miracle; A. R. Rahman.",
+    "sources": [
+      {
+        "label": "Wikipedia: 1995 in India",
+        "url": "https://en.wikipedia.org/wiki/1995_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Internet in India",
+        "url": "https://en.wikipedia.org/wiki/Internet_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Bhupendra Kumar Modi",
+        "url": "https://en.wikipedia.org/wiki/Bhupendra_Kumar_Modi",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: World Trade Organization",
+        "url": "https://en.wikipedia.org/wiki/World_Trade_Organization",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1995.dd.technology-science.internet-public",
+    "in.1995.dd.cinema.ddlj",
+    "in.1995.dd.sports.anand-kasparov",
+    "in.1995.dd.freedom-history.ganesha-milk",
+    "in.1995.dd.personalities.ar-rahman"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: The Internet for the public; IRS-1C; The Giant Metrewave Radio Telescope.",
+      "items": [
+        {
+          "id": "in.1995.dd.technology-science.internet-public",
+          "kind": "tech",
+          "title": "The Internet for the public",
+          "summary": "Internet access, which had been limited to educational and research users since 1986, opened to the general public in India on 15 August 1995 through the state telecom company VSNL.",
+          "availability": "elite-urban",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Internet in India",
+              "url": "https://en.wikipedia.org/wiki/Internet_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.technology-science.irs-1c",
+          "kind": "tech",
+          "title": "IRS-1C",
+          "summary": "The Indian Remote Sensing satellite IRS-1C was launched on 28 December 1995.",
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: IRS-1C",
+              "url": "https://en.wikipedia.org/wiki/IRS-1C",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.technology-science.gmrt",
+          "kind": "tech",
+          "title": "The Giant Metrewave Radio Telescope",
+          "summary": "Near Pune, thirty fully steerable 45-metre dishes make up the GMRT, conceived and built under Govind Swarup between 1984 and 1996; it is the most sensitive low-frequency radio array in the world.",
+          "availability": "lab-or-official",
+          "regionTag": "west",
+          "place": "Khodad, near Pune",
+          "sources": [
+            {
+              "label": "Wikipedia: Giant Metrewave Radio Telescope",
+              "url": "https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      },
+      "scarcityNote": "Only 3 items for 1995 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: President: Shankar Dayal Sharma; Prime Minister: P. V. Narasimha Rao.",
+      "items": [
+        {
+          "id": "in.1995.dd.government-politics.president-sharma",
+          "kind": "governance",
+          "title": "President: Shankar Dayal Sharma",
+          "summary": "Shankar Dayal Sharma was President of India through 1995.",
+          "office": "President of India",
+          "holder": "Shankar Dayal Sharma",
+          "sources": [
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Shankar Dayal Sharma",
+              "url": "https://en.wikipedia.org/wiki/Shankar_Dayal_Sharma",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.government-politics.pm-rao",
+          "kind": "governance",
+          "title": "Prime Minister: P. V. Narasimha Rao",
+          "summary": "P. V. Narasimha Rao was Prime Minister, with K. R. Narayanan as Vice-President and A. M. Ahmadi as Chief Justice.",
+          "office": "Prime Minister of India",
+          "holder": "P. V. Narasimha Rao",
+          "sources": [
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: P. V. Narasimha Rao",
+              "url": "https://en.wikipedia.org/wiki/P._V._Narasimha_Rao",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "Shankar Dayal Sharma",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "P. V. Narasimha Rao",
+                "role": "Head of government; Vice-President K. R. Narayanan",
+                "children": [
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice A. M. Ahmadi",
+                    "role": "Highest court"
+                  },
+                  {
+                    "id": "wto",
+                    "label": "World Trade Organization",
+                    "role": "India a member from 1 January 1995, when it replaced GATT"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1995 in India",
+            "url": "https://en.wikipedia.org/wiki/1995_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: World Trade Organization",
+            "url": "https://en.wikipedia.org/wiki/World_Trade_Organization",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 1995 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: Punjab's Chief Minister assassinated; The Dabwali fire; The Ganesha milk miracle.",
+      "items": [
+        {
+          "id": "in.1995.dd.freedom-history.beant-singh",
+          "kind": "event",
+          "title": "Punjab's Chief Minister assassinated",
+          "summary": "Punjab Chief Minister Beant Singh was killed on 31 August 1995 by a suicide bomber outside the Civil Secretariat in Chandigarh.",
+          "eventType": "other",
+          "date": "1995-08",
+          "regionTag": "north",
+          "place": "Chandigarh",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A political assassination."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "The Tribune, Chandigarh: 'Sculptor of peace in Punjab' (anniversary piece on Beant Singh)",
+              "url": "https://www.tribuneindia.com/news/anniversary/sculptor-of-peace-in-punjab/amp",
+              "accessed": "2026-10-14",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-14"
+        },
+        {
+          "id": "in.1995.dd.freedom-history.dabwali",
+          "kind": "event",
+          "title": "The Dabwali fire",
+          "summary": "A tent fire at a school function in Dabwali, Haryana, on 23 December 1995 killed at least 442 people and injured 160.",
+          "eventType": "disaster",
+          "date": "1995-12",
+          "regionTag": "north",
+          "place": "Mandi Dabwali",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A fire with many child casualties."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Dabwali fire accident",
+              "url": "https://en.wikipedia.org/wiki/Dabwali_fire_accident",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.freedom-history.ganesha-milk",
+          "kind": "event",
+          "title": "The Ganesha milk miracle",
+          "summary": "On 21 September 1995 statues of Ganesha were reported to be drinking milk offerings across India and abroad, one of the largest claimed mass miracle events in modern history.",
+          "eventType": "other",
+          "date": "1995-09",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Ganesha drinking milk miracle",
+              "url": "https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      },
+      "scarcityNote": "Only 3 items for 1995 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: P. V. Narasimha Rao; Shankar Dayal Sharma; Viswanathan Anand; Shah Rukh Khan; A. R. Rahman.",
+      "items": [
+        {
+          "id": "in.1995.dd.personalities.pv-narasimha-rao",
+          "kind": "person",
+          "title": "P. V. Narasimha Rao",
+          "summary": "Prime Minister, born in 1921.",
+          "field": "Politics",
+          "born": "1921",
+          "whyThisYear": "He was Prime Minister throughout 1995.",
+          "regionTag": "national",
+          "died": "2004",
+          "sources": [
+            {
+              "label": "Wikipedia: P. V. Narasimha Rao",
+              "url": "https://en.wikipedia.org/wiki/P._V._Narasimha_Rao",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.personalities.shankar-dayal-sharma",
+          "kind": "person",
+          "title": "Shankar Dayal Sharma",
+          "summary": "President, born in 1918.",
+          "field": "Politics",
+          "born": "1918",
+          "whyThisYear": "As President he opened the South Asian Games at Madras on 18 December.",
+          "regionTag": "national",
+          "died": "1999",
+          "sources": [
+            {
+              "label": "Wikipedia: Shankar Dayal Sharma",
+              "url": "https://en.wikipedia.org/wiki/Shankar_Dayal_Sharma",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 South Asian Games",
+              "url": "https://en.wikipedia.org/wiki/1995_South_Asian_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.personalities.viswanathan-anand",
+          "kind": "person",
+          "title": "Viswanathan Anand",
+          "summary": "Chess grandmaster, born in 1969.",
+          "field": "Chess",
+          "born": "1969",
+          "whyThisYear": "He challenged Garry Kasparov for the PCA world title in New York.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Viswanathan Anand",
+              "url": "https://en.wikipedia.org/wiki/Viswanathan_Anand",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Classical World Chess Championship 1995",
+              "url": "https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_1995",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.personalities.shah-rukh-khan",
+          "kind": "person",
+          "title": "Shah Rukh Khan",
+          "summary": "Actor, born in 1965.",
+          "field": "Cinema",
+          "born": "1965",
+          "whyThisYear": "He starred in Dilwale Dulhania Le Jayenge, released on 20 October.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Shah Rukh Khan",
+              "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Dilwale Dulhania Le Jayenge",
+              "url": "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.personalities.ar-rahman",
+          "kind": "person",
+          "title": "A. R. Rahman",
+          "summary": "Composer, born in 1967.",
+          "field": "Music",
+          "born": "1967",
+          "whyThisYear": "He composed the music of Mani Ratnam's Bombay, released in March 1995.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: A. R. Rahman",
+              "url": "https://en.wikipedia.org/wiki/A._R._Rahman",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Bombay (film)",
+              "url": "https://en.wikipedia.org/wiki/Bombay_(film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.personalities.mt-vasudevan-nair",
+          "kind": "person",
+          "title": "M. T. Vasudevan Nair",
+          "summary": "Malayalam writer, born in 1933.",
+          "field": "Literature",
+          "born": "1933",
+          "whyThisYear": "He received the 31st Jnanpith Award in 1995.",
+          "regionTag": "national",
+          "died": "2024",
+          "sources": [
+            {
+              "label": "Wikipedia: M. T. Vasudevan Nair",
+              "url": "https://en.wikipedia.org/wiki/M._T._Vasudevan_Nair",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.personalities.s-chandrasekhar",
+          "kind": "person",
+          "title": "Subrahmanyan Chandrasekhar",
+          "summary": "Astrophysicist, born in 1910.",
+          "field": "Astrophysics",
+          "born": "1910",
+          "whyThisYear": "He died on 21 August 1995.",
+          "regionTag": "national",
+          "died": "1995",
+          "sources": [
+            {
+              "label": "Wikipedia: Subrahmanyan Chandrasekhar",
+              "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.personalities.morarji-desai",
+          "kind": "person",
+          "title": "Morarji Desai",
+          "summary": "Former Prime Minister, born in 1896.",
+          "field": "Politics",
+          "born": "1896",
+          "whyThisYear": "He died on 10 April 1995.",
+          "regionTag": "national",
+          "died": "1995",
+          "sources": [
+            {
+              "label": "Wikipedia: Morarji Desai",
+              "url": "https://en.wikipedia.org/wiki/Morarji_Desai",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: Challenger for the PCA world title; The world's largest low-frequency array; The year's highest-grossing film.",
+      "items": [
+        {
+          "id": "in.1995.dd.achievements.pca-challenger",
+          "kind": "achievement",
+          "title": "Challenger for the PCA world title",
+          "summary": "Viswanathan Anand, who had dominated the 1994-95 PCA qualifying cycle with Gata Kamsky, played Garry Kasparov for the title and won one game, drawing 13.",
+          "domain": "sport",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Classical World Chess Championship 1995",
+              "url": "https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_1995",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Viswanathan Anand",
+              "url": "https://en.wikipedia.org/wiki/Viswanathan_Anand",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.achievements.gmrt-array",
+          "kind": "achievement",
+          "title": "The world's largest low-frequency array",
+          "summary": "The Giant Metrewave Radio Telescope was conceived and built between 1984 and 1996 as the largest and most sensitive low-frequency radio array in the world.",
+          "domain": "science",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Giant Metrewave Radio Telescope",
+              "url": "https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.achievements.ddlj-gross",
+          "kind": "achievement",
+          "title": "The year's highest-grossing film",
+          "summary": "Dilwale Dulhania Le Jayenge was the highest-grossing Hindi film of 1995, with a domestic collection listed at 86.49 crore rupees.",
+          "domain": "arts",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1995",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1995",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Dilwale Dulhania Le Jayenge",
+              "url": "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Games Anand won against Kasparov in New York",
+              "value": 1,
+              "unit": "game"
+            },
+            {
+              "label": "Dishes in the Giant Metrewave Radio Telescope",
+              "value": 30,
+              "unit": "dishes of 45 m"
+            },
+            {
+              "label": "Domestic box-office collection of Dilwale Dulhania Le Jayenge",
+              "value": 86.49,
+              "unit": "crore rupees"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Classical World Chess Championship 1995",
+            "url": "https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_1995",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Giant Metrewave Radio Telescope",
+            "url": "https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: List of Hindi films of 1995",
+            "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1995",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Kasparov v Anand, New York; South Asian Games at Madras.",
+      "items": [
+        {
+          "id": "in.1995.dd.sports.anand-kasparov",
+          "kind": "sport",
+          "title": "Kasparov v Anand, New York",
+          "summary": "Garry Kasparov beat Viswanathan Anand 10.5 to 7.5 in the 1995 PCA match, which ran from 10 September to 16 October, after eighteen of a scheduled twenty games.",
+          "sport": "Chess",
+          "competition": "PCA World Championship, New York",
+          "result": "Lost 7.5-10.5",
+          "scoreline": "10.5-7.5 (4 wins, 1 loss, 13 draws for Kasparov)",
+          "athletes": [
+            "Viswanathan Anand"
+          ],
+          "date": "1995-10",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Classical World Chess Championship 1995",
+              "url": "https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_1995",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Viswanathan Anand",
+              "url": "https://en.wikipedia.org/wiki/Viswanathan_Anand",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.sports.south-asian-games",
+          "kind": "sport",
+          "title": "South Asian Games at Madras",
+          "summary": "India hosted the 1995 South Asian Games at Madras from 18 to 26 December, opened by President Shankar Dayal Sharma; it was the second time India hosted them.",
+          "sport": "Multi-sport",
+          "competition": "South Asian Games, Madras",
+          "result": "Host nation",
+          "date": "1995-12",
+          "regionTag": "south",
+          "place": "Madras",
+          "sources": [
+            {
+              "label": "Wikipedia: 1995 South Asian Games",
+              "url": "https://en.wikipedia.org/wiki/1995_South_Asian_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: India at the South Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_South_Asian_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "PCA World Chess Championship, New York, 1995: Kasparov v Anand",
+            "steps": [
+              {
+                "label": "Opening",
+                "text": "The twenty-game match began on 10 September 1995 on the 107th floor of the World Trade Center's South Tower.",
+                "score": "0-0"
+              },
+              {
+                "label": "Course",
+                "text": "Of the eighteen games played, Kasparov won four, Anand one and thirteen were drawn.",
+                "score": "4-1 (13 draws)"
+              },
+              {
+                "label": "Result",
+                "text": "Kasparov clinched the match on 16 October, 10.5 to 7.5.",
+                "score": "10.5-7.5"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Classical World Chess Championship 1995",
+            "url": "https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_1995",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 1995 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Randamoozham; Naalukettu; The Moor's Last Sigh.",
+      "items": [
+        {
+          "id": "in.1995.dd.literature.randamoozham",
+          "kind": "work",
+          "title": "Randamoozham",
+          "summary": "M. T. Vasudevan Nair's novel retells the Mahabharata from the point of view of Bhima; it was published in December 1984.",
+          "workType": "novel",
+          "creator": "M. T. Vasudevan Nair",
+          "originalTitle": {
+            "text": "രണ്ടാമൂഴം",
+            "lang": "ml"
+          },
+          "transliteration": "Randamoozham",
+          "translatedTitle": "The Second Turn",
+          "languages": [
+            "Malayalam"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Randamoozham",
+              "url": "https://en.wikipedia.org/wiki/Randamoozham",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: M. T. Vasudevan Nair",
+              "url": "https://en.wikipedia.org/wiki/M._T._Vasudevan_Nair",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.literature.naalukettu",
+          "kind": "work",
+          "title": "Naalukettu",
+          "summary": "Vasudevan Nair's novel Naalukettu is among his best-known works.",
+          "workType": "novel",
+          "creator": "M. T. Vasudevan Nair",
+          "originalTitle": {
+            "text": "നാലുകെട്ട്",
+            "lang": "ml"
+          },
+          "transliteration": "Naalukettu",
+          "languages": [
+            "Malayalam"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: M. T. Vasudevan Nair",
+              "url": "https://en.wikipedia.org/wiki/M._T._Vasudevan_Nair",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.literature.moors-last-sigh",
+          "kind": "work",
+          "title": "The Moor's Last Sigh",
+          "summary": "Salman Rushdie's 1995 novel, set partly in Bombay, tells the story of the Zogoiby family.",
+          "workType": "novel",
+          "creator": "Salman Rushdie",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: The Moor's Last Sigh",
+              "url": "https://en.wikipedia.org/wiki/The_Moor's_Last_Sigh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 3 items for 1995 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Amar Chitra Katha.",
+      "items": [
+        {
+          "id": "in.1995.dd.books-reading.amar-chitra-katha-1995",
+          "kind": "work",
+          "title": "Amar Chitra Katha",
+          "summary": "The illustrated-story series, founded by Anant Pai in 1967, was still the best-known source of comic-book myth and history.",
+          "workType": "comic",
+          "creator": "Anant Pai",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Amar Chitra Katha",
+              "url": "https://en.wikipedia.org/wiki/Amar_Chitra_Katha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      },
+      "scarcityNote": "Only 1 item for 1995 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Dilwale Dulhania Le Jayenge; Bombay; Karan Arjun; Rangeela.",
+      "items": [
+        {
+          "id": "in.1995.dd.cinema.ddlj",
+          "kind": "film",
+          "title": "Dilwale Dulhania Le Jayenge",
+          "summary": "Aditya Chopra's romance with Shah Rukh Khan and Kajol, released on 20 October 1995 by Yash Raj Films, was the year's highest-grossing Hindi film.",
+          "language": "Hindi",
+          "releaseDate": "1995-10-20",
+          "director": "Aditya Chopra",
+          "cast": [
+            "Shah Rukh Khan",
+            "Kajol"
+          ],
+          "notable": "Highest-grossing Hindi film of 1995",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Dilwale Dulhania Le Jayenge",
+              "url": "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 1995",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1995",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.cinema.bombay-film",
+          "kind": "film",
+          "title": "Bombay",
+          "summary": "Mani Ratnam's Tamil film, with music by A. R. Rahman and dubbed into Hindi, was released on 10 March 1995.",
+          "language": "Tamil",
+          "releaseDate": "1995-03-10",
+          "director": "Mani Ratnam",
+          "notable": "Music by A. R. Rahman",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Bombay (film)",
+              "url": "https://en.wikipedia.org/wiki/Bombay_(film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.cinema.karan-arjun",
+          "kind": "film",
+          "title": "Karan Arjun",
+          "summary": "Karan Arjun was the second highest-grossing Hindi film of 1995.",
+          "language": "Hindi",
+          "notable": "Second-highest grosser of 1995",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1995",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1995",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1995.dd.cinema.rangeela",
+          "kind": "film",
+          "title": "Rangeela",
+          "summary": "Rangeela was among the highest-grossing Hindi films of 1995.",
+          "language": "Hindi",
+          "notable": "Top-grossing list of 1995",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1995",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1995",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: The Bombay soundtrack.",
+      "items": [
+        {
+          "id": "in.1995.dd.music-arts.bombay-soundtrack",
+          "kind": "art",
+          "title": "The Bombay soundtrack",
+          "summary": "A. R. Rahman composed the music for Bombay, released in March 1995.",
+          "form": "music",
+          "creator": "A. R. Rahman",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Bombay (film)",
+              "url": "https://en.wikipedia.org/wiki/Bombay_(film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: A. R. Rahman",
+              "url": "https://en.wikipedia.org/wiki/A._R._Rahman",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 1 item for 1995 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: GDP at current prices.",
+      "items": [
+        {
+          "id": "in.1995.dd.economy-business.national-income-1995",
+          "kind": "indicator",
+          "title": "GDP at current prices",
+          "summary": "India's gross domestic product at current prices was Rs 12,055,827 million (about Rs 12.06 trillion) in 1995, in the World Bank's national-accounts series.",
+          "metric": "GDP at current prices",
+          "value": "12055827",
+          "unit": "million rupees",
+          "asOf": "1995",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN",
+              "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "wage": {
+            "amount": 34.4,
+            "unit": "rupees a day",
+            "label": "Output per person per day (GDP per capita ÷ 365; not a wage)"
+          },
+          "buys": [
+            {
+              "label": "Grams of gold",
+              "cost": 495.8,
+              "unit": "rupees per gram"
+            },
+            {
+              "label": "Grams of silver",
+              "cost": 7.221,
+              "unit": "rupees per gram"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "World Bank, World Development Indicators: GDP per capita (current LCU), NY.GDP.PCAP.CN",
+            "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Statistical Abstract India 1997 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Bombay (Bombay Bullion Association), via the Internet Archive",
+            "url": "https://archive.org/details/dli.ministry.23192",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          }
+        ]
+      },
+      "scarcityNote": "Only 1 item for 1995 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

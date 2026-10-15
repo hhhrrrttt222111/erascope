@@ -1,0 +1,316 @@
+{
+  "year": 1984,
+  "country": "in",
+  "title": "India, 1984",
+  "tagline": "The first Indian in space, a metro for Calcutta and a year of loss.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in the Republic of India (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1984.morning.tv",
+      "time": "Evening",
+      "activity": "Hum Log on Doordarshan",
+      "detail": "Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.",
+      "icon": "Tv",
+      "source": {
+        "label": "Wikipedia: Hum Log (TV series)",
+        "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.morning.comics",
+      "time": "Afternoon",
+      "activity": "Amar Chitra Katha",
+      "detail": "The comics series, founded in 1967 by Anant Pai, was one of India's best-known sources of illustrated history and myth.",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: Amar Chitra Katha",
+        "url": "https://en.wikipedia.org/wiki/Amar_Chitra_Katha",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.morning.metro",
+      "time": "Morning",
+      "activity": "A ride on the Calcutta Metro",
+      "detail": "India's first metro railway opened in Calcutta on 24 October 1984; it was the first rapid-transit system in South Asia.",
+      "icon": "Subway",
+      "source": {
+        "label": "Wikipedia: Kolkata Metro",
+        "url": "https://en.wikipedia.org/wiki/Kolkata_Metro",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.morning.car",
+      "time": "Morning",
+      "activity": "A Maruti 800 in the drive",
+      "detail": "The Maruti 800, based on the Suzuki Alto and built from 1983, became the most influential automobile in India.",
+      "icon": "DirectionsCar",
+      "source": {
+        "label": "Wikipedia: Maruti 800",
+        "url": "https://en.wikipedia.org/wiki/Maruti_800",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1984.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Rakesh Sharma becomes the first Indian in space (1984-04).",
+      "imageAlt": "A newspaper front page in black and white with a single bold headline",
+      "highlights": [
+        "Rakesh Sharma becomes the first Indian in space"
+      ],
+      "source": {
+        "label": "Wikipedia: Rakesh Sharma",
+        "url": "https://en.wikipedia.org/wiki/Rakesh_Sharma",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1984.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.",
+      "imageAlt": "A 1980s room with a television set and a bookshelf",
+      "highlights": [
+        "Hum Log on Doordarshan"
+      ],
+      "source": {
+        "label": "Wikipedia: Hum Log (TV series)",
+        "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Rakesh Sharma flies on Soyuz T-11: Squadron Leader Rakesh Sharma flew aboard the Soviet Soyuz T-11 in April 1984 as part of the Interkosmos programme and became the first Indian to travel to outer space.",
+      "imageAlt": "A city street with a small hatchback, a hoarding and a metro entrance",
+      "highlights": [
+        "Rakesh Sharma flies on Soyuz T-11"
+      ],
+      "source": {
+        "label": "Wikipedia: Rakesh Sharma",
+        "url": "https://en.wikipedia.org/wiki/Rakesh_Sharma",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.1984.prices.gold",
+      "item": "Gold, spot at Bombay (average of 1984-85)",
+      "price": "Rs 1,983.92 per 10 grams",
+      "originalUnits": "decimal rupees per 10 grams; highest 2,140.00, lowest 1,876.00",
+      "decimalINR": "₹198.39 per gram",
+      "adjusted2026": "about ₹32,100 per 10 grams",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23191",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.prices.silver",
+      "item": "Silver, spot at Bombay (average of 1984-85)",
+      "price": "Rs 3,593.59 per kilogram",
+      "originalUnits": "decimal rupees per kilogram",
+      "decimalINR": "₹3.59 per gram",
+      "adjusted2026": "about ₹58,200 per kilogram",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23191",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.prices.exchange",
+      "item": "Rupees to the US dollar (annual average)",
+      "price": "Rs 11.36",
+      "originalUnits": "official rate, rupees per US dollar",
+      "source": {
+        "label": "World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)",
+        "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.prices.inflation",
+      "item": "Consumer price inflation",
+      "price": "8.3% in the year",
+      "originalUnits": "per cent, annual",
+      "source": {
+        "label": "World Bank, World Development Indicators: Inflation, consumer prices (annual %)",
+        "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.prices.output",
+      "item": "Output per person (GDP per capita)",
+      "price": "Rs 3,341 a year",
+      "originalUnits": "current rupees per person per year",
+      "source": {
+        "label": "World Bank, World Development Indicators: GDP per capita (current LCU)",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.1984.technology.rakesh",
+      "name": "Rakesh Sharma flies on Soyuz T-11",
+      "category": "transport",
+      "description": "Squadron Leader Rakesh Sharma flew aboard the Soviet Soyuz T-11 in April 1984 as part of the Interkosmos programme and became the first Indian to travel to outer space.",
+      "source": {
+        "label": "Wikipedia: Rakesh Sharma",
+        "url": "https://en.wikipedia.org/wiki/Rakesh_Sharma",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.technology.metro",
+      "name": "Kolkata Metro opens",
+      "category": "transport",
+      "description": "India's first metro railway opened in Calcutta on 24 October 1984; it was the first rapid-transit system in South Asia.",
+      "source": {
+        "label": "Wikipedia: Kolkata Metro",
+        "url": "https://en.wikipedia.org/wiki/Kolkata_Metro",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.technology.maruti",
+      "name": "The Maruti 800",
+      "category": "transport",
+      "description": "The Maruti 800, based on the Suzuki Alto and built from 1983, became the most influential automobile in India; about 2.87 million were made over its production life.",
+      "source": {
+        "label": "Wikipedia: Maruti 800",
+        "url": "https://en.wikipedia.org/wiki/Maruti_800",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.technology.hum-log",
+      "name": "Hum Log on Doordarshan",
+      "category": "entertainment",
+      "description": "Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.",
+      "source": {
+        "label": "Wikipedia: Hum Log (TV series)",
+        "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1984.headlines.rakesh",
+      "date": "1984-04",
+      "headline": "Rakesh Sharma becomes the first Indian in space",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Rakesh Sharma",
+        "url": "https://en.wikipedia.org/wiki/Rakesh_Sharma",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.headlines.metro",
+      "date": "1984-10-24",
+      "headline": "India's first metro railway opens in Calcutta",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Kolkata Metro",
+        "url": "https://en.wikipedia.org/wiki/Kolkata_Metro",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.headlines.assassination",
+      "date": "1984-10-31",
+      "headline": "Prime Minister Indira Gandhi is shot at her residence in New Delhi",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Assassination of Indira Gandhi",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1984.headlines.bhopal",
+      "date": "1984-12-03",
+      "headline": "A gas leak at the Union Carbide plant in Bhopal kills thousands",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Bhopal disaster",
+        "url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "The floppy drive, as in the World view.",
+  "notes": {
+    "prices": "Only prices that could be read from a source are shown; none was found for the others. Items that could not be verified were removed.",
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed.",
+    "technology": "Only sourced entries are shown. Items that could not be verified were removed."
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "year": 1995,
+  "country": "in",
+  "title": "India, 1995",
+  "tagline": "The internet for the public and the year's highest-grossing film.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in India (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1995.morning.internet",
+      "time": "Afternoon",
+      "activity": "Dial-up from VSNL",
+      "detail": "Internet access, limited to educational and research users since 1986, opened to the general public on 15 August 1995 through the state telecom company VSNL.",
+      "icon": "Language",
+      "source": {
+        "label": "Wikipedia: Internet in India",
+        "url": "https://en.wikipedia.org/wiki/Internet_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.morning.cinema",
+      "time": "Evening",
+      "activity": "Dilwale Dulhania Le Jayenge",
+      "detail": "Aditya Chopra's romance, released on 20 October 1995, was the year's highest-grossing Hindi film.",
+      "icon": "Movie",
+      "source": {
+        "label": "Wikipedia: Dilwale Dulhania Le Jayenge",
+        "url": "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.morning.music",
+      "time": "Morning",
+      "activity": "The Bombay soundtrack",
+      "detail": "A. R. Rahman composed the music for Bombay, released in March 1995.",
+      "icon": "Headphones",
+      "source": {
+        "label": "Wikipedia: Bombay (film)",
+        "url": "https://en.wikipedia.org/wiki/Bombay_(film)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.morning.comics",
+      "time": "Afternoon",
+      "activity": "Amar Chitra Katha",
+      "detail": "The illustrated-story series, founded by Anant Pai in 1967, was still the best-known source of comic-book myth and history.",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: Amar Chitra Katha",
+        "url": "https://en.wikipedia.org/wiki/Amar_Chitra_Katha",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1995.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "VSNL opens the internet to the general public (1995-08-15).",
+      "imageAlt": "A newspaper front page in early-web style with a headline and a banner ad",
+      "highlights": [
+        "VSNL opens the internet to the general public"
+      ],
+      "source": {
+        "label": "Wikipedia: Internet in India",
+        "url": "https://en.wikipedia.org/wiki/Internet_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1995.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "A. R. Rahman composed the music for Bombay, released in March 1995.",
+      "imageAlt": "A 1990s room with a television, a cassette player and a comic book",
+      "highlights": [
+        "Bombay soundtrack"
+      ],
+      "source": {
+        "label": "Wikipedia: Bombay (film)",
+        "url": "https://en.wikipedia.org/wiki/Bombay_(film)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "The Internet for the public: Internet access, which had been limited to educational and research users since 1986, opened to the general public in India on 15 August 1995 through the state telecom company VSNL.",
+      "imageAlt": "A city street with large painted film hoardings",
+      "highlights": [
+        "The Internet for the public"
+      ],
+      "source": {
+        "label": "Wikipedia: Internet in India",
+        "url": "https://en.wikipedia.org/wiki/Internet_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.1995.prices.gold",
+      "item": "Gold, spot at Bombay (average of 1995-96)",
+      "price": "Rs 4,958.00 per 10 grams",
+      "originalUnits": "decimal rupees per 10 grams; highest 5,713, lowest 4,670",
+      "decimalINR": "₹495.80 per gram",
+      "adjusted2026": "about ₹30,600 per 10 grams",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1997 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Bombay (Bombay Bullion Association), via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23192",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.prices.silver",
+      "item": "Silver, spot at Bombay (average of 1995-96)",
+      "price": "Rs 7,221.00 per kilogram",
+      "originalUnits": "decimal rupees per kilogram",
+      "decimalINR": "₹7.22 per gram",
+      "adjusted2026": "about ₹44,600 per kilogram",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1997 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Bombay (Bombay Bullion Association), via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23192",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.prices.exchange",
+      "item": "Rupees to the US dollar (annual average)",
+      "price": "Rs 32.43",
+      "originalUnits": "official rate, rupees per US dollar",
+      "source": {
+        "label": "World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)",
+        "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.prices.inflation",
+      "item": "Consumer price inflation",
+      "price": "10.2% in the year",
+      "originalUnits": "per cent, annual",
+      "source": {
+        "label": "World Bank, World Development Indicators: Inflation, consumer prices (annual %)",
+        "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.prices.output",
+      "item": "Output per person (GDP per capita)",
+      "price": "Rs 12,554 a year",
+      "originalUnits": "current rupees per person per year",
+      "source": {
+        "label": "World Bank, World Development Indicators: GDP per capita (current LCU)",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.1995.technology.internet",
+      "name": "The Internet for the public",
+      "category": "communication",
+      "description": "Internet access, which had been limited to educational and research users since 1986, opened to the general public in India on 15 August 1995 through the state telecom company VSNL.",
+      "source": {
+        "label": "Wikipedia: Internet in India",
+        "url": "https://en.wikipedia.org/wiki/Internet_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.technology.irs",
+      "name": "IRS-1C",
+      "category": "work",
+      "description": "The Indian Remote Sensing satellite IRS-1C was launched on 28 December 1995.",
+      "source": {
+        "label": "Wikipedia: IRS-1C",
+        "url": "https://en.wikipedia.org/wiki/IRS-1C",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.technology.gmrt",
+      "name": "The Giant Metrewave Radio Telescope",
+      "category": "work",
+      "description": "Near Pune, thirty fully steerable 45-metre dishes make up the GMRT, conceived and built under Govind Swarup between 1984 and 1996; it is the most sensitive low-frequency radio array in the world.",
+      "source": {
+        "label": "Wikipedia: Giant Metrewave Radio Telescope",
+        "url": "https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.technology.rahman",
+      "name": "Film soundtracks on cassette",
+      "category": "entertainment",
+      "description": "A. R. Rahman composed the music for Bombay, released in March 1995.",
+      "source": {
+        "label": "Wikipedia: Bombay (film)",
+        "url": "https://en.wikipedia.org/wiki/Bombay_(film)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1995.headlines.internet",
+      "date": "1995-08-15",
+      "headline": "VSNL opens the internet to the general public",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Internet in India",
+        "url": "https://en.wikipedia.org/wiki/Internet_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1995.headlines.ganesha",
+      "date": "1995-09-21",
+      "headline": "Ganesha statues are reported to be drinking milk across India",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Ganesha drinking milk miracle",
+        "url": "https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "A dial-up modem, as in the World view; public internet access began in India on 15 August 1995.",
+  "notes": {
+    "prices": "Only prices that could be read from a source are shown; none was found for the others. Items that could not be verified were removed.",
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed.",
+    "technology": "Only sourced entries are shown. Items that could not be verified were removed.",
+    "headlines": "Only sourced entries are shown. Items that could not be verified were removed."
+  }
+}

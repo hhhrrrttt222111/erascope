@@ -1,0 +1,61 @@
+/*
+ * Era fonts are loaded from Google Fonts in index.html (with preconnect, so they
+ * don't block rendering). This file holds the shared base styles that sit under
+ * every era theme.
+ */
+@import "../styles/era-css/halftone.css";
+@import "../styles/era-css/scanlines.css";
+@import "../styles/era-css/bevels.css";
+@import "../styles/era-css/glass.css";
+@import "../styles/era-css/morph.css";
+
+:root {
+  --tm-slider-h: 84px;
+  --tm-morph-background: #e6dcc3;
+  --tm-morph-paper: #f3ebd6;
+  --tm-morph-text: #1c1915;
+  --tm-morph-primary: #1c1915;
+  --tm-morph-secondary: #8b1e1e;
+  --tm-morph-radius: 0px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+.tm-skip-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 2000;
+  padding: 8px 14px;
+  background: #000;
+  color: #fff;
+  font: 600 14px/1.2 system-ui, sans-serif;
+  transform: translateY(-200%);
+}
+
+.tm-skip-link:focus {
+  transform: none;
+}
+
+.tm-visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}

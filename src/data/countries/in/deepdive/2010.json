@@ -1,0 +1,917 @@
+{
+  "country": "in",
+  "year": 2010,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 2010",
+    "summary": "Highlights of this year's checked items: The rupee sign; The first Aadhaar number; Commonwealth Games, Delhi; The Right to Education Act comes into force; The Bhopal verdict; Anand beats Topalov.",
+    "sources": [
+      {
+        "label": "Wikipedia: 2010 in India",
+        "url": "https://en.wikipedia.org/wiki/2010_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Indian rupee sign",
+        "url": "https://en.wikipedia.org/wiki/Indian_rupee_sign",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: India at the 2010 Commonwealth Games",
+        "url": "https://en.wikipedia.org/wiki/India_at_the_2010_Commonwealth_Games",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Aadhaar",
+        "url": "https://en.wikipedia.org/wiki/Aadhaar",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.2010.dd.technology-science.rupee-sign",
+    "in.2010.dd.technology-science.aadhaar-first",
+    "in.2010.dd.sports.cwg-delhi",
+    "in.2010.dd.government-politics.rte-in-force",
+    "in.2010.dd.freedom-history.bhopal-verdict",
+    "in.2010.dd.sports.anand-topalov"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: The rupee sign; The first Aadhaar number; A cryogenic engine fails.",
+      "items": [
+        {
+          "id": "in.2010.dd.technology-science.rupee-sign",
+          "kind": "tech",
+          "title": "The rupee sign",
+          "summary": "The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition; it is based on the Devanagari letter ra with a double horizontal line, and later received the Unicode codepoint U+20B9.",
+          "availability": "widespread",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian rupee sign",
+              "url": "https://en.wikipedia.org/wiki/Indian_rupee_sign",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.technology-science.aadhaar-first",
+          "kind": "tech",
+          "title": "The first Aadhaar number",
+          "summary": "The first Aadhaar number, a 12-digit unique identity linked to a photograph, ten fingerprints and two iris scans, was issued in September 2010.",
+          "availability": "widespread",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Aadhaar",
+              "url": "https://en.wikipedia.org/wiki/Aadhaar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.technology-science.gslv-d3",
+          "kind": "tech",
+          "title": "A cryogenic engine fails",
+          "summary": "On 15 April 2010 the first GSLV flight with an indigenous cryogenic upper stage failed: the liquid-hydrogen turbopump failed, the stage fired for about 1.5 seconds and the GSAT-4 satellite was lost in the Bay of Bengal.",
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "The Planetary Society, 29 July 2013: 'India prepares to return' (Jason Davis)",
+              "url": "https://planetary.org/articles/20130729-india-prepares-to-return",
+              "accessed": "2026-10-14",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      },
+      "scarcityNote": "Only 3 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: President: Pratibha Patil; Prime Minister: Manmohan Singh; The Right to Education Act comes into force; A new Chief Justice.",
+      "items": [
+        {
+          "id": "in.2010.dd.government-politics.president-patil",
+          "kind": "governance",
+          "title": "President: Pratibha Patil",
+          "summary": "Pratibha Patil was President of India in 2010, with Mohammad Hamid Ansari as Vice-President.",
+          "office": "President of India",
+          "holder": "Pratibha Patil",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Pratibha Patil",
+              "url": "https://en.wikipedia.org/wiki/Pratibha_Patil",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.government-politics.pm-manmohan-2010",
+          "kind": "governance",
+          "title": "Prime Minister: Manmohan Singh",
+          "summary": "Manmohan Singh was Prime Minister of India throughout 2010.",
+          "office": "Prime Minister of India",
+          "holder": "Manmohan Singh",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Manmohan Singh",
+              "url": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.government-politics.rte-in-force",
+          "kind": "governance",
+          "title": "The Right to Education Act comes into force",
+          "summary": "The Right of Children to Free and Compulsory Education Act, assented to on 26 August 2009, came into force on 1 April 2010, making education a fundamental right for children aged 6 to 14.",
+          "instrument": "RTE Act, 2009",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Right of Children to Free and Compulsory Education Act, 2009",
+              "url": "https://en.wikipedia.org/wiki/Right_of_Children_to_Free_and_Compulsory_Education_Act,_2009",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.government-politics.chief-justice-2010",
+          "kind": "governance",
+          "title": "A new Chief Justice",
+          "summary": "K. G. Balakrishnan was Chief Justice of India until 12 May 2010; S. H. Kapadia took over from that date.",
+          "office": "Chief Justice of India",
+          "holder": "S. H. Kapadia (from 12 May)",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "Pratibha Patil",
+            "role": "Head of state; Vice-President Mohammad Hamid Ansari",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "Manmohan Singh",
+                "role": "Head of government",
+                "children": [
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice K. G. Balakrishnan until 12 May, then S. H. Kapadia",
+                    "role": "Highest court"
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "The Right to Education Act",
+            "steps": [
+              {
+                "label": "Assent",
+                "detail": "The Right of Children to Free and Compulsory Education Act received assent on 26 August 2009."
+              },
+              {
+                "label": "In force",
+                "detail": "It came into force on 1 April 2010."
+              },
+              {
+                "label": "Effect",
+                "detail": "It made education a fundamental right for children aged 6 to 14."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 2010 in India",
+            "url": "https://en.wikipedia.org/wiki/2010_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Right of Children to Free and Compulsory Education Act, 2009",
+            "url": "https://en.wikipedia.org/wiki/Right_of_Children_to_Free_and_Compulsory_Education_Act,_2009",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: The Bhopal verdict; Ajmal Kasab is sentenced.",
+      "items": [
+        {
+          "id": "in.2010.dd.freedom-history.bhopal-verdict",
+          "kind": "event",
+          "title": "The Bhopal verdict",
+          "summary": "On 7 June 2010 a magistrate's court in Bhopal convicted eight people, one posthumously, for their role in the 1984 Bhopal disaster, 25 years after the gas leak.",
+          "eventType": "other",
+          "date": "2010-06",
+          "regionTag": "central",
+          "place": "Bhopal",
+          "relatedIds": [
+            "in.1984.dd.freedom-history.bhopal"
+          ],
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Bhopal disaster",
+              "url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.freedom-history.kasab",
+          "kind": "event",
+          "title": "Ajmal Kasab is sentenced",
+          "summary": "A special court in Mumbai, with Judge M. L. Tahaliyani, sentenced Ajmal Kasab, the only surviving attacker of the 2008 Mumbai attacks, to death on 6 May 2010.",
+          "eventType": "other",
+          "date": "2010-05",
+          "regionTag": "west",
+          "place": "Mumbai",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "Concerns a terrorist attack and a death sentence."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "PBS Secrets of the Dead: 'Mumbai massacre update: Mumbai gunman sentenced to death'",
+              "url": "https://www.pbs.org/wnet/secrets/mumbai-massacre-update-mumbai-gunman-sentenced-to-death/617",
+              "accessed": "2026-10-14",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      },
+      "scarcityNote": "Only 2 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Pratibha Patil; Manmohan Singh; Viswanathan Anand; Sachin Tendulkar; Rajinikanth.",
+      "items": [
+        {
+          "id": "in.2010.dd.personalities.pratibha-patil",
+          "kind": "person",
+          "title": "Pratibha Patil",
+          "summary": "President, born in 1934.",
+          "field": "Politics",
+          "born": "1934",
+          "whyThisYear": "She was President of India throughout 2010.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Pratibha Patil",
+              "url": "https://en.wikipedia.org/wiki/Pratibha_Patil",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.personalities.manmohan-singh",
+          "kind": "person",
+          "title": "Manmohan Singh",
+          "summary": "Prime Minister, born in 1932.",
+          "field": "Politics and economics",
+          "born": "1932",
+          "whyThisYear": "His government brought the Right to Education Act into force on 1 April.",
+          "regionTag": "national",
+          "died": "2024",
+          "sources": [
+            {
+              "label": "Wikipedia: Manmohan Singh",
+              "url": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.personalities.viswanathan-anand",
+          "kind": "person",
+          "title": "Viswanathan Anand",
+          "summary": "Chess champion, born in 1969.",
+          "field": "Chess",
+          "born": "1969",
+          "whyThisYear": "He retained his world title by beating Veselin Topalov in Sofia, 6.5 to 5.5.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Viswanathan Anand",
+              "url": "https://en.wikipedia.org/wiki/Viswanathan_Anand",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: World Chess Championship 2010",
+              "url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2010",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.personalities.sachin-tendulkar",
+          "kind": "person",
+          "title": "Sachin Tendulkar",
+          "summary": "Batsman, born in 1973.",
+          "field": "Cricket",
+          "born": "1973",
+          "whyThisYear": "He scored 200 not out against South Africa, the first double century in One Day Internationals.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Sachin Tendulkar",
+              "url": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.personalities.rajinikanth",
+          "kind": "person",
+          "title": "Rajinikanth",
+          "summary": "Actor, born in 1950.",
+          "field": "Cinema",
+          "born": "1950",
+          "whyThisYear": "He starred in Enthiran, released on 1 October 2010.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Rajinikanth",
+              "url": "https://en.wikipedia.org/wiki/Rajinikanth",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Enthiran",
+              "url": "https://en.wikipedia.org/wiki/Enthiran",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.personalities.salman-khan",
+          "kind": "person",
+          "title": "Salman Khan",
+          "summary": "Actor, born in 1965.",
+          "field": "Cinema",
+          "born": "1965",
+          "whyThisYear": "He starred in Dabangg, the year's highest-grossing Hindi film.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Salman Khan",
+              "url": "https://en.wikipedia.org/wiki/Salman_Khan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Dabangg",
+              "url": "https://en.wikipedia.org/wiki/Dabangg",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: A hundred and one medals; A world title retained.",
+      "items": [
+        {
+          "id": "in.2010.dd.achievements.cwg-101",
+          "kind": "achievement",
+          "title": "A hundred and one medals",
+          "summary": "India won 101 medals at the 2010 Commonwealth Games in Delhi, 38 gold, 27 silver and 36 bronze, second in the table.",
+          "domain": "sport",
+          "regionTag": "north",
+          "place": "Delhi",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 2010 Commonwealth Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2010_Commonwealth_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 Commonwealth Games medal table",
+              "url": "https://en.wikipedia.org/wiki/2010_Commonwealth_Games_medal_table",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.achievements.anand-retains",
+          "kind": "achievement",
+          "title": "A world title retained",
+          "summary": "Viswanathan Anand won the final game in Sofia to beat Veselin Topalov 6.5 to 5.5 and keep the world championship.",
+          "domain": "sport",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: World Chess Championship 2010",
+              "url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2010",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Medals at the Delhi Commonwealth Games",
+              "value": 101,
+              "unit": "medals (38 gold)"
+            },
+            {
+              "label": "Medals at the Guangzhou Asian Games",
+              "value": 65,
+              "unit": "medals (14 gold)"
+            },
+            {
+              "label": "Age range covered by the Right to Education Act",
+              "value": 14,
+              "unit": "years (ages 6 to 14)"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: India at the 2010 Commonwealth Games",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_2010_Commonwealth_Games",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: India at the 2010 Asian Games",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_2010_Asian_Games",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Right of Children to Free and Compulsory Education Act, 2009",
+            "url": "https://en.wikipedia.org/wiki/Right_of_Children_to_Free_and_Compulsory_Education_Act,_2009",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Commonwealth Games, Delhi; Anand beats Topalov.",
+      "items": [
+        {
+          "id": "in.2010.dd.sports.cwg-delhi",
+          "kind": "sport",
+          "title": "Commonwealth Games, Delhi",
+          "summary": "India's 38 gold, 27 silver and 36 bronze medals placed it second to Australia in the 2010 Commonwealth Games table.",
+          "sport": "Multi-sport",
+          "competition": "Commonwealth Games, Delhi",
+          "result": "2nd in the medal table",
+          "scoreline": "38-27-36",
+          "date": "2010-10",
+          "regionTag": "north",
+          "place": "Delhi",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 2010 Commonwealth Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2010_Commonwealth_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 Commonwealth Games medal table",
+              "url": "https://en.wikipedia.org/wiki/2010_Commonwealth_Games_medal_table",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.sports.anand-topalov",
+          "kind": "sport",
+          "title": "Anand beats Topalov",
+          "summary": "Viswanathan Anand beat Veselin Topalov 6.5 to 5.5 in Sofia, winning the final game, in a match played from 24 April to 13 May 2010.",
+          "sport": "Chess",
+          "competition": "World Chess Championship, Sofia",
+          "result": "Won 6.5-5.5",
+          "scoreline": "6.5-5.5",
+          "athletes": [
+            "Viswanathan Anand"
+          ],
+          "date": "2010-05",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: World Chess Championship 2010",
+              "url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2010",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Viswanathan Anand",
+              "url": "https://en.wikipedia.org/wiki/Viswanathan_Anand",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "World Chess Championship 2010, Sofia: Anand v Topalov",
+            "steps": [
+              {
+                "label": "Match",
+                "text": "A twelve-game match played from 24 April to 13 May 2010 in Sofia.",
+                "score": "0-0"
+              },
+              {
+                "label": "Final game",
+                "text": "Anand won the twelfth and final game to take the match 6.5 to 5.5 and retain the title.",
+                "score": "6.5-5.5"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: World Chess Championship 2010",
+            "url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2010",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Chandrashekhara Kambara's body of work.",
+      "items": [
+        {
+          "id": "in.2010.dd.literature.kambar-jnanpith",
+          "kind": "work",
+          "title": "Chandrashekhara Kambara's body of work",
+          "summary": "The Kannada poet and playwright Chandrashekhara Kambara received the 46th Jnanpith Award, for 2010, for lifetime contribution.",
+          "workType": "play",
+          "creator": "Chandrashekhara Kambara",
+          "languages": [
+            "Kannada"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Chandrashekhara Kambara",
+              "url": "https://en.wikipedia.org/wiki/Chandrashekhara_Kambara",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 1 item for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Amar Chitra Katha.",
+      "items": [
+        {
+          "id": "in.2010.dd.books-reading.amar-chitra-katha-2010",
+          "kind": "work",
+          "title": "Amar Chitra Katha",
+          "summary": "The comic-book series, founded by Anant Pai in 1967, was still in print.",
+          "workType": "comic",
+          "creator": "Anant Pai",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Amar Chitra Katha",
+              "url": "https://en.wikipedia.org/wiki/Amar_Chitra_Katha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      },
+      "scarcityNote": "Only 1 item for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Dabangg; My Name Is Khan; Golmaal 3.",
+      "items": [
+        {
+          "id": "in.2010.dd.cinema.dabangg",
+          "kind": "film",
+          "title": "Dabangg",
+          "summary": "Abhinav Kashyap's Dabangg, with Salman Khan, was the highest-grossing Hindi film of 2010 with a worldwide gross listed at 221.14 crore rupees.",
+          "language": "Hindi",
+          "director": "Abhinav Kashyap",
+          "cast": [
+            "Salman Khan"
+          ],
+          "notable": "Top grosser of 2010",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 2010",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Dabangg",
+              "url": "https://en.wikipedia.org/wiki/Dabangg",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.cinema.my-name-is-khan",
+          "kind": "film",
+          "title": "My Name Is Khan",
+          "summary": "Karan Johar's My Name Is Khan was among the highest-grossing Hindi films of 2010.",
+          "language": "Hindi",
+          "director": "Karan Johar",
+          "notable": "Second-highest grosser of 2010",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: My Name Is Khan",
+              "url": "https://en.wikipedia.org/wiki/My_Name_Is_Khan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 2010",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.cinema.golmaal-3",
+          "kind": "film",
+          "title": "Golmaal 3",
+          "summary": "Golmaal 3 was one of three films, with Dabangg and My Name Is Khan, to net more than one billion rupees in 2010, the first time that had happened in Bollywood.",
+          "language": "Hindi",
+          "notable": "One of three films over Rs 1 billion",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 2010",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      },
+      "scarcityNote": "Only 3 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: Designing the rupee sign.",
+      "items": [
+        {
+          "id": "in.2010.dd.music-arts.rupee-design",
+          "kind": "art",
+          "title": "Designing the rupee sign",
+          "summary": "D. Udaya Kumar's ₹ combines the Devanagari letter ra with the Latin capital R, with two horizontal strokes across the top.",
+          "form": "craft",
+          "creator": "D. Udaya Kumar",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian rupee sign",
+              "url": "https://en.wikipedia.org/wiki/Indian_rupee_sign",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 1 item for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: GDP at current prices.",
+      "items": [
+        {
+          "id": "in.2010.dd.economy-business.national-income-2010",
+          "kind": "indicator",
+          "title": "GDP at current prices",
+          "summary": "India's gross domestic product at current prices was Rs 76,344,721 million (about Rs 76.34 trillion) in 2010, in the World Bank's national-accounts series.",
+          "metric": "GDP at current prices",
+          "value": "76344721",
+          "unit": "million rupees",
+          "asOf": "2010",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN",
+              "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "wage": {
+            "amount": 168.21,
+            "unit": "rupees a day",
+            "label": "Output per person per day (GDP per capita ÷ 365; not a wage)"
+          },
+          "buys": [
+            {
+              "label": "Litres of petrol (Delhi, 1 April)",
+              "cost": 47.93,
+              "unit": "rupees per litre"
+            },
+            {
+              "label": "Litres of diesel (Delhi, 1 April)",
+              "cost": 38.1,
+              "unit": "rupees per litre"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "World Bank, World Development Indicators: GDP per capita (current LCU), NY.GDP.PCAP.CN",
+            "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)",
+            "url": "https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          }
+        ]
+      },
+      "scarcityNote": "Only 1 item for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

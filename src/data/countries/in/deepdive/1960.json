@@ -1,0 +1,1224 @@
+{
+  "country": "in",
+  "year": 1960,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1960",
+    "summary": "Highlights of this year's checked items: Maharashtra and Gujarat are born; Hockey final: Pakistan 1, India 0; Mughal-e-Azam; The CIRUS research reactor; Milkha Singh.",
+    "sources": [
+      {
+        "label": "Wikipedia: 1960 in India",
+        "url": "https://en.wikipedia.org/wiki/1960_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Maharashtra Day",
+        "url": "https://en.wikipedia.org/wiki/Maharashtra_Day",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Indus Waters Treaty",
+        "url": "https://en.wikipedia.org/wiki/Indus_Waters_Treaty",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: India at the 1960 Summer Olympics",
+        "url": "https://en.wikipedia.org/wiki/India_at_the_1960_Summer_Olympics",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Mughal-e-Azam",
+        "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1960.dd.freedom-history.maharashtra-gujarat",
+    "in.1960.dd.sports.hockey-final",
+    "in.1960.dd.cinema.mughal-e-azam",
+    "in.1960.dd.technology-science.cirus",
+    "in.1960.dd.personalities.milkha-singh"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: The CIRUS research reactor; TIFRAC, India's first home-built computer; IIT Kanpur; Bhilai Steel Plant.",
+      "items": [
+        {
+          "id": "in.1960.dd.technology-science.cirus",
+          "kind": "tech",
+          "title": "The CIRUS research reactor",
+          "summary": "CIRUS, a 40 MW research reactor at Trombay near Bombay supplied by Canada, first went critical in July 1960. It ran on natural uranium with heavy water supplied by the United States.",
+          "availability": "lab-or-official",
+          "regionTag": "west",
+          "place": "Trombay",
+          "sources": [
+            {
+              "label": "Wikipedia: CIRUS reactor",
+              "url": "https://en.wikipedia.org/wiki/CIRUS_reactor",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.technology-science.tifrac",
+          "kind": "tech",
+          "title": "TIFRAC, India's first home-built computer",
+          "summary": "The Tata Institute of Fundamental Research Automatic Calculator, based on the IAS machine design, was formally commissioned and named by Nehru in 1960 and stayed in use until 1965.",
+          "availability": "lab-or-official",
+          "regionTag": "west",
+          "place": "Bombay",
+          "sources": [
+            {
+              "label": "Wikipedia: TIFRAC",
+              "url": "https://en.wikipedia.org/wiki/TIFRAC",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.technology-science.iit-kanpur",
+          "kind": "tech",
+          "title": "IIT Kanpur",
+          "summary": "IIT Kanpur began in December 1959 on the campus of the Harcourt Butler Technological Institute and was established by an Act of Parliament in 1960.",
+          "availability": "lab-or-official",
+          "regionTag": "north",
+          "place": "Kanpur",
+          "sources": [
+            {
+              "label": "Wikipedia: IIT Kanpur",
+              "url": "https://en.wikipedia.org/wiki/IIT_Kanpur",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.technology-science.bhilai-steel",
+          "kind": "tech",
+          "title": "Bhilai Steel Plant",
+          "summary": "The Bhilai Steel Plant, set up with Soviet help from 1955, became India's main producer of steel rails.",
+          "availability": "urban",
+          "regionTag": "central",
+          "place": "Bhilai",
+          "sources": [
+            {
+              "label": "Wikipedia: Bhilai Steel Plant",
+              "url": "https://en.wikipedia.org/wiki/Bhilai_Steel_Plant",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      }
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: President: Rajendra Prasad; Prime Minister: Jawaharlal Nehru; The second Lok Sabha; Bombay Reorganisation Act, 1960.",
+      "items": [
+        {
+          "id": "in.1960.dd.government-politics.president-prasad",
+          "kind": "governance",
+          "title": "President: Rajendra Prasad",
+          "summary": "Rajendra Prasad was President of India, in office from 1950 to 1962.",
+          "office": "President of India",
+          "holder": "Rajendra Prasad",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in India",
+              "url": "https://en.wikipedia.org/wiki/1960_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Rajendra Prasad",
+              "url": "https://en.wikipedia.org/wiki/Rajendra_Prasad",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.government-politics.pm-nehru",
+          "kind": "governance",
+          "title": "Prime Minister: Jawaharlal Nehru",
+          "summary": "Jawaharlal Nehru was Prime Minister, with Sarvepalli Radhakrishnan as Vice-President and B. P. Sinha as Chief Justice.",
+          "office": "Prime Minister of India",
+          "holder": "Jawaharlal Nehru",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in India",
+              "url": "https://en.wikipedia.org/wiki/1960_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.government-politics.second-lok-sabha",
+          "kind": "governance",
+          "title": "The second Lok Sabha",
+          "summary": "In the 1957 election, for 494 of the 505 Lok Sabha seats, the Indian National Congress won 371.",
+          "instrument": "1957 general election",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1957 Indian general election",
+              "url": "https://en.wikipedia.org/wiki/1957_Indian_general_election",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.government-politics.bombay-reorganisation",
+          "kind": "governance",
+          "title": "Bombay Reorganisation Act, 1960",
+          "summary": "The Act divided Bombay State into Maharashtra and Gujarat, which came into being on 1 May 1960.",
+          "instrument": "Bombay Reorganisation Act, 1960",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Maharashtra Day",
+              "url": "https://en.wikipedia.org/wiki/Maharashtra_Day",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Bombay State",
+              "url": "https://en.wikipedia.org/wiki/Bombay_State",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "Rajendra Prasad",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "Jawaharlal Nehru",
+                "role": "Head of government",
+                "children": [
+                  {
+                    "id": "ls",
+                    "label": "Lok Sabha",
+                    "role": "Lower house: 494 of 505 seats were elected in 1957, 371 won by Congress"
+                  },
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice B. P. Sinha",
+                    "role": "Highest court"
+                  },
+                  {
+                    "id": "states",
+                    "label": "State governments",
+                    "role": "Maharashtra and Gujarat created 1 May 1960"
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "The Bombay Reorganisation Act, 1960",
+            "steps": [
+              {
+                "label": "1956",
+                "detail": "The States Reorganisation Act drew states on linguistic lines but left a bilingual Bombay State of Marathi, Gujarati, Kutchi and Konkani speakers."
+              },
+              {
+                "label": "Agitation",
+                "detail": "The Samyukta Maharashtra Samiti campaigned for a Marathi-speaking state."
+              },
+              {
+                "label": "1960",
+                "detail": "The Bombay Reorganisation Act split Bombay State, and Maharashtra came into being on 1 May 1960."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1960 in India",
+            "url": "https://en.wikipedia.org/wiki/1960_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1957 Indian general election",
+            "url": "https://en.wikipedia.org/wiki/1957_Indian_general_election",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Maharashtra Day",
+            "url": "https://en.wikipedia.org/wiki/Maharashtra_Day",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Bombay State",
+            "url": "https://en.wikipedia.org/wiki/Bombay_State",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: Maharashtra and Gujarat are born; Nehru and Zhou Enlai agree to talks; The Second Five-Year Plan.",
+      "items": [
+        {
+          "id": "in.1960.dd.freedom-history.maharashtra-gujarat",
+          "kind": "event",
+          "title": "Maharashtra and Gujarat are born",
+          "summary": "On 1 May 1960 the state of Maharashtra was formed from the division of Bombay State, after the Samyukta Maharashtra movement.",
+          "eventType": "reform",
+          "date": "1960-05-01",
+          "regionTag": "west",
+          "place": "Bombay",
+          "sources": [
+            {
+              "label": "Wikipedia: Maharashtra Day",
+              "url": "https://en.wikipedia.org/wiki/Maharashtra_Day",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Bombay State",
+              "url": "https://en.wikipedia.org/wiki/Bombay_State",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.freedom-history.nehru-zhou",
+          "kind": "event",
+          "title": "Nehru and Zhou Enlai agree to talks",
+          "summary": "In 1960 Nehru and Zhou Enlai agreed that officials of both countries would examine the historical basis of the boundary dispute; the sides disagreed on the western sector.",
+          "eventType": "treaty",
+          "date": "1960",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Sino-Indian border dispute",
+              "url": "https://en.wikipedia.org/wiki/Sino-Indian_border_dispute",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.freedom-history.second-plan",
+          "kind": "event",
+          "title": "The Second Five-Year Plan",
+          "summary": "The Second Plan, 1956 to 1961, focused on the public sector and rapid industrialisation, following the Mahalanobis model; steel plants contracted during the First Plan came into production.",
+          "eventType": "reform",
+          "date": "1960",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Five-Year Plans of India",
+              "url": "https://en.wikipedia.org/wiki/Five-Year_Plans_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      },
+      "scarcityNote": "Only 3 items for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Jawaharlal Nehru; Rajendra Prasad; Milkha Singh; Satyajit Ray; K. Asif.",
+      "items": [
+        {
+          "id": "in.1960.dd.personalities.jawaharlal-nehru",
+          "kind": "person",
+          "title": "Jawaharlal Nehru",
+          "summary": "Prime Minister, born in Allahabad in 1889.",
+          "field": "Politics",
+          "born": "1889",
+          "died": "1964",
+          "whyThisYear": "He agreed with Zhou Enlai to hold official-level talks on the boundary and named TIFRAC.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Jawaharlal Nehru",
+              "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Sino-Indian border dispute",
+              "url": "https://en.wikipedia.org/wiki/Sino-Indian_border_dispute",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.personalities.rajendra-prasad",
+          "kind": "person",
+          "title": "Rajendra Prasad",
+          "summary": "President of India, born in 1884.",
+          "field": "Politics",
+          "born": "1884",
+          "died": "1963",
+          "whyThisYear": "He was in the last two years of his term as the first President.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Rajendra Prasad",
+              "url": "https://en.wikipedia.org/wiki/Rajendra_Prasad",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1960 in India",
+              "url": "https://en.wikipedia.org/wiki/1960_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.personalities.milkha-singh",
+          "kind": "person",
+          "title": "Milkha Singh",
+          "summary": "Sprinter, born in 1929.",
+          "field": "Athletics",
+          "born": "1929",
+          "died": "2021",
+          "whyThisYear": "He finished fourth in the 400 metres at the Rome Olympics.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Milkha Singh",
+              "url": "https://en.wikipedia.org/wiki/Milkha_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: 400 metres, Men (Rome 1960)",
+              "url": "https://www.olympedia.org/results/59661",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.personalities.satyajit-ray",
+          "kind": "person",
+          "title": "Satyajit Ray",
+          "summary": "Film-maker, born in Calcutta in 1921.",
+          "field": "Cinema",
+          "born": "1921",
+          "died": "1992",
+          "whyThisYear": "His film Devi, with Sharmila Tagore, was released in 1960.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Satyajit Ray",
+              "url": "https://en.wikipedia.org/wiki/Satyajit_Ray",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Devi (1960 film)",
+              "url": "https://en.wikipedia.org/wiki/Devi_(1960_film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.personalities.k-asif",
+          "kind": "person",
+          "title": "K. Asif",
+          "summary": "Director, born in 1922.",
+          "field": "Cinema",
+          "born": "1922",
+          "died": "1971",
+          "whyThisYear": "Mughal-e-Azam, which he produced and directed, was released on 5 August 1960; its development began in 1944.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: K. Asif",
+              "url": "https://en.wikipedia.org/wiki/K._Asif",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Mughal-e-Azam",
+              "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.personalities.dilip-kumar",
+          "kind": "person",
+          "title": "Dilip Kumar",
+          "summary": "Actor, born in 1922.",
+          "field": "Cinema",
+          "born": "1922",
+          "died": "2021",
+          "whyThisYear": "He played Prince Salim in Mughal-e-Azam.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Dilip Kumar",
+              "url": "https://en.wikipedia.org/wiki/Dilip_Kumar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Mughal-e-Azam",
+              "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.personalities.madhubala",
+          "kind": "person",
+          "title": "Madhubala",
+          "summary": "Actress, born in 1933.",
+          "field": "Cinema",
+          "born": "1933",
+          "died": "1969",
+          "whyThisYear": "She played Anarkali in Mughal-e-Azam.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Madhubala",
+              "url": "https://en.wikipedia.org/wiki/Madhubala",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Mughal-e-Azam",
+              "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.personalities.homi-bhabha",
+          "kind": "person",
+          "title": "Homi J. Bhabha",
+          "summary": "Physicist, born in Bombay in 1909.",
+          "field": "Nuclear physics",
+          "born": "1909",
+          "died": "1966",
+          "whyThisYear": "The CIRUS reactor at his Trombay establishment went critical in July 1960.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Homi J. Bhabha",
+              "url": "https://en.wikipedia.org/wiki/Homi_J._Bhabha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: CIRUS reactor",
+              "url": "https://en.wikipedia.org/wiki/CIRUS_reactor",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: Olympic hockey silver; A record-breaking film; India's second nuclear reactor.",
+      "items": [
+        {
+          "id": "in.1960.dd.achievements.hockey-silver",
+          "kind": "achievement",
+          "title": "Olympic hockey silver",
+          "summary": "India's only medal at Rome was silver in hockey, ending a run of six Olympic golds from 1928.",
+          "domain": "sport",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1960 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1960_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: Hockey, Men (Rome 1960)",
+              "url": "https://www.olympedia.org/results/35685",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.achievements.mughal-e-azam-record",
+          "kind": "achievement",
+          "title": "A record-breaking film",
+          "summary": "Mughal-e-Azam became the highest-grossing Indian film to that time, a distinction it held for 15 years.",
+          "domain": "arts",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Mughal-e-Azam",
+              "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.achievements.cirus-critical",
+          "kind": "achievement",
+          "title": "India's second nuclear reactor",
+          "summary": "CIRUS, the second nuclear reactor built in India, first went critical in July 1960.",
+          "domain": "engineering",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: CIRUS reactor",
+              "url": "https://en.wikipedia.org/wiki/CIRUS_reactor",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Competitors in India's Olympic team at Rome",
+              "value": 45,
+              "unit": "athletes"
+            },
+            {
+              "label": "Matches India had won in a row at the Olympic hockey tournament before the final",
+              "value": 30,
+              "unit": "matches"
+            },
+            {
+              "label": "Production cost of Mughal-e-Azam",
+              "value": 1.5,
+              "unit": "crore rupees"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: India at the 1960 Summer Olympics",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_1960_Summer_Olympics",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Olympedia: Hockey, Men (Rome 1960)",
+            "url": "https://www.olympedia.org/results/35685",
+            "accessed": "2026-10-13",
+            "quality": "primary"
+          },
+          {
+            "label": "Wikipedia: Mughal-e-Azam",
+            "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Hockey final: Pakistan 1, India 0; Milkha Singh, 400 m: fourth; Football: out in the group; Zora Singh, 50 km walk: eighth.",
+      "items": [
+        {
+          "id": "in.1960.dd.sports.hockey-final",
+          "kind": "sport",
+          "title": "Hockey final: Pakistan 1, India 0",
+          "summary": "Pakistan won the gold on 9 September 1960 with a sixth-minute goal by Ahmed Naseer Bunda. India had won 30 straight Olympic matches before this one.",
+          "sport": "Hockey",
+          "competition": "Olympic Games, Rome",
+          "result": "Silver",
+          "scoreline": "0-1",
+          "athletes": [
+            "Leslie Claudius",
+            "Shankar Laxman",
+            "Prithipal Singh"
+          ],
+          "date": "1960-09-09",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Olympedia: Hockey, Men (Rome 1960)",
+              "url": "https://www.olympedia.org/results/35685",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Field hockey at the 1960 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/Field_hockey_at_the_1960_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.sports.milkha-400m",
+          "kind": "sport",
+          "title": "Milkha Singh, 400 m: fourth",
+          "summary": "Milkha Singh finished fourth in the Olympic 400 metres final in 45.6 seconds, behind Otis Davis, Carl Kaufmann and Malcolm Spence.",
+          "sport": "Athletics",
+          "competition": "Olympic Games, Rome",
+          "result": "4th",
+          "scoreline": "45.6 s (winner 44.9 s)",
+          "athletes": [
+            "Milkha Singh"
+          ],
+          "date": "1960-09",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Olympedia: 400 metres, Men (Rome 1960)",
+              "url": "https://www.olympedia.org/results/59661",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: India at the 1960 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1960_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.sports.football-rome",
+          "kind": "sport",
+          "title": "Football: out in the group",
+          "summary": "India lost 1-2 to Hungary on 26 August 1960, drew once and lost once more, and went out in the group stage, ranked =13th.",
+          "sport": "Football",
+          "competition": "Olympic Games, Rome, Group D",
+          "result": "Group stage, =13th",
+          "scoreline": "0 W, 1 D, 2 L; goals 3-6",
+          "athletes": [
+            "P. K. Banerjee",
+            "Tulsidas Balaram"
+          ],
+          "date": "1960-08",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1960 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1960_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India at the 1960 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/15",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.sports.zora-singh-walk",
+          "kind": "sport",
+          "title": "Zora Singh, 50 km walk: eighth",
+          "summary": "Zora Singh finished eighth in the 50 km walk in 4:37:44.6 and 20th in the 20 km walk.",
+          "sport": "Athletics",
+          "competition": "Olympic Games, Rome",
+          "result": "8th (50 km walk)",
+          "scoreline": "4:37:44.6",
+          "athletes": [
+            "Zora Singh"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1960 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1960_Summer_Olympics",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India at the 1960 Summer Olympics",
+              "url": "https://www.olympedia.org/countries/IND/editions/15",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "Olympic hockey, Rome 1960: India's route to the final",
+            "steps": [
+              {
+                "label": "Quarterfinal, 5 September",
+                "text": "India beat Australia 1-0 after extra time, Bhola scoring in the 84th minute.",
+                "score": "1-0"
+              },
+              {
+                "label": "Semifinal, 7 September",
+                "text": "India beat Great Britain 1-0.",
+                "score": "1-0"
+              },
+              {
+                "label": "Final, 9 September",
+                "text": "Pakistan beat India 1-0 with a sixth-minute goal by Ahmed Naseer Bunda, ending India's six-gold run.",
+                "score": "0-1"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Field hockey at the 1960 Summer Olympics",
+            "url": "https://en.wikipedia.org/wiki/Field_hockey_at_the_1960_Summer_Olympics",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Olympedia: Hockey, Men (Rome 1960)",
+            "url": "https://www.olympedia.org/results/35685",
+            "accessed": "2026-10-13",
+            "quality": "primary"
+          }
+        ]
+      }
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Aag Ka Darya (River of Fire).",
+      "items": [
+        {
+          "id": "in.1960.dd.literature.aag-ka-darya",
+          "kind": "work",
+          "title": "Aag Ka Darya (River of Fire)",
+          "summary": "Qurratulain Hyder's Urdu novel, published in 1959, is a historical novel that gives context to the Partition of the subcontinent.",
+          "workType": "novel",
+          "creator": "Qurratulain Hyder",
+          "originalTitle": {
+            "text": "آگ کا دریا",
+            "lang": "ur"
+          },
+          "transliteration": "Aag Ka Darya",
+          "translatedTitle": "River of Fire",
+          "languages": [
+            "Urdu"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Aag Ka Darya",
+              "url": "https://en.wikipedia.org/wiki/Aag_Ka_Darya",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 1 item for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Chandamama; The Illustrated Weekly of India; National Book Trust publications.",
+      "items": [
+        {
+          "id": "in.1960.dd.books-reading.chandamama",
+          "kind": "work",
+          "title": "Chandamama",
+          "summary": "The children's monthly was founded in 1947 by Chakrapani and Nagi Reddi, first in Telugu, and later appeared in many Indian languages.",
+          "workType": "periodical",
+          "creator": "Chakrapani and Nagi Reddi",
+          "languages": [
+            "Telugu",
+            "Tamil",
+            "Hindi"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Chandamama",
+              "url": "https://en.wikipedia.org/wiki/Chandamama",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.books-reading.illustrated-weekly",
+          "kind": "work",
+          "title": "The Illustrated Weekly of India",
+          "summary": "An English-language weekly newsmagazine, begun in 1880 as the Times of India's weekly edition and renamed in 1923.",
+          "workType": "periodical",
+          "creator": "Times of India group",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: The Illustrated Weekly of India",
+              "url": "https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.books-reading.nbt-publications",
+          "kind": "work",
+          "title": "National Book Trust publications",
+          "summary": "The National Book Trust, founded on 1 August 1957, published low-priced books for all ages in several Indian languages.",
+          "workType": "nonfiction",
+          "creator": "National Book Trust",
+          "languages": [
+            "Hindi",
+            "English"
+          ],
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: National Book Trust",
+              "url": "https://en.wikipedia.org/wiki/National_Book_Trust",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      },
+      "scarcityNote": "Only 3 items for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Mughal-e-Azam; Devi; Kohinoor; Chaudhvin Ka Chand.",
+      "items": [
+        {
+          "id": "in.1960.dd.cinema.mughal-e-azam",
+          "kind": "film",
+          "title": "Mughal-e-Azam",
+          "summary": "K. Asif's historical epic with Prithviraj Kapoor, Dilip Kumar and Madhubala, with music by Naushad, was released on 5 August 1960 and became the highest-grossing Indian film.",
+          "language": "Hindi-Urdu",
+          "releaseDate": "1960-08-05",
+          "director": "K. Asif",
+          "cast": [
+            "Prithviraj Kapoor",
+            "Dilip Kumar",
+            "Madhubala",
+            "Durga Khote"
+          ],
+          "notable": "Highest-grossing Indian film for 15 years; partly in Technicolor",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Mughal-e-Azam",
+              "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 1960",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1960",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.cinema.devi",
+          "kind": "film",
+          "title": "Devi",
+          "summary": "Satyajit Ray's Bengali drama about a zamindar who believes his daughter-in-law is a goddess incarnate, with Sharmila Tagore, was released in 1960.",
+          "language": "Bengali",
+          "director": "Satyajit Ray",
+          "cast": [
+            "Sharmila Tagore",
+            "Soumitra Chatterjee",
+            "Chhabi Biswas"
+          ],
+          "notable": "Based on a story by Prabhat Kumar Mukhopadhyay",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Devi (1960 film)",
+              "url": "https://en.wikipedia.org/wiki/Devi_(1960_film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.cinema.kohinoor-1960",
+          "kind": "film",
+          "title": "Kohinoor",
+          "summary": "Kohinoor was among the ten highest-grossing Hindi films of 1960.",
+          "language": "Hindi-Urdu",
+          "notable": "Top-ten grosser of 1960",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1960",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1960",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.cinema.chaudhvin-ka-chand",
+          "kind": "film",
+          "title": "Chaudhvin Ka Chand",
+          "summary": "Chaudhvin Ka Chand was among the ten highest-grossing Hindi films of 1960.",
+          "language": "Hindi-Urdu",
+          "notable": "Top-ten grosser of 1960",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1960",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1960",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: The score of Mughal-e-Azam; Vividh Bharati; National School of Drama.",
+      "items": [
+        {
+          "id": "in.1960.dd.music-arts.mughal-e-azam-score",
+          "kind": "art",
+          "title": "The score of Mughal-e-Azam",
+          "summary": "Naushad composed the music for Mughal-e-Azam; the song 'Pyar Kiya To Darna Kya' was one of the sequences filmed in Technicolor.",
+          "form": "music",
+          "creator": "Naushad",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Mughal-e-Azam",
+              "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.music-arts.vividh-bharati",
+          "kind": "art",
+          "title": "Vividh Bharati",
+          "summary": "All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.",
+          "form": "broadcast",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Vividh Bharati",
+              "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.music-arts.national-school-of-drama",
+          "kind": "art",
+          "title": "National School of Drama",
+          "summary": "The National School of Drama was established in 1959 as a part of the Sangeet Natak Akademi.",
+          "form": "theatre",
+          "regionTag": "north",
+          "place": "Delhi",
+          "sources": [
+            {
+              "label": "Wikipedia: National School of Drama",
+              "url": "https://en.wikipedia.org/wiki/National_School_of_Drama",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 3 items for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: Population.",
+      "items": [
+        {
+          "id": "in.1960.dd.economy-business.population-1961",
+          "kind": "indicator",
+          "title": "Population",
+          "summary": "The 1961 census counted 439,234,771 people (the figure in the 1985 statistical abstract; an earlier print in the 1974 abstract gives 439,072,582).",
+          "metric": "Population",
+          "value": "439234771",
+          "unit": "million people",
+          "asOf": "1961",
+          "sources": [
+            {
+              "label": "Wikipedia: 1961 census of India",
+              "url": "https://en.wikipedia.org/wiki/1961_census_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive",
+              "url": "https://archive.org/details/dli.ministry.23191",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            },
+            {
+              "label": "Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive",
+              "url": "https://archive.org/details/dli.ministry.23183",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "wage": {
+            "amount": 1.11,
+            "unit": "rupees a day",
+            "label": "Output per person per day (GDP per capita ÷ 365; not a wage)"
+          },
+          "buys": [
+            {
+              "label": "Kilograms of rice (wholesale)",
+              "cost": 0.6743,
+              "unit": "rupees per kg"
+            },
+            {
+              "label": "Kilograms of wheat (wholesale)",
+              "cost": 0.4751,
+              "unit": "rupees per kg"
+            },
+            {
+              "label": "Kilograms of sugar (wholesale)",
+              "cost": 0.5772,
+              "unit": "rupees per kg"
+            },
+            {
+              "label": "Grams of gold",
+              "cost": 11.491,
+              "unit": "rupees per gram"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "World Bank, World Development Indicators: GDP per capita (current LCU), NY.GDP.PCAP.CN",
+            "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive",
+            "url": "https://archive.org/details/dli.ministry.23179",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive",
+            "url": "https://archive.org/details/dli.ministry.23191",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          }
+        ]
+      },
+      "scarcityNote": "Only 1 item for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

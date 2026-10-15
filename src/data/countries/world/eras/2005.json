@@ -1,0 +1,361 @@
+{
+  "year": 2005,
+  "country": "world",
+  "title": "Web 2.0",
+  "tagline": "Video sharing, online maps, flip phones and click-wheel music players.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a young professional in Chicago"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.2005.morning.flip-phone-alarm",
+      "time": "6:30 AM",
+      "activity": "Flip-phone alarm",
+      "detail": "Camera flip phones were everywhere; the slim Motorola Razr V3, released in the U.S. in November 2004, became a huge seller after price cuts.",
+      "icon": "Smartphone",
+      "source": {
+        "label": "Wikipedia: Motorola Razr V3",
+        "url": "https://en.wikipedia.org/wiki/Motorola_Razr_V3",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.morning.drag-map",
+      "time": "7:15 AM",
+      "activity": "Drag the map",
+      "detail": "Google Maps launched on February 8, 2005, letting you drag a map around in the browser.",
+      "icon": "Place",
+      "source": {
+        "label": "Wikipedia: Google Maps",
+        "url": "https://en.wikipedia.org/wiki/Google_Maps",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.morning.commute-click-wheel-player",
+      "time": "7:45 AM",
+      "activity": "Commute with a click-wheel player",
+      "detail": "The first iPod nano was introduced on September 7, 2005.",
+      "icon": "Headphones",
+      "source": {
+        "label": "Wikipedia: iPod Nano",
+        "url": "https://en.wikipedia.org/wiki/IPod_Nano",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.morning.video-desk",
+      "time": "8:30 AM",
+      "activity": "A video at your desk",
+      "detail": "YouTube's first video, \"Me at the zoo\", was uploaded on April 23, 2005.",
+      "icon": "Theaters",
+      "source": {
+        "label": "Wikipedia: YouTube",
+        "url": "https://en.wikipedia.org/wiki/YouTube",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.2005.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "2005 brought a second presidential term, the end of a Watergate mystery and a devastating hurricane.",
+      "imageAlt": "A 2005-style news website with glossy buttons and RSS links",
+      "highlights": [
+        "Bush begins his second term",
+        "Mark Felt revealed as Watergate's \"Deep Throat\"",
+        "Hurricane Katrina hits the Gulf Coast",
+        "YouTube goes online"
+      ],
+      "source": {
+        "label": "Wikipedia: 2005 in the United States",
+        "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedroom",
+      "description": "Video sharing: YouTube was founded on February 14, 2005; its first video was uploaded on April 23.",
+      "imageAlt": "A mid-2000s bedroom with a laptop on the bed, a flip phone and a white MP3 player",
+      "highlights": [
+        "Video sharing"
+      ],
+      "source": {
+        "label": "Wikipedia: YouTube",
+        "url": "https://en.wikipedia.org/wiki/YouTube",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.2005.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Online maps: Google Maps launched as a web app on February 8, 2005.",
+      "imageAlt": "A street with an SUV and a pedestrian wearing white earbuds",
+      "highlights": [
+        "Online maps"
+      ],
+      "source": {
+        "label": "Wikipedia: Google Maps",
+        "url": "https://en.wikipedia.org/wiki/Google_Maps",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.2005.prices.loaf-white-bread-1",
+      "item": "Loaf of white bread (1 lb)",
+      "price": "$1.04",
+      "adjusted2026": "about $1.78",
+      "source": {
+        "label": "BLS average price, white bread per lb (series APU0000702111), 2005 annual average of monthly data, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000702111",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.prices.gallon-unleaded-gasoline",
+      "item": "Gallon of unleaded gasoline",
+      "price": "$2.30",
+      "adjusted2026": "about $3.95",
+      "source": {
+        "label": "BLS average price, unleaded regular gasoline per gallon (series APU000074714), 2005 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU000074714",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.prices.gallon-whole-milk",
+      "item": "Gallon of whole milk",
+      "price": "$3.19",
+      "adjusted2026": "about $5.47",
+      "source": {
+        "label": "BLS average price, whole milk per gallon (series APU0000709112), 2005 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000709112",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.37",
+      "adjusted2026": "about $0.63",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour)",
+      "price": "$5.15",
+      "adjusted2026": "about $8.83",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.prices.xbox-360-core-premium",
+      "item": "Xbox 360 (Core / Premium, at launch)",
+      "price": "$299 / $399",
+      "adjusted2026": "about $510–$680",
+      "source": {
+        "label": "Wikipedia: Xbox 360",
+        "url": "https://en.wikipedia.org/wiki/Xbox_360",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.2005.technology.video-sharing",
+      "name": "Video sharing",
+      "category": "entertainment",
+      "description": "YouTube was founded on February 14, 2005; its first video was uploaded on April 23.",
+      "source": {
+        "label": "Wikipedia: YouTube",
+        "url": "https://en.wikipedia.org/wiki/YouTube",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.technology.online-maps",
+      "name": "Online maps",
+      "category": "transport",
+      "description": "Google Maps launched as a web app on February 8, 2005.",
+      "source": {
+        "label": "Wikipedia: Google Maps",
+        "url": "https://en.wikipedia.org/wiki/Google_Maps",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.technology.click-wheel-mp3-player",
+      "name": "Click-wheel MP3 player",
+      "category": "entertainment",
+      "description": "The first-generation iPod nano was introduced on September 7, 2005.",
+      "source": {
+        "label": "Wikipedia: iPod Nano",
+        "url": "https://en.wikipedia.org/wiki/IPod_Nano",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.technology.camera-flip-phone",
+      "name": "Camera flip phone",
+      "category": "communication",
+      "description": "The slim Motorola Razr V3 flip phone (U.S. release November 2004) had a camera and became a huge seller after price cuts.",
+      "source": {
+        "label": "Wikipedia: Motorola Razr V3",
+        "url": "https://en.wikipedia.org/wiki/Motorola_Razr_V3",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.technology.xbox-360",
+      "name": "Xbox 360",
+      "category": "entertainment",
+      "description": "Released in the U.S. and Canada on November 22, 2005.",
+      "source": {
+        "label": "Wikipedia: Xbox 360",
+        "url": "https://en.wikipedia.org/wiki/Xbox_360",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.2005.visions.web-will-become-platform",
+      "prediction": "The web will become a platform, with users adding the value by uploading, commenting and sharing.",
+      "whoSaidIt": "Tim O'Reilly, \"What Is Web 2.0\", September 30, 2005",
+      "cameTrue": "yes",
+      "note": "Social media and web apps grew from exactly these ideas.",
+      "source": {
+        "label": "Wikipedia: Web 2.0",
+        "url": "https://en.wikipedia.org/wiki/Web_2.0",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.visions.globalization-has-made-world",
+      "prediction": "Globalization has made the world \"flat\": a level playing field where anyone, anywhere, can compete.",
+      "whoSaidIt": "Thomas Friedman, The World Is Flat (April 5, 2005)",
+      "cameTrue": "partly",
+      "note": "Global trade and remote work grew, but geography and politics still matter.",
+      "source": {
+        "label": "Kirkus Reviews: The World Is Flat (Farrar, Straus and Giroux, 5 April 2005)",
+        "url": "https://kirkusreviews.com/book-reviews/thomas-l-friedman/the-world-is-flat/",
+        "accessed": "2026-10-15",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.2005.visions.computers-will-pass-turing",
+      "prediction": "Computers will pass the Turing test by 2029, and the Singularity will arrive in 2045.",
+      "whoSaidIt": "Ray Kurzweil, The Singularity Is Near (2005)",
+      "cameTrue": "unknown",
+      "note": "Too soon to tell.",
+      "source": {
+        "label": "Wikipedia: The Singularity Is Near",
+        "url": "https://en.wikipedia.org/wiki/The_Singularity_Is_Near",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.2005.headlines.2005-01-20",
+      "date": "2005-01-20",
+      "headline": "Bush sworn in for a second term",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2005 in the United States",
+        "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.headlines.2005-05-31",
+      "date": "2005-05-31",
+      "headline": "Mark Felt revealed as Watergate source \"Deep Throat\"",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2005 in the United States",
+        "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2005.headlines.2005-08-29",
+      "date": "2005-08-29",
+      "headline": "Hurricane Katrina strikes the Gulf Coast",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2005 in the United States",
+        "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A white click-wheel MP3 player."
+}

@@ -1,0 +1,1018 @@
+{
+  "country": "in",
+  "year": 2005,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 2005",
+    "summary": "Highlights of this year's checked items: The 26 July floods; The Right to Information Act; The rural employment guarantee; Sania Mirza at the US Open; Cartosat-1 on PSLV-C6; The Delhi bombings.",
+    "sources": [
+      {
+        "label": "Wikipedia: 2005 in India",
+        "url": "https://en.wikipedia.org/wiki/2005_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Right to Information Act, 2005",
+        "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+        "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Maharashtra floods of 2005",
+        "url": "https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.2005.dd.freedom-history.mumbai-floods",
+    "in.2005.dd.government-politics.rti-act",
+    "in.2005.dd.government-politics.nrega",
+    "in.2005.dd.sports.mirza-us-open",
+    "in.2005.dd.technology-science.cartosat-1",
+    "in.2005.dd.freedom-history.delhi-bombings"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: Cartosat-1 on PSLV-C6; INSAT-4A; SpiceJet begins flying.",
+      "items": [
+        {
+          "id": "in.2005.dd.technology-science.cartosat-1",
+          "kind": "tech",
+          "title": "Cartosat-1 on PSLV-C6",
+          "summary": "ISRO's PSLV-C6 launched Cartosat-1 and the amateur-radio satellite HAMSAT on 5 May 2005.",
+          "availability": "lab-or-official",
+          "regionTag": "south",
+          "place": "Sriharikota",
+          "sources": [
+            {
+              "label": "Wikipedia: PSLV-C6",
+              "url": "https://en.wikipedia.org/wiki/PSLV-C6",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.technology-science.insat-4a",
+          "kind": "tech",
+          "title": "INSAT-4A",
+          "summary": "INSAT-4A, a communications satellite, was launched on 22 December 2005 and served until October 2019.",
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: INSAT-4A",
+              "url": "https://en.wikipedia.org/wiki/INSAT-4A",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.technology-science.spicejet",
+          "kind": "tech",
+          "title": "SpiceJet begins flying",
+          "summary": "SpiceJet's first domestic flight, on 24 May 2005, was on the Delhi to Mumbai route.",
+          "availability": "urban",
+          "regionTag": "national",
+          "place": "Delhi to Mumbai",
+          "sources": [
+            {
+              "label": "Wikipedia: SpiceJet",
+              "url": "https://en.wikipedia.org/wiki/SpiceJet",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      },
+      "scarcityNote": "Only 3 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: President: A. P. J. Abdul Kalam; Prime Minister: Manmohan Singh; The Right to Information Act; The rural employment guarantee.",
+      "items": [
+        {
+          "id": "in.2005.dd.government-politics.president-kalam",
+          "kind": "governance",
+          "title": "President: A. P. J. Abdul Kalam",
+          "summary": "A. P. J. Abdul Kalam was President of India throughout 2005.",
+          "office": "President of India",
+          "holder": "A. P. J. Abdul Kalam",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: A. P. J. Abdul Kalam",
+              "url": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.government-politics.pm-manmohan",
+          "kind": "governance",
+          "title": "Prime Minister: Manmohan Singh",
+          "summary": "Manmohan Singh was Prime Minister of the United Progressive Alliance government, with Bhairon Singh Shekhawat as Vice-President.",
+          "office": "Prime Minister of India",
+          "holder": "Manmohan Singh",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Manmohan Singh",
+              "url": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.government-politics.rti-act",
+          "kind": "governance",
+          "title": "The Right to Information Act",
+          "summary": "The Act, assented to on 15 June 2005 and fully in force from 12 October, lets any citizen request information from a public authority, which must reply within thirty days; it replaced the Freedom of Information Act, 2002.",
+          "instrument": "Right to Information Act, 2005",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Right to Information Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.government-politics.nrega",
+          "kind": "governance",
+          "title": "The rural employment guarantee",
+          "summary": "The National Rural Employment Guarantee Act was passed on 23 August 2005 and assented to on 5 September; it guaranteed 100 days of work and was implemented from 2 February 2006.",
+          "instrument": "NREGA, 2005",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "A. P. J. Abdul Kalam",
+            "role": "Head of state; Vice-President Bhairon Singh Shekhawat",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "Manmohan Singh",
+                "role": "Head of government",
+                "children": [
+                  {
+                    "id": "parl",
+                    "label": "Parliament",
+                    "role": "Passed the RTI Act (assent 15 June) and the NREGA (passed 23 August)"
+                  },
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice R. C. Lahoti until 1 November, then Y. K. Sabharwal",
+                    "role": "Highest court"
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "The Right to Information Act, 2005",
+            "steps": [
+              {
+                "label": "Assent",
+                "detail": "The President gave assent on 15 June 2005, and parts came into force at once."
+              },
+              {
+                "label": "In force",
+                "detail": "The Act came fully into force on 12 October 2005."
+              },
+              {
+                "label": "A request",
+                "detail": "A citizen may ask any public authority for information, which must reply within thirty days, or within 48 hours where life or liberty is at stake."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 2005 in India",
+            "url": "https://en.wikipedia.org/wiki/2005_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Right to Information Act, 2005",
+            "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+            "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: The 26 July floods; The Delhi bombings; The right to information arrives.",
+      "items": [
+        {
+          "id": "in.2005.dd.freedom-history.mumbai-floods",
+          "kind": "event",
+          "title": "The 26 July floods",
+          "summary": "On 26 July 2005 the Santacruz station recorded 944 mm of rain in 24 hours, the wettest day on record in Mumbai; about 1,094 people died in the Maharashtra floods.",
+          "eventType": "disaster",
+          "date": "2005-07",
+          "regionTag": "west",
+          "place": "Mumbai",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A flood with over a thousand deaths."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Maharashtra floods of 2005",
+              "url": "https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.freedom-history.delhi-bombings",
+          "kind": "event",
+          "title": "The Delhi bombings",
+          "summary": "Three bomb blasts in Delhi on 29 October 2005, at Paharganj, Sarojini Nagar and Govindpuri, killed 62 people and injured 210.",
+          "eventType": "conflict",
+          "date": "2005-10",
+          "regionTag": "north",
+          "place": "Delhi",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A terrorist attack on markets before a festival."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 Delhi bombings",
+              "url": "https://en.wikipedia.org/wiki/2005_Delhi_bombings",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.freedom-history.rti-event",
+          "kind": "event",
+          "title": "The right to information arrives",
+          "summary": "The Right to Information Act, 2005 came fully into force on 12 October 2005, replacing the Freedom of Information Act, 2002.",
+          "eventType": "law",
+          "date": "2005-10",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Right to Information Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      },
+      "scarcityNote": "Only 3 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: A. P. J. Abdul Kalam; Manmohan Singh; Sania Mirza; Kunwar Narayan; Chetan Bhagat.",
+      "items": [
+        {
+          "id": "in.2005.dd.personalities.apj-abdul-kalam",
+          "kind": "person",
+          "title": "A. P. J. Abdul Kalam",
+          "summary": "President, born in 1931.",
+          "field": "Science and politics",
+          "born": "1931",
+          "whyThisYear": "He was President throughout 2005.",
+          "regionTag": "national",
+          "died": "2015",
+          "sources": [
+            {
+              "label": "Wikipedia: A. P. J. Abdul Kalam",
+              "url": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.personalities.manmohan-singh",
+          "kind": "person",
+          "title": "Manmohan Singh",
+          "summary": "Prime Minister, born in 1932.",
+          "field": "Politics and economics",
+          "born": "1932",
+          "whyThisYear": "His government passed the RTI and rural employment guarantee Acts.",
+          "regionTag": "national",
+          "died": "2024",
+          "sources": [
+            {
+              "label": "Wikipedia: Manmohan Singh",
+              "url": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.personalities.sania-mirza",
+          "kind": "person",
+          "title": "Sania Mirza",
+          "summary": "Tennis player from Hyderabad, born in 1986.",
+          "field": "Tennis",
+          "born": "1986",
+          "whyThisYear": "She reached the fourth round of the US Open and was the WTA's Newcomer of the Year.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Sania Mirza",
+              "url": "https://en.wikipedia.org/wiki/Sania_Mirza",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.personalities.kunwar-narayan",
+          "kind": "person",
+          "title": "Kunwar Narayan",
+          "summary": "Hindi poet, born in 1927.",
+          "field": "Poetry",
+          "born": "1927",
+          "whyThisYear": "He was awarded the 41st Jnanpith Award for 2005, announced in November 2008.",
+          "regionTag": "national",
+          "died": "2017",
+          "sources": [
+            {
+              "label": "Wikipedia: Kunwar Narayan",
+              "url": "https://en.wikipedia.org/wiki/Kunwar_Narayan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.personalities.chetan-bhagat",
+          "kind": "person",
+          "title": "Chetan Bhagat",
+          "summary": "Novelist, born in 1974.",
+          "field": "Writing",
+          "born": "1974",
+          "whyThisYear": "His second novel, One Night @ the Call Center, appeared in 2005.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Chetan Bhagat",
+              "url": "https://en.wikipedia.org/wiki/Chetan_Bhagat",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: One Night @ the Call Center",
+              "url": "https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.personalities.rajinikanth",
+          "kind": "person",
+          "title": "Rajinikanth",
+          "summary": "Tamil actor, born in 1950.",
+          "field": "Cinema",
+          "born": "1950",
+          "whyThisYear": "He starred in Chandramukhi, released on 14 April 2005.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Rajinikanth",
+              "url": "https://en.wikipedia.org/wiki/Rajinikanth",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Chandramukhi",
+              "url": "https://en.wikipedia.org/wiki/Chandramukhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.personalities.sanjay-leela-bhansali",
+          "kind": "person",
+          "title": "Sanjay Leela Bhansali",
+          "summary": "Film-maker, born in 1963.",
+          "field": "Cinema",
+          "born": "1963",
+          "whyThisYear": "He directed Black.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Sanjay Leela Bhansali",
+              "url": "https://en.wikipedia.org/wiki/Sanjay_Leela_Bhansali",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Black (2005 film)",
+              "url": "https://en.wikipedia.org/wiki/Black_(2005_film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: A right to ask; The right to work; WTA Newcomer of the Year; A mapping satellite.",
+      "items": [
+        {
+          "id": "in.2005.dd.achievements.rti-ach",
+          "kind": "achievement",
+          "title": "A right to ask",
+          "summary": "The Right to Information Act gave every citizen the right to request information from public authorities and required them to reply within thirty days.",
+          "domain": "social",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Right to Information Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.achievements.nrega-ach",
+          "kind": "achievement",
+          "title": "The right to work",
+          "summary": "The NREGA guaranteed 100 days of employment to every rural household that asked for it.",
+          "domain": "social",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.achievements.sania-newcomer",
+          "kind": "achievement",
+          "title": "WTA Newcomer of the Year",
+          "summary": "Sania Mirza was named the WTA's Newcomer of the Year in 2005 and was among Time's '50 Heroes of Asia' in October.",
+          "domain": "sport",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Sania Mirza",
+              "url": "https://en.wikipedia.org/wiki/Sania_Mirza",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.achievements.cartosat-ach",
+          "kind": "achievement",
+          "title": "A mapping satellite",
+          "summary": "Cartosat-1, launched on PSLV-C6 in May 2005, was an Indian remote-sensing satellite.",
+          "domain": "space",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: PSLV-C6",
+              "url": "https://en.wikipedia.org/wiki/PSLV-C6",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Days of guaranteed work a year under the NREGA",
+              "value": 100,
+              "unit": "days"
+            },
+            {
+              "label": "Rainfall recorded at Santacruz on 26 July",
+              "value": 944,
+              "unit": "mm in 24 hours"
+            },
+            {
+              "label": "Days within which a public authority must answer an RTI request",
+              "value": 30,
+              "unit": "days"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+            "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Maharashtra floods of 2005",
+            "url": "https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Right to Information Act, 2005",
+            "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Sania Mirza at the US Open.",
+      "items": [
+        {
+          "id": "in.2005.dd.sports.mirza-us-open",
+          "kind": "sport",
+          "title": "Sania Mirza at the US Open",
+          "summary": "Sania Mirza reached the fourth round of the 2005 US Open women's singles, which Kim Clijsters won.",
+          "sport": "Tennis",
+          "competition": "US Open 2005, women's singles",
+          "result": "Fourth round",
+          "athletes": [
+            "Sania Mirza"
+          ],
+          "date": "2005-09",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Sania Mirza",
+              "url": "https://en.wikipedia.org/wiki/Sania_Mirza",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 US Open – Women's singles",
+              "url": "https://en.wikipedia.org/wiki/2005_US_Open_–_Women's_singles",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay"
+      },
+      "scarcityNote": "Only 1 item for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Atmajayee; One Night @ the Call Center; Tisra Saptak.",
+      "items": [
+        {
+          "id": "in.2005.dd.literature.atmajayee",
+          "kind": "work",
+          "title": "Atmajayee",
+          "summary": "Kunwar Narayan's 1965 poem, based on the Nachiketa episode of the Kathopanishad, is among the works for which he is known.",
+          "workType": "poetry",
+          "creator": "Kunwar Narayan",
+          "originalTitle": {
+            "text": "आत्मजयी",
+            "lang": "hi"
+          },
+          "transliteration": "Atmajayee",
+          "translatedTitle": "Self-Conqueror",
+          "languages": [
+            "Hindi"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Kunwar Narayan",
+              "url": "https://en.wikipedia.org/wiki/Kunwar_Narayan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.literature.one-night",
+          "kind": "work",
+          "title": "One Night @ the Call Center",
+          "summary": "Chetan Bhagat's novel about six call-centre workers was published in 2005.",
+          "workType": "novel",
+          "creator": "Chetan Bhagat",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: One Night @ the Call Center",
+              "url": "https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Chetan Bhagat",
+              "url": "https://en.wikipedia.org/wiki/Chetan_Bhagat",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.literature.tisra-saptak",
+          "kind": "work",
+          "title": "Tisra Saptak",
+          "summary": "Kunwar Narayan was one of seven poets in the 1959 anthology edited by Agyeya, Tisra Saptak.",
+          "workType": "poetry",
+          "creator": "Agyeya (editor)",
+          "originalTitle": {
+            "text": "तीसरा सप्तक",
+            "lang": "hi"
+          },
+          "transliteration": "Tisra Saptak",
+          "languages": [
+            "Hindi"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Kunwar Narayan",
+              "url": "https://en.wikipedia.org/wiki/Kunwar_Narayan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 3 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: One Night @ the Call Center (first edition); Five Point Someone.",
+      "items": [
+        {
+          "id": "in.2005.dd.books-reading.bhagat-second",
+          "kind": "work",
+          "title": "One Night @ the Call Center (first edition)",
+          "summary": "Bhagat's second novel, after Five Point Someone (2004), appeared in 2005.",
+          "workType": "novel",
+          "creator": "Chetan Bhagat",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: One Night @ the Call Center",
+              "url": "https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Chetan Bhagat",
+              "url": "https://en.wikipedia.org/wiki/Chetan_Bhagat",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.books-reading.five-point",
+          "kind": "work",
+          "title": "Five Point Someone",
+          "summary": "Chetan Bhagat's first novel, a campus story, began his career as a novelist in 2004.",
+          "workType": "novel",
+          "creator": "Chetan Bhagat",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Chetan Bhagat",
+              "url": "https://en.wikipedia.org/wiki/Chetan_Bhagat",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      },
+      "scarcityNote": "Only 2 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: No Entry; Bunty Aur Babli; Black.",
+      "items": [
+        {
+          "id": "in.2005.dd.cinema.no-entry",
+          "kind": "film",
+          "title": "No Entry",
+          "summary": "No Entry was the highest-grossing Hindi film of 2005, with a worldwide gross listed at about 74 crore rupees.",
+          "language": "Hindi",
+          "notable": "Top grosser of 2005",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 2005",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.cinema.bunty-aur-babli",
+          "kind": "film",
+          "title": "Bunty Aur Babli",
+          "summary": "Yash Raj Films' Bunty Aur Babli was the second highest-grossing Hindi film of 2005.",
+          "language": "Hindi",
+          "notable": "Second-highest grosser of 2005",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 2005",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.cinema.black-2005",
+          "kind": "film",
+          "title": "Black",
+          "summary": "Sanjay Leela Bhansali's Black was among the highest-grossing Hindi films of 2005.",
+          "language": "Hindi",
+          "director": "Sanjay Leela Bhansali",
+          "notable": "Top ten of 2005",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Black (2005 film)",
+              "url": "https://en.wikipedia.org/wiki/Black_(2005_film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 2005",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2005",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      },
+      "scarcityNote": "Only 3 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: Swaminarayan Akshardham, Delhi.",
+      "items": [
+        {
+          "id": "in.2005.dd.music-arts.akshardham",
+          "kind": "art",
+          "title": "Swaminarayan Akshardham, Delhi",
+          "summary": "The Akshardham temple complex beside the Yamuna in Delhi, built according to the Vastu shastra and Pancharatra shastra and created by Pramukh Swami Maharaj, was opened in November 2005 in the presence of President Kalam and Prime Minister Manmohan Singh.",
+          "form": "architecture",
+          "regionTag": "north",
+          "place": "Delhi",
+          "sources": [
+            {
+              "label": "Wikipedia: Swaminarayan Akshardham (Delhi)",
+              "url": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 1 item for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: GDP at current prices.",
+      "items": [
+        {
+          "id": "in.2005.dd.economy-business.national-income-2005",
+          "kind": "indicator",
+          "title": "GDP at current prices",
+          "summary": "India's gross domestic product at current prices was Rs 36,321,247 million (about Rs 36.32 trillion) in 2005, in the World Bank's national-accounts series.",
+          "metric": "GDP at current prices",
+          "value": "36321247",
+          "unit": "million rupees",
+          "asOf": "2005",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN",
+              "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "wage": {
+            "amount": 86.18,
+            "unit": "rupees a day",
+            "label": "Output per person per day (GDP per capita ÷ 365; not a wage)"
+          },
+          "buys": [
+            {
+              "label": "Litres of petrol (Delhi, 1 April)",
+              "cost": 37.99,
+              "unit": "rupees per litre"
+            },
+            {
+              "label": "Litres of diesel (Delhi, 1 April)",
+              "cost": 28.22,
+              "unit": "rupees per litre"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "World Bank, World Development Indicators: GDP per capita (current LCU), NY.GDP.PCAP.CN",
+            "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)",
+            "url": "https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          }
+        ]
+      },
+      "scarcityNote": "Only 1 item for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

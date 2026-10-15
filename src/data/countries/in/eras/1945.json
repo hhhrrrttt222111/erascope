@@ -1,0 +1,242 @@
+{
+  "year": 1945,
+  "country": "in",
+  "title": "India, 1945",
+  "tagline": "A war ends, a famine is reported and the Simla Conference fails.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in British India (typical, not one named family)",
+    "politicalStatus": "British India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1945.morning.film",
+      "time": "Evening",
+      "activity": "A night at the cinema",
+      "detail": "Zeenat, with its qawwali, was the highest-grossing Indian film of 1945.",
+      "icon": "Movie",
+      "source": {
+        "label": "Wikipedia: Zeenat (1945 film)",
+        "url": "https://en.wikipedia.org/wiki/Zeenat_(1945_film)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.morning.novel",
+      "time": "Mid-morning",
+      "activity": "A new novel",
+      "detail": "The first edition of R. K. Narayan's novel The English Teacher appeared in 1945.",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: The English Teacher",
+        "url": "https://en.wikipedia.org/wiki/The_English_Teacher",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.morning.theatre",
+      "time": "Evening",
+      "activity": "People's theatre",
+      "detail": "IPTA, formed in Bombay on 25 May 1943, took theatre to audiences with themes from the freedom struggle and, after the famine, the plight of Bengal.",
+      "icon": "TheaterComedy",
+      "source": {
+        "label": "Wikipedia: Indian People's Theatre Association",
+        "url": "https://en.wikipedia.org/wiki/Indian_People's_Theatre_Association",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.morning.cricket",
+      "time": "Afternoon",
+      "activity": "The Ranji final",
+      "detail": "Bombay beat Holkar by 374 runs in a timeless final played from 4 to 9 March 1945.",
+      "icon": "SportsCricket",
+      "source": {
+        "label": "Wikipedia: 1944–45 Ranji Trophy",
+        "url": "https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1945.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "The Simla Conference meets (1945-06).",
+      "imageAlt": "A newspaper front page in wartime style with a conference headline",
+      "highlights": [
+        "The Simla Conference meets"
+      ],
+      "source": {
+        "label": "Wikipedia: Simla Conference",
+        "url": "https://en.wikipedia.org/wiki/Simla_Conference",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1945.places.bedroom",
+      "kind": "bedroom",
+      "title": "The reading corner",
+      "description": "The first edition of R. K. Narayan's novel The English Teacher appeared in 1945.",
+      "imageAlt": "A lamp-lit corner with a low desk, a novel and a booklet",
+      "highlights": [
+        "The English Teacher, first edition"
+      ],
+      "source": {
+        "label": "Wikipedia: The English Teacher",
+        "url": "https://en.wikipedia.org/wiki/The_English_Teacher",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Tata Institute of Fundamental Research: The Tata Institute of Fundamental Research was established on 1 June 1945 in Bombay; its founder was the physicist Homi Bhabha.",
+      "imageAlt": "A city street with a handcart, a tram and a shop sign",
+      "highlights": [
+        "Tata Institute of Fundamental Research"
+      ],
+      "source": {
+        "label": "Wikipedia: Tata Institute of Fundamental Research",
+        "url": "https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [],
+  "technology": [
+    {
+      "id": "in.1945.technology.tifr",
+      "name": "Tata Institute of Fundamental Research",
+      "category": "work",
+      "description": "The Tata Institute of Fundamental Research was established on 1 June 1945 in Bombay; its founder was the physicist Homi Bhabha.",
+      "source": {
+        "label": "Wikipedia: Tata Institute of Fundamental Research",
+        "url": "https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.technology.aicte",
+      "name": "A council for technical education",
+      "category": "work",
+      "description": "The All India Council for Technical Education was established in November 1945 as an advisory body for engineering and technical schooling.",
+      "source": {
+        "label": "Wikipedia: All India Council for Technical Education",
+        "url": "https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.technology.bajaj",
+      "name": "Bajaj Auto begins",
+      "category": "transport",
+      "description": "Bajaj Auto was founded by Jamnalal Bajaj on 29 November 1945.",
+      "source": {
+        "label": "Wikipedia: Bajaj Auto",
+        "url": "https://en.wikipedia.org/wiki/Bajaj_Auto",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.technology.zeenat",
+      "name": "Cinema: Zeenat",
+      "category": "entertainment",
+      "description": "Shaukat Hussain Rizvi's social melodrama starring Noor Jehan was the highest-grossing Indian film of 1945, known for its qawwali 'Aahen Na Bharin Shikwe Na Kiye'.",
+      "source": {
+        "label": "Wikipedia: Zeenat (1945 film)",
+        "url": "https://en.wikipedia.org/wiki/Zeenat_(1945_film)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.technology.ipta",
+      "name": "Travelling theatre",
+      "category": "entertainment",
+      "description": "IPTA, formed in Bombay on 25 May 1943, took theatre to audiences with themes from the freedom struggle and, after the famine, the plight of Bengal.",
+      "source": {
+        "label": "Wikipedia: Indian People's Theatre Association",
+        "url": "https://en.wikipedia.org/wiki/Indian_People's_Theatre_Association",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1945.headlines.simla",
+      "date": "1945-06",
+      "headline": "The Simla Conference meets",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Simla Conference",
+        "url": "https://en.wikipedia.org/wiki/Simla_Conference",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.headlines.ina",
+      "date": "1945-11",
+      "headline": "Officers of the Indian National Army tried at the Red Fort",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Indian National Army trials",
+        "url": "https://en.wikipedia.org/wiki/Indian_National_Army_trials",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1945.headlines.tifr",
+      "date": "1945-06-01",
+      "headline": "Tata Institute of Fundamental Research is established in Bombay",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Tata Institute of Fundamental Research",
+        "url": "https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "The ration book, as in the World view.",
+  "notes": {
+    "prices": "Only prices that could be read from a source are shown; none was found for the others. Items that could not be verified were removed.",
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed."
+  }
+}

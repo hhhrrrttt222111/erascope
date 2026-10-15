@@ -1,0 +1,1391 @@
+{
+  "country": "in",
+  "year": 1900,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1900",
+    "summary": "Highlights of this year's checked items: The famine of 1899-1900; 200 metres silver, Paris; Bose's millimetre radio waves; Rabindranath Tagore; Viceroy: Lord Curzon; Haffkine's plague vaccine.",
+    "sources": [
+      {
+        "label": "Wikipedia: George Curzon, 1st Marquess Curzon of Kedleston",
+        "url": "https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+        "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      {
+        "label": "The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive",
+        "url": "https://archive.org/details/TheImperialGazetteerOfIndia-Volume04",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      {
+        "label": "Wikipedia: 1900 in India",
+        "url": "https://en.wikipedia.org/wiki/1900_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1900.dd.freedom-history.famine-1899-1900",
+    "in.1900.dd.sports.pritchard-200m",
+    "in.1900.dd.technology-science.radio-waves",
+    "in.1900.dd.personalities.rabindranath-tagore",
+    "in.1900.dd.government-politics.viceroy-curzon",
+    "in.1900.dd.technology-science.plague-vaccine"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: Railways: about 25,400 miles open; Haffkine's plague vaccine; Bose's millimetre radio waves; Inland money orders.",
+      "items": [
+        {
+          "id": "in.1900.dd.technology-science.railways",
+          "kind": "tech",
+          "title": "Railways: about 25,400 miles open",
+          "summary": "The Gazetteer's table of railway mileage open for traffic gives a total of about 25,400 miles for 1901, mostly on the broad (5 ft 6 in) and metre gauges.",
+          "availability": "urban",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.technology-science.plague-vaccine",
+          "kind": "tech",
+          "title": "Haffkine's plague vaccine",
+          "summary": "Waldemar Haffkine tested his plague vaccine on himself in Bombay in January 1897. By the turn of the century about four million people in India had received it.",
+          "availability": "lab-or-official",
+          "regionTag": "west",
+          "place": "Bombay (now Mumbai)",
+          "sources": [
+            {
+              "label": "Wikipedia: Waldemar Haffkine",
+              "url": "https://en.wikipedia.org/wiki/Waldemar_Haffkine",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.technology-science.radio-waves",
+          "kind": "tech",
+          "title": "Bose's millimetre radio waves",
+          "summary": "In Calcutta in 1895 Jagadish Chandra Bose rang a bell and fired gunpowder from across a room with millimetre-wavelength waves. In 1900 he presented his research at the International Congress of Physics in Paris.",
+          "availability": "lab-or-official",
+          "regionTag": "east",
+          "place": "Calcutta (now Kolkata)",
+          "sources": [
+            {
+              "label": "Wikipedia: Jagadish Chandra Bose",
+              "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Encyclopaedia Britannica: Jagadish Chandra Bose",
+              "url": "https://www.britannica.com/biography/Jagadish-Chandra-Bose",
+              "accessed": "2026-10-13",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.technology-science.money-orders",
+          "kind": "tech",
+          "title": "Inland money orders",
+          "summary": "The post office issued 12,922,465 inland money orders in 1900-01, worth about Rs 26 crore, up from 7.3 million orders ten years earlier.",
+          "availability": "urban",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow",
+        "data": {
+          "comparisons": [
+            {
+              "itemId": "in.1900.dd.technology-science.railways",
+              "nowTitle": "Indian Railways today",
+              "specs": [
+                {
+                  "label": "Network length",
+                  "then": "about 25,400 miles open (1901)",
+                  "now": "68,584 km of route (31 March 2023)"
+                }
+              ]
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+            "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+            "accessed": "2026-10-13",
+            "quality": "primary"
+          },
+          {
+            "label": "Wikipedia: Rail transport in India",
+            "url": "https://en.wikipedia.org/wiki/Rail_transport_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: Viceroy: Lord Curzon; Secretary of State for India; Legislative councils after 1892; Punjab Alienation of Land Act; Princely states.",
+      "items": [
+        {
+          "id": "in.1900.dd.government-politics.viceroy-curzon",
+          "kind": "governance",
+          "title": "Viceroy: Lord Curzon",
+          "summary": "George Nathaniel Curzon took office as Viceroy and Governor-General in January 1899 and headed the Government of India through 1900.",
+          "office": "Viceroy and Governor-General of India",
+          "holder": "Lord Curzon",
+          "sources": [
+            {
+              "label": "Wikipedia: George Curzon, 1st Marquess Curzon of Kedleston",
+              "url": "https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1900 in India",
+              "url": "https://en.wikipedia.org/wiki/1900_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.government-politics.secretary-of-state",
+          "kind": "governance",
+          "title": "Secretary of State for India",
+          "summary": "Under the Act of 1858 the Secretary of State was the Crown's constitutional adviser on India, helped by a Council that he was not usually bound to follow. Lord George Hamilton held the post from July 1895.",
+          "office": "Secretary of State for India",
+          "holder": "Lord George Hamilton",
+          "instrument": "Government of India Act 1858",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/TheImperialGazetteerOfIndia-Volume04",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Secretary of State for India",
+              "url": "https://en.wikipedia.org/wiki/Secretary_of_State_for_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.government-politics.councils-act-1892",
+          "kind": "governance",
+          "title": "Legislative councils after 1892",
+          "summary": "The Indian Councils Act of 1892 enlarged the supreme and provincial legislative councils, introduced the elective element tentatively and allowed members to question the government and discuss the budget.",
+          "instrument": "Indian Councils Act, 1892",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/TheImperialGazetteerOfIndia-Volume04",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.government-politics.punjab-land-alienation",
+          "kind": "governance",
+          "title": "Punjab Alienation of Land Act",
+          "summary": "The 1900 Act limited the sale of farmland in Punjab to members of notified 'agricultural tribes'. It was meant to stop land passing from peasants to moneylenders and was resented by many educated Hindus.",
+          "instrument": "Punjab Alienation of Land Act, 1900",
+          "regionTag": "north",
+          "place": "Punjab",
+          "sources": [
+            {
+              "label": "Wikipedia: Punjab Land Alienation Act, 1900",
+              "url": "https://en.wikipedia.org/wiki/Punjab_Land_Alienation_Act,_1900",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.government-politics.princely-states",
+          "kind": "governance",
+          "title": "Princely states",
+          "summary": "A large part of India was ruled by hereditary chiefs in 'native states' under British paramountcy. The Government of India's policy was generally not to interfere in their internal affairs.",
+          "office": "Ruling chiefs",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Princely state",
+              "url": "https://en.wikipedia.org/wiki/Princely_state",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/TheImperialGazetteerOfIndia-Volume04",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "crown",
+            "label": "The Crown",
+            "holder": "Queen Victoria, Empress of India",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "sos",
+                "label": "Secretary of State for India",
+                "holder": "Lord George Hamilton",
+                "role": "Crown's constitutional adviser on India, in London",
+                "children": [
+                  {
+                    "id": "viceroy",
+                    "label": "Viceroy and Governor-General",
+                    "holder": "Lord Curzon",
+                    "role": "Head of the Government of India",
+                    "children": [
+                      {
+                        "id": "council",
+                        "label": "Imperial Legislative Council",
+                        "role": "Larger council that makes laws"
+                      },
+                      {
+                        "id": "states",
+                        "label": "Princely states",
+                        "role": "Ruled by their own chiefs under British paramountcy"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "A law in 1900: the Punjab Alienation of Land Bill",
+            "steps": [
+              {
+                "label": "Introduced",
+                "detail": "On 27 September 1899 Charles Rivaz presented a proposal titled the Punjab Alienation of Land Bill to the Imperial Legislative Council."
+              },
+              {
+                "label": "Debated",
+                "detail": "Educated Hindus in the province saw it as discrimination; Congress delegates at Lucknow in 1899 supported opposition to it."
+              },
+              {
+                "label": "Enacted",
+                "detail": "It became the Punjab Alienation of Land Act, 1900."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Punjab Land Alienation Act, 1900",
+            "url": "https://en.wikipedia.org/wiki/Punjab_Land_Alienation_Act,_1900",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Secretary of State for India",
+            "url": "https://en.wikipedia.org/wiki/Secretary_of_State_for_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: George Curzon, 1st Marquess Curzon of Kedleston",
+            "url": "https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1900 in India",
+            "url": "https://en.wikipedia.org/wiki/1900_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: The famine of 1899-1900; Birsa Munda and the Ulgulan; Congress meets at Lahore; Indian stretcher-bearers in the Boer War.",
+      "items": [
+        {
+          "id": "in.1900.dd.freedom-history.famine-1899-1900",
+          "kind": "event",
+          "title": "The famine of 1899-1900",
+          "summary": "The 1899 monsoon failed over the west and centre of India. At the end of July 1900 no fewer than 6,500,000 people were on daily relief, and the Famine Commission of 1901 thought about a million deaths in British districts could be attributed to it.",
+          "eventType": "disaster",
+          "date": "1900-07",
+          "regionTag": "west",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "Describes mass death by famine and disease."
+          },
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Indian famine of 1899–1900",
+              "url": "https://en.wikipedia.org/wiki/Indian_famine_of_1899–1900",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.freedom-history.birsa-ulgulan",
+          "kind": "event",
+          "title": "Birsa Munda and the Ulgulan",
+          "summary": "Birsa Munda led a millenarian movement among the Munda people of the Bengal Presidency (now Jharkhand). He was arrested in February 1900 and died in jail in June 1900, after which the movement faded.",
+          "eventType": "conflict",
+          "date": "1900-06",
+          "regionTag": "east",
+          "place": "Chota Nagpur",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "Armed conflict, police firing and death in custody."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Birsa Munda",
+              "url": "https://en.wikipedia.org/wiki/Birsa_Munda",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.freedom-history.congress-lahore",
+          "kind": "event",
+          "title": "Congress meets at Lahore",
+          "summary": "The sixteenth annual session of the Indian National Congress met at Lahore in December 1900 with N. G. Chandavarkar as president.",
+          "eventType": "movement",
+          "date": "1900-12",
+          "regionTag": "north",
+          "place": "Lahore",
+          "sources": [
+            {
+              "label": "Wikipedia: List of presidents of the Indian National Congress",
+              "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.freedom-history.ambulance-corps",
+          "kind": "event",
+          "title": "Indian stretcher-bearers in the Boer War",
+          "summary": "In Natal, Mohandas Gandhi helped raise an ambulance corps of about 1,100 Indian volunteers for the British side in the Boer War. It was disbanded after Ladysmith was relieved at the end of February 1900.",
+          "eventType": "conflict",
+          "date": "1900-02",
+          "regionTag": "overseas",
+          "place": "Natal",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A war, with casualties on all sides."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Indian Ambulance Corps",
+              "url": "https://en.wikipedia.org/wiki/Indian_Ambulance_Corps",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Mahatma Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      }
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Jagadish Chandra Bose; Swami Vivekananda; Rabindranath Tagore; Birsa Munda; Norman Pritchard.",
+      "items": [
+        {
+          "id": "in.1900.dd.personalities.jagadish-chandra-bose",
+          "kind": "person",
+          "title": "Jagadish Chandra Bose",
+          "summary": "Physicist and plant scientist, born at Mymensingh in 1858.",
+          "field": "Physics",
+          "born": "1858",
+          "whyThisYear": "He presented his radio-wave research at the International Congress of Physics in Paris and was turning to plant physiology.",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Jagadish Chandra Bose",
+              "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Encyclopaedia Britannica: Jagadish Chandra Bose",
+              "url": "https://www.britannica.com/biography/Jagadish-Chandra-Bose",
+              "accessed": "2026-10-13",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.personalities.swami-vivekananda",
+          "kind": "person",
+          "title": "Swami Vivekananda",
+          "summary": "Monk and teacher, born in Calcutta in 1863.",
+          "field": "Religion and philosophy",
+          "born": "1863",
+          "whyThisYear": "He travelled to Paris for the Congress of Religions in 1900 during his second visit to the West.",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Swami Vivekananda",
+              "url": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.personalities.rabindranath-tagore",
+          "kind": "person",
+          "title": "Rabindranath Tagore",
+          "summary": "Bengali poet, born in Calcutta in 1861.",
+          "field": "Literature",
+          "born": "1861",
+          "whyThisYear": "1900 is the publication year of four of his books: Katha, Kahini, Kalpana and Kshanika.",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.personalities.birsa-munda",
+          "kind": "person",
+          "title": "Birsa Munda",
+          "summary": "Tribal leader, born in 1875 near Ranchi.",
+          "field": "Tribal leadership",
+          "born": "1875",
+          "died": "1900",
+          "whyThisYear": "He was arrested in February and died in jail in June 1900.",
+          "regionTag": "east",
+          "sensitivity": {
+            "level": "care",
+            "note": "Died in custody."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Birsa Munda",
+              "url": "https://en.wikipedia.org/wiki/Birsa_Munda",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.personalities.norman-pritchard",
+          "kind": "person",
+          "title": "Norman Pritchard",
+          "summary": "Calcutta-born sprinter and hurdler (1875 to 1929).",
+          "field": "Athletics",
+          "born": "1875",
+          "died": "1929",
+          "whyThisYear": "He won silver in the 200 m and the 200 m hurdles at the Paris Olympics; the IOC credits the medals to India.",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Norman Pritchard",
+              "url": "https://en.wikipedia.org/wiki/Norman_Pritchard",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: Norman Pritchard",
+              "url": "https://www.olympedia.org/athletes/71405",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.personalities.waldemar-haffkine",
+          "kind": "person",
+          "title": "Waldemar Haffkine",
+          "summary": "Odessa-born bacteriologist who worked in Bombay (1860 to 1930).",
+          "field": "Bacteriology",
+          "born": "1860",
+          "died": "1930",
+          "whyThisYear": "He received the Cameron Prize of the University of Edinburgh and became a British subject in 1900.",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Waldemar Haffkine",
+              "url": "https://en.wikipedia.org/wiki/Waldemar_Haffkine",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.personalities.mohandas-gandhi",
+          "kind": "person",
+          "title": "Mohandas Karamchand Gandhi",
+          "summary": "Lawyer from Porbandar, born in 1869, living in South Africa.",
+          "field": "Law and public life",
+          "born": "1869",
+          "whyThisYear": "His stretcher-bearer corps served in Natal in the Boer War until Ladysmith was relieved.",
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Indian Ambulance Corps",
+              "url": "https://en.wikipedia.org/wiki/Indian_Ambulance_Corps",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.personalities.ranjitsinhji",
+          "kind": "person",
+          "title": "Ranjitsinhji",
+          "summary": "Cricketer born in Kathiawar in 1872, later Jam Sahib of Nawanagar.",
+          "field": "Cricket",
+          "born": "1872",
+          "whyThisYear": "He scored 3,065 runs for Sussex in the 1900 English season.",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Ranjitsinhji",
+              "url": "https://en.wikipedia.org/wiki/Ranjitsinhji",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: First Olympic medals credited to India; Four million plague vaccinations; Radio-wave research shown in Paris; Saraswati, a Hindi monthly.",
+      "items": [
+        {
+          "id": "in.1900.dd.achievements.first-olympic-medals",
+          "kind": "achievement",
+          "title": "First Olympic medals credited to India",
+          "summary": "Norman Pritchard's two silver medals in Paris in 1900 are the first Olympic medals credited to India by the IOC.",
+          "domain": "sport",
+          "firstOfKind": true,
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Norman Pritchard",
+              "url": "https://en.wikipedia.org/wiki/Norman_Pritchard",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: Norman Pritchard",
+              "url": "https://www.olympedia.org/athletes/71405",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.achievements.plague-vaccine-reach",
+          "kind": "achievement",
+          "title": "Four million plague vaccinations",
+          "summary": "By the turn of the century about four million people in India had received Haffkine's plague vaccine.",
+          "domain": "public-health",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Waldemar Haffkine",
+              "url": "https://en.wikipedia.org/wiki/Waldemar_Haffkine",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.achievements.bose-paris-congress",
+          "kind": "achievement",
+          "title": "Radio-wave research shown in Paris",
+          "summary": "Bose took his Calcutta radio-wave experiments to the first International Congress of Physics in Paris in 1900.",
+          "domain": "science",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Jagadish Chandra Bose",
+              "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Encyclopaedia Britannica: Jagadish Chandra Bose",
+              "url": "https://www.britannica.com/biography/Jagadish-Chandra-Bose",
+              "accessed": "2026-10-13",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.achievements.saraswati-founded",
+          "kind": "achievement",
+          "title": "Saraswati, a Hindi monthly",
+          "summary": "Saraswati, founded in 1900 by Chintamani Ghosh at the Indian Press in Allahabad, is described as the first Hindi monthly magazine of India.",
+          "domain": "arts",
+          "firstOfKind": true,
+          "regionTag": "north",
+          "place": "Allahabad (now Prayagraj)",
+          "sources": [
+            {
+              "label": "Wikipedia: Saraswati (magazine)",
+              "url": "https://en.wikipedia.org/wiki/Saraswati_(magazine)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "People on daily famine relief, end of July 1900",
+              "value": 6500000,
+              "unit": "people"
+            },
+            {
+              "label": "Inland money orders issued, 1900-01",
+              "value": 12922465,
+              "unit": "orders"
+            },
+            {
+              "label": "People given Haffkine's plague vaccine by the turn of the century",
+              "value": 4000000,
+              "unit": "people"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+            "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+            "accessed": "2026-10-13",
+            "quality": "primary"
+          },
+          {
+            "label": "Wikipedia: Waldemar Haffkine",
+            "url": "https://en.wikipedia.org/wiki/Waldemar_Haffkine",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: 200 metres silver, Paris; 200 metres hurdles silver, Paris; Ranjitsinhji's 3,065 runs; Bengal's 100 yards champion.",
+      "items": [
+        {
+          "id": "in.1900.dd.sports.pritchard-200m",
+          "kind": "sport",
+          "title": "200 metres silver, Paris",
+          "summary": "Norman Pritchard finished second in the first Olympic 200 m, in 22.8 seconds behind Walter Tewksbury's 22.2.",
+          "sport": "Athletics",
+          "competition": "1900 Summer Olympics, Paris",
+          "result": "Silver",
+          "scoreline": "22.8 s (winner 22.2 s)",
+          "athletes": [
+            "Norman Pritchard"
+          ],
+          "date": "1900-07-22",
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Olympedia: 200 metres, Men (Paris 1900)",
+              "url": "https://www.olympedia.org/results/56048",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Athletics at the 1900 Summer Olympics – Men's 200 metres",
+              "url": "https://en.wikipedia.org/wiki/Athletics_at_the_1900_Summer_Olympics_–_Men's_200_metres",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.sports.pritchard-200m-hurdles",
+          "kind": "sport",
+          "title": "200 metres hurdles silver, Paris",
+          "summary": "Pritchard won his heat in 26.8 and took silver in the final behind Al Kraenzlein, who won in 25.4.",
+          "sport": "Athletics",
+          "competition": "1900 Summer Olympics, Paris",
+          "result": "Silver",
+          "scoreline": "Winner 25.4 s; Pritchard about five yards behind",
+          "athletes": [
+            "Norman Pritchard"
+          ],
+          "date": "1900-07-16",
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Olympedia: 200 metres Hurdles, Men (Paris 1900)",
+              "url": "https://www.olympedia.org/results/56076",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Norman Pritchard",
+              "url": "https://en.wikipedia.org/wiki/Norman_Pritchard",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.sports.ranji-1900-season",
+          "kind": "sport",
+          "title": "Ranjitsinhji's 3,065 runs",
+          "summary": "Ranjitsinhji scored 3,065 runs at 87.57 for Sussex in the 1900 English county season, the second highest aggregate to that point and top of the national averages.",
+          "sport": "Cricket",
+          "competition": "English first-class season, Sussex",
+          "result": "3,065 runs at an average of 87.57",
+          "athletes": [
+            "Ranjitsinhji"
+          ],
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Wikipedia: Ranjitsinhji",
+              "url": "https://en.wikipedia.org/wiki/Ranjitsinhji",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1900 English cricket season",
+              "url": "https://en.wikipedia.org/wiki/1900_English_cricket_season",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.sports.bengal-sprint-titles",
+          "kind": "sport",
+          "title": "Bengal's 100 yards champion",
+          "summary": "Pritchard won the Bengal 100 yards title seven years running, 1894 to 1900, and was also provincial champion at 440 yards and 120 yards hurdles.",
+          "sport": "Athletics",
+          "competition": "Bengal provincial championships",
+          "result": "Seventh consecutive 100 yards title",
+          "athletes": [
+            "Norman Pritchard"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Norman Pritchard",
+              "url": "https://en.wikipedia.org/wiki/Norman_Pritchard",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: Norman Pritchard",
+              "url": "https://www.olympedia.org/athletes/71405",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "Men's 200 m hurdles, Paris, 16 July 1900",
+            "steps": [
+              {
+                "label": "Heat 2",
+                "text": "Pritchard wins in 26.8, an Olympic record, with Walter Tewksbury two yards behind; both advance.",
+                "score": "26.8"
+              },
+              {
+                "label": "Final",
+                "text": "Al Kraenzlein wins in 25.4 by about five yards despite a false-start penalty.",
+                "score": "25.4"
+              },
+              {
+                "label": "Medals",
+                "text": "Pritchard takes silver; Tewksbury is third, about a yard further back."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Olympedia: 200 metres Hurdles, Men (Paris 1900)",
+            "url": "https://www.olympedia.org/results/56076",
+            "accessed": "2026-10-13",
+            "quality": "primary"
+          },
+          {
+            "label": "Wikipedia: Norman Pritchard",
+            "url": "https://en.wikipedia.org/wiki/Norman_Pritchard",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Kshanika; Kalpana; The Ramayana and the Mahabharata, condensed into English verse.",
+      "items": [
+        {
+          "id": "in.1900.dd.literature.kshanika",
+          "kind": "work",
+          "title": "Kshanika",
+          "summary": "A 1900 book by Rabindranath Tagore, translated in the catalogue as 'The Fleeting One'.",
+          "workType": "poetry",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "ক্ষণিকা",
+            "lang": "bn"
+          },
+          "transliteration": "Kshanika",
+          "translatedTitle": "The Fleeting One",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.literature.kalpana",
+          "kind": "work",
+          "title": "Kalpana",
+          "summary": "A 1900 book by Rabindranath Tagore, translated in the catalogue as 'Imagination'.",
+          "workType": "poetry",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "কল্পনা",
+            "lang": "bn"
+          },
+          "transliteration": "Kalpana",
+          "translatedTitle": "Imagination",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: List of works by Rabindranath Tagore",
+              "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.literature.dutt-epics-verse",
+          "kind": "work",
+          "title": "The Ramayana and the Mahabharata, condensed into English verse",
+          "summary": "Romesh Chunder Dutt's English-verse retelling of the two epics was published by J. M. Dent in London in 1900.",
+          "workType": "poetry",
+          "creator": "Romesh Chunder Dutt",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Romesh Chunder Dutt",
+              "url": "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 3 items for 1900 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Saraswati; Open Letters to Lord Curzon on Famines and Land Assessments in India; The Civilization of India; Kim, in serial.",
+      "items": [
+        {
+          "id": "in.1900.dd.books-reading.saraswati-magazine",
+          "kind": "work",
+          "title": "Saraswati",
+          "summary": "A Hindi monthly founded in 1900 at the Indian Press, Allahabad. Under Mahavir Prasad Dwivedi (editor 1903 to 1920) it shaped modern Hindi prose and poetry.",
+          "workType": "periodical",
+          "creator": "Chintamani Ghosh (proprietor)",
+          "languages": [
+            "Hindi"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Saraswati (magazine)",
+              "url": "https://en.wikipedia.org/wiki/Saraswati_(magazine)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.books-reading.open-letters-curzon",
+          "kind": "work",
+          "title": "Open Letters to Lord Curzon on Famines and Land Assessments in India",
+          "summary": "R. C. Dutt, a retired civil servant, addressed open letters to the Viceroy arguing that land-revenue demands deepened famines. The book was published in London in 1900.",
+          "workType": "nonfiction",
+          "creator": "Romesh Chunder Dutt",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Romesh Chunder Dutt",
+              "url": "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Indian famine of 1899–1900",
+              "url": "https://en.wikipedia.org/wiki/Indian_famine_of_1899–1900",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.books-reading.civilization-of-india",
+          "kind": "work",
+          "title": "The Civilization of India",
+          "summary": "R. C. Dutt's survey of India's civilisation was published in 1900.",
+          "workType": "nonfiction",
+          "creator": "Romesh Chunder Dutt",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Romesh Chunder Dutt",
+              "url": "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.books-reading.kim-serial",
+          "kind": "work",
+          "title": "Kim, in serial",
+          "summary": "Rudyard Kipling's Kim began its serial run in McClure's Magazine in December 1900, a portrait of India by a British author.",
+          "workType": "novel",
+          "creator": "Rudyard Kipling",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Wikipedia: Kim (novel)",
+              "url": "https://en.wikipedia.org/wiki/Kim_(novel)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      }
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Moving pictures reach Bombay; The Wrestlers (1899); A Man and His Monkeys (1899); Hiralal Sen films The Flower of Persia (1898).",
+      "items": [
+        {
+          "id": "in.1900.dd.cinema.lumiere-bombay",
+          "kind": "film",
+          "title": "Moving pictures reach Bombay",
+          "summary": "The Lumière brothers' films were shown in Bombay in 1896, the same year they travelled the world.",
+          "language": "None (silent)",
+          "notable": "First film shows in India",
+          "regionTag": "west",
+          "place": "Bombay (now Mumbai)",
+          "sources": [
+            {
+              "label": "Wikipedia: Cinema of India",
+              "url": "https://en.wikipedia.org/wiki/Cinema_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.cinema.the-wrestlers",
+          "kind": "film",
+          "title": "The Wrestlers (1899)",
+          "summary": "Harishchandra Sakharam Bhatavdekar filmed a wrestling match in Bombay in 1899, described as the first film shot by an Indian.",
+          "language": "None (silent)",
+          "director": "H. S. Bhatavdekar",
+          "notable": "Among the first films shot by an Indian",
+          "regionTag": "west",
+          "place": "Bombay (now Mumbai)",
+          "sources": [
+            {
+              "label": "Wikipedia: H. S. Bhatavdekar",
+              "url": "https://en.wikipedia.org/wiki/H._S._Bhatavdekar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.cinema.man-and-his-monkeys",
+          "kind": "film",
+          "title": "A Man and His Monkeys (1899)",
+          "summary": "Bhatavdekar's second 1899 film recorded a man with his trained monkeys.",
+          "language": "None (silent)",
+          "director": "H. S. Bhatavdekar",
+          "notable": "Everyday life as subject",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: H. S. Bhatavdekar",
+              "url": "https://en.wikipedia.org/wiki/H._S._Bhatavdekar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.cinema.flower-of-persia",
+          "kind": "film",
+          "title": "Hiralal Sen films The Flower of Persia (1898)",
+          "summary": "In 1898 Hiralal Sen filmed scenes of the stage show The Flower of Persia at a Calcutta theatre and founded the Royal Bioscope company.",
+          "language": "None (silent)",
+          "director": "Hiralal Sen",
+          "notable": "Early Calcutta filmmaking",
+          "regionTag": "east",
+          "place": "Calcutta (now Kolkata)",
+          "sources": [
+            {
+              "label": "Wikipedia: Hiralal Sen",
+              "url": "https://en.wikipedia.org/wiki/Hiralal_Sen",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      },
+      "scarcityNote": "No Indian film dated to 1900 itself was found in the sources opened; the items below are the earliest Indian film activity those sources describe."
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: Raja Deen Dayal, photographer; Raja Ravi Varma Press; Parsi theatre; Mysore Palace under construction.",
+      "items": [
+        {
+          "id": "in.1900.dd.music-arts.deen-dayal",
+          "kind": "art",
+          "title": "Raja Deen Dayal, photographer",
+          "summary": "Lala Deen Dayal, court photographer to the Nizam of Hyderabad since 1885 and holder of a Royal Warrant from Queen Victoria since 1897, was at work from studios in Hyderabad and Bombay.",
+          "form": "photography",
+          "creator": "Lala Deen Dayal",
+          "regionTag": "south",
+          "place": "Hyderabad",
+          "sources": [
+            {
+              "label": "Wikipedia: Lala Deen Dayal",
+              "url": "https://en.wikipedia.org/wiki/Lala_Deen_Dayal",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.music-arts.ravi-varma-press",
+          "kind": "art",
+          "title": "Raja Ravi Varma Press",
+          "summary": "Raja Ravi Varma's lithographic press, started in Bombay in 1894, moved to Malavli near Lonavala in 1899 and made oleograph prints of Hindu gods and epic scenes.",
+          "form": "painting",
+          "creator": "Raja Ravi Varma",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Raja Ravi Varma",
+              "url": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.music-arts.parsi-theatre",
+          "kind": "art",
+          "title": "Parsi theatre",
+          "summary": "Parsi theatre companies, mostly performing in Urdu and Gujarati, toured western and northern India; some producers turned to bioscope in the early 1900s.",
+          "form": "theatre",
+          "regionTag": "west",
+          "languages": [
+            "Urdu",
+            "Gujarati"
+          ],
+          "sources": [
+            {
+              "label": "Wikipedia: Parsi theatre",
+              "url": "https://en.wikipedia.org/wiki/Parsi_theatre",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.music-arts.mysore-palace",
+          "kind": "art",
+          "title": "Mysore Palace under construction",
+          "summary": "After the old palace burned down, Krishnaraja Wodeyar IV commissioned a new palace in August 1897 from the architect Henry Irwin; it was completed in 1912.",
+          "form": "architecture",
+          "creator": "Henry Irwin",
+          "regionTag": "south",
+          "place": "Mysore",
+          "sources": [
+            {
+              "label": "Wikipedia: Mysore Palace",
+              "url": "https://en.wikipedia.org/wiki/Mysore_Palace",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      }
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: Population; Rupee exchange rate.",
+      "items": [
+        {
+          "id": "in.1900.dd.economy-business.population",
+          "kind": "indicator",
+          "title": "Population",
+          "summary": "The 1901 Census counted 294 million people in India.",
+          "metric": "Population",
+          "value": "294",
+          "unit": "million people",
+          "asOf": "1901",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/TheImperialGazetteerOfIndia-Volume04",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Census in British India",
+              "url": "https://en.wikipedia.org/wiki/Census_in_British_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.economy-business.rupee-exchange",
+          "kind": "indicator",
+          "title": "Rupee exchange rate",
+          "summary": "By 1899-1900 the rupee had reached the rate of 1s 4d, the goal of government policy; 15 rupees equalled one pound.",
+          "metric": "Rupee in pence sterling",
+          "value": "16",
+          "unit": "pence per rupee",
+          "asOf": "1899-1900",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/TheImperialGazetteerOfIndia-Volume04",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Indian rupee",
+              "url": "https://en.wikipedia.org/wiki/Indian_rupee",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "wage": {
+            "amount": 0.22,
+            "unit": "rupees a day",
+            "label": "An agricultural labourer's average monthly wage in 1896-1900 was Rs 6.5 to 7.0 across India; a day taken as 1/30 of Rs 6.75"
+          },
+          "buys": [
+            {
+              "label": "Seers of rice",
+              "cost": 0.0855,
+              "unit": "rupees per seer"
+            },
+            {
+              "label": "Seers of wheat",
+              "cost": 0.0826,
+              "unit": "rupees per seer"
+            },
+            {
+              "label": "Seers of jowar",
+              "cost": 0.0606,
+              "unit": "rupees per seer"
+            },
+            {
+              "label": "Seers of gram",
+              "cost": 0.0741,
+              "unit": "rupees per seer"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "The Imperial Gazetteer of India, vol. III (1907), ch. IX, Appendix table I: average monthly wage of an able-bodied agricultural labourer (p. 472), and the table of quantities sold per rupee (p. 456), via the Internet Archive",
+            "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 1900 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

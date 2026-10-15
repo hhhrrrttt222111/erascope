@@ -1,0 +1,289 @@
+{
+  "year": 1999,
+  "country": "in",
+  "title": "India, 1999",
+  "tagline": "Kargil, an Odisha cyclone and a hijacking.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in India (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1999.morning.cinema",
+      "time": "Evening",
+      "activity": "Hum Saath-Saath Hain",
+      "detail": "Sooraj Barjatya's family drama was the highest-grossing Hindi film of 1999.",
+      "icon": "Movie",
+      "source": {
+        "label": "Wikipedia: List of Hindi films of 1999",
+        "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1999",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.morning.music",
+      "time": "Morning",
+      "activity": "The music of Taal",
+      "detail": "A. R. Rahman composed the music for Subhash Ghai's Taal, the third highest-grossing Hindi film of 1999.",
+      "icon": "Headphones",
+      "source": {
+        "label": "Wikipedia: Taal (film)",
+        "url": "https://en.wikipedia.org/wiki/Taal_(film)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.morning.book",
+      "time": "Afternoon",
+      "activity": "Interpreter of Maladies",
+      "detail": "Jhumpa Lahiri's debut collection of stories was published in 1999.",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: Interpreter of Maladies",
+        "url": "https://en.wikipedia.org/wiki/Interpreter_of_Maladies",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1999.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "India and Pakistan fight in the Kargil sector (1999-07).",
+      "imageAlt": "A newspaper front page in early-web style with a headline and a column of news",
+      "highlights": [
+        "India and Pakistan fight in the Kargil sector"
+      ],
+      "source": {
+        "label": "Wikipedia: Kargil War",
+        "url": "https://en.wikipedia.org/wiki/Kargil_War",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1999.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "Jhumpa Lahiri's debut collection, Interpreter of Maladies, was published in 1999.",
+      "imageAlt": "A 1999 living room with a television and a cassette player",
+      "highlights": [
+        "Interpreter of Maladies"
+      ],
+      "source": {
+        "label": "Wikipedia: Interpreter of Maladies",
+        "url": "https://en.wikipedia.org/wiki/Interpreter_of_Maladies",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "PSLV-C2: On 26 May 1999 ISRO's Polar Satellite Launch Vehicle launched three satellites from Sriharikota into a Sun-synchronous orbit: India's Oceansat-1, South Korea's KITSAT-3 and Germany's DLR-Tubsat.",
+      "imageAlt": "A city street with a large hand-painted film hoarding",
+      "highlights": [
+        "PSLV-C2"
+      ],
+      "source": {
+        "label": "Wikipedia: PSLV-C2",
+        "url": "https://en.wikipedia.org/wiki/PSLV-C2",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.1999.prices.gold",
+      "item": "Gold, spot at Mumbai (average of 1998-99)",
+      "price": "Rs 4,268.24 per 10 grams",
+      "originalUnits": "decimal rupees per 10 grams; highest 4,400, lowest 4,050",
+      "decimalINR": "₹426.82 per gram",
+      "adjusted2026": "about ₹19,000 per 10 grams",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1999 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Mumbai (Bombay Bullion Association), via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23193",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.prices.silver",
+      "item": "Silver, spot at Mumbai (average of 1998-99)",
+      "price": "Rs 7,855.44 per kilogram",
+      "originalUnits": "decimal rupees per kilogram",
+      "decimalINR": "₹7.86 per gram",
+      "adjusted2026": "about ₹35,000 per kilogram",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Statistical Abstract India 1999 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Mumbai (Bombay Bullion Association), via the Internet Archive",
+        "url": "https://archive.org/details/dli.ministry.23193",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.prices.exchange",
+      "item": "Rupees to the US dollar (annual average)",
+      "price": "Rs 43.06",
+      "originalUnits": "official rate, rupees per US dollar",
+      "source": {
+        "label": "World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)",
+        "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.prices.inflation",
+      "item": "Consumer price inflation",
+      "price": "4.7% in the year",
+      "originalUnits": "per cent, annual",
+      "source": {
+        "label": "World Bank, World Development Indicators: Inflation, consumer prices (annual %)",
+        "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.prices.output",
+      "item": "Output per person (GDP per capita)",
+      "price": "Rs 19,151 a year",
+      "originalUnits": "current rupees per person per year",
+      "source": {
+        "label": "World Bank, World Development Indicators: GDP per capita (current LCU)",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.1999.technology.pslv",
+      "name": "PSLV-C2",
+      "category": "work",
+      "description": "On 26 May 1999 ISRO's Polar Satellite Launch Vehicle launched three satellites from Sriharikota into a Sun-synchronous orbit: India's Oceansat-1, South Korea's KITSAT-3 and Germany's DLR-Tubsat.",
+      "source": {
+        "label": "Wikipedia: PSLV-C2",
+        "url": "https://en.wikipedia.org/wiki/PSLV-C2",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.technology.agni",
+      "name": "A longer-range Agni",
+      "category": "work",
+      "description": "India test-fired its longer-range Agni-II on 11 April 1999 from a new launch site, Wheeler Island on the Orissa coast; the reported range was about 2,000 km.",
+      "source": {
+        "label": "Wikipedia: 1999 in India",
+        "url": "https://en.wikipedia.org/wiki/1999_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.technology.taal",
+      "name": "Film music: Taal",
+      "category": "entertainment",
+      "description": "A. R. Rahman composed the music for Taal.",
+      "source": {
+        "label": "Wikipedia: Taal (film)",
+        "url": "https://en.wikipedia.org/wiki/Taal_(film)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.technology.kumble",
+      "name": "Cricket on television: Kumble's ten wickets",
+      "category": "entertainment",
+      "description": "On 7 February 1999 Anil Kumble took all ten wickets in a Test innings against Pakistan at Delhi, only the second bowler in Test history to do so.",
+      "source": {
+        "label": "Wikipedia: 1999 in India",
+        "url": "https://en.wikipedia.org/wiki/1999_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1999.headlines.kargil",
+      "date": "1999-07",
+      "headline": "India and Pakistan fight in the Kargil sector",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Kargil War",
+        "url": "https://en.wikipedia.org/wiki/Kargil_War",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.headlines.cyclone",
+      "date": "1999-10-29",
+      "headline": "A cyclone makes landfall on the Odisha coast",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1999 Odisha cyclone",
+        "url": "https://en.wikipedia.org/wiki/1999_Odisha_cyclone",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1999.headlines.ic814",
+      "date": "1999-12-24",
+      "headline": "Indian Airlines Flight 814 is hijacked on its way from Kathmandu to Delhi",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Indian Airlines Flight 814",
+        "url": "https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "A CRT desktop, as in the World view.",
+  "notes": {
+    "prices": "Only prices that could be read from a source are shown; none was found for the others. Items that could not be verified were removed.",
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed.",
+    "morningRoutine": "Only sourced entries are shown. Items that could not be verified were removed.",
+    "technology": "Only sourced entries are shown. Items that could not be verified were removed."
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "year": 1930,
+  "country": "in",
+  "title": "India, 1930",
+  "tagline": "The Salt March, a Nobel Prize for Raman and the Deccan Queen.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in British India (typical, not one named family)",
+    "politicalStatus": "British India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1930.morning.market",
+      "time": "Morning",
+      "activity": "At the grain shop",
+      "detail": "Common rice sold retail at about Rs 7.4 a maund in Bombay and Rs 10 in Delhi in 1930, as prices fell in the depression.",
+      "icon": "ShoppingBasket",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.morning.radio",
+      "time": "Evening",
+      "activity": "State broadcasting",
+      "detail": "After the private Indian Broadcasting Company went into liquidation on 1 March 1930, the government took over its stations and started the Indian State Broadcasting Service.",
+      "icon": "Radio",
+      "source": {
+        "label": "Wikipedia: All India Radio",
+        "url": "https://en.wikipedia.org/wiki/All_India_Radio",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.morning.train",
+      "time": "Morning",
+      "activity": "The Deccan Queen",
+      "detail": "The Deccan Queen began running between Bombay and Poona on 1 June 1930, described as India's first superfast, electric-hauled long-distance train.",
+      "icon": "Train",
+      "source": {
+        "label": "Wikipedia: Deccan Queen",
+        "url": "https://en.wikipedia.org/wiki/Deccan_Queen",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.morning.young-india",
+      "time": "Mid-morning",
+      "activity": "A weekly to read",
+      "detail": "Gandhi's English weekly Young India was in its twelfth year; it ran from 1919 to 1931.",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: Young India",
+        "url": "https://en.wikipedia.org/wiki/Young_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1930.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Congress asks the country to observe Independence Day (1930-01-26).",
+      "imageAlt": "A newspaper front page in art-deco style with a headline about the Salt March",
+      "highlights": [
+        "Congress asks the country to observe Independence Day"
+      ],
+      "source": {
+        "label": "Wikipedia: Purna Swaraj",
+        "url": "https://en.wikipedia.org/wiki/Purna_Swaraj",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1930.places.bedroom",
+      "kind": "bedroom",
+      "title": "The reading corner",
+      "description": "Tagore's two-part Bengali primer Sahaj Path is dated 1930 in the list of his works.",
+      "imageAlt": "A lamp-lit corner with a low desk, a primer and a weekly newspaper",
+      "highlights": [
+        "Sahaj Path (Bengali primer)"
+      ],
+      "source": {
+        "label": "Wikipedia: List of works by Rabindranath Tagore",
+        "url": "https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "The Deccan Queen: The Deccan Queen began running on 1 June 1930 between Bombay and Poona. It is described as India's first superfast, long-distance electric-hauled and vestibuled train, with a women-only car and a dining car.",
+      "imageAlt": "A town street with a hand-painted film poster and a cart",
+      "highlights": [
+        "The Deccan Queen"
+      ],
+      "source": {
+        "label": "Wikipedia: Deccan Queen",
+        "url": "https://en.wikipedia.org/wiki/Deccan_Queen",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.1930.prices.wheat",
+      "item": "Wheat, wholesale at Calcutta (Club No. 2)",
+      "price": "Rs 4-5-1 per maund",
+      "originalUnits": "Rs 4 annas 5 pies 1 per bazaar maund (82.286 lb)",
+      "decimalINR": "₹4.32 per maund",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.prices.rice-rangoon",
+      "item": "Rice, wholesale at Rangoon (Ngasein)",
+      "price": "Rs 5-2-0 per cwt",
+      "originalUnits": "Rs 5 annas 2 pies 0 per hundredweight",
+      "decimalINR": "₹5.13 per cwt",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.prices.rice-bombay",
+      "item": "Common rice, retail at Bombay",
+      "price": "Rs 7.4 per maund",
+      "originalUnits": "decimal rupees per maund",
+      "decimalINR": "₹7.40 per maund",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.prices.rice-delhi",
+      "item": "Common rice, retail at Delhi",
+      "price": "Rs 10.0 per maund",
+      "originalUnits": "decimal rupees per maund",
+      "decimalINR": "₹10.00 per maund",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.prices.tea",
+      "item": "Tea, wholesale at Calcutta (Indian Pekoe)",
+      "price": "9 annas 7 pies per lb",
+      "originalUnits": "Rs 0 annas 9 pies 7 per lb",
+      "decimalINR": "₹0.60 per lb",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.prices.jute",
+      "item": "Jute, wholesale at Calcutta",
+      "price": "Rs 50-4-9 per 400-lb bale",
+      "originalUnits": "Rs 50 annas 4 pies 9 per bale",
+      "decimalINR": "₹50.30 per bale",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.1930.technology.deccan-queen",
+      "name": "The Deccan Queen",
+      "category": "transport",
+      "description": "The Deccan Queen began running on 1 June 1930 between Bombay and Poona. It is described as India's first superfast, long-distance electric-hauled and vestibuled train, with a women-only car and a dining car.",
+      "source": {
+        "label": "Wikipedia: Deccan Queen",
+        "url": "https://en.wikipedia.org/wiki/Deccan_Queen",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.technology.broadcasting",
+      "name": "State broadcasting begins",
+      "category": "entertainment",
+      "description": "After the private Indian Broadcasting Company went into liquidation on 1 March 1930, the government took over its stations and launched the Indian State Broadcasting Service on 1 April 1930.",
+      "source": {
+        "label": "Wikipedia: All India Radio",
+        "url": "https://en.wikipedia.org/wiki/All_India_Radio",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.technology.raman-effect",
+      "name": "The Raman effect",
+      "category": "work",
+      "description": "C. V. Raman won the 1930 Nobel Prize in Physics 'for his work on the scattering of light and for the discovery of the effect named after him'.",
+      "source": {
+        "label": "NobelPrize.org: C. V. Raman, facts (The Nobel Prize in Physics 1930)",
+        "url": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
+        "accessed": "2026-10-13",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.technology.chandrasekhar",
+      "name": "Chandrasekhar's voyage calculations",
+      "category": "work",
+      "description": "On a trip from India to England in 1930, the young physicist Subrahmanyan Chandrasekhar worked on the statistics of a degenerate Fermi gas, the start of papers that led to the Chandrasekhar limit for white dwarfs.",
+      "source": {
+        "label": "Wikipedia: Chandrasekhar limit",
+        "url": "https://en.wikipedia.org/wiki/Chandrasekhar_limit",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.technology.silent-film",
+      "name": "Cinema: Hamara Hindustan",
+      "category": "entertainment",
+      "description": "A social film directed by R. S. Choudhary for the Imperial Film Company, with Sulochana (Ruby Myers).",
+      "source": {
+        "label": "Wikipedia: List of Hindi films of 1930",
+        "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1930",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1930.headlines.independence-day",
+      "date": "1930-01-26",
+      "headline": "Congress asks the country to observe Independence Day",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Purna Swaraj",
+        "url": "https://en.wikipedia.org/wiki/Purna_Swaraj",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.headlines.salt-march",
+      "date": "1930-03-12",
+      "headline": "Gandhi sets out from Sabarmati on the Salt March",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Salt March",
+        "url": "https://en.wikipedia.org/wiki/Salt_March",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1930.headlines.chittagong",
+      "date": "1930-04-18",
+      "headline": "Revolutionaries attempt to raid armouries at Chittagong",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Chittagong armoury raid",
+        "url": "https://en.wikipedia.org/wiki/Chittagong_armoury_raid",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "The film projector, as in the World view.",
+  "notes": {
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "year": 1945,
+  "speculative": false,
+  "theme": {
+    "chrome": "homefront",
+    "transition": "stamp",
+    "palette": {
+      "primary": "#1f3a5f",
+      "secondary": "#9b2f22",
+      "background": "#d8cba4",
+      "paper": "#efe6c9",
+      "text": "#232017"
+    },
+    "fonts": {
+      "heading": "Stardos Stencil",
+      "body": "Special Elite"
+    },
+    "sound": "stamp"
+  },
+  "scene": {
+    "component": "RationBook1945"
+  }
+}

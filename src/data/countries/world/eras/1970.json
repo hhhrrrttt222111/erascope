@@ -1,0 +1,351 @@
+{
+  "year": 1970,
+  "country": "world",
+  "title": "The Groovy Seventies",
+  "tagline": "Jumbo jets, the first Earth Day and colour TV in the living room.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a young family in a California suburb"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1970.morning.morning-news-maybe-colour",
+      "time": "7:00 AM",
+      "activity": "Morning news, maybe in colour",
+      "detail": "Colour sets were spreading fast; 1972 was the first year more than half of TV households had one.",
+      "icon": "Tv",
+      "source": {
+        "label": "Wikipedia: Color television",
+        "url": "https://en.wikipedia.org/wiki/Color_television",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.morning.drive-work-freeway",
+      "time": "7:30 AM",
+      "activity": "Drive to work on the freeway",
+      "detail": "Big sedans and station wagons on the freeway, with gasoline at about 36 cents a gallon.",
+      "icon": "DirectionsCar",
+      "source": {
+        "label": "U.S. Energy Information Administration, Annual Energy Review, Table 5.24: Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949–2011",
+        "url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.morning.kids-catch-school-bus",
+      "time": "8:00 AM",
+      "activity": "Kids catch the school bus",
+      "detail": "Suburban children rode buses to large consolidated schools; fewer than 2,000 one-teacher schools were left in the country.",
+      "icon": "DirectionsBus",
+      "source": {
+        "label": "NCES, 120 Years of American Education: A Statistical Portrait (1993), Table 20",
+        "url": "https://nces.ed.gov/pubs93/93442.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1970.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Jumbo jets, a near-disaster in space, and an estimated 20 million Americans turning out for the first Earth Day.",
+      "imageAlt": "A 1970 front page with large photos of a jumbo jet and an Apollo splashdown",
+      "highlights": [
+        "Boeing 747 enters service on Pan Am's New York–London route",
+        "Apollo 13 crew returns safely",
+        "Millions mark the first Earth Day",
+        "Environmental Protection Agency begins operating"
+      ],
+      "source": {
+        "label": "Wikipedia: 1970 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "About 59.55 million US households had a television set in 1970.",
+      "imageAlt": "A 1970s bedroom with shag carpet, a record player and a lava lamp",
+      "highlights": [
+        "59.55 million television households"
+      ],
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series R 93-105: households with radio and television",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf",
+        "accessed": "2026-10-15",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1970.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "108,418,197 motor vehicles were registered in the United States in 1970.",
+      "imageAlt": "A suburban street with a wood-panelled station wagon and a jumbo jet in the sky",
+      "highlights": [
+        "108,418,197 registered motor vehicles"
+      ],
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1970.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.06",
+      "adjusted2026": "about $0.52",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour)",
+      "price": "$1.60",
+      "adjusted2026": "about $14",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.prices.loaf-bread-1-lb",
+      "item": "Bread (1 lb, city average)",
+      "price": "24.3¢",
+      "adjusted2026": "about $2.10",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.prices.gallon-gasoline",
+      "item": "Gallon of regular gasoline",
+      "price": "35.7¢",
+      "adjusted2026": "about $3.08",
+      "source": {
+        "label": "U.S. Energy Information Administration, Annual Energy Review, Table 5.24: Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949–2011",
+        "url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.prices.movie-ticket",
+      "item": "Movie ticket",
+      "price": "$1.55",
+      "adjusted2026": "about $13",
+      "source": {
+        "label": "Historical Statistics of the United States, Millennial Edition (Cambridge University Press): series Dh388-391, motion pictures: average admission price (Dh391)",
+        "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDh388-391.html",
+        "accessed": "2026-10-15",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1970.prices.eggs-dozen",
+      "item": "Eggs (dozen, city average)",
+      "price": "61.4¢",
+      "adjusted2026": "about $5.30",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.prices.milk-half-gallon",
+      "item": "Milk, delivered (half gallon, city average)",
+      "price": "65.9¢",
+      "adjusted2026": "about $5.69",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.prices.subway-fare-new-york",
+      "item": "Subway fare (New York, from January 4)",
+      "price": "30¢",
+      "adjusted2026": "about $2.59",
+      "source": {
+        "label": "Wikipedia: New York City transit fares",
+        "url": "https://en.wikipedia.org/wiki/New_York_City_transit_fares",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1970.technology.boeing-747",
+      "name": "Boeing 747",
+      "category": "transport",
+      "description": "The first wide-body \"jumbo jet\" entered service on January 22, 1970, on Pan Am's New York–London route.",
+      "source": {
+        "label": "Wikipedia: Boeing 747",
+        "url": "https://en.wikipedia.org/wiki/Boeing_747",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.technology.colour-television",
+      "name": "Colour television",
+      "category": "entertainment",
+      "description": "Colour set sales overtook black-and-white in 1972; in 1970 colour was becoming the norm.",
+      "source": {
+        "label": "Wikipedia: Color television",
+        "url": "https://en.wikipedia.org/wiki/Color_television",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.technology.countertop-microwave-oven",
+      "name": "Countertop microwave oven",
+      "category": "home",
+      "description": "Introduced as a countertop appliance in 1967, the microwave oven was starting its move into home kitchens.",
+      "source": {
+        "label": "Wikipedia: Microwave oven",
+        "url": "https://en.wikipedia.org/wiki/Microwave_oven",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.technology.push-button-telephone",
+      "name": "Push-button telephone",
+      "category": "communication",
+      "description": "Touch-tone push-button phones, introduced in 1963, offered a faster alternative to the rotary dial.",
+      "source": {
+        "label": "Wikipedia: DTMF signaling (Touch-Tone)",
+        "url": "https://en.wikipedia.org/wiki/DTMF_signaling",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1970.visions.societies-will-suffer-future",
+      "prediction": "Societies will suffer \"future shock\": too much change in too short a period of time, with information overload.",
+      "whoSaidIt": "Alvin Toffler (with Adelaide Farrell), Future Shock (1970)",
+      "cameTrue": "yes",
+      "note": "\"Information overload\" became an everyday phrase.",
+      "source": {
+        "label": "Wikipedia: Future Shock",
+        "url": "https://en.wikipedia.org/wiki/Future_Shock",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.visions.people-will-have-many-careers",
+      "prediction": "People will change professions and workplaces often, having many careers in a lifetime.",
+      "whoSaidIt": "Alvin Toffler, Future Shock, 1970",
+      "cameTrue": "partly",
+      "note": "Americans born in 1957–64 held an average of 12.9 jobs between ages 18 and 58, though many stayed in one line of work.",
+      "source": {
+        "label": "Wikipedia: Future Shock",
+        "url": "https://en.wikipedia.org/wiki/Future_Shock",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1970.headlines.1970-01-22",
+      "date": "1970-01-22",
+      "headline": "Boeing 747 jumbo jet enters commercial service",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Boeing 747",
+        "url": "https://en.wikipedia.org/wiki/Boeing_747",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.headlines.1970-04-17",
+      "date": "1970-04-17",
+      "headline": "Apollo 13 astronauts splash down safely",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1970 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1970.headlines.1970-04-22",
+      "date": "1970-04-22",
+      "headline": "Americans celebrate the first Earth Day",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1970 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A wood-plinth turntable spinning an LP.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "technology": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "futureVisions": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

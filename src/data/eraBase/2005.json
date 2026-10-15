@@ -1,0 +1,23 @@
+{
+  "year": 2005,
+  "speculative": false,
+  "theme": {
+    "chrome": "web2gloss",
+    "transition": "glossswipe",
+    "palette": {
+      "primary": "#8cc63f",
+      "secondary": "#3fa9f5",
+      "background": "#eef7fd",
+      "paper": "#ffffff",
+      "text": "#1d3340"
+    },
+    "fonts": {
+      "heading": "Varela Round",
+      "body": "Trebuchet MS"
+    },
+    "sound": "click-wheel"
+  },
+  "scene": {
+    "component": "MusicPlayer2005"
+  }
+}

@@ -1,0 +1,64 @@
+/* 1970: supergraphic stripes, wood panelling and lava-lamp blobs. */
+
+.gv-stripes {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Concentric rounded bands sweeping across the header. */
+.gv-stripes::before {
+  content: "";
+  position: absolute;
+  right: -18vw;
+  top: -40%;
+  width: 70vw;
+  height: 180%;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 0% 50%,
+    transparent 0 38%,
+    var(--gv-orange) 38% 46%,
+    var(--gv-gold) 46% 54%,
+    var(--gv-avocado) 54% 62%,
+    var(--gv-brown) 62% 70%,
+    transparent 70%
+  );
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.gv-wood {
+  background:
+    repeating-linear-gradient(90deg, rgba(0, 0, 0, 0.08) 0 2px, transparent 2px 38px),
+    repeating-linear-gradient(90deg, #6b3d1d 0 7px, #7a4723 7px 15px, #5f3517 15px 19px, #7d4a26 19px 30px);
+  color: #fbecc6;
+  border-radius: 999px;
+}
+
+.gv-blob {
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(36px);
+  opacity: 0.35;
+  pointer-events: none;
+  animation: gv-drift 18s ease-in-out infinite alternate;
+}
+
+@keyframes gv-drift {
+  0% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(4vw, -6vh) scale(1.15); }
+  100% { transform: translate(-3vw, 4vh) scale(0.9); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .gv-blob {
+    animation: none;
+  }
+}
+
+/* On narrow screens the stripes sit behind the text, so keep them faint. */
+@media (max-width: 899px) {
+  .gv-stripes::before {
+    opacity: 0.25;
+  }
+}

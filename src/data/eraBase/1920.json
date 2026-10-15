@@ -1,0 +1,24 @@
+{
+  "year": 1920,
+  "speculative": false,
+  "theme": {
+    "chrome": "newspaper",
+    "transition": "pageflip",
+    "palette": {
+      "primary": "#1c1915",
+      "secondary": "#8b1e1e",
+      "background": "#e6dcc3",
+      "paper": "#f3ebd6",
+      "text": "#1c1915"
+    },
+    "fonts": {
+      "heading": "Playfair Display",
+      "body": "Old Standard TT",
+      "mono": "UnifrakturMaguntia"
+    },
+    "sound": "typewriter"
+  },
+  "scene": {
+    "component": "Radio1920"
+  }
+}

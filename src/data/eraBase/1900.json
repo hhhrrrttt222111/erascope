@@ -1,0 +1,23 @@
+{
+  "year": 1900,
+  "speculative": false,
+  "theme": {
+    "chrome": "artnouveau",
+    "transition": "iris",
+    "palette": {
+      "primary": "#6b3a5b",
+      "secondary": "#5f7a52",
+      "background": "#efe8d6",
+      "paper": "#faf6ea",
+      "text": "#2f2a24"
+    },
+    "fonts": {
+      "heading": "Cinzel Decorative",
+      "body": "Cormorant Garamond"
+    },
+    "sound": "gramophone"
+  },
+  "scene": {
+    "component": "Gramophone1900"
+  }
+}

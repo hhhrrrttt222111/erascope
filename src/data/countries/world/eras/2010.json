@@ -1,0 +1,311 @@
+{
+  "year": 2010,
+  "country": "world",
+  "title": "The Social Network Era",
+  "tagline": "Smartphones, status updates and a new tablet on the couch.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a young professional in a U.S. city"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.2010.morning.check-feeds-bed",
+      "time": "6:35 AM",
+      "activity": "Check feeds in bed",
+      "detail": "Scroll social media before getting up. A new photo app, Instagram, launched for the iPhone in October 2010.",
+      "icon": "ThumbUp",
+      "source": {
+        "label": "Wikipedia: Instagram",
+        "url": "https://en.wikipedia.org/wiki/Instagram",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.morning.check",
+      "time": "8:00 AM",
+      "activity": "Check in",
+      "detail": "Location apps let you \"check in\" at the coffee shop.",
+      "icon": "Place",
+      "source": {
+        "label": "Wikipedia: Foursquare City Guide",
+        "url": "https://en.wikipedia.org/wiki/Foursquare_City_Guide",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.2010.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "News was moving to screens, and the first iPad promised a new way to read the paper.",
+      "imageAlt": "A 2010-style news website with a clean white layout and social share buttons",
+      "highlights": [
+        "Apple unveils the iPad",
+        "Deepwater Horizon oil rig explodes in the Gulf of Mexico",
+        "Facebook passes 500 million users",
+        "33 Chilean miners rescued after 69 days underground"
+      ],
+      "source": {
+        "label": "Wikipedia: 2010 in the United States",
+        "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedroom",
+      "description": "iPhone 4: Unveiled June 7, 2010, and released June 24 at $199 for 16 GB with a two-year contract.",
+      "imageAlt": "A bedroom with a flat-screen TV, a laptop on the bed and a smartphone charging on the nightstand",
+      "highlights": [
+        "iPhone 4"
+      ],
+      "source": {
+        "label": "Apple Newsroom: \"Apple Presents iPhone 4\", 7 June 2010",
+        "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.2010.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "iPad: Announced January 27, 2010; the Wi-Fi model went on sale in the U.S. on April 3 at $499.",
+      "imageAlt": "A city street with a hybrid car, a bike-share dock and people looking at their phones",
+      "highlights": [
+        "iPad"
+      ],
+      "source": {
+        "label": "Wikipedia: iPad (1st generation)",
+        "url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.2010.prices.loaf-white-bread-1",
+      "item": "Loaf of white bread (1 lb)",
+      "price": "$1.37",
+      "adjusted2026": "about $2.10",
+      "source": {
+        "label": "BLS average price, white bread per lb (series APU0000702111), 2010 annual average of monthly data, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000702111",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.prices.gallon-unleaded-gasoline",
+      "item": "Gallon of unleaded gasoline",
+      "price": "$2.79",
+      "adjusted2026": "about $4.29",
+      "source": {
+        "label": "BLS average price, unleaded regular gasoline per gallon (series APU000074714), 2010 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU000074714",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.prices.gallon-whole-milk",
+      "item": "Gallon of whole milk",
+      "price": "$3.26",
+      "adjusted2026": "about $5.01",
+      "source": {
+        "label": "BLS average price, whole milk per gallon (series APU0000709112), 2010 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000709112",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.44",
+      "adjusted2026": "about $0.68",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour)",
+      "price": "$7.25",
+      "adjusted2026": "about $11",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.prices.iphone-4-16-gb",
+      "item": "iPhone 4 (16 GB, with two-year contract)",
+      "price": "$199",
+      "adjusted2026": "about $310",
+      "source": {
+        "label": "Apple Newsroom: \"Apple Presents iPhone 4\", 7 June 2010",
+        "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.2010.technology.iphone-4",
+      "name": "iPhone 4",
+      "category": "communication",
+      "description": "Unveiled June 7, 2010, and released June 24 at $199 for 16 GB with a two-year contract.",
+      "source": {
+        "label": "Apple Newsroom: \"Apple Presents iPhone 4\", 7 June 2010",
+        "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.technology.ipad",
+      "name": "iPad",
+      "category": "entertainment",
+      "description": "Announced January 27, 2010; the Wi-Fi model went on sale in the U.S. on April 3 at $499.",
+      "source": {
+        "label": "Wikipedia: iPad (1st generation)",
+        "url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.technology.kinect",
+      "name": "Kinect",
+      "category": "entertainment",
+      "description": "Controller-free motion gaming launched in North America on November 4, 2010.",
+      "source": {
+        "label": "Wikipedia: Kinect",
+        "url": "https://en.wikipedia.org/wiki/Kinect",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.2010.visions.cars-will-drive-themselves",
+      "prediction": "Cars will drive themselves.",
+      "whoSaidIt": "Google, whose self-driving car project was revealed on October 9, 2010",
+      "cameTrue": "partly",
+      "note": "Robotaxis now carry paying passengers in 10 U.S. metro areas, about 500,000 rides a week by June 2026, but most cars are still driven by people.",
+      "source": {
+        "label": "Wikipedia: Waymo",
+        "url": "https://en.wikipedia.org/wiki/Waymo",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.visions.every-living-room-will",
+      "prediction": "3D television is the next big thing for the living room.",
+      "whoSaidIt": "Major TV manufacturers, which launched full lines of 3D sets after the January 2010 Consumer Electronics Show",
+      "cameTrue": "no",
+      "note": "Broadcasters dropped 3D channels by 2013 and most manufacturers had stopped making 3D sets by 2017.",
+      "source": {
+        "label": "Wikipedia: 3D television",
+        "url": "https://en.wikipedia.org/wiki/3D_television",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.visions.pcs-will-be-like-trucks",
+      "prediction": "PCs will be like trucks: still around and still valuable, but used by only one out of a few people, as tablets and phones take over everyday computing.",
+      "whoSaidIt": "Steve Jobs, interview at the D8 conference, June 2010",
+      "cameTrue": "partly",
+      "note": "PC sales declined through the 2010s in favour of phones and tablets, but desktop and laptop PCs kept their own uses.",
+      "source": {
+        "label": "Wikipedia: Post-PC era",
+        "url": "https://en.wikipedia.org/wiki/Post-PC_era",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.2010.headlines.2010-01-27",
+      "date": "2010-01-27",
+      "headline": "Apple announces the iPad",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: iPad (1st generation)",
+        "url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.headlines.2010-04-20",
+      "date": "2010-04-20",
+      "headline": "Deepwater Horizon oil rig explodes in the Gulf of Mexico",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2010 in the United States",
+        "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.2010.headlines.2010-10-13",
+      "date": "2010-10-13",
+      "headline": "All 33 trapped Chilean miners rescued after 69 days",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2010 Copiapó mining accident",
+        "url": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A glass-fronted smartphone, glowing with app icons.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "technology": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

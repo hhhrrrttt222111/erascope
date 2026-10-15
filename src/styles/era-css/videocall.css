@@ -1,0 +1,44 @@
+/* 2020: video-call grid, name tags and a floating toolbar. */
+
+.vc-tile {
+  position: relative;
+  border-radius: 14px;
+  background: #232329;
+  border: 2px solid #2f2f37;
+  padding: clamp(14px, 2.5vw, 22px) clamp(14px, 2.5vw, 22px) 52px;
+  transition: border-color 0.2s;
+}
+
+/* The tile you're interacting with lights up like the active speaker. */
+.vc-tile:hover,
+.vc-tile:focus-within {
+  border-color: var(--vc-accent);
+}
+
+.vc-nametag {
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #ececf1;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.vc-toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--tm-slider-h) + 84px);
+  transform: translateX(-50%);
+  padding: 10px 18px;
+  border-radius: 999px;
+  background: #ececf1;
+  color: #18181b;
+  font-weight: 700;
+  z-index: 60;
+}

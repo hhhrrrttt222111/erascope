@@ -1,0 +1,1096 @@
+{
+  "country": "in",
+  "year": 1999,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1999",
+    "summary": "Highlights of this year's checked items: The Kargil War; A perfect ten; Wimbledon men's doubles; The Odisha super cyclone; PSLV-C2.",
+    "sources": [
+      {
+        "label": "Wikipedia: 1999 in India",
+        "url": "https://en.wikipedia.org/wiki/1999_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Kargil War",
+        "url": "https://en.wikipedia.org/wiki/Kargil_War",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: 1999 Indian general election",
+        "url": "https://en.wikipedia.org/wiki/1999_Indian_general_election",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: 1999 Odisha cyclone",
+        "url": "https://en.wikipedia.org/wiki/1999_Odisha_cyclone",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1999.dd.freedom-history.kargil",
+    "in.1999.dd.achievements.kumble-ten",
+    "in.1999.dd.sports.wimbledon-doubles",
+    "in.1999.dd.freedom-history.odisha-cyclone",
+    "in.1999.dd.technology-science.pslv-c2"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: PSLV-C2; A longer-range Agni.",
+      "items": [
+        {
+          "id": "in.1999.dd.technology-science.pslv-c2",
+          "kind": "tech",
+          "title": "PSLV-C2",
+          "summary": "On 26 May 1999 ISRO's Polar Satellite Launch Vehicle launched three satellites from Sriharikota into a Sun-synchronous orbit: India's Oceansat-1, South Korea's KITSAT-3 and Germany's DLR-Tubsat.",
+          "availability": "lab-or-official",
+          "regionTag": "south",
+          "place": "Sriharikota",
+          "sources": [
+            {
+              "label": "Wikipedia: PSLV-C2",
+              "url": "https://en.wikipedia.org/wiki/PSLV-C2",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.technology-science.agni-ii",
+          "kind": "tech",
+          "title": "A longer-range Agni",
+          "summary": "India test-fired its longer-range Agni-II on 11 April 1999 from a new launch site, Wheeler Island on the Orissa coast; the reported range was about 2,000 km.",
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Federation of American Scientists: Agni (nuclear weapons guide)",
+              "url": "https://nuke.fas.org/guide/india/missile/agni.htm",
+              "accessed": "2026-10-14",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      },
+      "scarcityNote": "Only 2 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: President: K. R. Narayanan; Prime Minister: Atal Bihari Vajpayee; The 1999 general election.",
+      "items": [
+        {
+          "id": "in.1999.dd.government-politics.president-narayanan",
+          "kind": "governance",
+          "title": "President: K. R. Narayanan",
+          "summary": "K. R. Narayanan was President of India in 1999 and asked the government to seek a confidence vote in April.",
+          "office": "President of India",
+          "holder": "K. R. Narayanan",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: K. R. Narayanan",
+              "url": "https://en.wikipedia.org/wiki/K._R._Narayanan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.government-politics.pm-vajpayee",
+          "kind": "governance",
+          "title": "Prime Minister: Atal Bihari Vajpayee",
+          "summary": "Atal Bihari Vajpayee was Prime Minister, with Krishna Kant as Vice-President and A. S. Anand as Chief Justice.",
+          "office": "Prime Minister of India",
+          "holder": "Atal Bihari Vajpayee",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Atal Bihari Vajpayee",
+              "url": "https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.government-politics.election-1999",
+          "kind": "governance",
+          "title": "The 1999 general election",
+          "summary": "Polling ran from 5 September to 3 October 1999 for 543 seats: the BJP won 182 seats and the Congress 114, with turnout of 59.99 percent.",
+          "instrument": "13th Lok Sabha election",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 Indian general election",
+              "url": "https://en.wikipedia.org/wiki/1999_Indian_general_election",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "K. R. Narayanan",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "Atal Bihari Vajpayee",
+                "role": "Head of government; Vice-President Krishna Kant",
+                "children": [
+                  {
+                    "id": "ls",
+                    "label": "Lok Sabha",
+                    "role": "Dissolved on 26 April; new house elected 5 September to 3 October: BJP 182 seats, Congress 114"
+                  },
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice A. S. Anand",
+                    "role": "Highest court"
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "How a government fell, 1999",
+            "steps": [
+              {
+                "label": "14 April",
+                "detail": "The AIADMK withdrew support from the BJP-led coalition and the President asked the government to seek a confidence vote."
+              },
+              {
+                "label": "17 April",
+                "detail": "The 13-month-old government lost the no-confidence motion by one vote."
+              },
+              {
+                "label": "26 April",
+                "detail": "The Lok Sabha was dissolved and early elections called."
+              },
+              {
+                "label": "5 September to 3 October",
+                "detail": "Polls were held in phases; the BJP won 182 seats, the Congress 114."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1999 in India",
+            "url": "https://en.wikipedia.org/wiki/1999_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1999 Indian general election",
+            "url": "https://en.wikipedia.org/wiki/1999_Indian_general_election",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 3 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: The Kargil War; The Odisha super cyclone; The hijacking of IC 814.",
+      "items": [
+        {
+          "id": "in.1999.dd.freedom-history.kargil",
+          "kind": "event",
+          "title": "The Kargil War",
+          "summary": "From May to July 1999 India and Pakistan fought in the Kargil sector of Kashmir; India reports 527 killed and 1,363 wounded and the result is recorded as an Indian victory.",
+          "eventType": "conflict",
+          "date": "1999-07",
+          "regionTag": "north",
+          "place": "Kargil",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A war with heavy casualties on both sides."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Kargil War",
+              "url": "https://en.wikipedia.org/wiki/Kargil_War",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.freedom-history.odisha-cyclone",
+          "kind": "event",
+          "title": "The Odisha super cyclone",
+          "summary": "A cyclone made landfall on Odisha's coast on 29 October 1999; the IMD figure for deaths is 9,887, with estimates up to 30,000.",
+          "eventType": "disaster",
+          "date": "1999-10",
+          "regionTag": "east",
+          "place": "Odisha",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A natural disaster with mass casualties."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 Odisha cyclone",
+              "url": "https://en.wikipedia.org/wiki/1999_Odisha_cyclone",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.freedom-history.ic-814",
+          "kind": "event",
+          "title": "The hijacking of IC 814",
+          "summary": "Indian Airlines Flight 814, from Kathmandu to Delhi with 179 passengers, was hijacked on 24 December 1999 and flown to Amritsar, Lahore, Dubai and Kandahar.",
+          "eventType": "other",
+          "date": "1999-12",
+          "regionTag": "north",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A hijacking in which a passenger was killed."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Indian Airlines Flight 814",
+              "url": "https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      },
+      "scarcityNote": "Only 3 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Atal Bihari Vajpayee; K. R. Narayanan; Sonia Gandhi; Leander Paes; Mahesh Bhupathi.",
+      "items": [
+        {
+          "id": "in.1999.dd.personalities.vajpayee",
+          "kind": "person",
+          "title": "Atal Bihari Vajpayee",
+          "summary": "Prime Minister, born in 1924.",
+          "field": "Politics",
+          "born": "1924",
+          "whyThisYear": "His government lost a confidence vote by one vote in April, and he took the Delhi-Lahore bus in February.",
+          "regionTag": "national",
+          "died": "2018",
+          "sources": [
+            {
+              "label": "Wikipedia: Atal Bihari Vajpayee",
+              "url": "https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.personalities.kr-narayanan",
+          "kind": "person",
+          "title": "K. R. Narayanan",
+          "summary": "President, born in 1920.",
+          "field": "Politics",
+          "born": "1920",
+          "whyThisYear": "He asked the government to seek a confidence vote in April.",
+          "regionTag": "national",
+          "died": "2005",
+          "sources": [
+            {
+              "label": "Wikipedia: K. R. Narayanan",
+              "url": "https://en.wikipedia.org/wiki/K._R._Narayanan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.personalities.sonia-gandhi",
+          "kind": "person",
+          "title": "Sonia Gandhi",
+          "summary": "Congress leader, born in 1946.",
+          "field": "Politics",
+          "born": "1946",
+          "whyThisYear": "She resigned as Congress president on 17 May and withdrew the resignation on 24 May.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Sonia Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.personalities.leander-paes",
+          "kind": "person",
+          "title": "Leander Paes",
+          "summary": "Tennis player, born in 1973.",
+          "field": "Tennis",
+          "born": "1973",
+          "whyThisYear": "With Mahesh Bhupathi he won the French Open and Wimbledon men's doubles.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Leander Paes",
+              "url": "https://en.wikipedia.org/wiki/Leander_Paes",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 Wimbledon Championships – Men's doubles",
+              "url": "https://en.wikipedia.org/wiki/1999_Wimbledon_Championships_–_Men's_doubles",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.personalities.mahesh-bhupathi",
+          "kind": "person",
+          "title": "Mahesh Bhupathi",
+          "summary": "Tennis player, born in 1974.",
+          "field": "Tennis",
+          "born": "1974",
+          "whyThisYear": "He won two Grand Slam doubles titles with Leander Paes.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahesh Bhupathi",
+              "url": "https://en.wikipedia.org/wiki/Mahesh_Bhupathi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 French Open – Men's doubles",
+              "url": "https://en.wikipedia.org/wiki/1999_French_Open_–_Men's_doubles",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.personalities.anil-kumble",
+          "kind": "person",
+          "title": "Anil Kumble",
+          "summary": "Leg-spinner, born in Bangalore in 1970.",
+          "field": "Cricket",
+          "born": "1970",
+          "whyThisYear": "He took all ten wickets in a Test innings against Pakistan, 10 for 74.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Anil Kumble",
+              "url": "https://en.wikipedia.org/wiki/Anil_Kumble",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.personalities.nirmal-verma",
+          "kind": "person",
+          "title": "Nirmal Verma",
+          "summary": "Hindi writer, born in 1929.",
+          "field": "Literature",
+          "born": "1929",
+          "whyThisYear": "He shared the 35th Jnanpith Award, for 1999, with Gurdial Singh.",
+          "regionTag": "national",
+          "died": "2005",
+          "sources": [
+            {
+              "label": "Wikipedia: Nirmal Verma",
+              "url": "https://en.wikipedia.org/wiki/Nirmal_Verma",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.personalities.gurdial-singh",
+          "kind": "person",
+          "title": "Gurdial Singh",
+          "summary": "Punjabi novelist, born in 1933.",
+          "field": "Literature",
+          "born": "1933",
+          "whyThisYear": "He shared the 35th Jnanpith Award, for 1999, with Nirmal Verma.",
+          "regionTag": "national",
+          "died": "2016",
+          "sources": [
+            {
+              "label": "Wikipedia: Gurdial Singh",
+              "url": "https://en.wikipedia.org/wiki/Gurdial_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: A perfect ten; French Open and Wimbledon; India launches foreign satellites.",
+      "items": [
+        {
+          "id": "in.1999.dd.achievements.kumble-ten",
+          "kind": "achievement",
+          "title": "A perfect ten",
+          "summary": "On 7 February 1999 Anil Kumble took all ten wickets in a Test innings against Pakistan at Delhi, only the second bowler in Test history to do so.",
+          "domain": "sport",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Anil Kumble",
+              "url": "https://en.wikipedia.org/wiki/Anil_Kumble",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.achievements.paes-bhupathi-double",
+          "kind": "achievement",
+          "title": "French Open and Wimbledon",
+          "summary": "Leander Paes and Mahesh Bhupathi won the French Open and Wimbledon men's doubles in 1999; at Wimbledon they became the first Indian pair to win the doubles title.",
+          "domain": "sport",
+          "firstOfKind": true,
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 French Open – Men's doubles",
+              "url": "https://en.wikipedia.org/wiki/1999_French_Open_–_Men's_doubles",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 Wimbledon Championships – Men's doubles",
+              "url": "https://en.wikipedia.org/wiki/1999_Wimbledon_Championships_–_Men's_doubles",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.achievements.pslv-c2-ach",
+          "kind": "achievement",
+          "title": "India launches foreign satellites",
+          "summary": "PSLV-C2 carried a South Korean and a German satellite alongside India's own Oceansat-1.",
+          "domain": "space",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: PSLV-C2",
+              "url": "https://en.wikipedia.org/wiki/PSLV-C2",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Wickets Kumble took in one Test innings",
+              "value": 10,
+              "unit": "wickets for 74 runs"
+            },
+            {
+              "label": "Mass of the satellites carried by PSLV-C2",
+              "value": 1202,
+              "unit": "kg payload"
+            },
+            {
+              "label": "Seats won by the BJP in the 1999 election",
+              "value": 182,
+              "unit": "seats"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Anil Kumble",
+            "url": "https://en.wikipedia.org/wiki/Anil_Kumble",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1999 in India",
+            "url": "https://en.wikipedia.org/wiki/1999_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: PSLV-C2",
+            "url": "https://en.wikipedia.org/wiki/PSLV-C2",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1999 Indian general election",
+            "url": "https://en.wikipedia.org/wiki/1999_Indian_general_election",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Wimbledon men's doubles; Kumble's 10 for 74.",
+      "items": [
+        {
+          "id": "in.1999.dd.sports.wimbledon-doubles",
+          "kind": "sport",
+          "title": "Wimbledon men's doubles",
+          "summary": "Mahesh Bhupathi and Leander Paes, seeded first, won the Wimbledon men's doubles final 6-7, 6-3, 6-4, 7-6 on 4 July 1999.",
+          "sport": "Tennis",
+          "competition": "Wimbledon",
+          "result": "Champions",
+          "scoreline": "6-7(10-12), 6-3, 6-4, 7-6(7-4)",
+          "athletes": [
+            "Mahesh Bhupathi",
+            "Leander Paes"
+          ],
+          "date": "1999-07",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 Wimbledon Championships – Men's doubles",
+              "url": "https://en.wikipedia.org/wiki/1999_Wimbledon_Championships_–_Men's_doubles",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.sports.kumble-10-74",
+          "kind": "sport",
+          "title": "Kumble's 10 for 74",
+          "summary": "Anil Kumble took 10 wickets for 74 runs against Pakistan, a feat only one other bowler has achieved in Test cricket.",
+          "sport": "Cricket",
+          "competition": "Test v Pakistan, Delhi",
+          "result": "10 for 74",
+          "athletes": [
+            "Anil Kumble"
+          ],
+          "date": "1999-02",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Anil Kumble",
+              "url": "https://en.wikipedia.org/wiki/Anil_Kumble",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "Wimbledon men's doubles final, 1999: Bhupathi and Paes",
+            "steps": [
+              {
+                "label": "Set 1",
+                "text": "The first set goes to the Indians' opponents on a tie-break, 7-6 (12-10).",
+                "score": "6-7"
+              },
+              {
+                "label": "Set 2",
+                "text": "Paes and Bhupathi level at 6-3.",
+                "score": "6-3"
+              },
+              {
+                "label": "Set 3",
+                "text": "They take the third set 6-4.",
+                "score": "6-4"
+              },
+              {
+                "label": "Set 4",
+                "text": "They win the fourth set 7-6 (7-4) and the title.",
+                "score": "7-6"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1999 Wimbledon Championships – Men's doubles",
+            "url": "https://en.wikipedia.org/wiki/1999_Wimbledon_Championships_–_Men's_doubles",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1999 in India",
+            "url": "https://en.wikipedia.org/wiki/1999_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Parinde; Marhi Da Deeva; Interpreter of Maladies.",
+      "items": [
+        {
+          "id": "in.1999.dd.literature.parinde",
+          "kind": "work",
+          "title": "Parinde",
+          "summary": "Parinde ('Birds'), Nirmal Verma's first story collection, is regarded as the first signature work of the Nai Kahani movement.",
+          "workType": "short-story",
+          "creator": "Nirmal Verma",
+          "originalTitle": {
+            "text": "परिंदे",
+            "lang": "hi"
+          },
+          "transliteration": "Parinde",
+          "translatedTitle": "Birds",
+          "languages": [
+            "Hindi"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Nirmal Verma",
+              "url": "https://en.wikipedia.org/wiki/Nirmal_Verma",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.literature.marhi-da-deeva",
+          "kind": "work",
+          "title": "Marhi Da Deeva",
+          "summary": "Gurdial Singh's Punjabi novel Marhi Da Deeva, published in 1964, made his name as a novelist.",
+          "workType": "novel",
+          "creator": "Gurdial Singh",
+          "originalTitle": {
+            "text": "ਮੜ੍ਹੀ ਦਾ ਦੀਵਾ",
+            "lang": "pa"
+          },
+          "transliteration": "Marhi Da Deeva",
+          "languages": [
+            "Punjabi"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Gurdial Singh",
+              "url": "https://en.wikipedia.org/wiki/Gurdial_Singh",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.literature.interpreter-of-maladies",
+          "kind": "work",
+          "title": "Interpreter of Maladies",
+          "summary": "Jhumpa Lahiri's 1999 collection of short stories, about Indians and Indian Americans.",
+          "workType": "short-story",
+          "creator": "Jhumpa Lahiri",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Wikipedia: Interpreter of Maladies",
+              "url": "https://en.wikipedia.org/wiki/Interpreter_of_Maladies",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 3 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Fasting, Feasting (first edition); Interpreter of Maladies (first edition).",
+      "items": [
+        {
+          "id": "in.1999.dd.books-reading.desai-edition",
+          "kind": "work",
+          "title": "Fasting, Feasting (first edition)",
+          "summary": "Anita Desai's novel appeared in 1999.",
+          "workType": "novel",
+          "creator": "Anita Desai",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Fasting, Feasting",
+              "url": "https://en.wikipedia.org/wiki/Fasting,_Feasting",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.books-reading.lahiri-edition",
+          "kind": "work",
+          "title": "Interpreter of Maladies (first edition)",
+          "summary": "Jhumpa Lahiri's debut collection was published in 1999.",
+          "workType": "short-story",
+          "creator": "Jhumpa Lahiri",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "overseas",
+          "sources": [
+            {
+              "label": "Wikipedia: Interpreter of Maladies",
+              "url": "https://en.wikipedia.org/wiki/Interpreter_of_Maladies",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      },
+      "scarcityNote": "Only 2 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Hum Saath-Saath Hain; Hum Dil De Chuke Sanam; Taal; Padayappa.",
+      "items": [
+        {
+          "id": "in.1999.dd.cinema.hum-saath-saath-hain",
+          "kind": "film",
+          "title": "Hum Saath-Saath Hain",
+          "summary": "Sooraj Barjatya's family drama, produced by Rajshri, was the highest-grossing Hindi film of 1999, with a worldwide collection listed at 81.71 crore rupees.",
+          "language": "Hindi",
+          "director": "Sooraj Barjatya",
+          "notable": "Top grosser of 1999",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 1999",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1999",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.cinema.hum-dil-de-chuke-sanam",
+          "kind": "film",
+          "title": "Hum Dil De Chuke Sanam",
+          "summary": "Sanjay Leela Bhansali's film was the second highest-grossing Hindi film of 1999.",
+          "language": "Hindi",
+          "director": "Sanjay Leela Bhansali",
+          "notable": "Second-highest grosser of 1999",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Hum Dil De Chuke Sanam",
+              "url": "https://en.wikipedia.org/wiki/Hum_Dil_De_Chuke_Sanam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 1999",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1999",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.cinema.taal",
+          "kind": "film",
+          "title": "Taal",
+          "summary": "Subhash Ghai's film, with music by A. R. Rahman, was the third highest-grossing Hindi film of 1999.",
+          "language": "Hindi",
+          "director": "Subhash Ghai",
+          "notable": "Music by A. R. Rahman",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Taal (film)",
+              "url": "https://en.wikipedia.org/wiki/Taal_(film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 1999",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1999",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.cinema.padayappa",
+          "kind": "film",
+          "title": "Padayappa",
+          "summary": "K. S. Ravikumar's Tamil film Padayappa, starring Rajinikanth, was released in 1999.",
+          "language": "Tamil",
+          "director": "K. S. Ravikumar",
+          "cast": [
+            "Rajinikanth"
+          ],
+          "notable": "Tamil blockbuster",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Padayappa",
+              "url": "https://en.wikipedia.org/wiki/Padayappa",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: The music of Taal.",
+      "items": [
+        {
+          "id": "in.1999.dd.music-arts.taal-music",
+          "kind": "art",
+          "title": "The music of Taal",
+          "summary": "A. R. Rahman composed the music for Taal.",
+          "form": "music",
+          "creator": "A. R. Rahman",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Taal (film)",
+              "url": "https://en.wikipedia.org/wiki/Taal_(film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 1 item for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: GDP at current prices.",
+      "items": [
+        {
+          "id": "in.1999.dd.economy-business.national-income-1999",
+          "kind": "indicator",
+          "title": "GDP at current prices",
+          "summary": "India's gross domestic product at current prices was Rs 19,882,616 million (about Rs 19.88 trillion) in 1999, in the World Bank's national-accounts series.",
+          "metric": "GDP at current prices",
+          "value": "19882616",
+          "unit": "million rupees",
+          "asOf": "1999",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN",
+              "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "wage": {
+            "amount": 52.47,
+            "unit": "rupees a day",
+            "label": "Output per person per day (GDP per capita ÷ 365; not a wage)"
+          },
+          "buys": [
+            {
+              "label": "Grams of gold",
+              "cost": 426.824,
+              "unit": "rupees per gram"
+            },
+            {
+              "label": "Grams of silver",
+              "cost": 7.855,
+              "unit": "rupees per gram"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "World Bank, World Development Indicators: GDP per capita (current LCU), NY.GDP.PCAP.CN",
+            "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Statistical Abstract India 1999 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Mumbai (Bombay Bullion Association), via the Internet Archive",
+            "url": "https://archive.org/details/dli.ministry.23193",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          }
+        ]
+      },
+      "scarcityNote": "Only 1 item for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

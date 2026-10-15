@@ -1,0 +1,1234 @@
+{
+  "country": "in",
+  "year": 1970,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 1970",
+    "summary": "Highlights of this year's checked items: The privy purses and the President's order; Asian Games football: bronze; The national milk grid; Aranyer Din Ratri; C. V. Raman; The sixth Jnanpith Award.",
+    "sources": [
+      {
+        "label": "Wikipedia: 1970 in India",
+        "url": "https://en.wikipedia.org/wiki/1970_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: White revolution (India)",
+        "url": "https://en.wikipedia.org/wiki/White_revolution_(India)",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: Privy purse in India",
+        "url": "https://en.wikipedia.org/wiki/Privy_purse_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: India at the 1970 Asian Games",
+        "url": "https://en.wikipedia.org/wiki/India_at_the_1970_Asian_Games",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.1970.dd.government-politics.privy-purses",
+    "in.1970.dd.sports.asian-games-football",
+    "in.1970.dd.technology-science.milk-grid",
+    "in.1970.dd.cinema.aranyer-din-ratri-film",
+    "in.1970.dd.personalities.cv-raman",
+    "in.1970.dd.achievements.jnanpith-1970"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: Tarapur Atomic Power Station; ISRO takes its name; The national milk grid.",
+      "items": [
+        {
+          "id": "in.1970.dd.technology-science.tarapur",
+          "kind": "tech",
+          "title": "Tarapur Atomic Power Station",
+          "summary": "India's first nuclear power station, Tarapur, with two boiling-water reactors, was commissioned on 28 October 1969.",
+          "availability": "lab-or-official",
+          "regionTag": "west",
+          "place": "Tarapur",
+          "sources": [
+            {
+              "label": "Wikipedia: Tarapur Atomic Power Station",
+              "url": "https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.technology-science.isro-formed",
+          "kind": "tech",
+          "title": "ISRO takes its name",
+          "summary": "The Indian National Committee for Space Research, set up in 1962 on Vikram Sarabhai's recommendation, was renamed the Indian Space Research Organisation on 15 August 1969.",
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: ISRO",
+              "url": "https://en.wikipedia.org/wiki/ISRO",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.technology-science.milk-grid",
+          "kind": "tech",
+          "title": "The national milk grid",
+          "summary": "Operation Flood, launched on 13 January 1970 by the National Dairy Development Board, built a national milk grid linking village co-operatives to consumers in over 700 towns and cities.",
+          "availability": "widespread",
+          "regionTag": "west",
+          "place": "Anand, Gujarat",
+          "sources": [
+            {
+              "label": "Wikipedia: White revolution (India)",
+              "url": "https://en.wikipedia.org/wiki/White_revolution_(India)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: National Dairy Development Board",
+              "url": "https://en.wikipedia.org/wiki/National_Dairy_Development_Board",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      },
+      "scarcityNote": "Only 3 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: President: V. V. Giri; Prime Minister: Indira Gandhi; The privy purses and the President's order; A new Chief Justice.",
+      "items": [
+        {
+          "id": "in.1970.dd.government-politics.president-giri",
+          "kind": "governance",
+          "title": "President: V. V. Giri",
+          "summary": "Varahagiri Venkata Giri was President of India throughout 1970.",
+          "office": "President of India",
+          "holder": "V. V. Giri",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: V. V. Giri",
+              "url": "https://en.wikipedia.org/wiki/V._V._Giri",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.government-politics.pm-indira",
+          "kind": "governance",
+          "title": "Prime Minister: Indira Gandhi",
+          "summary": "Indira Gandhi was Prime Minister, with Gopal Swarup Pathak as Vice-President.",
+          "office": "Prime Minister of India",
+          "holder": "Indira Gandhi",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Indira Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.government-politics.privy-purses",
+          "kind": "governance",
+          "title": "The privy purses and the President's order",
+          "summary": "A 1970 motion to abolish privy purses passed the Lok Sabha but failed in the Rajya Sabha by 149 to 75, short of two-thirds. On 6 September 1970 the President ordered that rulers of former states cease to be recognised.",
+          "instrument": "Presidential order under Article 366(22), 6 September 1970",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Privy purse in India",
+              "url": "https://en.wikipedia.org/wiki/Privy_purse_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.government-politics.chief-justice-change",
+          "kind": "governance",
+          "title": "A new Chief Justice",
+          "summary": "Mohammad Hidayatullah was Chief Justice of India until 16 December 1970 and Jayantilal Chhotalal Shah took over on 17 December.",
+          "office": "Chief Justice of India",
+          "holder": "J. C. Shah (from 17 December)",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "V. V. Giri",
+            "role": "Head of state",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "Indira Gandhi",
+                "role": "Head of government; Vice-President Gopal Swarup Pathak",
+                "children": [
+                  {
+                    "id": "ls",
+                    "label": "Lok Sabha",
+                    "role": "Passed the privy-purse abolition motion in 1970"
+                  },
+                  {
+                    "id": "rs",
+                    "label": "Rajya Sabha",
+                    "role": "Rejected it: 149 for, 75 against, short of two-thirds"
+                  },
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice Mohammad Hidayatullah, then J. C. Shah from 17 December",
+                    "role": "Highest court"
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "Ending the privy purses",
+            "steps": [
+              {
+                "label": "Motion, 1970",
+                "detail": "A motion to abolish privy purses and the recognition of titles passed the Lok Sabha."
+              },
+              {
+                "label": "Rajya Sabha",
+                "detail": "It failed there by one vote short of two-thirds: 149 for and 75 against."
+              },
+              {
+                "label": "Order, 6 September 1970",
+                "detail": "The President ordered that rulers of former states cease to be recognised, ending their purses."
+              },
+              {
+                "label": "Amendment, 1971",
+                "detail": "The 26th Amendment passed in 1971 and removed the privileges after a two-year legal battle."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: Privy purse in India",
+            "url": "https://en.wikipedia.org/wiki/Privy_purse_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 1970 in India",
+            "url": "https://en.wikipedia.org/wiki/1970_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: The princes lose recognition; Vivekananda Rock Memorial opens; Operation Flood begins.",
+      "items": [
+        {
+          "id": "in.1970.dd.freedom-history.privy-purse-order",
+          "kind": "event",
+          "title": "The princes lose recognition",
+          "summary": "On 6 September 1970 the President ordered that all former rulers cease to be recognised as rulers, immediately ending their privy purses.",
+          "eventType": "reform",
+          "date": "1970-09",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Privy purse in India",
+              "url": "https://en.wikipedia.org/wiki/Privy_purse_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.freedom-history.rock-memorial",
+          "kind": "event",
+          "title": "Vivekananda Rock Memorial opens",
+          "summary": "President V. V. Giri opened the Vivekananda Rock Memorial at Kanyakumari on 2 September 1970.",
+          "eventType": "founding",
+          "date": "1970-09",
+          "regionTag": "south",
+          "place": "Kanyakumari",
+          "sources": [
+            {
+              "label": "Wikipedia: Vivekananda Rock Memorial",
+              "url": "https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.freedom-history.operation-flood",
+          "kind": "event",
+          "title": "Operation Flood begins",
+          "summary": "On 13 January 1970 the National Dairy Development Board launched Operation Flood, the 'White Revolution'.",
+          "eventType": "reform",
+          "date": "1970-01",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: White revolution (India)",
+              "url": "https://en.wikipedia.org/wiki/White_revolution_(India)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      },
+      "scarcityNote": "Only 3 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Indira Gandhi; V. V. Giri; C. V. Raman; Verghese Kurien; Vikram Sarabhai.",
+      "items": [
+        {
+          "id": "in.1970.dd.personalities.indira-gandhi",
+          "kind": "person",
+          "title": "Indira Gandhi",
+          "summary": "Prime Minister, born in 1917.",
+          "field": "Politics",
+          "born": "1917",
+          "whyThisYear": "Her government's privy-purse motion failed in the Rajya Sabha and the President's order followed in September.",
+          "regionTag": "national",
+          "died": "1984",
+          "sources": [
+            {
+              "label": "Wikipedia: Indira Gandhi",
+              "url": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.personalities.v-v-giri",
+          "kind": "person",
+          "title": "V. V. Giri",
+          "summary": "President, born in 1894.",
+          "field": "Politics",
+          "born": "1894",
+          "whyThisYear": "He opened the Vivekananda Rock Memorial on 2 September 1970 and signed the order on the princes.",
+          "regionTag": "national",
+          "died": "1980",
+          "sources": [
+            {
+              "label": "Wikipedia: V. V. Giri",
+              "url": "https://en.wikipedia.org/wiki/V._V._Giri",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Vivekananda Rock Memorial",
+              "url": "https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.personalities.cv-raman",
+          "kind": "person",
+          "title": "C. V. Raman",
+          "summary": "Physicist, born in 1888.",
+          "field": "Physics",
+          "born": "1888",
+          "whyThisYear": "He died on 21 November 1970, forty years after his Nobel Prize.",
+          "regionTag": "national",
+          "died": "1970",
+          "sources": [
+            {
+              "label": "NobelPrize.org: C. V. Raman, facts",
+              "url": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
+              "accessed": "2026-10-13",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.personalities.verghese-kurien",
+          "kind": "person",
+          "title": "Verghese Kurien",
+          "summary": "Founder of the NDDB, born in 1921.",
+          "field": "Dairy development",
+          "born": "1921",
+          "whyThisYear": "Operation Flood, run by the board he founded, was launched in January 1970.",
+          "regionTag": "national",
+          "died": "2012",
+          "sources": [
+            {
+              "label": "Wikipedia: Verghese Kurien",
+              "url": "https://en.wikipedia.org/wiki/Verghese_Kurien",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: National Dairy Development Board",
+              "url": "https://en.wikipedia.org/wiki/National_Dairy_Development_Board",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.personalities.vikram-sarabhai",
+          "kind": "person",
+          "title": "Vikram Sarabhai",
+          "summary": "Physicist and space planner, born in 1919.",
+          "field": "Space science",
+          "born": "1919",
+          "whyThisYear": "INCOSPAR, set up on his recommendation, had become ISRO the previous August.",
+          "regionTag": "national",
+          "died": "1971",
+          "sources": [
+            {
+              "label": "Wikipedia: Vikram Sarabhai",
+              "url": "https://en.wikipedia.org/wiki/Vikram_Sarabhai",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: ISRO",
+              "url": "https://en.wikipedia.org/wiki/ISRO",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.personalities.satyajit-ray",
+          "kind": "person",
+          "title": "Satyajit Ray",
+          "summary": "Film-maker, born in 1921.",
+          "field": "Cinema",
+          "born": "1921",
+          "whyThisYear": "He released Aranyer Din Ratri in January and Pratidwandi in October.",
+          "regionTag": "national",
+          "died": "1992",
+          "sources": [
+            {
+              "label": "Wikipedia: Satyajit Ray",
+              "url": "https://en.wikipedia.org/wiki/Satyajit_Ray",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Days and Nights in the Forest",
+              "url": "https://en.wikipedia.org/wiki/Days_and_Nights_in_the_Forest",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Pratidwandi",
+              "url": "https://en.wikipedia.org/wiki/Pratidwandi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.personalities.sunil-gavaskar",
+          "kind": "person",
+          "title": "Sunil Gavaskar",
+          "summary": "Opening batsman, born in 1949.",
+          "field": "Cricket",
+          "born": "1949",
+          "whyThisYear": "He made 114 for Bombay in the 1969-70 Ranji Trophy final in April.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Sunil Gavaskar",
+              "url": "https://en.wikipedia.org/wiki/Sunil_Gavaskar",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1969–70 Ranji Trophy",
+              "url": "https://en.wikipedia.org/wiki/1969–70_Ranji_Trophy",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.personalities.viswanatha-satyanarayana",
+          "kind": "person",
+          "title": "Viswanatha Satyanarayana",
+          "summary": "Telugu poet and novelist, born in 1895.",
+          "field": "Literature",
+          "born": "1895",
+          "whyThisYear": "He received the sixth Jnanpith Award in 1970 for Ramayana Kalpavruksham.",
+          "regionTag": "national",
+          "died": "1976",
+          "sources": [
+            {
+              "label": "Wikipedia: Viswanatha Satyanarayana",
+              "url": "https://en.wikipedia.org/wiki/Viswanatha_Satyanarayana",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: 25 medals at the Asian Games; The sixth Jnanpith Award; India's first nuclear power station.",
+      "items": [
+        {
+          "id": "in.1970.dd.achievements.asian-games-25",
+          "kind": "achievement",
+          "title": "25 medals at the Asian Games",
+          "summary": "India won 6 gold, 9 silver and 10 bronze medals at the 1970 Asian Games in Bangkok.",
+          "domain": "sport",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1970 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1970_Asian_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.achievements.jnanpith-1970",
+          "kind": "achievement",
+          "title": "The sixth Jnanpith Award",
+          "summary": "The 1970 Jnanpith Award went to Viswanatha Satyanarayana for Ramayana Kalpavruksham, in Telugu.",
+          "domain": "arts",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Viswanatha Satyanarayana",
+              "url": "https://en.wikipedia.org/wiki/Viswanatha_Satyanarayana",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.achievements.tarapur-first",
+          "kind": "achievement",
+          "title": "India's first nuclear power station",
+          "summary": "Tarapur, commissioned in October 1969, was the first nuclear power station built in India.",
+          "domain": "engineering",
+          "firstOfKind": true,
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Tarapur Atomic Power Station",
+              "url": "https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Medals India won at the 1970 Asian Games",
+              "value": 25,
+              "unit": "medals"
+            },
+            {
+              "label": "Gold medals at the 1970 Asian Games",
+              "value": 6,
+              "unit": "golds"
+            },
+            {
+              "label": "Towns and cities linked by the Operation Flood milk grid",
+              "value": 700,
+              "unit": "towns and cities (over)"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: India at the 1970 Asian Games",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_1970_Asian_Games",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: White revolution (India)",
+            "url": "https://en.wikipedia.org/wiki/White_revolution_(India)",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: Asian Games hockey: Pakistan 1, India 0; Asian Games football: bronze.",
+      "items": [
+        {
+          "id": "in.1970.dd.sports.asian-games-hockey",
+          "kind": "sport",
+          "title": "Asian Games hockey: Pakistan 1, India 0",
+          "summary": "Pakistan beat India 1-0 in extra time in the final of the 1970 Asian Games hockey in Bangkok; India won silver.",
+          "sport": "Hockey",
+          "competition": "Asian Games, Bangkok",
+          "result": "Silver",
+          "scoreline": "0-1 after extra time",
+          "date": "1970-12",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Field hockey at the 1970 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/Field_hockey_at_the_1970_Asian_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: India at the 1970 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1970_Asian_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.sports.asian-games-football",
+          "kind": "sport",
+          "title": "Asian Games football: bronze",
+          "summary": "India beat Japan 1-0 in the bronze-medal match on 19 December 1970, Manjit Singh scoring in the 36th minute, after losing the semifinal 0-2 to Burma.",
+          "sport": "Football",
+          "competition": "Asian Games, Bangkok",
+          "result": "Bronze",
+          "scoreline": "1-0 v Japan",
+          "athletes": [
+            "Manjit Singh"
+          ],
+          "date": "1970-12",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Football at the 1970 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/Football_at_the_1970_Asian_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: India at the 1970 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1970_Asian_Games",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay",
+        "data": {
+          "replay": {
+            "title": "Ranji Trophy final, Bombay v Rajasthan, Brabourne Stadium, 2-6 April 1970",
+            "steps": [
+              {
+                "label": "Rajasthan, 1st innings",
+                "text": "Rajasthan win the toss and bat, making 217; Abdul Ismail takes 4/58.",
+                "score": "217"
+              },
+              {
+                "label": "Bombay, 1st innings",
+                "text": "Ashok Mankad scores 171 and Sunil Gavaskar 114 in a total of 531.",
+                "score": "531"
+              },
+              {
+                "label": "Rajasthan, 2nd innings",
+                "text": "Rajasthan make 255, Milind Rege taking 4/75, and lose by an innings and 59 runs.",
+                "score": "255"
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 1969–70 Ranji Trophy",
+            "url": "https://en.wikipedia.org/wiki/1969–70_Ranji_Trophy",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Sri Ramayana Kalpavruksham; Samskara; Aranyer Din Ratri.",
+      "items": [
+        {
+          "id": "in.1970.dd.literature.ramayana-kalpavruksham",
+          "kind": "work",
+          "title": "Sri Ramayana Kalpavruksham",
+          "summary": "Viswanatha Satyanarayana's Telugu epic retelling of the Ramayana won the 1970 Jnanpith Award.",
+          "workType": "poetry",
+          "creator": "Viswanatha Satyanarayana",
+          "originalTitle": {
+            "text": "శ్రీమద్రామాయణ కల్పవృక్షము",
+            "lang": "te"
+          },
+          "transliteration": "Ramayana Kalpavrukshamu",
+          "languages": [
+            "Telugu"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Viswanatha Satyanarayana",
+              "url": "https://en.wikipedia.org/wiki/Viswanatha_Satyanarayana",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.literature.samskara",
+          "kind": "work",
+          "title": "Samskara",
+          "summary": "U. R. Ananthamurthy's Kannada novel, adapted as a 1970 film, is among the works that opened Kannada parallel cinema.",
+          "workType": "novel",
+          "creator": "U. R. Ananthamurthy",
+          "originalTitle": {
+            "text": "ಸಂಸ್ಕಾರ",
+            "lang": "kn"
+          },
+          "transliteration": "Samskara",
+          "translatedTitle": "Funeral Rites",
+          "languages": [
+            "Kannada"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Samskara (film)",
+              "url": "https://en.wikipedia.org/wiki/Samskara_(film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.literature.aranyer-din-ratri",
+          "kind": "work",
+          "title": "Aranyer Din Ratri",
+          "summary": "Sunil Gangopadhyay's Bengali novel was filmed by Satyajit Ray as Days and Nights in the Forest, released in January 1970.",
+          "workType": "novel",
+          "creator": "Sunil Gangopadhyay",
+          "originalTitle": {
+            "text": "অরণ্যের দিনরাত্রি",
+            "lang": "bn"
+          },
+          "transliteration": "Aranyer Din Ratri",
+          "translatedTitle": "Days and Nights in the Forest",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Aranyer Din Ratri (novel)",
+              "url": "https://en.wikipedia.org/wiki/Aranyer_Din_Ratri_(novel)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Days and Nights in the Forest",
+              "url": "https://en.wikipedia.org/wiki/Days_and_Nights_in_the_Forest",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 3 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: Amar Chitra Katha; Chandamama; The Illustrated Weekly of India; National Book Trust titles.",
+      "items": [
+        {
+          "id": "in.1970.dd.books-reading.amar-chitra-katha",
+          "kind": "work",
+          "title": "Amar Chitra Katha",
+          "summary": "The comic-book series was founded by Anant Pai in 1967 as a successor to India Book House's titles, retelling myths and history.",
+          "workType": "comic",
+          "creator": "Anant Pai",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Amar Chitra Katha",
+              "url": "https://en.wikipedia.org/wiki/Amar_Chitra_Katha",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.books-reading.chandamama-1970",
+          "kind": "work",
+          "title": "Chandamama",
+          "summary": "The children's monthly, founded in 1947, appeared in many Indian languages.",
+          "workType": "periodical",
+          "creator": "Chakrapani and Nagi Reddi",
+          "languages": [
+            "Telugu",
+            "Tamil",
+            "Hindi"
+          ],
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Chandamama",
+              "url": "https://en.wikipedia.org/wiki/Chandamama",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.books-reading.illustrated-weekly-1970",
+          "kind": "work",
+          "title": "The Illustrated Weekly of India",
+          "summary": "An English-language weekly newsmagazine published from 1880 to 1993.",
+          "workType": "periodical",
+          "creator": "Times of India group",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: The Illustrated Weekly of India",
+              "url": "https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.books-reading.nbt-1970",
+          "kind": "work",
+          "title": "National Book Trust titles",
+          "summary": "The National Book Trust published books for all ages in several Indian languages.",
+          "workType": "nonfiction",
+          "creator": "National Book Trust",
+          "languages": [
+            "Hindi",
+            "English"
+          ],
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: National Book Trust",
+              "url": "https://en.wikipedia.org/wiki/National_Book_Trust",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      }
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Aranyer Din Ratri; Pratidwandi; Samskara; Johny Mera Naam.",
+      "items": [
+        {
+          "id": "in.1970.dd.cinema.aranyer-din-ratri-film",
+          "kind": "film",
+          "title": "Aranyer Din Ratri",
+          "summary": "Satyajit Ray's film about four Calcutta friends on a holiday in a forest, with Soumitra Chatterjee, Sharmila Tagore and Simi Garewal, was released in January 1970.",
+          "language": "Bengali",
+          "director": "Satyajit Ray",
+          "cast": [
+            "Soumitra Chatterjee",
+            "Sharmila Tagore",
+            "Simi Garewal",
+            "Aparna Sen"
+          ],
+          "notable": "Ray's ensemble drama",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Days and Nights in the Forest",
+              "url": "https://en.wikipedia.org/wiki/Days_and_Nights_in_the_Forest",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.cinema.pratidwandi",
+          "kind": "film",
+          "title": "Pratidwandi",
+          "summary": "Satyajit Ray's Bengali drama was released in October 1970.",
+          "language": "Bengali",
+          "director": "Satyajit Ray",
+          "cast": [
+            "Dhritiman Chatterjee",
+            "Debraj Ray"
+          ],
+          "notable": "Satyajit Ray, 1970",
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Pratidwandi",
+              "url": "https://en.wikipedia.org/wiki/Pratidwandi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.cinema.samskara-film",
+          "kind": "film",
+          "title": "Samskara",
+          "summary": "Pattabhirama Reddy's Kannada film, written by U. R. Ananthamurthy from his novel and starring Girish Karnad, is regarded as a path-breaking film of parallel cinema.",
+          "language": "Kannada",
+          "director": "Pattabhirama Reddy",
+          "cast": [
+            "Girish Karnad",
+            "Snehalata Reddy"
+          ],
+          "notable": "Pioneer of Kannada parallel cinema",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Samskara (film)",
+              "url": "https://en.wikipedia.org/wiki/Samskara_(film)",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.cinema.johny-mera-naam",
+          "kind": "film",
+          "title": "Johny Mera Naam",
+          "summary": "Vijay Anand's film with Dev Anand and Hema Malini was the highest-grossing Hindi film of 1970.",
+          "language": "Hindi-Urdu",
+          "director": "Vijay Anand",
+          "cast": [
+            "Dev Anand",
+            "Hema Malini",
+            "Pran"
+          ],
+          "notable": "Top grosser of 1970",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Johny Mera Naam",
+              "url": "https://en.wikipedia.org/wiki/Johny_Mera_Naam",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 1970",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1970",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "In this section: Vivekananda Rock Memorial; Vividh Bharati.",
+      "items": [
+        {
+          "id": "in.1970.dd.music-arts.rock-memorial-art",
+          "kind": "art",
+          "title": "Vivekananda Rock Memorial",
+          "summary": "The memorial at Kanyakumari, opened on 2 September 1970, stands on a rock off the southern tip of India.",
+          "form": "architecture",
+          "regionTag": "south",
+          "place": "Kanyakumari",
+          "sources": [
+            {
+              "label": "Wikipedia: Vivekananda Rock Memorial",
+              "url": "https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.music-arts.vividh-bharati-1970",
+          "kind": "art",
+          "title": "Vividh Bharati",
+          "summary": "All India Radio's Vividh Bharati service, launched on 3 October 1957, carried film music and commercials across India.",
+          "form": "broadcast",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Vividh Bharati",
+              "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Only 2 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: GDP at current prices; Population at the next census.",
+      "items": [
+        {
+          "id": "in.1970.dd.economy-business.national-income-1970",
+          "kind": "indicator",
+          "title": "GDP at current prices",
+          "summary": "India's gross domestic product at current prices was Rs 468,169 million (about Rs 0.47 trillion) in 1970, in the World Bank's national-accounts series.",
+          "metric": "GDP at current prices",
+          "value": "468169",
+          "unit": "million rupees",
+          "asOf": "1970",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN",
+              "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        },
+        {
+          "id": "in.1970.dd.economy-business.population-1971",
+          "kind": "indicator",
+          "title": "Population at the next census",
+          "summary": "The March 1971 census counted 547,949,809 people, as printed in the 1974 statistical abstract; later official series give about 548.16 million after revision.",
+          "metric": "Population",
+          "value": "548",
+          "unit": "million people",
+          "asOf": "1971",
+          "sources": [
+            {
+              "label": "Wikipedia: 1971 census of India",
+              "url": "https://en.wikipedia.org/wiki/1971_census_of_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive",
+              "url": "https://archive.org/details/dli.ministry.23183",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "wage": {
+            "amount": 2.35,
+            "unit": "rupees a day",
+            "label": "Output per person per day (GDP per capita ÷ 365; not a wage)"
+          },
+          "buys": [
+            {
+              "label": "Kilograms of rice (wholesale)",
+              "cost": 0.9317,
+              "unit": "rupees per kg"
+            },
+            {
+              "label": "Kilograms of wheat (wholesale)",
+              "cost": 0.9005,
+              "unit": "rupees per kg"
+            },
+            {
+              "label": "Kilograms of sugar (wholesale)",
+              "cost": 1.5702,
+              "unit": "rupees per kg"
+            },
+            {
+              "label": "Litres of milk (wholesale)",
+              "cost": 1.2708,
+              "unit": "rupees per litre"
+            },
+            {
+              "label": "Litres of petrol (wholesale)",
+              "cost": 1.1903,
+              "unit": "rupees per litre"
+            },
+            {
+              "label": "Grams of gold",
+              "cost": 18.496,
+              "unit": "rupees per gram"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "World Bank, World Development Indicators: GDP per capita (current LCU), NY.GDP.PCAP.CN",
+            "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive",
+            "url": "https://archive.org/details/dli.ministry.23183",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          },
+          {
+            "label": "Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive",
+            "url": "https://archive.org/details/dli.ministry.23191",
+            "accessed": "2026-10-14",
+            "quality": "primary"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

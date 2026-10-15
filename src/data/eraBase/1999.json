@@ -1,0 +1,24 @@
+{
+  "year": 1999,
+  "speculative": false,
+  "theme": {
+    "chrome": "win98",
+    "transition": "crtpoweron",
+    "palette": {
+      "primary": "#000080",
+      "secondary": "#008080",
+      "background": "#008a8a",
+      "paper": "#c0c0c0",
+      "text": "#000000"
+    },
+    "fonts": {
+      "heading": "Tahoma",
+      "body": "Tahoma",
+      "mono": "Silkscreen"
+    },
+    "sound": "startup-chime"
+  },
+  "scene": {
+    "component": "CrtPc1999"
+  }
+}

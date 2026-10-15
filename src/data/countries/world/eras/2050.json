@@ -1,0 +1,209 @@
+{
+  "year": 2050,
+  "country": "world",
+  "title": "Tomorrow, Maybe",
+  "tagline": "A speculative sketch of everyday life, extrapolated from today's trends.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "an imagined household in a mid-sized U.S. city"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.2050.morning.wake-light-sleep-cycle",
+      "time": "6:30 AM",
+      "activity": "Wake on a light sleep cycle",
+      "detail": "A sleep tracker picks the lightest moment within your wake window, and the room lights brighten slowly like a sunrise.",
+      "icon": "WbTwilight"
+    },
+    {
+      "id": "world.2050.morning.briefing-ai-assistant",
+      "time": "6:40 AM",
+      "activity": "Briefing from your AI assistant",
+      "detail": "A personal assistant summarises overnight messages, flags what needs a decision and drafts replies for you to approve.",
+      "icon": "AutoAwesome"
+    },
+    {
+      "id": "world.2050.morning.breakfast-new-proteins",
+      "time": "7:00 AM",
+      "activity": "Breakfast from new proteins",
+      "detail": "Alongside familiar food, plant-based and fermentation-made dairy and meat could be ordinary supermarket items.",
+      "icon": "Restaurant"
+    },
+    {
+      "id": "world.2050.morning.home-runs-stored-sunshine",
+      "time": "7:20 AM",
+      "activity": "Home runs on stored sunshine",
+      "detail": "Rooftop solar, a home battery and a heat pump balance themselves against grid prices before you are awake.",
+      "icon": "SolarPower"
+    },
+    {
+      "id": "world.2050.morning.commute-or-dont",
+      "time": "7:45 AM",
+      "activity": "Commute, or don't",
+      "detail": "An autonomous electric shuttle for office days, or mixed-reality meetings from home for the rest.",
+      "icon": "ElectricCar"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.2050.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "There may be no single front page. News could arrive as a personal feed, summarised by AI, with provenance labels showing where each claim and image came from.",
+      "imageAlt": "A translucent holographic news feed with summary cards and verification badges",
+      "highlights": [
+        "Every story carries a verified-source label",
+        "AI summaries at three reading depths",
+        "Heat-wave and flood alerts by neighbourhood",
+        "Live translation of every outlet in the world"
+      ]
+    },
+    {
+      "id": "world.2050.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedroom",
+      "description": "Adaptive lighting and cooling, lightweight AR glasses on the nightstand instead of a phone, and very few visible screens.",
+      "imageAlt": "A minimal bedroom with soft glowing walls and a pair of AR glasses on the nightstand",
+      "highlights": [
+        "AR glasses replace the phone on the nightstand",
+        "Walls that glow to a sunrise schedule",
+        "Quiet heat-pump cooling for hotter summers",
+        "Sleep data shared only if you allow it"
+      ]
+    },
+    {
+      "id": "world.2050.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Fewer parked cars, more trees and shade, autonomous shuttles, delivery robots on the pavement and quiet electric everything.",
+      "imageAlt": "A leafy street with an autonomous pod shuttle, a delivery robot and cyclists",
+      "highlights": [
+        "Autonomous electric shuttles on demand",
+        "Delivery robots on the pavement",
+        "Former parking lanes turned into trees and bike lanes",
+        "Street lighting that dims when nobody is around"
+      ]
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.2050.prices.loaf-bread-todays-money",
+      "item": "Loaf of bread (in today's money)",
+      "price": "about $3, if crop yields keep pace with heat"
+    },
+    {
+      "id": "world.2050.prices.home-solar-electricity-per",
+      "item": "Home solar electricity, per kWh",
+      "price": "a few cents"
+    },
+    {
+      "id": "world.2050.prices.autonomous-ride-across-town",
+      "item": "Autonomous ride across town",
+      "price": "about $5, if robotaxi costs keep falling"
+    },
+    {
+      "id": "world.2050.prices.lightweight-ar-glasses",
+      "item": "Lightweight AR glasses",
+      "price": "about $300, like a phone today"
+    },
+    {
+      "id": "world.2050.prices.full-genome-sequencing",
+      "item": "Full genome sequencing",
+      "price": "under $100"
+    },
+    {
+      "id": "world.2050.prices.cultivated-meat-burger",
+      "item": "Cultivated-meat burger",
+      "price": "about the same as a beef burger"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.2050.technology.ar-glasses",
+      "name": "AR glasses",
+      "category": "communication",
+      "description": "Glasses that overlay directions, captions and video calls on the world, possibly replacing the smartphone screen."
+    },
+    {
+      "id": "world.2050.technology.personal-ai-agent",
+      "name": "Personal AI agent",
+      "category": "work",
+      "description": "An assistant that books, buys, writes and negotiates on your behalf, within limits you set."
+    },
+    {
+      "id": "world.2050.technology.general-purpose-home-robot",
+      "name": "General-purpose home robot",
+      "category": "home",
+      "description": "A robot that can fold laundry, load the dishwasher and tidy up, the long-promised robot maid finally useful."
+    },
+    {
+      "id": "world.2050.technology.autonomous-electric-vehicles",
+      "name": "Autonomous electric vehicles",
+      "category": "transport",
+      "description": "Shared driverless pods that you summon rather than own, charging themselves overnight."
+    },
+    {
+      "id": "world.2050.technology.brain-computer-interfaces",
+      "name": "Brain–computer interfaces",
+      "category": "communication",
+      "description": "Implants and headsets that restore movement and speech today could become wider-use controllers, if they prove safe."
+    },
+    {
+      "id": "world.2050.technology.holographic-entertainment",
+      "name": "Holographic entertainment",
+      "category": "entertainment",
+      "description": "Volumetric video lets you watch a concert or match as if from any seat in the venue."
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.2050.visions.permanent-settlements-mars-2100",
+      "prediction": "Permanent settlements on Mars by 2100.",
+      "whoSaidIt": "Space agencies and private launch companies",
+      "cameTrue": "unknown"
+    },
+    {
+      "id": "world.2050.visions.atmospheric-carbon-finally-falling",
+      "prediction": "Atmospheric carbon finally falling, with damaged ecosystems recovering.",
+      "whoSaidIt": "Climate scientists and policymakers",
+      "cameTrue": "unknown"
+    },
+    {
+      "id": "world.2050.visions.healthy-lifespans-100-years",
+      "prediction": "Healthy lifespans of 100 years becoming ordinary.",
+      "whoSaidIt": "Longevity researchers",
+      "cameTrue": "unknown"
+    },
+    {
+      "id": "world.2050.visions.three-day-working-week",
+      "prediction": "A three-day working week, with AI doing most routine work.",
+      "whoSaidIt": "Economists, echoing Keynes a century earlier",
+      "cameTrue": "unknown"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.2050.headlines.2050-01-01",
+      "date": "2050-01-01",
+      "headline": "Grid runs on clean power for a full year",
+      "publication": "Imagined news feed",
+      "verbatim": false
+    },
+    {
+      "id": "world.2050.headlines.2050-06-15",
+      "date": "2050-06-15",
+      "headline": "First crewed mission returns from a Mars base rotation",
+      "publication": "Imagined news feed",
+      "verbatim": false
+    },
+    {
+      "id": "world.2050.headlines.2050-09-03",
+      "date": "2050-09-03",
+      "headline": "Cities replace a third of parking lanes with trees",
+      "publication": "Imagined news feed",
+      "verbatim": false
+    }
+  ],
+  "sceneCaption": "A speculative holographic projector, rendering a wireframe Earth."
+}

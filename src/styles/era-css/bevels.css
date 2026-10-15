@@ -1,0 +1,68 @@
+/* 1999: Windows 98 style bevels, title bars and sunken panels. */
+.fx-bevel-out {
+  background: #c0c0c0;
+  box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #ffffff, inset -2px -2px #808080, inset 2px 2px #dfdfdf;
+}
+
+.fx-bevel-in {
+  background: #ffffff;
+  box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px #808080;
+}
+
+.fx-titlebar {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 3px 3px 6px;
+  color: #ffffff;
+  font-weight: 700;
+  background: linear-gradient(90deg, #000080, #1084d0);
+  user-select: none;
+}
+
+.fx-titlebar.is-inactive {
+  background: linear-gradient(90deg, #808080, #b5b5b5);
+  color: #dfdfdf;
+}
+
+.fx-titlebar-button {
+  width: 18px;
+  height: 16px;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  border: 0;
+  background: #c0c0c0;
+  color: #000;
+  font: 700 11px/1 Tahoma, sans-serif;
+  box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #ffffff, inset -2px -2px #808080, inset 2px 2px #dfdfdf;
+  cursor: pointer;
+}
+
+.fx-titlebar-button:active {
+  box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px #808080;
+}
+
+.fx-titlebar-button:focus-visible {
+  outline: 1px dotted #000;
+  outline-offset: -4px;
+}
+
+/* Chunky pixel scrollbars inside 98 windows. */
+.fx-win-scroll {
+  scrollbar-color: #808080 #dfdfdf;
+}
+
+.fx-win-scroll::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
+
+.fx-win-scroll::-webkit-scrollbar-track {
+  background: repeating-conic-gradient(#c0c0c0 0 25%, #ffffff 0 50%) 0 0 / 2px 2px;
+}
+
+.fx-win-scroll::-webkit-scrollbar-thumb {
+  background: #c0c0c0;
+  box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #ffffff, inset -2px -2px #808080, inset 2px 2px #dfdfdf;
+}

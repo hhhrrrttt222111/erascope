@@ -1,0 +1,81 @@
+/* Texture layers for the drag-time morph overlay. Their opacity is driven per frame by slider position. */
+.fx-morph-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.fx-morph-1920 {
+  background-image: radial-gradient(circle, rgba(28, 25, 21, 0.28) 1px, transparent 1.6px);
+  background-size: 5px 5px;
+}
+
+.fx-morph-1960 {
+  background-image:
+    radial-gradient(rgba(15, 110, 110, 0.35) 3px, transparent 3.5px),
+    radial-gradient(rgba(217, 130, 43, 0.35) 3px, transparent 3.5px);
+  background-size: 64px 64px, 64px 64px;
+  background-position: 0 0, 32px 32px;
+}
+
+.fx-morph-1999 {
+  background:
+    linear-gradient(90deg, #000080, #1084d0) top / 100% 28px no-repeat,
+    repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0.12) 0 1px, transparent 1px 3px);
+}
+
+.fx-morph-2010 {
+  background: linear-gradient(#3b5998, #3b5998) top / 100% 48px no-repeat;
+}
+
+.fx-morph-2050 {
+  background:
+    radial-gradient(40vw 40vw at 20% 20%, rgba(34, 228, 255, 0.25), transparent 60%),
+    radial-gradient(40vw 40vw at 80% 70%, rgba(255, 79, 216, 0.22), transparent 60%),
+    linear-gradient(rgba(34, 228, 255, 0.07) 1px, transparent 1px) 0 0 / 48px 48px,
+    linear-gradient(90deg, rgba(34, 228, 255, 0.07) 1px, transparent 1px) 0 0 / 48px 48px;
+}
+
+.fx-morph-1900 {
+  background-image: radial-gradient(rgba(127, 148, 113, 0.45) 1.5px, transparent 2px);
+  background-size: 22px 22px;
+}
+
+.fx-morph-1930 {
+  background: repeating-conic-gradient(from -90deg at 50% 110%, rgba(212, 175, 55, 0.35) 0 4deg, transparent 4deg 10deg);
+}
+
+.fx-morph-1945 {
+  background-image:
+    repeating-linear-gradient(90deg, rgba(35, 32, 23, 0.25) 0 6px, transparent 6px 12px),
+    repeating-linear-gradient(0deg, rgba(35, 32, 23, 0.25) 0 6px, transparent 6px 12px);
+  background-size: 100% 2px, 2px 100%;
+  background-position: 0 33%, 33% 0;
+}
+
+.fx-morph-1970 {
+  background: linear-gradient(180deg, transparent 0 60%, rgba(199, 91, 18, 0.55) 60% 68%, rgba(242, 199, 92, 0.55) 68% 76%, rgba(107, 122, 42, 0.55) 76% 84%, transparent 84%);
+}
+
+.fx-morph-1984 {
+  background: repeating-linear-gradient(to bottom, rgba(51, 255, 102, 0.12) 0 1px, transparent 1px 3px);
+}
+
+.fx-morph-1995 {
+  background-image:
+    linear-gradient(45deg, rgba(255, 255, 255, 0.25) 25%, transparent 25%, transparent 75%, rgba(255, 255, 255, 0.25) 75%),
+    linear-gradient(45deg, rgba(255, 255, 255, 0.25) 25%, transparent 25%, transparent 75%, rgba(255, 255, 255, 0.25) 75%);
+  background-size: 24px 24px;
+  background-position: 0 0, 12px 12px;
+}
+
+.fx-morph-2005 {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.55) 0, rgba(255, 255, 255, 0.1) 30%, transparent 31%);
+}
+
+.fx-morph-2020 {
+  background-image:
+    linear-gradient(rgba(139, 124, 246, 0.25) 2px, transparent 2px),
+    linear-gradient(90deg, rgba(139, 124, 246, 0.25) 2px, transparent 2px);
+  background-size: 50% 50%;
+}

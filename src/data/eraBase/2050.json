@@ -1,0 +1,23 @@
+{
+  "year": 2050,
+  "speculative": true,
+  "theme": {
+    "chrome": "futureos",
+    "transition": "glitch",
+    "palette": {
+      "primary": "#22e4ff",
+      "secondary": "#ff4fd8",
+      "background": "#05060f",
+      "paper": "#0d1024",
+      "text": "#e8ecff"
+    },
+    "fonts": {
+      "heading": "Orbitron",
+      "body": "Inter"
+    },
+    "sound": "whoosh"
+  },
+  "scene": {
+    "component": "Hologram2050"
+  }
+}

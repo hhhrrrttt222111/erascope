@@ -1,0 +1,257 @@
+{
+  "year": 2020,
+  "country": "in",
+  "title": "India, 2020",
+  "tagline": "A pandemic year: the first case, the lockdown and a vaccine candidate.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in India (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.2020.morning.lockdown",
+      "time": "Morning",
+      "activity": "Staying home",
+      "detail": "On the evening of 24 March 2020 the government ordered a 21-day nationwide lockdown limiting the movement of about 1.38 billion people.",
+      "icon": "Home",
+      "source": {
+        "label": "Wikipedia: COVID-19 lockdown in India",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.morning.app",
+      "time": "Morning",
+      "activity": "A contact-tracing app",
+      "detail": "Aarogya Setu, a COVID-19 contact-tracing and self-assessment app, was launched by the Government of India on 2 April 2020.",
+      "icon": "Smartphone",
+      "source": {
+        "label": "Business Today, 28 October 2020: 'Aarogya Setu made with industry, academia': Centre clarifies after RTI",
+        "url": "https://www.businesstoday.in/amp/latest/economy-politics/story/aarogya-setu-jointly-developed-with-industry-academia-centre-clarifies-after-rti-opens-can-of-worms-276887-2020-10-28",
+        "accessed": "2026-10-14",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.morning.chess",
+      "time": "Afternoon",
+      "activity": "Chess online",
+      "detail": "India and Russia shared gold at the FIDE Online Chess Olympiad, held between 24 July and 30 August 2020 on Chess.com.",
+      "icon": "SportsEsports",
+      "source": {
+        "label": "Wikipedia: FIDE Online Chess Olympiad 2020",
+        "url": "https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.morning.film",
+      "time": "Evening",
+      "activity": "Films at home",
+      "detail": "Dil Bechara, with Sushant Singh Rajput, was released in 2020 after the actor's death.",
+      "icon": "Movie",
+      "source": {
+        "label": "Wikipedia: Dil Bechara",
+        "url": "https://en.wikipedia.org/wiki/Dil_Bechara",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.2020.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "India confirms its first COVID-19 case in Kerala (2020-01-30).",
+      "imageAlt": "A mobile news feed with a headline card and a chart",
+      "highlights": [
+        "India confirms its first COVID-19 case in Kerala"
+      ],
+      "source": {
+        "label": "Wikipedia: COVID-19 lockdown in India",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.2020.places.bedroom",
+      "kind": "bedroom",
+      "title": "At home, online",
+      "description": "India and Russia shared gold at the online FIDE Olympiad held between 24 July and 30 August 2020 on Chess.com.",
+      "imageAlt": "A bedroom with a laptop on a desk and a face mask on a hook",
+      "highlights": [
+        "FIDE Online Chess Olympiad"
+      ],
+      "source": {
+        "label": "Wikipedia: FIDE Online Chess Olympiad 2020",
+        "url": "https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Aarogya Setu: Aarogya Setu, a COVID-19 contact-tracing, syndromic-mapping and self-assessment app for Android and iOS, was launched on 2 April 2020; its website credits the National Informatics Centre and the IT ministry, though both said in an RTI reply in October 2020 that they did not know who had developed it.",
+      "imageAlt": "An empty city road with a closed shop shutter",
+      "highlights": [
+        "Aarogya Setu"
+      ],
+      "source": {
+        "label": "Wikipedia: Aarogya Setu",
+        "url": "https://en.wikipedia.org/wiki/Aarogya_Setu",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.2020.prices.exchange",
+      "item": "Rupees to the US dollar (annual average)",
+      "price": "Rs 74.10",
+      "originalUnits": "official rate, rupees per US dollar",
+      "source": {
+        "label": "World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)",
+        "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.prices.inflation",
+      "item": "Consumer price inflation",
+      "price": "6.6% in the year",
+      "originalUnits": "per cent, annual",
+      "source": {
+        "label": "World Bank, World Development Indicators: Inflation, consumer prices (annual %)",
+        "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.prices.output",
+      "item": "Output per person (GDP per capita)",
+      "price": "Rs 141,550 a year",
+      "originalUnits": "current rupees per person per year",
+      "source": {
+        "label": "World Bank, World Development Indicators: GDP per capita (current LCU)",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.2020.technology.aarogya",
+      "name": "Aarogya Setu",
+      "category": "communication",
+      "description": "Aarogya Setu, a COVID-19 contact-tracing, syndromic-mapping and self-assessment app for Android and iOS, was launched on 2 April 2020; its website credits the National Informatics Centre and the IT ministry, though both said in an RTI reply in October 2020 that they did not know who had developed it.",
+      "source": {
+        "label": "Wikipedia: Aarogya Setu",
+        "url": "https://en.wikipedia.org/wiki/Aarogya_Setu",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.technology.covaxin",
+      "name": "Covaxin",
+      "category": "home",
+      "description": "Covaxin (BBV152), a whole inactivated virus vaccine, was developed by Bharat Biotech in collaboration with the Indian Council of Medical Research and the National Institute of Virology.",
+      "source": {
+        "label": "Wikipedia: Covaxin",
+        "url": "https://en.wikipedia.org/wiki/Covaxin",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.technology.online-chess",
+      "name": "Online chess Olympiad",
+      "category": "entertainment",
+      "description": "India and Russia shared gold at the online Olympiad, held between 24 July and 30 August 2020 on Chess.com; Viswanathan Anand, Vidit Gujrathi, Koneru Humpy and Harika Dronavalli were in India's team.",
+      "source": {
+        "label": "Wikipedia: FIDE Online Chess Olympiad 2020",
+        "url": "https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.2020.headlines.first-case",
+      "date": "2020-01-30",
+      "headline": "India confirms its first COVID-19 case in Kerala",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: COVID-19 lockdown in India",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.headlines.lockdown",
+      "date": "2020-03-24",
+      "headline": "A 21-day nationwide lockdown is ordered",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: COVID-19 lockdown in India",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2020.headlines.galwan",
+      "date": "2020-06-16",
+      "headline": "Twenty Indian soldiers are killed in a clash at Galwan Valley",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2020 in India",
+        "url": "https://en.wikipedia.org/wiki/2020_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "A laptop, as in the World view.",
+  "notes": {
+    "prices": "Only prices that could be read from a source are shown; none was found for the others. Items that could not be verified were removed.",
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed.",
+    "technology": "Only sourced entries are shown. Items that could not be verified were removed."
+  }
+}

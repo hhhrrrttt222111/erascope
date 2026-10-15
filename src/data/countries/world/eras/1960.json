@@ -1,0 +1,324 @@
+{
+  "year": 1960,
+  "country": "world",
+  "title": "The Television Sixties",
+  "tagline": "Suburbs, tail fins and a television in most living rooms.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a suburban family outside Chicago"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1960.morning.morning-tv-news",
+      "time": "7:00 AM",
+      "activity": "Morning TV news",
+      "detail": "Breakfast-time television in black and white: morning shows had been on the air since 1952, and about 46 million households owned a set.",
+      "icon": "Tv",
+      "source": {
+        "label": "Wikipedia: Today (American TV program)",
+        "url": "https://en.wikipedia.org/wiki/Today_(American_TV_program)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.morning.drive-suburbs",
+      "time": "7:45 AM",
+      "activity": "Drive in from the suburbs",
+      "detail": "Gasoline averaged about 31 cents a gallon and 74 million motor vehicles were on the road, so suburban families drove to work.",
+      "icon": "DirectionsCar",
+      "source": {
+        "label": "U.S. Energy Information Administration, Annual Energy Review, Table 5.24: Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949–2011",
+        "url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1960.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "The Cold War, civil rights and the Kennedy–Nixon election, with the first televised presidential debates, dominated the news.",
+      "imageAlt": "A mid-century newspaper front page with a large photo and bold sans-serif headlines",
+      "highlights": [
+        "Kennedy and Nixon meet in televised debates",
+        "Kennedy narrowly wins the presidency",
+        "Greensboro lunch-counter sit-ins begin",
+        "U-2 spy plane shot down over the Soviet Union"
+      ],
+      "source": {
+        "label": "Wikipedia: 1960 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "About 45.75 million US households had a television set in 1960.",
+      "imageAlt": "A mid-century bedroom with a low wooden bed, patterned bedspread and a small transistor radio",
+      "highlights": [
+        "45.75 million television households"
+      ],
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series R 93-105: households with radio and television",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf",
+        "accessed": "2026-10-15",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1960.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "73,857,768 motor vehicles were registered in the United States in 1960.",
+      "imageAlt": "A suburban street with a long finned car parked outside a ranch-style house",
+      "highlights": [
+        "73,857,768 registered motor vehicles"
+      ],
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1960.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.04",
+      "adjusted2026": "about $0.45",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour)",
+      "price": "$1.00",
+      "adjusted2026": "about $11",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.prices.loaf-bread-1-lb",
+      "item": "Bread (1 lb, city average)",
+      "price": "20.3¢",
+      "adjusted2026": "about $2.30",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.prices.gallon-gasoline",
+      "item": "Gallon of regular gasoline",
+      "price": "31.1¢",
+      "adjusted2026": "about $3.52",
+      "source": {
+        "label": "U.S. Energy Information Administration, Annual Energy Review, Table 5.24: Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949–2011",
+        "url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.prices.eggs-dozen",
+      "item": "Eggs (dozen, city average)",
+      "price": "57.3¢",
+      "adjusted2026": "about $6.49",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.prices.milk-half-gallon",
+      "item": "Milk, delivered (half gallon, city average)",
+      "price": "52¢",
+      "adjusted2026": "about $5.89",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.prices.long-distance-call-new-york",
+      "item": "3-minute daytime call, New York to San Francisco",
+      "price": "$2.25",
+      "adjusted2026": "about $25",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series R 13–16: telephone toll rates from New York City",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1960.technology.rotary-dial-telephone",
+      "name": "Rotary-dial telephone",
+      "category": "communication",
+      "description": "A heavy desk phone in about 78% of homes. Long distance was expensive: three daytime minutes from New York to San Francisco cost $2.25.",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series R 13–16: telephone toll rates from New York City",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.technology.family-car",
+      "name": "The family car",
+      "category": "transport",
+      "description": "Big and heavy, with bench seats; 74 million motor vehicles were registered and gasoline cost about 31 cents a gallon.",
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.technology.mainframe-computer",
+      "name": "Mainframe computer",
+      "category": "work",
+      "description": "Room-sized machines fed with punched cards; new business models announced in late 1959 brought them to banks, insurers and government offices.",
+      "source": {
+        "label": "Wikipedia: IBM 1401",
+        "url": "https://en.wikipedia.org/wiki/IBM_1401",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1960.visions.people-computers-work-together",
+      "prediction": "People and computers will soon work together in real time, the computer handling routine work while the person sets goals and judges results.",
+      "whoSaidIt": "J. C. R. Licklider, \"Man-Computer Symbiosis\", IRE Transactions on Human Factors in Electronics, March 1960",
+      "cameTrue": "yes",
+      "note": "Interactive computing, from time-sharing to personal computers, grew out of research he later funded.",
+      "source": {
+        "label": "Wikipedia: J. C. R. Licklider",
+        "url": "https://en.wikipedia.org/wiki/J._C._R._Licklider",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.visions.doomsday-population-infinity",
+      "prediction": "If human population keeps growing as it has for two thousand years, it will approach infinity on Friday, 13 November 2026.",
+      "whoSaidIt": "Heinz von Foerster and colleagues, \"Doomsday: Friday, 13 November, A.D. 2026\", Science, November 1960",
+      "cameTrue": "no",
+      "note": "Growth slowed instead: the world passed 8 billion people in November 2022, and the date is only weeks away.",
+      "source": {
+        "label": "Wikipedia: Heinz von Foerster",
+        "url": "https://en.wikipedia.org/wiki/Heinz_von_Foerster",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.visions.apollo-astronauts-around-moon",
+      "prediction": "A new three-person spacecraft, Apollo, will carry astronauts on flights such as a trip around the Moon.",
+      "whoSaidIt": "NASA, announcing the Apollo program to industry, July 1960",
+      "cameTrue": "yes",
+      "note": "Apollo 8 circled the Moon in December 1968 and Apollo 11 landed in July 1969.",
+      "source": {
+        "label": "Wikipedia: Apollo program",
+        "url": "https://en.wikipedia.org/wiki/Apollo_program",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1960.headlines.1960-02-01",
+      "date": "1960-02-01",
+      "headline": "Students begin sit-in at segregated Greensboro lunch counter",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1960 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.headlines.1960-09-26",
+      "date": "1960-09-26",
+      "headline": "Kennedy and Nixon face off in the first presidential debate",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1960 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1960.headlines.1960-11-08",
+      "date": "1960-11-08",
+      "headline": "Kennedy defeats Nixon for the presidency",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1960 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "The family television set, tuned to static between stations.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "technology": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

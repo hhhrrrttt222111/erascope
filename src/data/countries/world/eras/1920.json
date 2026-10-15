@@ -1,0 +1,350 @@
+{
+  "year": 1920,
+  "country": "world",
+  "title": "The Roaring Twenties",
+  "tagline": "Electric light, the wireless and the motor car arrive in the American home.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a middle-class family in a northern industrial city"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1920.morning.wind-up-alarm-clock",
+      "time": "6:00 AM",
+      "activity": "The wind-up alarm clock rings",
+      "detail": "A mechanical bell clock on the nightstand, wound by hand the night before. Forget to wind it and you oversleep.",
+      "icon": "Alarm",
+      "source": {
+        "label": "Wikipedia: Alarm clock",
+        "url": "https://en.wikipedia.org/wiki/Alarm_clock",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.morning.shave-wash-up",
+      "time": "6:30 AM",
+      "activity": "Shave and wash up",
+      "detail": "A safety razor with throwaway double-edged blades, the kind issued to American soldiers in the war, and a basin of hot water from the kettle.",
+      "icon": "Face",
+      "source": {
+        "label": "Wikipedia: Safety razor",
+        "url": "https://en.wikipedia.org/wiki/Safety_razor",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.morning.catch-streetcar",
+      "time": "7:40 AM",
+      "activity": "Catch the streetcar",
+      "detail": "Electric streetcars ran down the middle of city streets. Cars were spreading fast, but there was only about one motor vehicle for every 11 Americans.",
+      "icon": "Tram",
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1920.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Broadsheets packed narrow columns with stacked headlines. In 1920 the big stories included Prohibition, women winning the vote, and KDKA's radio broadcast of the election returns, often cited as the start of commercial radio.",
+      "imageAlt": "A dense broadsheet front page with stacked headlines and narrow columns of text",
+      "highlights": [
+        "Prohibition begins nationwide in January",
+        "19th Amendment: women win the vote",
+        "KDKA Pittsburgh broadcasts election returns by radio",
+        "Harding elected president"
+      ],
+      "source": {
+        "label": "Wikipedia: 1920 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1920_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.places.bedroom",
+      "kind": "bedroom",
+      "title": "The home",
+      "description": "About 34.7% of US dwellings had electric service in 1920.",
+      "imageAlt": "A simple bedroom with an iron bed, a wind-up alarm clock and a bare light bulb",
+      "highlights": [
+        "34.7% of dwellings with electric service"
+      ],
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series S 108-119: dwellings with electric service",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chS.pdf",
+        "accessed": "2026-10-15",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1920.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "9,239,161 motor vehicles were registered in the United States in 1920.",
+      "imageAlt": "A city street with a boxy early automobile, a streetcar and a lamp post",
+      "highlights": [
+        "9,239,161 registered motor vehicles"
+      ],
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1920.prices.loaf-bread-1-lb",
+      "item": "Bread (1 lb, city average)",
+      "price": "11.5¢",
+      "adjusted2026": "about $1.92",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.02",
+      "adjusted2026": "about $0.33",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.prices.ford-model-t-runabout",
+      "item": "Ford Model T runabout",
+      "price": "$550 in March, cut to $395 by September",
+      "adjusted2026": "about $9,200–$6,600",
+      "source": {
+        "label": "Wikipedia: Ford Model T",
+        "url": "https://en.wikipedia.org/wiki/Ford_Model_T",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.prices.quart-milk-delivered",
+      "item": "Milk, delivered (half gallon, city average)",
+      "price": "33.4¢",
+      "adjusted2026": "about $5.58",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.prices.eggs-dozen",
+      "item": "Eggs (dozen, city average)",
+      "price": "68.1¢",
+      "adjusted2026": "about $11",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.prices.sugar-5lb",
+      "item": "Sugar (5 lb, city average)",
+      "price": "97¢",
+      "adjusted2026": "about $16",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1920.technology.broadcast-radio",
+      "name": "Broadcast radio",
+      "category": "entertainment",
+      "description": "KDKA in Pittsburgh traces its beginning to its broadcast of the Harding–Cox election returns on November 2, 1920. Early listeners used headphones and crystal sets.",
+      "source": {
+        "label": "Wikipedia: KDKA (AM)",
+        "url": "https://en.wikipedia.org/wiki/KDKA_(AM)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.technology.ford-model-t",
+      "name": "Ford Model T",
+      "category": "transport",
+      "description": "Built on Ford's moving assembly line; by late 1920 the runabout cost $395, within reach of many working families.",
+      "source": {
+        "label": "Wikipedia: Ford Model T",
+        "url": "https://en.wikipedia.org/wiki/Ford_Model_T",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.technology.candlestick-telephone",
+      "name": "Candlestick telephone",
+      "category": "communication",
+      "description": "An upright mouthpiece with a separate earpiece on a hook. About 35 in 100 homes had a telephone, and most calls went through a switchboard operator.",
+      "source": {
+        "label": "Wikipedia: Candlestick telephone",
+        "url": "https://en.wikipedia.org/wiki/Candlestick_telephone",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.technology.electric-iron-vacuum-cleaner",
+      "name": "Electric iron and vacuum cleaner",
+      "category": "home",
+      "description": "About a third of homes had electricity in 1920. In those that did, electric irons and vacuum cleaners began replacing flat irons heated on the stove and carpet beaters.",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series S 108–119: dwellings with electric service",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chS.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.technology.manual-typewriter",
+      "name": "Manual typewriter",
+      "category": "work",
+      "description": "The office workhorse. Copies were made with carbon paper.",
+      "source": {
+        "label": "Wikipedia: Typewriter",
+        "url": "https://en.wikipedia.org/wiki/Typewriter",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1920.visions.factories-will-be-run",
+      "prediction": "Factories will be run by artificial workers called robots.",
+      "whoSaidIt": "Karel Čapek, in the play R.U.R. (published 1920), which introduced the word \"robot\"",
+      "cameTrue": "partly",
+      "note": "About 4.3 million industrial robots worked in factories in 2023, but as machines, not humanlike workers.",
+      "source": {
+        "label": "Wikipedia: R.U.R.",
+        "url": "https://en.wikipedia.org/wiki/R.U.R.",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.visions.prohibition-will-end-drinking",
+      "prediction": "With Prohibition, \"we have removed the temptation by law\": the saloon is gone and men will no longer be led into drink.",
+      "whoSaidIt": "Billy Sunday, evangelist, \"Death of John Barleycorn\" sermon, Norfolk, Virginia, 15 January 1920",
+      "cameTrue": "no",
+      "note": "Drinking went on in speakeasies, and the 21st Amendment repealed Prohibition on 5 December 1933.",
+      "source": {
+        "label": "Scan: The Laurens Advertiser (Laurens, S.C.), 18 February 1920, image 13, reprinting the Norfolk Ledger-Dispatch account of Billy Sunday's 15 January 1920 sermon (Historical Newspapers of South Carolina)",
+        "url": "https://historicnewspapers.sc.edu/lccn/sn93067760/1920-02-18/ed-1/seq-13/",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.visions.rocket-could-not-work-vacuum",
+      "prediction": "A rocket could never work in the vacuum of space, so Robert Goddard's idea of reaching the Moon was nonsense.",
+      "whoSaidIt": "The New York Times, editorial \"A Severe Strain on Credulity\", 13 January 1920",
+      "cameTrue": "no",
+      "note": "Rockets work in a vacuum. On 17 July 1969, during Apollo 11, the Times printed \"A Correction\".",
+      "source": {
+        "label": "Wikipedia: Robert H. Goddard (section on the New York Times editorial)",
+        "url": "https://en.wikipedia.org/wiki/Robert_H._Goddard",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1920.headlines.1920-01-17",
+      "date": "1920-01-17",
+      "headline": "Prohibition takes effect nationwide",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1920 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1920_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.headlines.1920-08-26",
+      "date": "1920-08-26",
+      "headline": "19th Amendment adopted, guaranteeing women's suffrage",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "National Archives: 19th Amendment to the U.S. Constitution: Women's Right to Vote (1920)",
+        "url": "https://www.archives.gov/milestone-documents/19th-amendment",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1920.headlines.1920-11-02",
+      "date": "1920-11-02",
+      "headline": "Harding elected president; KDKA broadcasts the returns",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: KDKA (AM)",
+        "url": "https://en.wikipedia.org/wiki/KDKA_(AM)",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "An early wooden radio receiver. Broadcasting had only just begun, and most listeners were hobbyists wearing headphones.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

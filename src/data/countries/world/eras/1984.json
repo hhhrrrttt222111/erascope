@@ -1,0 +1,324 @@
+{
+  "year": 1984,
+  "country": "world",
+  "title": "The Home Computer Arrives",
+  "tagline": "Beige computers, cassette tapes and a phone the size of a brick.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a teenager in a suburban family with a new home computer"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1984.morning.type-basic-program",
+      "time": "6:45 AM",
+      "activity": "Type in a BASIC program",
+      "detail": "Home computers like the Commodore 64, launched in 1982 at $595, started straight into BASIC.",
+      "icon": "Computer",
+      "source": {
+        "label": "Wikipedia: Commodore 64",
+        "url": "https://en.wikipedia.org/wiki/Commodore_64",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.morning.walkman-bus",
+      "time": "7:40 AM",
+      "activity": "Walkman on the bus",
+      "detail": "The Walkman personal cassette player, on sale since 1979, made music personal and portable.",
+      "icon": "Headphones",
+      "source": {
+        "label": "Wikipedia: Walkman",
+        "url": "https://en.wikipedia.org/wiki/Walkman",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1984.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "1984 brought a new kind of computer, the break-up of the national phone monopoly and the Los Angeles Olympics.",
+      "imageAlt": "A 1984 front page about a new computer and the Olympic Games",
+      "highlights": [
+        "Apple introduces the Macintosh",
+        "The Bell System is broken up",
+        "Los Angeles hosts the Summer Olympics",
+        "Reagan re-elected in a landslide"
+      ],
+      "source": {
+        "label": "Wikipedia: 1984 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedroom",
+      "description": "Apple Macintosh: Released January 24, 1984, at $2,495, with a mouse and a graphical desktop.",
+      "imageAlt": "A 1980s teenager's bedroom with a TV, a home computer and a joystick",
+      "highlights": [
+        "Apple Macintosh"
+      ],
+      "source": {
+        "label": "Wikipedia: Macintosh 128K",
+        "url": "https://en.wikipedia.org/wiki/Macintosh_128K",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1984.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "166,248,816 motor vehicles were registered in the United States in 1984.",
+      "imageAlt": "A 1980s street with a boxy hatchback and a neon arcade sign",
+      "highlights": [
+        "166,248,816 registered motor vehicles"
+      ],
+      "source": {
+        "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: State Motor Vehicle Registrations, 1900–1995",
+        "url": "https://www.fhwa.dot.gov/ohim/summary95/mv200.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1984.prices.loaf-white-bread-1",
+      "item": "Loaf of white bread (1 lb)",
+      "price": "$0.54",
+      "adjusted2026": "about $1.74",
+      "source": {
+        "label": "BLS average price, white bread per lb (series APU0000702111), 1984 annual average of monthly data, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000702111",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.prices.gallon-unleaded-gasoline",
+      "item": "Gallon of unleaded gasoline",
+      "price": "$1.21",
+      "adjusted2026": "about $3.90",
+      "source": {
+        "label": "BLS average price, unleaded regular gasoline per gallon (series APU000074714), 1984 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU000074714",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.prices.dozen-eggs",
+      "item": "Dozen eggs",
+      "price": "$1.01",
+      "adjusted2026": "about $3.26",
+      "source": {
+        "label": "BLS average price, eggs, grade A large, per dozen (series APU0000708111), 1984 annual average, via FRED",
+        "url": "https://fred.stlouisfed.org/series/APU0000708111",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.20",
+      "adjusted2026": "about $0.64",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour)",
+      "price": "$3.35",
+      "adjusted2026": "about $11",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.prices.apple-macintosh-launch-price",
+      "item": "Apple Macintosh (launch price)",
+      "price": "$2,495",
+      "adjusted2026": "about $8,000",
+      "source": {
+        "label": "Wikipedia: Macintosh 128K",
+        "url": "https://en.wikipedia.org/wiki/Macintosh_128K",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1984.technology.apple-macintosh",
+      "name": "Apple Macintosh",
+      "category": "work",
+      "description": "Released January 24, 1984, at $2,495, with a mouse and a graphical desktop.",
+      "source": {
+        "label": "Wikipedia: Macintosh 128K",
+        "url": "https://en.wikipedia.org/wiki/Macintosh_128K",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.technology.commodore-64",
+      "name": "Commodore 64",
+      "category": "home",
+      "description": "Listed by Guinness as the best-selling desktop computer model of all time; launched in 1982 at $595.",
+      "source": {
+        "label": "Wikipedia: Commodore 64",
+        "url": "https://en.wikipedia.org/wiki/Commodore_64",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.technology.motorola-dynatac-8000x",
+      "name": "Motorola DynaTAC 8000X",
+      "category": "communication",
+      "description": "The first handheld cellular phone on sale, the size of a brick, became widely available in April 1984.",
+      "source": {
+        "label": "Wikipedia: DynaTAC",
+        "url": "https://en.wikipedia.org/wiki/DynaTAC",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.technology.walkman",
+      "name": "Walkman",
+      "category": "entertainment",
+      "description": "A personal cassette player with headphones, on sale since 1979.",
+      "source": {
+        "label": "Wikipedia: Walkman",
+        "url": "https://en.wikipedia.org/wiki/Walkman",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1984.visions.people-will-spend-part",
+      "prediction": "Cyberspace: \"a consensual hallucination experienced daily by billions of legitimate operators, in every nation.\"",
+      "whoSaidIt": "William Gibson, Neuromancer (published July 1, 1984)",
+      "cameTrue": "partly",
+      "note": "The novel popularised \"cyberspace\"; the internet and online communities followed.",
+      "source": {
+        "label": "Computing History (UK): Novelist William Gibson invents the term cyberspace",
+        "url": "http://www.computinghistory.org.uk/det/5950/Novelist%20William%20Gibson%20invents%20the%20term%20cyberspace",
+        "accessed": "2026-10-15",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1984.visions.touchscreens-everyday-computers",
+      "prediction": "Touch screens and compact discs will become everyday ways to use and store information, with computers in kiosks and in the hands of children.",
+      "whoSaidIt": "Nicholas Negroponte, talk at the first TED conference, February 1984",
+      "cameTrue": "yes",
+      "note": "Touchscreen phones, CD-ROMs and service kiosks all arrived, as TED's own summary of the talk notes.",
+      "source": {
+        "label": "TED: Nicholas Negroponte, \"5 predictions, from 1984\" (TED1984, February 1984)",
+        "url": "https://www.ted.com/talks/nicholas_negroponte_5_predictions_from_1984",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.visions.information-wants-free",
+      "prediction": "Information wants to be free, because the cost of getting it out is getting lower and lower all the time.",
+      "whoSaidIt": "Stewart Brand, at the first Hackers Conference, 1984",
+      "cameTrue": "yes",
+      "note": "Copying and sending information now costs almost nothing, though the fight over paying for it never went away.",
+      "source": {
+        "label": "Campus Technology, May 2005: 'Information wants to be free' (quotes Brand at the 1984 Hackers' Conference)",
+        "url": "https://campustechnology.com/articles/2005/05/information-wants-to-be-free.aspx",
+        "accessed": "2026-10-15",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1984.headlines.1984-01-01",
+      "date": "1984-01-01",
+      "headline": "The Bell System is broken up",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1984 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.headlines.1984-01-24",
+      "date": "1984-01-24",
+      "headline": "Apple's Macintosh goes on sale",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Macintosh 128K",
+        "url": "https://en.wikipedia.org/wiki/Macintosh_128K",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1984.headlines.1984-11-06",
+      "date": "1984-11-06",
+      "headline": "Reagan re-elected, defeating Mondale",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1984 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A 5.25-inch floppy disk sliding into its drive.",
+  "notes": {
+    "morningRoutine": "Only entries that could be checked against a source are shown. Items that could not be verified were removed.",
+    "technology": "Only entries that could be checked against a source are shown. Items that could not be verified were removed."
+  }
+}

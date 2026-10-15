@@ -1,0 +1,891 @@
+{
+  "country": "in",
+  "year": 2020,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 2020",
+    "summary": "Highlights of this year's checked items: The nationwide lockdown; Galwan Valley clash; Covaxin; FIDE Online Chess Olympiad; National Education Policy 2020; The farmers' protests begin.",
+    "sources": [
+      {
+        "label": "Wikipedia: 2020 in India",
+        "url": "https://en.wikipedia.org/wiki/2020_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: COVID-19 lockdown in India",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: COVID-19 pandemic in India",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: 2020–2021 China–India skirmishes",
+        "url": "https://en.wikipedia.org/wiki/2020–2021_China–India_skirmishes",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.2020.dd.freedom-history.lockdown",
+    "in.2020.dd.freedom-history.galwan",
+    "in.2020.dd.technology-science.covaxin",
+    "in.2020.dd.sports.online-olympiad",
+    "in.2020.dd.government-politics.nep-2020",
+    "in.2020.dd.freedom-history.farm-protests"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "In this section: Aarogya Setu; Covaxin.",
+      "items": [
+        {
+          "id": "in.2020.dd.technology-science.aarogya-setu",
+          "kind": "tech",
+          "title": "Aarogya Setu",
+          "summary": "Aarogya Setu, a COVID-19 contact-tracing, syndromic-mapping and self-assessment app for Android and iOS, was launched on 2 April 2020; its website credits the National Informatics Centre and the IT ministry, though both said in an RTI reply in October 2020 that they did not know who had developed it.",
+          "availability": "widespread",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Aarogya Setu",
+              "url": "https://en.wikipedia.org/wiki/Aarogya_Setu",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Business Today, 28 October 2020: 'Aarogya Setu made with industry, academia': Centre clarifies after RTI",
+              "url": "https://www.businesstoday.in/amp/latest/economy-politics/story/aarogya-setu-jointly-developed-with-industry-academia-centre-clarifies-after-rti-opens-can-of-worms-276887-2020-10-28",
+              "accessed": "2026-10-14",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-14"
+        },
+        {
+          "id": "in.2020.dd.technology-science.covaxin",
+          "kind": "tech",
+          "title": "Covaxin",
+          "summary": "Covaxin (BBV152), a whole inactivated virus vaccine, was developed by Bharat Biotech in collaboration with the Indian Council of Medical Research and the National Institute of Virology.",
+          "availability": "lab-or-official",
+          "regionTag": "south",
+          "place": "Hyderabad",
+          "sources": [
+            {
+              "label": "Wikipedia: Covaxin",
+              "url": "https://en.wikipedia.org/wiki/Covaxin",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow"
+      },
+      "scarcityNote": "Only 2 items for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "In this section: President: Ram Nath Kovind; Prime Minister: Narendra Modi; National Education Policy 2020.",
+      "items": [
+        {
+          "id": "in.2020.dd.government-politics.president-kovind",
+          "kind": "governance",
+          "title": "President: Ram Nath Kovind",
+          "summary": "Ram Nath Kovind was President of India in 2020, with Venkaiah Naidu as Vice-President and S. A. Bobde as Chief Justice.",
+          "office": "President of India",
+          "holder": "Ram Nath Kovind",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Ram Nath Kovind",
+              "url": "https://en.wikipedia.org/wiki/Ram_Nath_Kovind",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.government-politics.pm-modi",
+          "kind": "governance",
+          "title": "Prime Minister: Narendra Modi",
+          "summary": "Narendra Modi was Prime Minister, with Om Birla as Speaker of the Lok Sabha and Bipin Rawat as Chief of Defence Staff.",
+          "office": "Prime Minister of India",
+          "holder": "Narendra Modi",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Narendra Modi",
+              "url": "https://en.wikipedia.org/wiki/Narendra_Modi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.government-politics.nep-2020",
+          "kind": "governance",
+          "title": "National Education Policy 2020",
+          "summary": "The Union Cabinet approved the National Education Policy on 29 July 2020, replacing the policy of 1986; it keeps the mother tongue as the medium of instruction till Grade 5 and recommends a three-language formula.",
+          "instrument": "National Education Policy, 2020",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: National Education Policy 2020",
+              "url": "https://en.wikipedia.org/wiki/National_Education_Policy_2020",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "Ram Nath Kovind",
+            "role": "Head of state; Vice-President Venkaiah Naidu",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "Narendra Modi",
+                "role": "Head of government; Chief of Defence Staff Bipin Rawat",
+                "children": [
+                  {
+                    "id": "ls",
+                    "label": "Lok Sabha",
+                    "holder": "Speaker Om Birla",
+                    "role": "The 17th Lok Sabha"
+                  },
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice S. A. Bobde",
+                    "role": "Highest court"
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "The 2020 lockdown",
+            "steps": [
+              {
+                "label": "22 March",
+                "detail": "A 14-hour voluntary 'Janata Curfew' is observed."
+              },
+              {
+                "label": "24 March",
+                "detail": "The Prime Minister announces a 21-day nationwide lockdown for the whole population of 1.38 billion, from midnight of 25 March to 14 April."
+              },
+              {
+                "label": "Extensions",
+                "detail": "The lockdown is extended in phases through April and May."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 2020 in India",
+            "url": "https://en.wikipedia.org/wiki/2020_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: COVID-19 lockdown in India",
+            "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 3 items for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "In this section: The first COVID-19 case; The nationwide lockdown; Galwan Valley clash; The farmers' protests begin.",
+      "items": [
+        {
+          "id": "in.2020.dd.freedom-history.first-case",
+          "kind": "event",
+          "title": "The first COVID-19 case",
+          "summary": "India confirmed its first COVID-19 case on 30 January 2020 in Kerala, a university student who had returned from Wuhan.",
+          "eventType": "other",
+          "date": "2020-01-30",
+          "regionTag": "south",
+          "place": "Kerala",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 lockdown in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.freedom-history.lockdown",
+          "kind": "event",
+          "title": "The nationwide lockdown",
+          "summary": "On the evening of 24 March 2020 the government ordered a 21-day nationwide lockdown limiting the movement of about 1.38 billion people, starting at midnight of 25 March.",
+          "eventType": "other",
+          "date": "2020-03-24",
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "care",
+            "note": "Millions of migrant workers were left without work or transport."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 lockdown in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.freedom-history.galwan",
+          "kind": "event",
+          "title": "Galwan Valley clash",
+          "summary": "On 15-16 June 2020, 20 Indian soldiers, including a commanding officer, were killed in a clash with Chinese troops in the Galwan Valley of Ladakh.",
+          "eventType": "conflict",
+          "date": "2020-06",
+          "regionTag": "north",
+          "place": "Galwan Valley",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "A border clash with fatalities."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020–2021 China–India skirmishes",
+              "url": "https://en.wikipedia.org/wiki/2020–2021_China–India_skirmishes",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.freedom-history.farm-protests",
+          "kind": "event",
+          "title": "The farmers' protests begin",
+          "summary": "Farmers began protesting against three new farm acts in August 2020; the protests continued until the acts were repealed.",
+          "eventType": "movement",
+          "date": "2020-08",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020–2021 Indian farmers' protest",
+              "url": "https://en.wikipedia.org/wiki/2020–2021_Indian_farmers'_protest",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      }
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "In this section: Narendra Modi; Ram Nath Kovind; Irrfan Khan; Rishi Kapoor; Sushant Singh Rajput.",
+      "items": [
+        {
+          "id": "in.2020.dd.personalities.narendra-modi",
+          "kind": "person",
+          "title": "Narendra Modi",
+          "summary": "Prime Minister, born in 1950.",
+          "field": "Politics",
+          "born": "1950",
+          "whyThisYear": "He announced the 21-day lockdown on 24 March and the Atmanirbhar Bharat Abhiyan on 12 May.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Narendra Modi",
+              "url": "https://en.wikipedia.org/wiki/Narendra_Modi",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: COVID-19 lockdown in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.personalities.ram-nath-kovind",
+          "kind": "person",
+          "title": "Ram Nath Kovind",
+          "summary": "President, born in 1945.",
+          "field": "Politics",
+          "born": "1945",
+          "whyThisYear": "He was President throughout 2020.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Ram Nath Kovind",
+              "url": "https://en.wikipedia.org/wiki/Ram_Nath_Kovind",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.personalities.irrfan-khan",
+          "kind": "person",
+          "title": "Irrfan Khan",
+          "summary": "Actor, born in 1967.",
+          "field": "Cinema",
+          "born": "1967",
+          "whyThisYear": "He died on 29 April 2020.",
+          "regionTag": "national",
+          "died": "2020",
+          "sources": [
+            {
+              "label": "Wikipedia: Irrfan Khan",
+              "url": "https://en.wikipedia.org/wiki/Irrfan_Khan",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.personalities.rishi-kapoor",
+          "kind": "person",
+          "title": "Rishi Kapoor",
+          "summary": "Actor, born in 1952.",
+          "field": "Cinema",
+          "born": "1952",
+          "whyThisYear": "He died on 30 April 2020.",
+          "regionTag": "national",
+          "died": "2020",
+          "sources": [
+            {
+              "label": "Wikipedia: Rishi Kapoor",
+              "url": "https://en.wikipedia.org/wiki/Rishi_Kapoor",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.personalities.sushant-singh-rajput",
+          "kind": "person",
+          "title": "Sushant Singh Rajput",
+          "summary": "Actor, born in 1986.",
+          "field": "Cinema",
+          "born": "1986",
+          "whyThisYear": "He died on 14 June 2020; his last film, Dil Bechara, was released after his death.",
+          "regionTag": "national",
+          "died": "2020",
+          "sources": [
+            {
+              "label": "Wikipedia: Sushant Singh Rajput",
+              "url": "https://en.wikipedia.org/wiki/Sushant_Singh_Rajput",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.personalities.arvind-kejriwal",
+          "kind": "person",
+          "title": "Arvind Kejriwal",
+          "summary": "Politician, born in 1968.",
+          "field": "Politics",
+          "born": "1968",
+          "whyThisYear": "His Aam Aadmi Party won 62 of 70 seats in the Delhi election in February.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Arvind Kejriwal",
+              "url": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.personalities.chuni-goswami",
+          "kind": "person",
+          "title": "Chuni Goswami",
+          "summary": "Footballer, born in 1938.",
+          "field": "Football",
+          "born": "1938",
+          "whyThisYear": "The footballer died on 30 April 2020.",
+          "regionTag": "national",
+          "died": "2020",
+          "sources": [
+            {
+              "label": "Wikipedia: Chuni Goswami",
+              "url": "https://en.wikipedia.org/wiki/Chuni_Goswami",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.personalities.nihal-sarin",
+          "kind": "person",
+          "title": "Nihal Sarin",
+          "summary": "Chess player, born in 2004.",
+          "field": "Chess",
+          "born": "2004",
+          "whyThisYear": "He was in the Indian team that shared gold at the online chess Olympiad.",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Nihal Sarin",
+              "url": "https://en.wikipedia.org/wiki/Nihal_Sarin",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: FIDE Online Chess Olympiad 2020",
+              "url": "https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "In this section: Online Chess Olympiad gold; An indigenous vaccine.",
+      "items": [
+        {
+          "id": "in.2020.dd.achievements.chess-gold",
+          "kind": "achievement",
+          "title": "Online Chess Olympiad gold",
+          "summary": "India and Russia were named joint winners of the FIDE Online Chess Olympiad after the final match was called off when several Indian players lost their internet connection.",
+          "domain": "sport",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: FIDE Online Chess Olympiad 2020",
+              "url": "https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.achievements.covaxin-ach",
+          "kind": "achievement",
+          "title": "An indigenous vaccine",
+          "summary": "Covaxin was developed by Bharat Biotech with the Indian Council of Medical Research.",
+          "domain": "public-health",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Covaxin",
+              "url": "https://en.wikipedia.org/wiki/Covaxin",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Days of the first nationwide lockdown",
+              "value": 21,
+              "unit": "days"
+            },
+            {
+              "label": "People covered by the lockdown order",
+              "value": 1.38,
+              "unit": "billion"
+            },
+            {
+              "label": "Confirmed COVID-19 cases by 17 July",
+              "value": 1,
+              "unit": "million"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: COVID-19 lockdown in India",
+            "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: 2020 in India",
+            "url": "https://en.wikipedia.org/wiki/2020_in_India",
+            "accessed": "2026-10-13",
+            "quality": "reference"
+          }
+        ]
+      },
+      "scarcityNote": "Only 2 items for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "In this section: FIDE Online Chess Olympiad.",
+      "items": [
+        {
+          "id": "in.2020.dd.sports.online-olympiad",
+          "kind": "sport",
+          "title": "FIDE Online Chess Olympiad",
+          "summary": "India and Russia shared gold at the online Olympiad, held between 24 July and 30 August 2020 on Chess.com; Viswanathan Anand, Vidit Gujrathi, Koneru Humpy and Harika Dronavalli were in India's team.",
+          "sport": "Chess",
+          "competition": "FIDE Online Chess Olympiad",
+          "result": "Joint gold with Russia",
+          "athletes": [
+            "Viswanathan Anand",
+            "Vidit Gujrathi",
+            "Koneru Humpy",
+            "Harika Dronavalli"
+          ],
+          "date": "2020-08",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: FIDE Online Chess Olympiad 2020",
+              "url": "https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Chess Olympiad",
+              "url": "https://en.wikipedia.org/wiki/Chess_Olympiad",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay"
+      },
+      "scarcityNote": "Only 1 item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "In this section: Nilamani Phookan's poetry.",
+      "items": [
+        {
+          "id": "in.2020.dd.literature.nilamani-phookan",
+          "kind": "work",
+          "title": "Nilamani Phookan's poetry",
+          "summary": "The 56th Jnanpith Award, for 2020, went to the Assamese poet Nilamani Phookan for lifetime contribution.",
+          "workType": "poetry",
+          "creator": "Nilamani Phookan",
+          "languages": [
+            "Assamese"
+          ],
+          "regionTag": "north-east",
+          "sources": [
+            {
+              "label": "Wikipedia: Jnanpith Award",
+              "url": "https://en.wikipedia.org/wiki/Jnanpith_Award",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      },
+      "scarcityNote": "Only 1 item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "In this section: NEP 2020 on languages.",
+      "items": [
+        {
+          "id": "in.2020.dd.books-reading.nep-languages",
+          "kind": "work",
+          "title": "NEP 2020 on languages",
+          "summary": "The National Education Policy recommends the mother tongue as medium of instruction till Grade 5 and a three-language formula with at least two native Indian languages.",
+          "workType": "nonfiction",
+          "creator": "Ministry of Education",
+          "languages": [
+            "English",
+            "Hindi"
+          ],
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: National Education Policy 2020",
+              "url": "https://en.wikipedia.org/wiki/National_Education_Policy_2020",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      },
+      "scarcityNote": "Only 1 item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "In this section: Tanhaji; Baaghi 3; Soorarai Pottru; Dil Bechara.",
+      "items": [
+        {
+          "id": "in.2020.dd.cinema.tanhaji",
+          "kind": "film",
+          "title": "Tanhaji",
+          "summary": "Om Raut's Tanhaji, produced by Ajay Devgn among others, was the highest-grossing Hindi film of 2020.",
+          "language": "Hindi",
+          "director": "Om Raut",
+          "notable": "Highest worldwide gross of 2020",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: Tanhaji",
+              "url": "https://en.wikipedia.org/wiki/Tanhaji",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Hindi films of 2020",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2020",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.cinema.baaghi-3",
+          "kind": "film",
+          "title": "Baaghi 3",
+          "summary": "Baaghi 3 was the second highest-grossing Hindi film of 2020.",
+          "language": "Hindi",
+          "notable": "Second-highest grosser of 2020",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Hindi films of 2020",
+              "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2020",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.cinema.soorarai-pottru",
+          "kind": "film",
+          "title": "Soorarai Pottru",
+          "summary": "Sudha Kongara's Tamil film Soorarai Pottru, starring Suriya, was a 2020 release.",
+          "language": "Tamil",
+          "director": "Sudha Kongara",
+          "cast": [
+            "Suriya"
+          ],
+          "notable": "Streamed release",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Soorarai Pottru",
+              "url": "https://en.wikipedia.org/wiki/Soorarai_Pottru",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.cinema.dil-bechara",
+          "kind": "film",
+          "title": "Dil Bechara",
+          "summary": "Mukesh Chhabra's Hindi film Dil Bechara, with Sushant Singh Rajput and Sanjana Sanghi, was released in 2020 after the actor's death.",
+          "language": "Hindi",
+          "director": "Mukesh Chhabra",
+          "cast": [
+            "Sushant Singh Rajput",
+            "Sanjana Sanghi"
+          ],
+          "notable": "Released after the lead actor's death",
+          "regionTag": "west",
+          "sensitivity": {
+            "level": "care",
+            "note": "Released after the lead actor's death."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Dil Bechara",
+              "url": "https://en.wikipedia.org/wiki/Dil_Bechara",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-13"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "No item for this section could be checked against sources.",
+      "items": [],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "No item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "In this section: GDP at current prices.",
+      "items": [
+        {
+          "id": "in.2020.dd.economy-business.national-income-2020",
+          "kind": "indicator",
+          "title": "GDP at current prices",
+          "summary": "India's gross domestic product at current prices was Rs 198,540,961 million (about Rs 198.54 trillion) in 2020, in the World Bank's national-accounts series.",
+          "metric": "GDP at current prices",
+          "value": "198540961",
+          "unit": "million rupees",
+          "asOf": "2020",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN",
+              "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN",
+              "accessed": "2026-10-14",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-13",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-14"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard"
+      },
+      "scarcityNote": "Only 1 item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+    }
+  }
+}

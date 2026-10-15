@@ -1,0 +1,326 @@
+{
+  "year": 1920,
+  "country": "in",
+  "title": "India, 1920",
+  "tagline": "Non-co-operation, new national universities and the first all-India labour federation.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in British India (typical, not one named family)",
+    "politicalStatus": "British India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.1920.morning.market",
+      "time": "Morning",
+      "activity": "At the grain shop",
+      "detail": "Common rice sold retail at about Rs 7.5 a maund in Bombay and Rs 12.5 in Delhi in 1920, near the top of a run of dear years after the war.",
+      "icon": "ShoppingBasket",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.morning.young-india",
+      "time": "Mid-morning",
+      "activity": "A weekly to read",
+      "detail": "Gandhi edited the English weekly Young India, published from 1919 to 1931.",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: Young India",
+        "url": "https://en.wikipedia.org/wiki/Young_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.morning.school",
+      "time": "Morning",
+      "activity": "A national school",
+      "detail": "Within weeks in autumn 1920 Aligarh Muslim University, Gujarat Vidyapith and other national institutions were founded as part of the non-co-operation programme.",
+      "icon": "School",
+      "source": {
+        "label": "Wikipedia: Aligarh Muslim University",
+        "url": "https://en.wikipedia.org/wiki/Aligarh_Muslim_University",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.morning.union",
+      "time": "Evening",
+      "activity": "A trade union meeting",
+      "detail": "The All India Trade Union Congress was founded in Bombay in October 1920 with Lala Lajpat Rai as its first president.",
+      "icon": "Groups",
+      "source": {
+        "label": "Wikipedia: All India Trade Union Congress",
+        "url": "https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.1920.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Gandhi launches the non-co-operation movement (1920-09-01).",
+      "imageAlt": "A newspaper front page in art-nouveau style with a headline about non-co-operation",
+      "highlights": [
+        "Gandhi launches the non-co-operation movement"
+      ],
+      "source": {
+        "label": "Wikipedia: 1920 in India",
+        "url": "https://en.wikipedia.org/wiki/1920_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.1920.places.bedroom",
+      "kind": "bedroom",
+      "title": "The reading corner",
+      "description": "Gandhi edited the English weekly Young India, published from 1919 to 1931.",
+      "imageAlt": "A lamp-lit corner with a low desk, a few books and a periodical",
+      "highlights": [
+        "Young India, 1919 to 1931"
+      ],
+      "source": {
+        "label": "Wikipedia: Young India",
+        "url": "https://en.wikipedia.org/wiki/Young_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Tata hydroelectric power: The Tata hydroelectric company commissioned its Khopoli plant in 1915 and a second at Bhivpuri in 1919, bringing hydro power from the Western Ghats to Bombay.",
+      "imageAlt": "A harbour-front street with a half-built stone arch",
+      "highlights": [
+        "Tata hydroelectric power"
+      ],
+      "source": {
+        "label": "Wikipedia: Tata Power",
+        "url": "https://en.wikipedia.org/wiki/Tata_Power",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.1920.prices.wheat",
+      "item": "Wheat, wholesale at Calcutta (Club No. 2)",
+      "price": "Rs 6-12-0 per maund",
+      "originalUnits": "Rs 6 annas 12 pies 0 per bazaar maund (82.286 lb)",
+      "decimalINR": "₹6.75 per maund",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.prices.rice-rangoon",
+      "item": "Rice, wholesale at Rangoon (Ngasein)",
+      "price": "Rs 6-15-3 per cwt",
+      "originalUnits": "Rs 6 annas 15 pies 3 per hundredweight",
+      "decimalINR": "₹6.95 per cwt",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.prices.rice-bombay",
+      "item": "Common rice, retail at Bombay",
+      "price": "Rs 7.5 per maund",
+      "originalUnits": "decimal rupees per maund",
+      "decimalINR": "₹7.50 per maund",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.prices.rice-delhi",
+      "item": "Common rice, retail at Delhi",
+      "price": "Rs 12.5 per maund",
+      "originalUnits": "decimal rupees per maund",
+      "decimalINR": "₹12.50 per maund",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.prices.tea",
+      "item": "Tea, wholesale at Calcutta (Indian Pekoe)",
+      "price": "5 annas 10 pies per lb",
+      "originalUnits": "Rs 0 annas 5 pies 10 per lb",
+      "decimalINR": "₹0.36 per lb",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.prices.jute",
+      "item": "Jute, wholesale at Calcutta",
+      "price": "Rs 97-8-2 per 400-lb bale",
+      "originalUnits": "Rs 97 annas 8 pies 2 per bale",
+      "decimalINR": "₹97.51 per bale",
+      "source": {
+        "label": "Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive",
+        "url": "https://archive.org/details/india.history.resource.108773",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.1920.technology.tata-hydro",
+      "name": "Tata hydroelectric power",
+      "category": "home",
+      "description": "The Tata hydroelectric company commissioned its Khopoli plant in 1915 and a second at Bhivpuri in 1919, bringing hydro power from the Western Ghats to Bombay.",
+      "source": {
+        "label": "Wikipedia: Tata Power",
+        "url": "https://en.wikipedia.org/wiki/Tata_Power",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.technology.jamshedpur",
+      "name": "Steel at Jamshedpur",
+      "category": "work",
+      "description": "The Tata Iron and Steel Company began producing pig iron in 1911 and steel in 1912 at Jamshedpur, and kept working through the First World War.",
+      "source": {
+        "label": "Wikipedia: Tata Steel",
+        "url": "https://en.wikipedia.org/wiki/Tata_Steel",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.technology.saha",
+      "name": "The Saha ionisation equation",
+      "category": "work",
+      "description": "Meghnad Saha's work on the thermal ionisation of elements produced the equation, dated about 1920, that lets astronomers relate a star's spectrum to its temperature.",
+      "source": {
+        "label": "Wikipedia: Meghnad Saha",
+        "url": "https://en.wikipedia.org/wiki/Meghnad_Saha",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.technology.raman-lab",
+      "name": "Raman and the Calcutta laboratories",
+      "category": "work",
+      "description": "C. V. Raman became the first Palit Professor of Physics at the University of Calcutta in 1917, and research scholars from several universities worked under him at the Indian Association for the Cultivation of Science.",
+      "source": {
+        "label": "Wikipedia: C. V. Raman",
+        "url": "https://en.wikipedia.org/wiki/C._V._Raman",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.technology.gateway",
+      "name": "Gateway of India (building)",
+      "category": "transport",
+      "description": "The arch at Bombay's waterfront was begun in 1913 and completed in 1924, to commemorate George V's landing in 1911.",
+      "source": {
+        "label": "Wikipedia: Gateway of India",
+        "url": "https://en.wikipedia.org/wiki/Gateway_of_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.1920.headlines.non-cooperation",
+      "date": "1920-09-01",
+      "headline": "Gandhi launches the non-co-operation movement",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1920 in India",
+        "url": "https://en.wikipedia.org/wiki/1920_in_India",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.headlines.tilak",
+      "date": "1920-08-01",
+      "headline": "Bal Gangadhar Tilak dies",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Bal Gangadhar Tilak",
+        "url": "https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.1920.headlines.aituc",
+      "date": "1920-10",
+      "headline": "All India Trade Union Congress founded at Bombay",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: All India Trade Union Congress",
+        "url": "https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "The family's radio set, as in the World view.",
+  "notes": {
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed."
+  }
+}

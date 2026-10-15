@@ -1,0 +1,38 @@
+/* 1900: Art Nouveau. Cabinet-card vignettes and ornamental frames. */
+
+/* Oval vignette like a studio cabinet card, warm-toned. */
+.fx-cabinet {
+  -webkit-mask-image: radial-gradient(ellipse 72% 74% at 50% 50%, #000 62%, transparent 100%);
+  mask-image: radial-gradient(ellipse 72% 74% at 50% 50%, #000 62%, transparent 100%);
+}
+
+.fx-cabinet img,
+.fx-cabinet svg,
+.fx-cabinet canvas {
+  filter: sepia(0.45) saturate(0.85);
+}
+
+.an-frame {
+  position: relative;
+  padding: clamp(18px, 4vw, 36px);
+  border: 3px double var(--an-sage);
+  border-radius: 22px;
+  background: var(--an-paper);
+}
+
+.an-frame::before {
+  content: "";
+  position: absolute;
+  inset: 7px;
+  border: 1px solid var(--an-plum-soft);
+  border-radius: 16px;
+  pointer-events: none;
+}
+
+.an-corner {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  pointer-events: none;
+  color: var(--an-gold);
+}

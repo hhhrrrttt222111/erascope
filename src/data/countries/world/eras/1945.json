@@ -1,0 +1,401 @@
+{
+  "year": 1945,
+  "country": "world",
+  "title": "The Home Front",
+  "tagline": "Ration books, victory gardens and the end of the Second World War.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a war-plant worker's family in Detroit"
+  },
+  "morningRoutine": [
+    {
+      "id": "world.1945.morning.up-early-shift",
+      "time": "5:30 AM",
+      "activity": "Up for the early shift",
+      "detail": "Millions of women worked in war industries: more than six million took war jobs.",
+      "icon": "Alarm",
+      "source": {
+        "label": "Wikipedia: Rosie the Riveter",
+        "url": "https://en.wikipedia.org/wiki/Rosie_the_Riveter",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.morning.breakfast-ration-book",
+      "time": "6:00 AM",
+      "activity": "Breakfast by the ration book",
+      "detail": "Some foods needed ration stamps as well as money: red stamps for meat and butter, blue stamps for processed foods.",
+      "icon": "Restaurant",
+      "source": {
+        "label": "Wikipedia: Rationing in the United States",
+        "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.morning.news-radio",
+      "time": "6:15 AM",
+      "activity": "News on the radio",
+      "detail": "By 1940, 83% of American homes owned a radio, the main way families followed the war.",
+      "icon": "Radio",
+      "source": {
+        "label": "Wikipedia: Golden Age of Radio",
+        "url": "https://en.wikipedia.org/wiki/Golden_Age_of_Radio",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.morning.share-ride",
+      "time": "6:45 AM",
+      "activity": "Share a ride",
+      "detail": "Gasoline was rationed. The lowest-priority \"A\" sticker allowed about 3 to 4 gallons a week, so carpooling was common.",
+      "icon": "DirectionsCar",
+      "source": {
+        "label": "Wikipedia: Rationing in the United States",
+        "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.morning.check-victory-garden",
+      "time": "7:00 AM",
+      "activity": "Check the victory garden",
+      "detail": "Families grew vegetables in backyards and vacant lots; victory gardens grew about a third of the country's vegetables during the war.",
+      "icon": "Home",
+      "source": {
+        "label": "Wikipedia: Victory garden",
+        "url": "https://en.wikipedia.org/wiki/Victory_garden",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.1945.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Huge banner headlines followed the last months of the war, from the death of President Roosevelt to the surrenders of Germany and Japan.",
+      "imageAlt": "A 1945 front page with a large banner headline across the top",
+      "highlights": [
+        "President Roosevelt dies at Warm Springs",
+        "Germany surrenders: V-E Day",
+        "Japan surrenders: V-J Day",
+        "B-25 bomber crashes into the Empire State Building"
+      ],
+      "source": {
+        "label": "Wikipedia: 1945 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1945_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.places.bedroom",
+      "kind": "bedroom",
+      "title": "The home",
+      "description": "About 85.0% of US dwellings had electric service in 1945.",
+      "imageAlt": "A modest 1940s bedroom with a table radio and a small service flag hanging in the window",
+      "highlights": [
+        "85.0% of dwellings with electric service"
+      ],
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series S 108-119: dwellings with electric service",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chS.pdf",
+        "accessed": "2026-10-15",
+        "quality": "primary"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "world.1945.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Penicillin: Mass-produced for the armed forces, it became widely available to civilians after the war ended in 1945.",
+      "imageAlt": "A 1940s street with a rounded old car and a vegetable garden on a vacant lot",
+      "highlights": [
+        "Penicillin"
+      ],
+      "source": {
+        "label": "Wikipedia: History of penicillin",
+        "url": "https://en.wikipedia.org/wiki/History_of_penicillin",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.1945.prices.first-class-postage-stamp",
+      "item": "First-class postage stamp",
+      "price": "$0.03",
+      "adjusted2026": "about $0.56",
+      "source": {
+        "label": "USPS Historian: Rates for Domestic Letters Since 1863",
+        "url": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.prices.series-e-war-bond",
+      "item": "Series E war bond (pays $25 after 10 years)",
+      "price": "$18.75",
+      "adjusted2026": "about $350",
+      "source": {
+        "label": "Wikipedia: War bond",
+        "url": "https://en.wikipedia.org/wiki/War_bond",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.prices.ballpoint-pen-first-sale",
+      "item": "Ballpoint pen (first on sale, Gimbel's New York, October 29)",
+      "price": "$12.50",
+      "adjusted2026": "about $230",
+      "source": {
+        "label": "Wikipedia: Ballpoint pen",
+        "url": "https://en.wikipedia.org/wiki/Ballpoint_pen",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.prices.federal-minimum-wage-per",
+      "item": "Federal minimum wage (per hour)",
+      "price": "$0.30, rising to $0.40 on October 24",
+      "adjusted2026": "about $5.59–$7.45",
+      "source": {
+        "label": "U.S. Department of Labor: History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938–2009",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.prices.loaf-bread-1-lb",
+      "item": "Bread (1 lb, city average)",
+      "price": "8.8¢",
+      "adjusted2026": "about $1.64",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.prices.eggs-dozen",
+      "item": "Eggs (dozen, city average)",
+      "price": "58.1¢",
+      "adjusted2026": "about $11",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.prices.milk-half-gallon",
+      "item": "Milk, delivered (half gallon, city average)",
+      "price": "31.2¢",
+      "adjusted2026": "about $5.81",
+      "source": {
+        "label": "U.S. Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, series E 187–202: retail food prices in U.S. cities (BLS)",
+        "url": "https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chE.pdf",
+        "accessed": "2026-10-12",
+        "quality": "primary"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.prices.subway-fare-new-york",
+      "item": "Subway fare (New York)",
+      "price": "5¢",
+      "adjusted2026": "about $0.93",
+      "source": {
+        "label": "Wikipedia: New York City transit fares",
+        "url": "https://en.wikipedia.org/wiki/New_York_City_transit_fares",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.1945.technology.penicillin",
+      "name": "Penicillin",
+      "category": "home",
+      "description": "Mass-produced for the armed forces, it became widely available to civilians after the war ended in 1945.",
+      "source": {
+        "label": "Wikipedia: History of penicillin",
+        "url": "https://en.wikipedia.org/wiki/History_of_penicillin",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.technology.ballpoint-pen",
+      "name": "Ballpoint pen",
+      "category": "work",
+      "description": "Went on sale at Gimbel's in New York on October 29, 1945, for $12.50.",
+      "source": {
+        "label": "Wikipedia: Ballpoint pen",
+        "url": "https://en.wikipedia.org/wiki/Ballpoint_pen",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.technology.household-radio",
+      "name": "Household radio",
+      "category": "communication",
+      "description": "In 83% of homes by 1940 and 33 million households in 1945; families gathered around it for war news and the president's addresses.",
+      "source": {
+        "label": "Wikipedia: Golden Age of Radio",
+        "url": "https://en.wikipedia.org/wiki/Golden_Age_of_Radio",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.technology.eniac",
+      "name": "ENIAC",
+      "category": "work",
+      "description": "The electronic computer was completed in 1945 and put to its first practical work on December 10.",
+      "source": {
+        "label": "Wikipedia: ENIAC",
+        "url": "https://en.wikipedia.org/wiki/ENIAC",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.technology.buses-streetcars",
+      "name": "Buses and streetcars",
+      "category": "transport",
+      "description": "With gas and tyres rationed and no new cars, people rode buses and streetcars more.",
+      "source": {
+        "label": "Wikipedia: Rationing in the United States",
+        "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.1945.visions.desk-sized-memex-will",
+      "prediction": "A desk-sized \"memex\" will store a person's books and records and link them in trails of association.",
+      "whoSaidIt": "Vannevar Bush, \"As We May Think\", The Atlantic Monthly, July 1945",
+      "cameTrue": "partly",
+      "note": "The memex was never built, but linked documents became hypertext and the World Wide Web.",
+      "source": {
+        "label": "Wikipedia: As We May Think",
+        "url": "https://en.wikipedia.org/wiki/As_We_May_Think",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.visions.wholly-new-forms-encyclopedias",
+      "prediction": "Wholly new forms of encyclopedias will appear, ready-made with a mesh of associative trails running through them.",
+      "whoSaidIt": "Vannevar Bush, \"As We May Think\", July 1945",
+      "cameTrue": "yes",
+      "note": "Online encyclopedias with hyperlinks are exactly this.",
+      "source": {
+        "label": "Wikipedia: As We May Think",
+        "url": "https://en.wikipedia.org/wiki/As_We_May_Think",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.visions.satellites-fixed-orbit-above",
+      "prediction": "Satellites in a fixed orbit above the Earth could relay radio signals worldwide.",
+      "whoSaidIt": "Arthur C. Clarke, \"Extra-Terrestrial Relays\", Wireless World, October 1945",
+      "cameTrue": "yes",
+      "note": "Geostationary communication satellites became standard from the 1960s.",
+      "source": {
+        "label": "Wikipedia: Arthur C. Clarke",
+        "url": "https://en.wikipedia.org/wiki/Arthur_C._Clarke",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.1945.headlines.1945-04-12",
+      "date": "1945-04-12",
+      "headline": "President Roosevelt dies; Truman sworn in",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1945 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1945_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.headlines.1945-05-08",
+      "date": "1945-05-08",
+      "headline": "Germany surrenders unconditionally: Victory in Europe",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1945 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1945_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "world.1945.headlines.1945-08-14",
+      "date": "1945-08-14",
+      "headline": "Japan surrenders, ending the Second World War",
+      "publication": "Front-page news across U.S. newspapers",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 1945 in the United States",
+        "url": "https://en.wikipedia.org/wiki/1945_in_the_United_States",
+        "accessed": "2026-10-12",
+        "quality": "reference"
+      },
+      "checked": "2026-10-12"
+    }
+  ],
+  "sceneCaption": "A ration book of stamps beside a stack of food tins."
+}

@@ -1,0 +1,303 @@
+{
+  "year": 2005,
+  "country": "in",
+  "title": "India, 2005",
+  "tagline": "The right to information, the Mumbai floods and a low-cost airline.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in India (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "morningRoutine": [
+    {
+      "id": "in.2005.morning.air",
+      "time": "Morning",
+      "activity": "A low-cost flight",
+      "detail": "SpiceJet's first domestic flight, on 24 May 2005, was on the Delhi to Mumbai route.",
+      "icon": "Flight",
+      "source": {
+        "label": "Wikipedia: SpiceJet",
+        "url": "https://en.wikipedia.org/wiki/SpiceJet",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.morning.novel",
+      "time": "Afternoon",
+      "activity": "A campus novel",
+      "detail": "Chetan Bhagat's second novel, One Night @ the Call Center, appeared in 2005, after Five Point Someone (2004).",
+      "icon": "MenuBook",
+      "source": {
+        "label": "Wikipedia: One Night @ the Call Center",
+        "url": "https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.morning.rti",
+      "time": "Morning",
+      "activity": "Asking for information",
+      "detail": "From 12 October 2005 the Right to Information Act gave every citizen the right to request information from public authorities, with a reply due within thirty days.",
+      "icon": "QuestionAnswer",
+      "source": {
+        "label": "Wikipedia: Right to Information Act, 2005",
+        "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.morning.cinema",
+      "time": "Evening",
+      "activity": "No Entry",
+      "detail": "No Entry was the highest-grossing Hindi film of 2005.",
+      "icon": "Movie",
+      "source": {
+        "label": "Wikipedia: List of Hindi films of 2005",
+        "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.2005.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "Mumbai receives 944 mm of rain in 24 hours, its wettest day on record (2005-07-26).",
+      "imageAlt": "A flat-web news page with a headline and a photo block",
+      "highlights": [
+        "Mumbai receives 944 mm of rain in 24 hours, its wettest day on record"
+      ],
+      "source": {
+        "label": "Wikipedia: Maharashtra floods of 2005",
+        "url": "https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "in.2005.places.bedroom",
+      "kind": "bedroom",
+      "title": "The living room",
+      "description": "Chetan Bhagat's second novel appeared in 2005, after Five Point Someone (2004).",
+      "imageAlt": "A 2000s living room with a television, a paperback and a mobile phone",
+      "highlights": [
+        "One Night @ the Call Center (2005)",
+        "Five Point Someone (2004)"
+      ],
+      "source": {
+        "label": "Wikipedia: One Night @ the Call Center",
+        "url": "https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "Cartosat-1 on PSLV-C6: ISRO's PSLV-C6 launched Cartosat-1 and the amateur-radio satellite HAMSAT on 5 May 2005.",
+      "imageAlt": "A city road under monsoon rain with a bus and an umbrella",
+      "highlights": [
+        "Cartosat-1 on PSLV-C6"
+      ],
+      "source": {
+        "label": "Wikipedia: PSLV-C6",
+        "url": "https://en.wikipedia.org/wiki/PSLV-C6",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-15"
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.2005.prices.petrol",
+      "item": "Petrol at Delhi, 1 April 2005",
+      "price": "Rs 37.99 per litre",
+      "originalUnits": "rupees per litre, Indian Oil prices; VAT implemented at Delhi on that date",
+      "decimalINR": "₹37.99 per litre",
+      "adjusted2026": "about ₹134 per litre",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)",
+        "url": "https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.prices.diesel",
+      "item": "Diesel at Delhi, 1 April 2005",
+      "price": "Rs 28.22 per litre",
+      "originalUnits": "rupees per litre",
+      "decimalINR": "₹28.22 per litre",
+      "adjusted2026": "about ₹99.6 per litre",
+      "adjustedMethod": "World Bank consumer price index for India (FP.CPI.TOTL, 2010 = 100), annual averages: the price times the 2025 index over the year's index. 2025 is the latest full year, so the figure is in 2025 rupees.",
+      "source": {
+        "label": "Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)",
+        "url": "https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.prices.exchange",
+      "item": "Rupees to the US dollar (annual average)",
+      "price": "Rs 44.10",
+      "originalUnits": "official rate, rupees per US dollar",
+      "source": {
+        "label": "World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)",
+        "url": "https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.prices.inflation",
+      "item": "Consumer price inflation",
+      "price": "4.2% in the year",
+      "originalUnits": "per cent, annual",
+      "source": {
+        "label": "World Bank, World Development Indicators: Inflation, consumer prices (annual %)",
+        "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.prices.output",
+      "item": "Output per person (GDP per capita)",
+      "price": "Rs 31,456 a year",
+      "originalUnits": "current rupees per person per year",
+      "source": {
+        "label": "World Bank, World Development Indicators: GDP per capita (current LCU)",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN",
+        "accessed": "2026-10-14",
+        "quality": "primary"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.2005.technology.cartosat",
+      "name": "Cartosat-1 on PSLV-C6",
+      "category": "work",
+      "description": "ISRO's PSLV-C6 launched Cartosat-1 and the amateur-radio satellite HAMSAT on 5 May 2005.",
+      "source": {
+        "label": "Wikipedia: PSLV-C6",
+        "url": "https://en.wikipedia.org/wiki/PSLV-C6",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.technology.insat",
+      "name": "INSAT-4A",
+      "category": "communication",
+      "description": "INSAT-4A, a communications satellite, was launched on 22 December 2005 and served until October 2019.",
+      "source": {
+        "label": "Wikipedia: INSAT-4A",
+        "url": "https://en.wikipedia.org/wiki/INSAT-4A",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.technology.spicejet",
+      "name": "SpiceJet begins flying",
+      "category": "transport",
+      "description": "SpiceJet's first domestic flight, on 24 May 2005, was on the Delhi to Mumbai route.",
+      "source": {
+        "label": "Wikipedia: SpiceJet",
+        "url": "https://en.wikipedia.org/wiki/SpiceJet",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.technology.rti",
+      "name": "A right to ask for records",
+      "category": "work",
+      "description": "The Right to Information Act gave every citizen the right to request information from public authorities and required them to reply within thirty days.",
+      "source": {
+        "label": "Wikipedia: Right to Information Act, 2005",
+        "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "futureVisions": [],
+  "headlines": [
+    {
+      "id": "in.2005.headlines.floods",
+      "date": "2005-07-26",
+      "headline": "Mumbai receives 944 mm of rain in 24 hours, its wettest day on record",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Maharashtra floods of 2005",
+        "url": "https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.headlines.rti",
+      "date": "2005-10-12",
+      "headline": "The Right to Information Act comes fully into force",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Right to Information Act, 2005",
+        "url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "in.2005.headlines.bombs",
+      "date": "2005-10-29",
+      "headline": "Three bomb blasts in Delhi kill 62 people",
+      "publication": "Summary of the event, not a verbatim headline",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2005 Delhi bombings",
+        "url": "https://en.wikipedia.org/wiki/2005_Delhi_bombings",
+        "accessed": "2026-10-13",
+        "quality": "reference"
+      },
+      "checked": "2026-10-14"
+    }
+  ],
+  "sceneCaption": "A portable music player, as in the World view.",
+  "notes": {
+    "prices": "Only prices that could be read from a source are shown; none was found for the others. Items that could not be verified were removed.",
+    "futureVisions": "No forecast made in this year could be sourced, so none is shown. Items that could not be verified were removed.",
+    "technology": "Only sourced entries are shown. Items that could not be verified were removed."
+  }
+}
