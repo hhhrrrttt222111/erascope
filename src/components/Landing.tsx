@@ -9,6 +9,8 @@ import { useReducedMotion } from "../hooks/useReducedMotion";
 import { eraThemes, BEVEL_OUT } from "../theme/eraThemes";
 import { loadPreviewFonts } from "../theme/fontLoader";
 import { Cursor } from "./landing/Cursor";
+import { Navbar } from "./landing/Navbar";
+import { Parallax } from "./landing/Parallax";
 import { SpeculativeBadge } from "./common/SpeculativeBadge";
 
 /**
@@ -35,7 +37,13 @@ const GOLD = "#c9b48a";
 /** Hover polish for era tiles: a mouse-following spotlight and a light sweep. */
 const TILE_CSS = `
 .landing-section{margin-bottom:32px}@media(min-width:900px){.landing-section{margin-bottom:40px}}
-.era-tile .spot,.era-tile .spot{background:radial-gradient(circle 140px at var(--mx,50%) var(--my,50%),rgba(255,255,255,.22),transparent 70%);mix-blend-mode:overlay}
+.era-tile .spot,.landing-nav-link{background:none;border:0;padding:6px 0;cursor:pointer;color:#cfc9ba;font:inherit;font-family:Georgia,serif;font-size:14px;letter-spacing:.12em;text-transform:uppercase;position:relative;transition:color .25s}
+.landing-nav-link::after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:#c9b48a;transform:scaleX(0);transform-origin:left;transition:transform .3s}
+.landing-nav-link:hover,.landing-nav-link:focus-visible{color:#fff}
+.landing-nav-link:hover::after,.landing-nav-link:focus-visible::after{transform:scaleX(1)}
+@media(max-width:640px){.landing-nav-links{display:none!important}}
+html{scroll-padding-top:72px}
+.era-tile .spot{background:radial-gradient(circle 140px at var(--mx,50%) var(--my,50%),rgba(255,255,255,.22),transparent 70%);mix-blend-mode:overlay}
 .era-tile:hover .spot,.era-tile:focus-visible .spot{opacity:1}
 .era-tile{transition:box-shadow .3s,filter .3s}
 .era-tile:hover,.era-tile:focus-visible{box-shadow:0 14px 32px rgba(0,0,0,.5)}
@@ -108,6 +116,10 @@ export function Landing() {
   const { scrollY } = useScroll();
   const sceneY = useTransform(scrollY, [0, 800], [0, -120]);
   const sceneOpacity = useTransform(scrollY, [0, 700], [1, 0]);
+  const heroY = useTransform(scrollY, [0, 600], [0, 90]);
+  const heroOpacity = useTransform(scrollY, [0, 450], [1, 0]);
+  const numeralA = useTransform(scrollY, [0, 2500], [0, -500]);
+  const numeralB = useTransform(scrollY, [0, 2500], [0, -160]);
 
   const reveal = reduced
     ? {}
@@ -115,7 +127,18 @@ export function Landing() {
 
   return (
     <Box component={motion.main} initial={reduced ? false : { opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.8 }} id="main" tabIndex={-1} sx={{ position: "relative", minHeight: "100vh", background: "radial-gradient(ellipse at 75% 0%, #1f1b2b 0%, #100f14 55%)", color: "#f5f2ea", outline: "none", overflow: "hidden", pt: { xs: 5, md: 8 } }}>
+      <Navbar />
       {!reduced && <Cursor />}
+      {!reduced && (
+        <>
+          <motion.div aria-hidden style={{ position: "absolute", top: 520, right: "-2%", y: numeralA, fontFamily: "Georgia, serif", fontSize: "clamp(180px, 28vw, 420px)", lineHeight: 1, color: "transparent", WebkitTextStroke: "1px rgba(201,180,138,0.14)", pointerEvents: "none", userSelect: "none" }}>
+            1900
+          </motion.div>
+          <motion.div aria-hidden style={{ position: "absolute", top: 1500, left: "-3%", y: numeralB, fontFamily: "Georgia, serif", fontSize: "clamp(160px, 24vw, 360px)", lineHeight: 1, color: "transparent", WebkitTextStroke: "1px rgba(201,180,138,0.1)", pointerEvents: "none", userSelect: "none" }}>
+            2050
+          </motion.div>
+        </>
+      )}
       {leaving && (
         <motion.div
           aria-hidden
@@ -147,7 +170,7 @@ export function Landing() {
 
       <Container maxWidth="lg" sx={{ position: "relative", zIndex: 1 }}>
         {/* Hero */}
-        <Box component={motion.div} initial={reduced ? false : { opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1] }} sx={{ pt: { xs: 2, md: 6 }, pb: { xs: 6, md: 9 } }}>
+        <Box component={motion.div} initial={reduced ? false : { opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1] }} style={reduced ? undefined : { translateY: heroY, opacity: heroOpacity }} sx={{ pt: { xs: 9, md: 12 }, pb: { xs: 6, md: 9 } }}>
           <Typography variant="overline" component="p" sx={{ color: GOLD, letterSpacing: "0.38em", fontFamily: "Georgia, serif", fontSize: "0.8rem" }}>
             Erascope &nbsp;·&nbsp; 1900 – 2050
           </Typography>
@@ -210,7 +233,7 @@ export function Landing() {
           </div>
         )}
 
-        <Typography id="year-step" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "1.25rem", md: "1.5rem" }, mb: 2 }}>
+        <Box id="years" /><Typography id="year-step" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "1.25rem", md: "1.5rem" }, mb: 2 }}>
           Choose your year
         </Typography>
         <Box
@@ -275,14 +298,14 @@ export function Landing() {
         </Box>
 
         {/* About */}
-        <Box component={motion.section} {...reveal} aria-labelledby="about-h" sx={{ mt: { xs: 10, md: 16 }, display: "grid", gap: { xs: 4, md: 8 }, gridTemplateColumns: { xs: "1fr", md: "1fr 1fr" }, alignItems: "start" }}>
-          <Box>
+        <Box component={motion.section} {...reveal} id="about" aria-labelledby="about-h" sx={{ mt: { xs: 10, md: 16 }, display: "grid", gap: { xs: 4, md: 8 }, gridTemplateColumns: { xs: "1fr", md: "1fr 1fr" }, alignItems: "start" }}>
+          <Parallax distance={30}>
             <Label>About</Label>
             <Typography id="about-h" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "2rem", md: "2.8rem" }, lineHeight: 1.15 }}>
               An ordinary morning, <Box component="span" sx={{ fontStyle: "italic", color: GOLD }}>a century apart.</Box>
             </Typography>
-          </Box>
-          <Box>
+          </Parallax>
+          <Parallax distance={-20}>
             <Typography sx={{ fontFamily: "Georgia, serif", fontSize: "1.08rem", lineHeight: 1.8, color: "#cfc9ba", mb: 4 }}>
               Erascope is an interactive tour of everyday life from 1900 to 2050. Instead of dates and treaties, it shows what a
               normal day looked like: what woke you up, what was in the news, what things cost, which gadgets sat on the shelf, and
@@ -297,11 +320,11 @@ export function Landing() {
                 </Box>
               ))}
             </Box>
-          </Box>
+          </Parallax>
         </Box>
 
         {/* How to use */}
-        <Box component={motion.section} {...reveal} aria-labelledby="how-h" sx={{ mt: { xs: 10, md: 16 } }}>
+        <Box component={motion.section} {...reveal} id="how" aria-labelledby="how-h" sx={{ mt: { xs: 10, md: 16 } }}>
           <Label>How to use it</Label>
           <Typography id="how-h" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "2rem", md: "2.8rem" }, lineHeight: 1.15, mb: { xs: 4, md: 6 } }}>
             Three steps.
@@ -309,16 +332,18 @@ export function Landing() {
           <Box component="ol" sx={{ listStyle: "none", m: 0, p: 0, display: "grid", gap: { xs: 4, md: 0 }, gridTemplateColumns: { xs: "1fr", md: "repeat(3, 1fr)" } }}>
             {STEPS.map((st, i) => (
               <Box component="li" key={st.title} sx={{ pr: { md: 5 }, pl: { md: i ? 5 : 0 }, borderLeft: { md: i ? "1px solid #3a3526" : "none" } }}>
+                <Parallax distance={[16, 0, -16][i]}>
                 <Typography sx={{ fontFamily: "Georgia, serif", fontStyle: "italic", fontSize: "1.1rem", color: GOLD, mb: 1 }}>0{i + 1}</Typography>
                 <Typography component="h3" sx={{ fontFamily: "Georgia, serif", fontSize: "1.4rem", fontWeight: 400, mb: 1 }}>{st.title}</Typography>
                 <Typography sx={{ fontFamily: "Georgia, serif", lineHeight: 1.75, color: "#cfc9ba" }}>{st.body}</Typography>
+                </Parallax>
               </Box>
             ))}
           </Box>
         </Box>
 
         {/* What you'll find */}
-        <Box component={motion.section} {...reveal} aria-labelledby="find-h" sx={{ mt: { xs: 10, md: 16 } }}>
+        <Box component={motion.section} {...reveal} id="inside" aria-labelledby="find-h" sx={{ mt: { xs: 10, md: 16 } }}>
           <Label>Inside every year</Label>
           <Typography id="find-h" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "2rem", md: "2.8rem" }, lineHeight: 1.15, mb: { xs: 4, md: 6 } }}>
             What you will find.
