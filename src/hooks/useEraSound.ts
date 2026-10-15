@@ -131,7 +131,7 @@ let sharedCtx: AudioContext | null = null;
 
 function play(sound: string) {
   if (sound.includes(".")) {
-    void new Audio(`/sounds/${sound}`).play().catch(() => undefined);
+    void new Audio(`${import.meta.env.BASE_URL}sounds/${sound}`).play().catch(() => undefined);
     return;
   }
   const preset = PRESETS[sound];
