@@ -5,7 +5,7 @@ import type { Mesh } from "three";
 import { SceneCanvas, type SceneProps } from "../SceneCanvas";
 
 const BEIGE = "#d9cfb2";
-const PIXEL_FONT = `${import.meta.env.BASE_URL}fonts/Silkscreen-Regular.ttf`;
+const PIXEL_FONT = "/fonts/Silkscreen-Regular.ttf";
 
 function Cursor({ animate }: { animate: boolean }) {
   const ref = useRef<Mesh>(null);

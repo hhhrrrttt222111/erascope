@@ -5,7 +5,7 @@ import type { Group, Mesh } from "three";
 import { SceneCanvas, type SceneProps } from "../SceneCanvas";
 
 const BEIGE = "#cfc6a8";
-const FONT = `${import.meta.env.BASE_URL}fonts/VT323-Regular.ttf`;
+const FONT = "/fonts/VT323-Regular.ttf";
 
 /** The disk slides into the drive slot, waits, and slides out again; the busy light glows while it's in. */
 function Disk({ animate, led }: { animate: boolean; led: React.RefObject<Mesh | null> }) {
