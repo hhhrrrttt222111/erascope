@@ -1,6 +1,6 @@
 import { Box, Container, Typography } from "@mui/material";
 import { motion, useScroll, useSpring, useTransform } from "framer-motion";
-import { Component, lazy, Suspense, useEffect, useRef, useState, type CSSProperties, type ReactNode } from "react";
+import { Component, lazy, type ComponentType, Suspense, useEffect, useRef, useState, type CSSProperties, type ReactNode } from "react";
 import { eras, type Era } from "../data";
 import type { ChromeId } from "../data/types";
 import { useEraContext } from "../context/EraContext";
@@ -11,7 +11,12 @@ import { loadPreviewFonts } from "../theme/fontLoader";
 import { Cursor } from "./landing/Cursor";
 import { SpeculativeBadge } from "./common/SpeculativeBadge";
 
-const TimeScene = lazy(() => import("./landing/TimeScene"));
+/**
+ * import.meta.glob keeps TypeScript from following the import: the scene is type-checked in
+ * tsconfig.three.json because R3F's global JSX types make MUI's components too complex (TS2590).
+ */
+const sceneModules = import.meta.glob<{ default: ComponentType }>("./landing/TimeScene.tsx");
+const TimeScene = lazy(sceneModules["./landing/TimeScene.tsx"]);
 
 /** Swallows WebGL/context failures so the page still works without the 3D backdrop. */
 class SceneBoundary extends Component<{ children: ReactNode }, { failed: boolean }> {
@@ -28,6 +33,7 @@ const TITLE = "Choose your year";
 
 /** Hover polish for era tiles: a mouse-following spotlight and a light sweep. */
 const TILE_CSS = `
+.landing-section{margin-bottom:32px}@media(min-width:900px){.landing-section{margin-bottom:40px}}
 .era-tile .spot,.era-tile .sweep{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .25s}
 .era-tile .spot{background:radial-gradient(circle 120px at var(--mx,50%) var(--my,50%),rgba(255,255,255,.35),transparent 70%);mix-blend-mode:overlay}
 .era-tile .sweep{background:linear-gradient(115deg,transparent 35%,rgba(255,255,255,.35) 50%,transparent 65%);transform:translateX(-120%)}
@@ -183,7 +189,7 @@ export function Landing() {
         )}
 
         {choices.length > 1 && (
-          <Box sx={{ mb: { xs: 4, md: 5 } }}>
+          <div className="landing-section">
             <Typography id="country-step" component="h2" sx={{ fontFamily: "Georgia, serif", fontSize: { xs: "1.25rem", md: "1.5rem" }, mb: 1.5 }}>
               Choose your country
             </Typography>
@@ -229,7 +235,7 @@ export function Landing() {
                 );
               })}
             </Box>
-          </Box>
+          </div>
         )}
 
         <Box

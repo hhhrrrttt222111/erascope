@@ -26,5 +26,5 @@
   },
   "include": ["src"],
   // R3F code lives in its own project (tsconfig.three.json); see components/three/EraScene.tsx.
-  "exclude": ["src/components/three/scenes", "src/components/three/SceneCanvas.tsx", "src/components/three/deepdive"]
+  "exclude": ["src/components/three/scenes", "src/components/three/SceneCanvas.tsx", "src/components/three/deepdive", "src/components/landing/TimeScene.tsx"]
 }
