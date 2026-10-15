@@ -9,7 +9,7 @@ const GOLD = "#c9b48a";
 function Vinyl() {
   const ref = useRef<Group>(null);
   useFrame((_, dt) => {
-    if (ref.current) ref.current.rotation.y += dt * 1.4;
+    if (ref.current) ref.current.rotation.y += dt * 0.5;
   });
   return (
     <group rotation={[1.1, 0, 0.3]}>
@@ -33,58 +33,6 @@ function Vinyl() {
           <meshBasicMaterial color="#100f14" />
         </mesh>
       </group>
-    </group>
-  );
-}
-
-/** A cassette tape with two turning reels. */
-function Cassette() {
-  const reels = useRef<(Group | null)[]>([]);
-  useFrame((_, dt) => reels.current.forEach((r) => r && (r.rotation.z += dt * 2.2)));
-  return (
-    <group rotation={[0.2, -0.4, 0.1]} scale={0.9}>
-      <mesh>
-        <boxGeometry args={[1.8, 1.1, 0.16]} />
-        <meshStandardMaterial color="#2c2a33" roughness={0.5} />
-      </mesh>
-      <mesh position={[0, 0.2, 0.09]}>
-        <boxGeometry args={[1.5, 0.55, 0.01]} />
-        <meshStandardMaterial color="#e9dcb8" />
-      </mesh>
-      {[-0.42, 0.42].map((x, i) => (
-        <group key={x} position={[x, -0.1, 0.1]} ref={(el) => { reels.current[i] = el; }}>
-          <mesh rotation={[Math.PI / 2, 0, 0]}>
-            <cylinderGeometry args={[0.2, 0.2, 0.04, 20]} />
-            <meshStandardMaterial color="#c9b48a" />
-          </mesh>
-          {[0, 1, 2].map((k) => (
-            <mesh key={k} rotation={[0, 0, (k * Math.PI) / 3]} position={[0, 0, 0.03]}>
-              <boxGeometry args={[0.36, 0.04, 0.02]} />
-              <meshBasicMaterial color="#17151b" />
-            </mesh>
-          ))}
-        </group>
-      ))}
-    </group>
-  );
-}
-
-/** A 3.5" floppy disk. */
-function Floppy() {
-  return (
-    <group rotation={[0.3, 0.5, -0.15]}>
-      <mesh>
-        <boxGeometry args={[1.1, 1.1, 0.06]} />
-        <meshStandardMaterial color="#2b5f8a" roughness={0.6} />
-      </mesh>
-      <mesh position={[0.1, 0.4, 0.04]}>
-        <boxGeometry args={[0.6, 0.3, 0.02]} />
-        <meshStandardMaterial color="#c8cdd2" metalness={0.8} roughness={0.3} />
-      </mesh>
-      <mesh position={[0, -0.25, 0.04]}>
-        <boxGeometry args={[0.8, 0.5, 0.02]} />
-        <meshStandardMaterial color="#f1ead8" />
-      </mesh>
     </group>
   );
 }
@@ -159,34 +107,6 @@ function Watch() {
   );
 }
 
-/** A film reel with spokes, a nod to the old-media eras. */
-function FilmReel() {
-  const ref = useRef<Group>(null);
-  useFrame((_, dt) => {
-    if (ref.current) ref.current.rotation.z += dt * 0.9;
-  });
-  return (
-    <group rotation={[0.2, 0.6, 0]}>
-      <group ref={ref}>
-        <mesh>
-          <torusGeometry args={[0.9, 0.06, 10, 48]} />
-          <meshStandardMaterial color="#9aa0a8" metalness={0.8} roughness={0.35} />
-        </mesh>
-        {Array.from({ length: 6 }, (_, i) => (
-          <mesh key={i} rotation={[0, 0, (i * Math.PI) / 3]}>
-            <boxGeometry args={[1.8, 0.07, 0.04]} />
-            <meshStandardMaterial color="#9aa0a8" metalness={0.8} roughness={0.35} />
-          </mesh>
-        ))}
-        <mesh rotation={[Math.PI / 2, 0, 0]}>
-          <cylinderGeometry args={[0.7, 0.7, 0.03, 36]} />
-          <meshStandardMaterial color="#2a2619" transparent opacity={0.85} />
-        </mesh>
-      </group>
-    </group>
-  );
-}
-
 /** Rings that rush toward the camera: a tunnel of years. */
 function Tunnel() {
   const rings = useRef<(Group | null)[]>([]);
@@ -194,7 +114,7 @@ function Tunnel() {
   useFrame((_, dt) => {
     rings.current.forEach((r) => {
       if (!r) return;
-      r.position.z += dt * 1.6;
+      r.position.z += dt * 0.5;
       r.rotation.z += dt * 0.1;
       if (r.position.z > 6) r.position.z -= N * 3;
     });
@@ -205,13 +125,13 @@ function Tunnel() {
         <group key={i} ref={(el) => { rings.current[i] = el; }} position={[0, 0, -i * 3 + 4]}>
           <mesh>
             <torusGeometry args={[7 + (i % 3) * 0.6, 0.015, 8, 96]} />
-            <meshBasicMaterial color={GOLD} transparent opacity={0.35} />
+            <meshBasicMaterial color={GOLD} transparent opacity={0.18} />
           </mesh>
           {/* tick marks like a dial */}
           {Array.from({ length: 24 }, (_, k) => (
             <mesh key={k} position={[Math.cos((k * Math.PI) / 12) * 7.4, Math.sin((k * Math.PI) / 12) * 7.4, 0]} rotation={[0, 0, (k * Math.PI) / 12]}>
               <boxGeometry args={[0.35, 0.02, 0.02]} />
-              <meshBasicMaterial color={GOLD} transparent opacity={0.25} />
+              <meshBasicMaterial color={GOLD} transparent opacity={0.12} />
             </mesh>
           ))}
         </group>
@@ -222,12 +142,9 @@ function Tunnel() {
 
 type Slot = { pos: [number, number, number]; scale: number; node: ReactNode; speed: number };
 const SLOTS: Slot[] = [
-  { pos: [4.2, 1.6, -1], scale: 1.0, node: <Watch />, speed: 1 },
-  { pos: [-5.2, 2.2, -3], scale: 0.9, node: <Vinyl />, speed: 1.3 },
-  { pos: [-3.6, -2.2, -1], scale: 0.85, node: <Cassette />, speed: 0.9 },
-  { pos: [5.4, -2.4, -3], scale: 0.9, node: <CrtTv />, speed: 1.1 },
-  { pos: [0.4, 3.4, -5], scale: 0.7, node: <Floppy />, speed: 1.5 },
-  { pos: [-1.2, -3.6, -5], scale: 0.8, node: <FilmReel />, speed: 1.2 },
+  { pos: [5.2, 1.4, -2], scale: 0.9, node: <Watch />, speed: 0.6 },
+  { pos: [-5.6, 1.8, -4], scale: 0.8, node: <Vinyl />, speed: 0.5 },
+  { pos: [5.8, -2.6, -4], scale: 0.75, node: <CrtTv />, speed: 0.5 },
 ];
 
 function Objects() {
@@ -241,7 +158,7 @@ function Objects() {
   return (
     <group ref={group}>
       {SLOTS.map((o, i) => (
-        <Float key={i} speed={o.speed} rotationIntensity={0.6} floatIntensity={1.4}>
+        <Float key={i} speed={o.speed} rotationIntensity={0.25} floatIntensity={0.6}>
           <group position={o.pos} scale={o.scale}>{o.node}</group>
         </Float>
       ))}

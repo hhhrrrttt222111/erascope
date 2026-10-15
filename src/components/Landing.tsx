@@ -1,5 +1,5 @@
 import { Box, Container, Typography } from "@mui/material";
-import { motion, useScroll, useSpring, useTransform } from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
 import { Component, lazy, type ComponentType, Suspense, useEffect, useRef, useState, type CSSProperties, type ReactNode } from "react";
 import { eras, type Era } from "../data";
 import type { ChromeId } from "../data/types";
@@ -29,18 +29,16 @@ class SceneBoundary extends Component<{ children: ReactNode }, { failed: boolean
   }
 }
 
-const TITLE = "Choose your year";
+
+const GOLD = "#c9b48a";
 
 /** Hover polish for era tiles: a mouse-following spotlight and a light sweep. */
 const TILE_CSS = `
 .landing-section{margin-bottom:32px}@media(min-width:900px){.landing-section{margin-bottom:40px}}
-.era-tile .spot,.era-tile .sweep{position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .25s}
-.era-tile .spot{background:radial-gradient(circle 120px at var(--mx,50%) var(--my,50%),rgba(255,255,255,.35),transparent 70%);mix-blend-mode:overlay}
-.era-tile .sweep{background:linear-gradient(115deg,transparent 35%,rgba(255,255,255,.35) 50%,transparent 65%);transform:translateX(-120%)}
+.era-tile .spot,.era-tile .spot{background:radial-gradient(circle 140px at var(--mx,50%) var(--my,50%),rgba(255,255,255,.22),transparent 70%);mix-blend-mode:overlay}
 .era-tile:hover .spot,.era-tile:focus-visible .spot{opacity:1}
-.era-tile:hover .sweep{opacity:1;transform:translateX(120%);transition:transform .7s ease,opacity .2s}
 .era-tile{transition:box-shadow .3s,filter .3s}
-.era-tile:hover,.era-tile:focus-visible{filter:saturate(1.2) brightness(1.06);box-shadow:0 18px 40px rgba(0,0,0,.55),0 0 0 2px #c9b48a}
+.era-tile:hover,.era-tile:focus-visible{box-shadow:0 14px 32px rgba(0,0,0,.5)}
 `;
 
 /** Each card previews its era's chrome: surface, border and one signature detail. */
@@ -108,11 +106,15 @@ export function Landing() {
   };
 
   const { scrollY } = useScroll();
-  const sceneY = useSpring(useTransform(scrollY, [0, 1200], [0, -180]), { stiffness: 80, damping: 20 });
-  const ribbon = [...eras, ...eras];
+  const sceneY = useTransform(scrollY, [0, 800], [0, -120]);
+  const sceneOpacity = useTransform(scrollY, [0, 700], [1, 0]);
+
+  const reveal = reduced
+    ? {}
+    : { initial: { opacity: 0, y: 24 }, whileInView: { opacity: 1, y: 0 }, viewport: { once: true, margin: "-60px" }, transition: { duration: 0.8, ease: [0.22, 1, 0.36, 1] as const } };
 
   return (
-    <Box component={motion.main} initial={reduced ? false : { opacity: 0, filter: "blur(10px)" }} animate={{ opacity: 1, filter: "blur(0px)" }} transition={{ duration: 0.6 }} id="main" tabIndex={-1} sx={{ position: "relative", minHeight: "100vh", background: "radial-gradient(ellipse at 70% 10%, #241f33 0%, #100f14 60%)", color: "#f5f2ea", outline: "none", overflow: "hidden", pt: { xs: 5, md: 8 } }}>
+    <Box component={motion.main} initial={reduced ? false : { opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.8 }} id="main" tabIndex={-1} sx={{ position: "relative", minHeight: "100vh", background: "radial-gradient(ellipse at 75% 0%, #1f1b2b 0%, #100f14 55%)", color: "#f5f2ea", outline: "none", overflow: "hidden", pt: { xs: 5, md: 8 } }}>
       {!reduced && <Cursor />}
       {leaving && (
         <motion.div
@@ -123,8 +125,8 @@ export function Landing() {
           style={{ position: "fixed", inset: 0, zIndex: 10000, background: leaving.bg, display: "grid", placeItems: "center", pointerEvents: "all" }}
         >
           <motion.span
-            initial={{ opacity: 0, scale: 0.6, letterSpacing: "0.5em" }}
-            animate={{ opacity: 1, scale: 1, letterSpacing: "0.08em" }}
+            initial={{ opacity: 0, letterSpacing: "0.4em" }}
+            animate={{ opacity: 1, letterSpacing: "0.08em" }}
             transition={{ delay: 0.25, duration: 0.45 }}
             style={{ fontFamily: "Georgia, serif", fontWeight: 700, fontSize: "clamp(64px, 18vw, 200px)", color: leaving.fg }}
           >
@@ -134,7 +136,7 @@ export function Landing() {
       )}
       <style>{TILE_CSS}</style>
       {!reduced && (
-        <motion.div aria-hidden style={{ position: "absolute", inset: 0, y: sceneY, pointerEvents: "none", height: "130%" }}>
+        <motion.div aria-hidden style={{ position: "absolute", top: 0, left: 0, right: 0, height: "100vh", y: sceneY, opacity: sceneOpacity, pointerEvents: "none" }}>
           <SceneBoundary>
             <Suspense fallback={null}>
               <TimeScene />
@@ -142,55 +144,25 @@ export function Landing() {
           </SceneBoundary>
         </motion.div>
       )}
-      <Container maxWidth="lg" sx={{ position: "relative", zIndex: 1 }}>
-        <Typography variant="overline" component="p" sx={{ color: "#c9b48a", letterSpacing: "0.3em", fontFamily: "Georgia, serif" }}>
-          Erascope
-        </Typography>
-        <Typography component="h1" aria-label={TITLE} sx={{ fontFamily: "Georgia, 'Times New Roman', serif", fontWeight: 700, fontSize: { xs: "2.8rem", md: "5rem" }, lineHeight: 1.05, mb: 2 }}>
-          {TITLE.split(" ").map((word, w) => (
-            <Box key={w} component="span" aria-hidden sx={{ display: "inline-block", mr: "0.3em", whiteSpace: "nowrap" }}>
-              {[...word].map((ch, c) => (
-                <motion.span
-                  key={c}
-                  style={{ display: "inline-block" }}
-                  initial={reduced ? false : { opacity: 0, y: 40, rotateX: -90 }}
-                  animate={reduced ? undefined : { opacity: 1, y: [0, -6, 0], rotateX: 0 }}
-                  transition={{
-                    opacity: { delay: 0.05 * (w * 6 + c), duration: 0.5 },
-                    rotateX: { delay: 0.05 * (w * 6 + c), duration: 0.6 },
-                    y: { delay: 0.05 * (w * 6 + c), duration: 3 + (c % 3) * 0.6, repeat: Infinity, ease: "easeInOut" },
-                  }}
-                  whileHover={reduced ? undefined : { y: -14, color: "#c9b48a", scale: 1.15 }}
-                >
-                  {ch}
-                </motion.span>
-              ))}
-            </Box>
-          ))}
-        </Typography>
-        <Typography sx={{ maxWidth: 680, fontSize: { xs: "1rem", md: "1.15rem" }, color: "#d8d3c6", mb: { xs: 4, md: 5 }, fontFamily: "Georgia, serif" }}>
-          Thirteen stops from 1900 to 2050. Step into a morning in another era: what woke you up, the news, what things cost,
-          the gadgets on the shelf and what people thought the future would bring. Once inside, drag the timeline to watch the
-          whole interface travel through time.
-        </Typography>
 
-        {!reduced && (
-          <div aria-hidden style={{ overflow: "hidden", marginBottom: 40, borderTop: "1px solid #3a3526", borderBottom: "1px solid #3a3526", padding: "8px 0", WebkitMaskImage: "linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent)", maskImage: "linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent)" }}>
-            <motion.div
-              style={{ display: "flex", gap: 40, width: "max-content", fontFamily: "Georgia, serif", fontSize: 22, letterSpacing: "0.2em", color: "#c9b48a" }}
-              animate={{ x: ["0%", "-50%"] }}
-              transition={{ duration: 40, repeat: Infinity, ease: "linear" }}
-            >
-              {ribbon.map((e, i) => (
-                <span key={i}>{e.year} ✦</span>
-              ))}
-            </motion.div>
-          </div>
-        )}
+      <Container maxWidth="lg" sx={{ position: "relative", zIndex: 1 }}>
+        {/* Hero */}
+        <Box component={motion.div} initial={reduced ? false : { opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1] }} sx={{ pt: { xs: 2, md: 6 }, pb: { xs: 6, md: 9 } }}>
+          <Typography variant="overline" component="p" sx={{ color: GOLD, letterSpacing: "0.38em", fontFamily: "Georgia, serif", fontSize: "0.8rem" }}>
+            Erascope &nbsp;·&nbsp; 1900 – 2050
+          </Typography>
+          <Box sx={{ width: 56, height: "1px", background: GOLD, my: 2.5 }} />
+          <Typography component="h1" sx={{ fontFamily: "Georgia, 'Times New Roman', serif", fontWeight: 400, fontSize: { xs: "2.8rem", md: "5rem" }, lineHeight: 1.05, letterSpacing: "-0.01em", mb: 3 }}>
+            Choose your <Box component="span" sx={{ fontStyle: "italic", color: GOLD }}>year</Box>
+          </Typography>
+          <Typography sx={{ maxWidth: 620, fontSize: { xs: "1rem", md: "1.15rem" }, lineHeight: 1.7, color: "#cfc9ba", fontFamily: "Georgia, serif" }}>
+            Step into an ordinary morning in another era, and watch the whole interface travel through time with you.
+          </Typography>
+        </Box>
 
         {choices.length > 1 && (
           <div className="landing-section">
-            <Typography id="country-step" component="h2" sx={{ fontFamily: "Georgia, serif", fontSize: { xs: "1.25rem", md: "1.5rem" }, mb: 1.5 }}>
+            <Typography id="country-step" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "1.25rem", md: "1.5rem" }, mb: 1.5 }}>
               Choose your country
             </Typography>
             <Box role="radiogroup" aria-labelledby="country-step" aria-busy={countryLoading} sx={{ display: "grid", gap: 1.5, gridTemplateColumns: { xs: "1fr", sm: "repeat(2, minmax(0, 1fr))" }, maxWidth: 720 }}>
@@ -212,11 +184,11 @@ export function Landing() {
                       fontFamily: "Georgia, serif",
                       color: "#f5f2ea",
                       background: selected ? "#2a2619" : "transparent",
-                      border: `2px solid ${selected ? "#c9b48a" : "#5c5646"}`,
-                      borderRadius: 2,
-                      transition: "transform .2s, box-shadow .2s, border-color .2s, background .2s",
-                      "&:hover": { transform: "translateY(-4px)", borderColor: "#c9b48a", boxShadow: "0 10px 24px rgba(0,0,0,.45), 0 0 0 1px #c9b48a55", background: "#211e16" },
-                      "&:active": { transform: "scale(0.97)", boxShadow: "inset 0 0 18px rgba(201,180,138,.35)" },
+                      border: `1px solid ${selected ? GOLD : "#4a4536"}`,
+                      borderRadius: 1,
+                      transition: "border-color .25s, background .25s, transform .2s",
+                      "&:hover": { borderColor: GOLD, background: "#1d1a14" },
+                      "&:active": { transform: "scale(0.985)" },
                       "&:focus-visible": { outline: "3px solid #fff", outlineOffset: 2 },
                     }}
                   >
@@ -228,7 +200,7 @@ export function Landing() {
                         </Box>
                       ))}
                     </Box>
-                    <Box component="span" sx={{ display: "block", fontSize: "0.9rem", color: "#d8d3c6", mt: 0.5 }}>
+                    <Box component="span" sx={{ display: "block", fontSize: "0.9rem", color: "#cfc9ba", mt: 0.5 }}>
                       {c.id === "world" ? "The original tour: everyday life as lived in the United States." : "Everyday life in India across the same thirteen years. Content is still being researched."}
                     </Box>
                   </Box>
@@ -238,6 +210,9 @@ export function Landing() {
           </div>
         )}
 
+        <Typography id="year-step" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "1.25rem", md: "1.5rem" }, mb: 2 }}>
+          Choose your year
+        </Typography>
         <Box
           component="ul"
           sx={{
@@ -246,8 +221,6 @@ export function Landing() {
             p: 0,
             display: "grid",
             gap: { xs: 1.5, md: 2 },
-            perspective: 1200,
-            pb: 4,
             gridTemplateColumns: { xs: "repeat(2, minmax(0, 1fr))", sm: "repeat(3, minmax(0, 1fr))", md: "repeat(4, minmax(0, 1fr))", lg: "repeat(5, minmax(0, 1fr))" },
           }}
         >
@@ -256,11 +229,10 @@ export function Landing() {
             return (
               <motion.li
                 key={era.year}
-                initial={reduced ? false : { opacity: 0, y: 60, rotateX: -35, scale: 0.9 }}
-                whileInView={{ opacity: 1, y: 0, rotateX: 0, scale: 1 }}
-                viewport={{ once: true, margin: "-40px" }}
-                transition={{ delay: 0.05 * (i % 5), duration: 0.7, ease: [0.22, 1, 0.36, 1] }}
-                style={{ marginTop: (i % 3) * 14, zIndex: 0 }}
+                initial={reduced ? false : { opacity: 0, y: 28 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true, margin: "-30px" }}
+                transition={{ delay: 0.04 * (i % 5), duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
               >
                 <motion.button
                   type="button"
@@ -271,10 +243,8 @@ export function Landing() {
                     e.currentTarget.style.setProperty("--mx", `${e.clientX - r.left}px`);
                     e.currentTarget.style.setProperty("--my", `${e.clientY - r.top}px`);
                   }}
-                  animate={reduced ? undefined : { y: [0, i % 2 ? -8 : 8, 0], rotate: [0, i % 2 ? 0.8 : -0.8, 0] }}
-                  transition={reduced ? undefined : { duration: 4 + (i % 4), repeat: Infinity, ease: "easeInOut", delay: i * 0.15 }}
-                  whileHover={reduced ? undefined : { scale: 1.08, rotateY: i % 2 ? 8 : -8, rotate: 0, zIndex: 5 }}
-                  whileTap={reduced ? undefined : { scale: 0.97 }}
+                  whileHover={reduced ? undefined : { y: -4 }}
+                  whileTap={reduced ? undefined : { scale: 0.98 }}
                   aria-label={`${era.year}: ${eraFor(era.year).title}${era.speculative ? " (speculative)" : ""}`}
                   style={{
                     ...tileStyle(era.theme.chrome, era),
@@ -294,7 +264,6 @@ export function Landing() {
                   }}
                 >
                   <span className="spot" aria-hidden />
-                  <span className="sweep" aria-hidden />
                   <Detail era={era} />
                   <span style={{ fontFamily: theme.typography.h1.fontFamily, fontWeight: 700, fontSize: "clamp(30px, 6vw, 40px)", lineHeight: 1 }}>{era.year}</span>
                   <span style={{ fontFamily: theme.typography.h1.fontFamily, fontWeight: 700, fontSize: 15, lineHeight: 1.2 }}>{eraFor(era.year).title}</span>
@@ -305,7 +274,66 @@ export function Landing() {
           })}
         </Box>
 
-        <Typography variant="caption" component="p" sx={{ color: "#a8a294", mt: { xs: 4, md: 5 }, maxWidth: 720, fontFamily: "Georgia, serif" }}>
+        {/* About */}
+        <Box component={motion.section} {...reveal} aria-labelledby="about-h" sx={{ mt: { xs: 10, md: 16 }, display: "grid", gap: { xs: 4, md: 8 }, gridTemplateColumns: { xs: "1fr", md: "1fr 1fr" }, alignItems: "start" }}>
+          <Box>
+            <Label>About</Label>
+            <Typography id="about-h" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "2rem", md: "2.8rem" }, lineHeight: 1.15 }}>
+              An ordinary morning, <Box component="span" sx={{ fontStyle: "italic", color: GOLD }}>a century apart.</Box>
+            </Typography>
+          </Box>
+          <Box>
+            <Typography sx={{ fontFamily: "Georgia, serif", fontSize: "1.08rem", lineHeight: 1.8, color: "#cfc9ba", mb: 4 }}>
+              Erascope is an interactive tour of everyday life from 1900 to 2050. Instead of dates and treaties, it shows what a
+              normal day looked like: what woke you up, what was in the news, what things cost, which gadgets sat on the shelf, and
+              what people thought the future would bring. The interface itself changes with the era, so you feel the time as well
+              as read about it.
+            </Typography>
+            <Box sx={{ display: "flex", gap: { xs: 4, md: 6 }, borderTop: "1px solid #3a3526", pt: 3 }}>
+              {[["13", "eras"], ["150", "years"], [String(choices.length), choices.length === 1 ? "country" : "countries"]].map(([n, l]) => (
+                <Box key={l}>
+                  <Typography sx={{ fontFamily: "Georgia, serif", fontSize: "2.4rem", lineHeight: 1, color: GOLD }}>{n}</Typography>
+                  <Typography sx={{ fontFamily: "Georgia, serif", fontSize: "0.8rem", letterSpacing: "0.2em", textTransform: "uppercase", color: "#a8a294", mt: 1 }}>{l}</Typography>
+                </Box>
+              ))}
+            </Box>
+          </Box>
+        </Box>
+
+        {/* How to use */}
+        <Box component={motion.section} {...reveal} aria-labelledby="how-h" sx={{ mt: { xs: 10, md: 16 } }}>
+          <Label>How to use it</Label>
+          <Typography id="how-h" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "2rem", md: "2.8rem" }, lineHeight: 1.15, mb: { xs: 4, md: 6 } }}>
+            Three steps.
+          </Typography>
+          <Box component="ol" sx={{ listStyle: "none", m: 0, p: 0, display: "grid", gap: { xs: 4, md: 0 }, gridTemplateColumns: { xs: "1fr", md: "repeat(3, 1fr)" } }}>
+            {STEPS.map((st, i) => (
+              <Box component="li" key={st.title} sx={{ pr: { md: 5 }, pl: { md: i ? 5 : 0 }, borderLeft: { md: i ? "1px solid #3a3526" : "none" } }}>
+                <Typography sx={{ fontFamily: "Georgia, serif", fontStyle: "italic", fontSize: "1.1rem", color: GOLD, mb: 1 }}>0{i + 1}</Typography>
+                <Typography component="h3" sx={{ fontFamily: "Georgia, serif", fontSize: "1.4rem", fontWeight: 400, mb: 1 }}>{st.title}</Typography>
+                <Typography sx={{ fontFamily: "Georgia, serif", lineHeight: 1.75, color: "#cfc9ba" }}>{st.body}</Typography>
+              </Box>
+            ))}
+          </Box>
+        </Box>
+
+        {/* What you'll find */}
+        <Box component={motion.section} {...reveal} aria-labelledby="find-h" sx={{ mt: { xs: 10, md: 16 } }}>
+          <Label>Inside every year</Label>
+          <Typography id="find-h" component="h2" sx={{ fontFamily: "Georgia, serif", fontWeight: 400, fontSize: { xs: "2rem", md: "2.8rem" }, lineHeight: 1.15, mb: { xs: 4, md: 6 } }}>
+            What you will find.
+          </Typography>
+          <Box component="ul" sx={{ listStyle: "none", m: 0, p: 0, display: "grid", gap: "1px", background: "#3a3526", border: "1px solid #3a3526", gridTemplateColumns: { xs: "1fr", sm: "repeat(2, 1fr)", md: "repeat(3, 1fr)" } }}>
+            {FIND.map((f) => (
+              <Box component="li" key={f.title} className="find-cell" sx={{ background: "#100f14", p: { xs: 3, md: 4 }, transition: "background .3s", "&:hover": { background: "#1a1722" } }}>
+                <Typography component="h3" sx={{ fontFamily: "Georgia, serif", fontSize: "1.2rem", fontWeight: 400, color: GOLD, mb: 1 }}>{f.title}</Typography>
+                <Typography sx={{ fontFamily: "Georgia, serif", fontSize: "0.98rem", lineHeight: 1.7, color: "#cfc9ba" }}>{f.body}</Typography>
+              </Box>
+            ))}
+          </Box>
+        </Box>
+
+        <Typography variant="caption" component="p" sx={{ color: "#a8a294", mt: { xs: 8, md: 10 }, maxWidth: 720, fontFamily: "Georgia, serif", lineHeight: 1.7 }}>
           {country === "world"
             ? "Historical eras describe everyday life in the United States. "
             : "Everyday life in India, year by year. Much of this content is still being researched. "}
@@ -313,19 +341,32 @@ export function Landing() {
         </Typography>
       </Container>
 
-      <Box component="footer" sx={{ position: "relative", zIndex: 1, mt: { xs: 6, md: 8 }, py: 3, textAlign: "center", borderTop: "1px solid #3a3526", background: "rgba(16,15,20,0.7)", fontFamily: "Georgia, serif", color: "#d8d3c6" }}>
-        Made with{" "}
-        <motion.span
-          role="img"
-          aria-label="love"
-          style={{ display: "inline-block", color: "#e0556b" }}
-          animate={reduced ? undefined : { scale: [1, 1.3, 1, 1.25, 1] }}
-          transition={{ duration: 1.4, repeat: Infinity, ease: "easeInOut" }}
-        >
-          ♥
-        </motion.span>{" "}
-        by HRT
+      <Box component="footer" sx={{ position: "relative", zIndex: 1, mt: { xs: 6, md: 8 }, py: 4, textAlign: "center", borderTop: "1px solid #3a3526", fontFamily: "Georgia, serif", letterSpacing: "0.08em", color: "#a8a294", fontSize: "0.9rem" }}>
+        Made with <span role="img" aria-label="love" style={{ color: "#c0566a" }}>♥</span> by HRT
       </Box>
     </Box>
   );
 }
+
+function Label({ children }: { children: ReactNode }) {
+  return (
+    <Typography variant="overline" component="p" sx={{ color: "#c9b48a", letterSpacing: "0.32em", fontFamily: "Georgia, serif", fontSize: "0.75rem", mb: 1.5 }}>
+      {children}
+    </Typography>
+  );
+}
+
+const STEPS = [
+  { title: "Pick a country", body: "Choose whose everyday life you want to see. The tour begins in the United States; India follows the same thirteen years." },
+  { title: "Choose a year", body: "Select any of the thirteen stops from 1900 to 2050. The page reshapes itself in that era's typography, colour and chrome." },
+  { title: "Explore and travel", body: "Read the morning, then drag the timeline to move through the decades and watch the interface change. Open a deep dive to go further." },
+];
+
+const FIND = [
+  { title: "The morning routine", body: "What woke you up and how the day began, step by step." },
+  { title: "The news", body: "The headlines people were reading over breakfast." },
+  { title: "What things cost", body: "Everyday prices, so wages and rent mean something." },
+  { title: "Gadgets on the shelf", body: "The technology of the day, from the icebox to the smartphone." },
+  { title: "Visions of the future", body: "What each generation expected the world to look like next." },
+  { title: "Sources you can check", body: "Facts carry their sources, and anything unconfirmed is marked." },
+];
