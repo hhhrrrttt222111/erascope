@@ -101,7 +101,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "clothingAndStyle": {
       "title": "What people wore",
@@ -155,7 +156,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "workAndWages": {
       "title": "Work and wages",
@@ -307,7 +309,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "gettingAround": {
       "title": "Getting around",
@@ -416,7 +419,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "healthAndMedicine": {
       "title": "Health and medicine",
@@ -559,7 +563,8 @@
           "regionTag": "east",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 4 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "spotlight": {
       "title": "Swadeshi at home: khadi and the boycott of foreign cloth",

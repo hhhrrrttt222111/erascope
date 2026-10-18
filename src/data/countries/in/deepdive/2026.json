@@ -1,0 +1,1933 @@
+{
+  "country": "in",
+  "year": 2026,
+  "speculative": false,
+  "intro": {
+    "headline": "India in 2026 (to 18 October)",
+    "summary": "Highlights of the year so far: a third T20 World Cup, the Glasgow and Aichi-Nagoya medal tables, the new Income-tax Act, a sleeper train to Guwahati and a record first half at the cinema.",
+    "sources": [
+      {
+        "label": "Wikipedia: 2026 in India",
+        "url": "https://en.wikipedia.org/wiki/2026_in_India",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: 2026 Men's T20 World Cup final",
+        "url": "https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup_final",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: India at the 2026 Commonwealth Games",
+        "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      {
+        "label": "Wikipedia: India at the 2026 Asian Games",
+        "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      }
+    ]
+  },
+  "highlights": [
+    "in.2026.dd.sports.t20-world-cup-final",
+    "in.2026.dd.sports.asian-games-tally",
+    "in.2026.dd.government-politics.income-tax-act",
+    "in.2026.dd.technology-science.vande-bharat-sleeper",
+    "in.2026.dd.cinema.dhurandhar-the-revenge",
+    "in.2026.dd.economy-business.gdp-growth-q1"
+  ],
+  "sections": {
+    "technology-science": {
+      "title": "Technology & science",
+      "standfirst": "Payments, trains, space tests and Indian-language AI.",
+      "items": [
+        {
+          "id": "in.2026.dd.technology-science.upi",
+          "kind": "tech",
+          "title": "UPI",
+          "summary": "UPI handled about 24.07 billion transactions worth Rs 29.37 lakh crore in September 2026, around 802 million a day.",
+          "sources": [
+            {
+              "label": "Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)",
+              "url": "https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "StartupTalky: UPI daily transactions cross 800 million, September 2026 (2 October 2026, citing NPCI)",
+              "url": "https://startuptalky.com/india-upi-transactions-september-2026/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "availability": "widespread",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.technology-science.vande-bharat-sleeper",
+          "kind": "tech",
+          "title": "Vande Bharat Sleeper",
+          "summary": "India's first Vande Bharat Sleeper train began running between Howrah and Guwahati (Kamakhya) on 17 January 2026, with 16 coaches and about 823 passengers.",
+          "sources": [
+            {
+              "label": "Indian Infrastructure: India's first Vande Bharat Sleeper train launched on Howrah-Guwahati route (19 January 2026)",
+              "url": "https://indianinfrastructure.com/2026/01/19/indias-first-vande-bharat-sleeper-train-launched-on-howrah-guwahati-route-in-west-bengal-and-assam/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Global Mass Transit: First Vande Bharat Sleeper train launched between Howrah and Guwahati (17 January 2026)",
+              "url": "https://globalmasstransit.net/first-vande-bharat-sleeper-train-launched-between-howrah-and-guwahati-india/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "availability": "urban",
+          "regionTag": "north-east",
+          "place": "Guwahati (Kamakhya)",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.technology-science.gaganyaan-parachute-tests",
+          "kind": "tech",
+          "title": "Gaganyaan parachute tests",
+          "summary": "A second integrated air drop test on 10 April 2026 deployed ten parachutes and the Indian Navy recovered the simulated crew module; the first uncrewed Gaganyaan flight was still listed as 'to be decided' in 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: Gaganyaan",
+              "url": "https://en.wikipedia.org/wiki/Gaganyaan",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "date": "2026-04",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.technology-science.indian-language-ai",
+          "kind": "tech",
+          "title": "Indian-language AI models",
+          "summary": "At the AI Impact Summit Sarvam AI showed 30B and 105B models and the government-backed BharatGen released Param2, with 17 billion parameters and 22 Indian languages.",
+          "sources": [
+            {
+              "label": "Wikipedia: AI Impact Summit",
+              "url": "https://en.wikipedia.org/wiki/AI_Impact_Summit",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "availability": "elite-urban",
+          "regionTag": "national",
+          "date": "2026-02",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.technology-science.indiaai-compute",
+          "kind": "tech",
+          "title": "IndiaAI compute",
+          "summary": "The government plans to add more than 20,000 GPUs to an existing base of 38,000 under the IndiaAI Compute Portal.",
+          "sources": [
+            {
+              "label": "Wikipedia: AI Impact Summit",
+              "url": "https://en.wikipedia.org/wiki/AI_Impact_Summit",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "availability": "lab-or-official",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.technology-science.fixed-wireless-5g",
+          "kind": "tech",
+          "title": "5G fixed wireless",
+          "summary": "About 13.45 million homes and offices used 5G fixed wireless broadband at the end of August 2026.",
+          "sources": [
+            {
+              "label": "TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)",
+              "url": "https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "availability": "urban",
+          "regionTag": "national",
+          "date": "2026-08",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.technology-science.quick-commerce-apps",
+          "kind": "tech",
+          "title": "Quick-commerce apps",
+          "summary": "Apps such as Blinkit, Zepto and Swiggy Instamart delivered groceries to city doors in minutes; in January the Labour Ministry asked them to drop explicit 10-minute guarantees.",
+          "sources": [
+            {
+              "label": "Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)",
+              "url": "https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)",
+              "url": "https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "availability": "urban",
+          "regionTag": "national",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        }
+      ],
+      "interactive": {
+        "component": "TechThenNow",
+        "data": {
+          "comparisons": [
+            {
+              "itemId": "in.2026.dd.technology-science.upi",
+              "nowTitle": "UPI in 2020",
+              "specs": [
+                {
+                  "label": "Transactions in a month",
+                  "then": "24.07 billion (September 2026)",
+                  "now": "2.07 billion (October 2020)"
+                }
+              ]
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)",
+            "url": "https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september",
+            "accessed": "2026-10-18",
+            "quality": "secondary"
+          },
+          {
+            "label": "StartupTalky: UPI daily transactions cross 800 million, September 2026 (2 October 2026, citing NPCI)",
+            "url": "https://startuptalky.com/india-upi-transactions-september-2026/",
+            "accessed": "2026-10-18",
+            "quality": "secondary"
+          },
+          {
+            "label": "Wikipedia: Unified Payments Interface (as cited for 2020)",
+            "url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "government-politics": {
+      "title": "Government & politics",
+      "standfirst": "Who held the main offices, and two laws that took effect.",
+      "items": [
+        {
+          "id": "in.2026.dd.government-politics.president",
+          "kind": "governance",
+          "title": "President: Droupadi Murmu",
+          "summary": "Droupadi Murmu has been President of India since 25 July 2022.",
+          "sources": [
+            {
+              "label": "Wikipedia: President of India",
+              "url": "https://en.wikipedia.org/wiki/President_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "office": "President of India",
+          "holder": "Droupadi Murmu",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.government-politics.vice-president",
+          "kind": "governance",
+          "title": "Vice-President: C. P. Radhakrishnan",
+          "summary": "C. P. Radhakrishnan has been Vice-President of India since 12 September 2025.",
+          "sources": [
+            {
+              "label": "Wikipedia: Vice President of India",
+              "url": "https://en.wikipedia.org/wiki/Vice_President_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "office": "Vice-President of India",
+          "holder": "C. P. Radhakrishnan",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.government-politics.prime-minister",
+          "kind": "governance",
+          "title": "Prime Minister: Narendra Modi",
+          "summary": "Narendra Modi has been Prime Minister since 26 May 2014 and won a third successive term in 2024.",
+          "sources": [
+            {
+              "label": "Wikipedia: Prime Minister of India",
+              "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "office": "Prime Minister of India",
+          "holder": "Narendra Modi",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.2020.dd.government-politics.pm-modi"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.government-politics.chief-justice",
+          "kind": "governance",
+          "title": "Chief Justice: Surya Kant",
+          "summary": "Surya Kant became the 53rd Chief Justice of India on 24 November 2025, succeeding B. R. Gavai.",
+          "sources": [
+            {
+              "label": "Wikipedia: Chief Justice of India",
+              "url": "https://en.wikipedia.org/wiki/Chief_Justice_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "office": "Chief Justice of India",
+          "holder": "Surya Kant",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.government-politics.speaker",
+          "kind": "governance",
+          "title": "Speaker: Om Birla",
+          "summary": "Om Birla, Speaker since 19 June 2019, presided over the 18th Lok Sabha, which first met in June 2024.",
+          "sources": [
+            {
+              "label": "Wikipedia: Speaker of the Lok Sabha",
+              "url": "https://en.wikipedia.org/wiki/Speaker_of_the_Lok_Sabha",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "office": "Speaker of the Lok Sabha",
+          "holder": "Om Birla",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.government-politics.election-commissioner",
+          "kind": "governance",
+          "title": "Chief Election Commissioner: Gyanesh Kumar",
+          "summary": "Gyanesh Kumar has been Chief Election Commissioner since 19 February 2025.",
+          "sources": [
+            {
+              "label": "Wikipedia: Chief Election Commissioner of India",
+              "url": "https://en.wikipedia.org/wiki/Chief_Election_Commissioner_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "office": "Chief Election Commissioner of India",
+          "holder": "Gyanesh Kumar",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.government-politics.income-tax-act",
+          "kind": "governance",
+          "title": "The Income-tax Act, 2025",
+          "summary": "The Act, which replaced the Income-tax Act, 1961, took effect on 1 April 2026; it introduced a single 'tax year' and cut the number of sections from over 800 to 536.",
+          "sources": [
+            {
+              "label": "Wikipedia: Income-tax Act, 2025",
+              "url": "https://en.wikipedia.org/wiki/Income-tax_Act,_2025",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "office": "Parliament of India",
+          "holder": "Parliament",
+          "instrument": "Income-tax Act, 2025",
+          "regionTag": "national",
+          "date": "2026-04",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.government-politics.anti-paper-leak-law",
+          "kind": "governance",
+          "title": "The Anti Paper Leak Act",
+          "summary": "Parliament passed the Anti Paper Leak Bill, 2026 on 30 July 2026, a week after the Prime Minister announced a draft, following the cancellation of a national medical entrance exam over a paper leak.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "office": "Parliament of India",
+          "holder": "Parliament",
+          "instrument": "Anti Paper Leak Bill, 2026",
+          "regionTag": "national",
+          "date": "2026-07",
+          "todo": true
+        }
+      ],
+      "interactive": {
+        "component": "WhoGoverned",
+        "data": {
+          "tree": {
+            "id": "pres",
+            "label": "President of India",
+            "holder": "Droupadi Murmu",
+            "role": "Head of state; Vice-President C. P. Radhakrishnan",
+            "children": [
+              {
+                "id": "pm",
+                "label": "Prime Minister",
+                "holder": "Narendra Modi",
+                "role": "Head of government",
+                "children": [
+                  {
+                    "id": "ls",
+                    "label": "Lok Sabha",
+                    "holder": "Speaker Om Birla",
+                    "role": "The 18th Lok Sabha"
+                  },
+                  {
+                    "id": "sc",
+                    "label": "Supreme Court",
+                    "holder": "Chief Justice Surya Kant",
+                    "role": "Highest court"
+                  },
+                  {
+                    "id": "ec",
+                    "label": "Election Commission",
+                    "holder": "Chief Election Commissioner Gyanesh Kumar",
+                    "role": "Runs national and state elections"
+                  }
+                ]
+              }
+            ]
+          },
+          "law": {
+            "title": "The Income-tax Act, 2025",
+            "steps": [
+              {
+                "label": "Passed",
+                "detail": "The Lok Sabha passed it on 11 August 2025 and the Rajya Sabha on 12 August 2025."
+              },
+              {
+                "label": "Assent",
+                "detail": "It received the President's assent on 21 August 2025."
+              },
+              {
+                "label": "In force",
+                "detail": "It took effect on 1 April 2026, replacing the Income-tax Act, 1961."
+              }
+            ]
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: President of India",
+            "url": "https://en.wikipedia.org/wiki/President_of_India",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Vice President of India",
+            "url": "https://en.wikipedia.org/wiki/Vice_President_of_India",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Prime Minister of India",
+            "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_India",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Chief Justice of India",
+            "url": "https://en.wikipedia.org/wiki/Chief_Justice_of_India",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Speaker of the Lok Sabha",
+            "url": "https://en.wikipedia.org/wiki/Speaker_of_the_Lok_Sabha",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Chief Election Commissioner of India",
+            "url": "https://en.wikipedia.org/wiki/Chief_Election_Commissioner_of_India",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Wikipedia: Income-tax Act, 2025",
+            "url": "https://en.wikipedia.org/wiki/Income-tax_Act,_2025",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "freedom-history": {
+      "title": "Independence & history",
+      "standfirst": "How the nation marked its past in 2026, and the elections and census that shaped its present.",
+      "items": [
+        {
+          "id": "in.2026.dd.freedom-history.republic-day-2026",
+          "kind": "event",
+          "title": "Republic Day 2026",
+          "summary": "The 77th Republic Day parade on Kartavya Path had two chief guests, European Council President António Costa and European Commission President Ursula von der Leyen, the first time since 2018 that more than one was invited.",
+          "sources": [
+            {
+              "label": "Wikipedia: Republic Day (India)",
+              "url": "https://en.wikipedia.org/wiki/Republic_Day_(India)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "eventType": "other",
+          "date": "2026-01",
+          "regionTag": "north",
+          "place": "New Delhi",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.freedom-history.vande-mataram-150",
+          "kind": "event",
+          "title": "150 years of Vande Mataram",
+          "summary": "A year-long commemoration of the song's 150 years began on 7 November 2025; in February 2026 the Home Ministry issued rules for singing it, and in May the Cabinet approved an amendment to protect it under the national-honour law.",
+          "sources": [
+            {
+              "label": "Wikipedia: Vande Mataram",
+              "url": "https://en.wikipedia.org/wiki/Vande_Mataram",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "eventType": "other",
+          "date": "2026-02",
+          "regionTag": "national",
+          "context": false,
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.freedom-history.independence-day-80",
+          "kind": "event",
+          "title": "The 80th Independence Day",
+          "summary": "Independence Day on 15 August 2026 included a performance of Vande Mataram at the Red Fort.",
+          "sources": [
+            {
+              "label": "Wikipedia: Independence Day (India)",
+              "url": "https://en.wikipedia.org/wiki/Independence_Day_(India)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Vande Mataram",
+              "url": "https://en.wikipedia.org/wiki/Vande_Mataram",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "eventType": "other",
+          "date": "2026-08",
+          "regionTag": "north",
+          "place": "Delhi",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.freedom-history.census-houselisting",
+          "kind": "event",
+          "title": "The census begins",
+          "summary": "The houselisting phase of India's census began on 1 April 2026 with online self-enumeration for the first time; population enumeration, including a caste count, is scheduled for 9 to 28 February 2027.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2027 Indian census",
+              "url": "https://en.wikipedia.org/wiki/2027_Indian_census",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "eventType": "reform",
+          "date": "2026-04",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.freedom-history.assam-election",
+          "kind": "event",
+          "title": "Assam votes",
+          "summary": "Assam's 126 seats were contested on 9 April 2026 and counted on 4 May; the NDA won 102, including 82 for the BJP, and the Congress-led alliance won 21.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 Assam Legislative Assembly election",
+              "url": "https://en.wikipedia.org/wiki/2026_Assam_Legislative_Assembly_election",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "eventType": "election",
+          "date": "2026-04",
+          "regionTag": "north-east",
+          "place": "Assam",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.freedom-history.delimitation-bill",
+          "kind": "event",
+          "title": "A constitutional amendment falls short",
+          "summary": "The Delimitation Bill and the Constitution (131st Amendment) Bill failed to pass the Lok Sabha on 17 April 2026 for lack of a two-thirds majority.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "eventType": "law",
+          "date": "2026-04",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.freedom-history.sarnath-heritage",
+          "kind": "event",
+          "title": "Sarnath named a World Heritage Site",
+          "summary": "Sarnath, where the Buddha gave his first sermon, was named a UNESCO World Heritage Site on 25 July 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "eventType": "other",
+          "date": "2026-07",
+          "regionTag": "north",
+          "place": "Sarnath, Uttar Pradesh",
+          "todo": true
+        }
+      ],
+      "interactive": {
+        "component": "ChronicleScroll"
+      }
+    },
+    "personalities": {
+      "title": "Famous personalities",
+      "standfirst": "Boxers, a weightlifter, a batter and the Reserve Bank's governor.",
+      "items": [
+        {
+          "id": "in.2026.dd.personalities.lovlina-borgohain",
+          "kind": "person",
+          "title": "Lovlina Borgohain",
+          "summary": "She won silver in the women's 75 kg at the Commonwealth Games on 1 August and gold at the Asian Games on 2 October, beating China's Bao Ziyi 5-0.",
+          "sources": [
+            {
+              "label": "Wikipedia: Lovlina Borgohain",
+              "url": "https://en.wikipedia.org/wiki/Lovlina_Borgohain",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Business Today: Lovlina Borgohain defeats China's Ziyi Bao, ends India's 12-year wait for boxing gold (2 October 2026)",
+              "url": "https://www.businesstoday.in/sports/story/asian-games-2026-lovlina-borgohain-defeats-chinas-ziyi-bao-ends-indias-12-year-wait-for-boxing-gold-559196-2026-10-02",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "field": "Boxing",
+          "born": "1997",
+          "gender": "female",
+          "whyThisYear": "She won silver in the women's 75 kg at the Commonwealth Games on 1 August and gold at the Asian Games on 2 October, beating China's Bao Ziyi 5-0.",
+          "regionTag": "north-east",
+          "place": "Golaghat, Assam",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.personalities.mirabai-chanu",
+          "kind": "person",
+          "title": "Mirabai Chanu",
+          "summary": "She won her third straight Commonwealth Games gold in the 48 kg class on 26 July with a Games-record 190 kg total, and silver at the Asian Games.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mirabai Chanu",
+              "url": "https://en.wikipedia.org/wiki/Mirabai_Chanu",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Onmanorama: Mirabai wins India's first gold at the Glasgow Commonwealth Games (26 July 2026)",
+              "url": "https://www.onmanorama.com/sports/other-sports/2026/07/26/weightlifter-mirabai-wins-indian-s-first-gold-in-glasgow-commonwealth-games.amp.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "field": "Weightlifting",
+          "born": "1994",
+          "gender": "female",
+          "whyThisYear": "She won her third straight Commonwealth Games gold in the 48 kg class on 26 July with a Games-record 190 kg total, and silver at the Asian Games.",
+          "regionTag": "north-east",
+          "place": "Imphal East, Manipur",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.personalities.jaismine-lamboria",
+          "kind": "person",
+          "title": "Jaismine Lamboria",
+          "summary": "She won the 57 kg Commonwealth Games gold on 1 August by a unanimous decision over Northern Ireland's Michaela Walsh.",
+          "sources": [
+            {
+              "label": "Wikipedia: Jaismine Lamboria",
+              "url": "https://en.wikipedia.org/wiki/Jaismine_Lamboria",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Outlook India: Jaismine Lamboria wins 57kg boxing gold at the Commonwealth Games (1 August 2026)",
+              "url": "https://www.outlookindia.com/amp/story/sports/others/india-at-commonwealth-games-2026-jaismine-lamboria-gold-medal-womens-57kg-final-report",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "field": "Boxing",
+          "born": "2001",
+          "gender": "female",
+          "whyThisYear": "She won the 57 kg Commonwealth Games gold on 1 August by a unanimous decision over Northern Ireland's Michaela Walsh.",
+          "regionTag": "north",
+          "place": "Bhiwani, Haryana",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.personalities.sanju-samson",
+          "kind": "person",
+          "title": "Sanju Samson",
+          "summary": "He was player of the T20 World Cup and scored 89 off 46 balls in the final on 8 March.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sanju Samson",
+              "url": "https://en.wikipedia.org/wiki/Sanju_Samson",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Gulf News: India win record third T20 World Cup (8 March 2026)",
+              "url": "https://gulfnews.com/amp/story/sport%2Fcricket%2Ft20-world-cup-final-india-and-new-zealand-ready-for-big-clash-1.500467527",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "field": "Cricket",
+          "born": "1994",
+          "gender": "male",
+          "whyThisYear": "He was player of the T20 World Cup and scored 89 off 46 balls in the final on 8 March.",
+          "regionTag": "south",
+          "place": "Thiruvananthapuram, Kerala",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.personalities.neeru-dhanda",
+          "kind": "person",
+          "title": "Neeru Dhanda",
+          "summary": "She won the Asian Games women's trap gold, and earlier in 2026 the first women's trap gold by an Indian at an ISSF World Cup, in Lonato del Garda.",
+          "sources": [
+            {
+              "label": "Wikipedia: Neeru Dhanda",
+              "url": "https://en.wikipedia.org/wiki/Neeru_Dhanda",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: India at the 2026 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "field": "Shooting",
+          "born": "2000",
+          "gender": "female",
+          "whyThisYear": "She won the Asian Games women's trap gold, and earlier in 2026 the first women's trap gold by an Indian at an ISSF World Cup, in Lonato del Garda.",
+          "regionTag": "north",
+          "place": "Jind, Haryana",
+          "todo": true
+        },
+        {
+          "id": "in.2026.dd.personalities.sanjay-malhotra",
+          "kind": "person",
+          "title": "Sanjay Malhotra",
+          "summary": "As Governor of the Reserve Bank of India he chaired the committee that raised the repo rate to 5.50 percent on 7 October 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sanjay Malhotra",
+              "url": "https://en.wikipedia.org/wiki/Sanjay_Malhotra",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Reserve Bank of India: Monetary Policy Statement 2026-27, resolution of the MPC, 5 to 7 October 2026",
+              "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "field": "Central banking",
+          "born": "1968",
+          "gender": "male",
+          "whyThisYear": "As Governor of the Reserve Bank of India he chaired the committee that raised the repo rate to 5.50 percent on 7 October 2026.",
+          "regionTag": "west",
+          "place": "Bikaner, Rajasthan",
+          "checked": "2026-10-18"
+        }
+      ],
+      "interactive": {
+        "component": "PortraitGallery"
+      }
+    },
+    "achievements": {
+      "title": "Achievements",
+      "standfirst": "A third T20 title, medals from Glasgow and Aichi-Nagoya, and a record pledge count.",
+      "items": [
+        {
+          "id": "in.2026.dd.achievements.third-t20-title",
+          "kind": "achievement",
+          "title": "A third T20 World Cup",
+          "summary": "India became the first team to win three men's T20 World Cups, the first to retain the title and the first host to win it.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 Men's T20 World Cup final",
+              "url": "https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup_final",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Gulf News: India win record third T20 World Cup (8 March 2026)",
+              "url": "https://gulfnews.com/amp/story/sport%2Fcricket%2Ft20-world-cup-final-india-and-new-zealand-ready-for-big-clash-1.500467527",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "domain": "sport",
+          "firstOfKind": true,
+          "regionTag": "national",
+          "date": "2026-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.achievements.boxing-golds-glasgow",
+          "kind": "achievement",
+          "title": "Seven boxing golds at the Games",
+          "summary": "Boxing gave India seven of its 13 gold medals at the Glasgow Commonwealth Games.",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 2026 Commonwealth Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "domain": "sport",
+          "regionTag": "national",
+          "date": "2026-08",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.achievements.womens-cricket-asiad-gold",
+          "kind": "achievement",
+          "title": "First gold of the Asian Games",
+          "summary": "India's women's cricket team won the Asian Games title, defending it, and gave India its first gold of the 2026 Games.",
+          "sources": [
+            {
+              "label": "Business Today: Indian women's cricket team strike first gold at the Asian Games (22 September 2026)",
+              "url": "https://www.businesstoday.in/sports/story/asian-games-2026-indian-womens-cricket-team-strike-first-gold-beat-sri-lanka-in-final-557038-2026-09-22",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Wikipedia: India at the 2026 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "domain": "sport",
+          "regionTag": "national",
+          "date": "2026-09",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.achievements.first-trap-world-cup-gold",
+          "kind": "achievement",
+          "title": "First women's trap World Cup gold",
+          "summary": "Neeru Dhanda won the women's trap at the ISSF World Cup in Lonato del Garda, the first Indian woman to win the event.",
+          "sources": [
+            {
+              "label": "Wikipedia: Neeru Dhanda",
+              "url": "https://en.wikipedia.org/wiki/Neeru_Dhanda",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "domain": "sport",
+          "firstOfKind": true,
+          "regionTag": "north",
+          "date": "2026",
+          "todo": true
+        },
+        {
+          "id": "in.2026.dd.achievements.ai-pledges-record",
+          "kind": "achievement",
+          "title": "A record number of AI pledges",
+          "summary": "More than 250,000 valid AI responsibility pledges were collected on 16 and 17 February 2026, a Guinness record against an initial target of 5,000.",
+          "sources": [
+            {
+              "label": "Wikipedia: AI Impact Summit",
+              "url": "https://en.wikipedia.org/wiki/AI_Impact_Summit",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "domain": "social",
+          "regionTag": "national",
+          "date": "2026-02",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.achievements.india-eu-trade-deal",
+          "kind": "achievement",
+          "title": "A free trade agreement with the European Union",
+          "summary": "India and the European Union reached a free trade agreement on 27 January 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "domain": "economy",
+          "regionTag": "national",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        }
+      ],
+      "interactive": {
+        "component": "MilestoneWall",
+        "data": {
+          "counters": [
+            {
+              "label": "Medals at the Commonwealth Games",
+              "value": 39,
+              "unit": "medals"
+            },
+            {
+              "label": "Medals at the Asian Games",
+              "value": 85,
+              "unit": "medals"
+            },
+            {
+              "label": "Men's T20 World Cup titles",
+              "value": 3,
+              "unit": "titles"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: India at the 2026 Commonwealth Games",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Outlook India: Glasgow 2026 Commonwealth Games medal table",
+            "url": "https://www.outlookindia.com/sports/commonwealth-games-2026",
+            "accessed": "2026-10-18",
+            "quality": "secondary"
+          },
+          {
+            "label": "Wikipedia: India at the 2026 Asian Games",
+            "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Khel Now: Final medal tally of Asian Games 2026 (4 October 2026)",
+            "url": "https://khelnow.com/asian-games/final-medal-tally-asian-games-202610",
+            "accessed": "2026-10-18",
+            "quality": "secondary"
+          },
+          {
+            "label": "Wikipedia: 2026 Men's T20 World Cup final",
+            "url": "https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup_final",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "standfirst": "A home World Cup and medal tables in Glasgow and Aichi-Nagoya.",
+      "items": [
+        {
+          "id": "in.2026.dd.sports.t20-world-cup-final",
+          "kind": "sport",
+          "title": "The T20 World Cup final",
+          "summary": "On 8 March 2026 in Ahmedabad India made 255 for 5, the highest total in a men's T20 World Cup final, and bowled New Zealand out for 159 to win by 96 runs; Jasprit Bumrah took 4 for 15.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 Men's T20 World Cup final",
+              "url": "https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup_final",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Gulf News: India win record third T20 World Cup (8 March 2026)",
+              "url": "https://gulfnews.com/amp/story/sport%2Fcricket%2Ft20-world-cup-final-india-and-new-zealand-ready-for-big-clash-1.500467527",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "sport": "Cricket",
+          "competition": "ICC Men's T20 World Cup",
+          "result": "India won by 96 runs",
+          "athletes": [
+            "Sanju Samson",
+            "Jasprit Bumrah"
+          ],
+          "scoreline": "India 255/5; New Zealand 159 all out",
+          "regionTag": "national",
+          "date": "2026-03-08",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.sports.commonwealth-games-tally",
+          "kind": "sport",
+          "title": "Commonwealth Games medal table",
+          "summary": "India won 13 gold, 17 silver and 9 bronze, 39 medals, at the Glasgow Games (23 July to 2 August) and finished fourth.",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 2026 Commonwealth Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Outlook India: Glasgow 2026 Commonwealth Games medal table",
+              "url": "https://www.outlookindia.com/sports/commonwealth-games-2026",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "sport": "Multi-sport",
+          "competition": "Commonwealth Games, Glasgow",
+          "result": "Fourth in the medal table",
+          "scoreline": "13 gold, 17 silver, 9 bronze",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.sports.asian-games-tally",
+          "kind": "sport",
+          "title": "Asian Games medal table",
+          "summary": "India won 21 gold, 27 silver and 37 bronze, 85 medals, at the Aichi-Nagoya Games and finished fourth, above Uzbekistan on silver medals.",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 2026 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Khel Now: Final medal tally of Asian Games 2026 (4 October 2026)",
+              "url": "https://khelnow.com/asian-games/final-medal-tally-asian-games-202610",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "sport": "Multi-sport",
+          "competition": "Asian Games, Aichi-Nagoya",
+          "result": "Fourth in the medal table",
+          "scoreline": "21 gold, 27 silver, 37 bronze",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.sports.mirabai-48kg",
+          "kind": "sport",
+          "title": "Weightlifting, women's 48 kg",
+          "summary": "Mirabai Chanu lifted 85 kg in the snatch and 105 kg in the clean and jerk for a 190 kg total, all Games records, to win gold on 26 July.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mirabai Chanu",
+              "url": "https://en.wikipedia.org/wiki/Mirabai_Chanu",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Onmanorama: Mirabai wins India's first gold at the Glasgow Commonwealth Games (26 July 2026)",
+              "url": "https://www.onmanorama.com/sports/other-sports/2026/07/26/weightlifter-mirabai-wins-indian-s-first-gold-in-glasgow-commonwealth-games.amp.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "sport": "Weightlifting",
+          "competition": "Commonwealth Games, Glasgow",
+          "result": "Gold",
+          "athletes": [
+            "Mirabai Chanu"
+          ],
+          "scoreline": "190 kg total",
+          "regionTag": "national",
+          "date": "2026-07-26",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.sports.lovlina-75kg",
+          "kind": "sport",
+          "title": "Boxing, women's 75 kg",
+          "summary": "Lovlina Borgohain beat China's Bao Ziyi 5-0 in the Asian Games final on 2 October, ending India's 12-year wait for a women's boxing gold at the Games.",
+          "sources": [
+            {
+              "label": "Wikipedia: Lovlina Borgohain",
+              "url": "https://en.wikipedia.org/wiki/Lovlina_Borgohain",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Business Today: Lovlina Borgohain defeats China's Ziyi Bao, ends India's 12-year wait for boxing gold (2 October 2026)",
+              "url": "https://www.businesstoday.in/sports/story/asian-games-2026-lovlina-borgohain-defeats-chinas-ziyi-bao-ends-indias-12-year-wait-for-boxing-gold-559196-2026-10-02",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "sport": "Boxing",
+          "competition": "Asian Games, Aichi-Nagoya",
+          "result": "Gold",
+          "athletes": [
+            "Lovlina Borgohain"
+          ],
+          "scoreline": "5-0, unanimous decision",
+          "regionTag": "national",
+          "date": "2026-10-02",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.sports.jaismine-57kg",
+          "kind": "sport",
+          "title": "Boxing, women's 57 kg",
+          "summary": "Jaismine Lamboria won all five judges' scorecards against Northern Ireland's Michaela Walsh in the Commonwealth Games final on 1 August.",
+          "sources": [
+            {
+              "label": "Wikipedia: Jaismine Lamboria",
+              "url": "https://en.wikipedia.org/wiki/Jaismine_Lamboria",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Outlook India: Jaismine Lamboria wins 57kg boxing gold at the Commonwealth Games (1 August 2026)",
+              "url": "https://www.outlookindia.com/amp/story/sports/others/india-at-commonwealth-games-2026-jaismine-lamboria-gold-medal-womens-57kg-final-report",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "sport": "Boxing",
+          "competition": "Commonwealth Games, Glasgow",
+          "result": "Gold",
+          "athletes": [
+            "Jaismine Lamboria"
+          ],
+          "scoreline": "5-0, unanimous decision",
+          "regionTag": "national",
+          "date": "2026-08-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.sports.womens-cricket-asiad-final",
+          "kind": "sport",
+          "title": "Women's cricket final",
+          "summary": "India made 216 for 3 and bowled Sri Lanka out for 69 to win by 147 runs at the Asian Games on 22 September; Deepti Sharma took three wickets.",
+          "sources": [
+            {
+              "label": "Business Today: Indian women's cricket team strike first gold at the Asian Games (22 September 2026)",
+              "url": "https://www.businesstoday.in/sports/story/asian-games-2026-indian-womens-cricket-team-strike-first-gold-beat-sri-lanka-in-final-557038-2026-09-22",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Wikipedia: India at the 2026 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "sport": "Cricket",
+          "competition": "Asian Games, Aichi-Nagoya",
+          "result": "India won by 147 runs",
+          "athletes": [
+            "Deepti Sharma"
+          ],
+          "scoreline": "India 216/3; Sri Lanka 69",
+          "regionTag": "national",
+          "date": "2026-09-22",
+          "checked": "2026-10-18"
+        }
+      ],
+      "interactive": {
+        "component": "ScorecardReplay"
+      }
+    },
+    "literature": {
+      "title": "Literature",
+      "standfirst": "Sahitya Akademi winners in 24 languages and a Jnanpith for Tamil poetry.",
+      "items": [
+        {
+          "id": "in.2026.dd.literature.jnanpith-vairamuthu",
+          "kind": "work",
+          "title": "R. Vairamuthu's Tamil poetry",
+          "summary": "R. Vairamuthu was named for the 60th Jnanpith Award, the third Tamil writer and the first honoured for Tamil poetry.",
+          "sources": [
+            {
+              "label": "Drishti IAS: 60th Jnanpith Award (17 March 2026)",
+              "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/60th-jnanpith-award",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "workType": "poetry",
+          "creator": "R. Vairamuthu",
+          "languages": [
+            "Tamil"
+          ],
+          "regionTag": "south",
+          "date": "2026-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.literature.karhi-khelar-sadhu",
+          "kind": "work",
+          "title": "Karhi Khelar Sadhu",
+          "summary": "Devabrat Das's Assamese novel won the Sahitya Akademi Award for 2025, announced on 16 March 2026.",
+          "sources": [
+            {
+              "label": "Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)",
+              "url": "https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "workType": "novel",
+          "creator": "Devabrat Das",
+          "languages": [
+            "Assamese"
+          ],
+          "regionTag": "north-east",
+          "date": "2026-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.literature.crimson-spring",
+          "kind": "work",
+          "title": "Crimson Spring",
+          "summary": "Navtej Sarna's English novel won a Sahitya Akademi Award for 2025.",
+          "sources": [
+            {
+              "label": "Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)",
+              "url": "https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "workType": "novel",
+          "creator": "Navtej Sarna",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "national",
+          "date": "2026-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.literature.jeete-jee-allahabad",
+          "kind": "work",
+          "title": "Jeete Jee Allahabad",
+          "summary": "Mamta Kalia's Hindi memoir won a Sahitya Akademi Award for 2025.",
+          "sources": [
+            {
+              "label": "Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)",
+              "url": "https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "workType": "nonfiction",
+          "creator": "Mamta Kalia",
+          "languages": [
+            "Hindi"
+          ],
+          "regionTag": "north",
+          "date": "2026-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.literature.safar-jaari-hai",
+          "kind": "work",
+          "title": "Safar Jaari Hai",
+          "summary": "Pritpal Singh Betab's Urdu poetry won a Sahitya Akademi Award for 2025.",
+          "sources": [
+            {
+              "label": "Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)",
+              "url": "https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "workType": "poetry",
+          "creator": "Pritpal Singh Betab",
+          "languages": [
+            "Urdu"
+          ],
+          "regionTag": "north",
+          "date": "2026-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.literature.shrestha-kabita",
+          "kind": "work",
+          "title": "Shrestha Kabita",
+          "summary": "Prasun Bandyopadhyay's Bengali poetry won a Sahitya Akademi Award for 2025.",
+          "sources": [
+            {
+              "label": "Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)",
+              "url": "https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "workType": "poetry",
+          "creator": "Prasun Bandyopadhyay",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "date": "2026-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.literature.the-outsider",
+          "kind": "work",
+          "title": "The Outsider",
+          "summary": "Vir Das presented his memoir The Outsider at the Jaipur Literature Festival, held from 15 to 19 January 2026.",
+          "sources": [
+            {
+              "label": "The Telegraph (t2): Jaipur Literature Festival 2026 unveils final list (January 2026)",
+              "url": "https://t2online.in/goodlife/books/jaipur-literature-festival-2026-unveils-final-list--features-vir-das--deepa-bhasthi-and-kiran-desai/2002272",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "workType": "nonfiction",
+          "creator": "Vir Das",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "north",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        }
+      ],
+      "interactive": {
+        "component": "Bookshelf3D"
+      }
+    },
+    "books-reading": {
+      "title": "Books & reading",
+      "standfirst": "Book fairs, e-books and a launch at the Delhi fair.",
+      "items": [
+        {
+          "id": "in.2026.dd.books-reading.delhi-book-fair",
+          "kind": "work",
+          "title": "New Delhi World Book Fair 2026",
+          "summary": "The 53rd fair, held at Bharat Mandapam from 10 to 18 January, drew about two million visitors and had Qatar as guest of honour and Spain as focus country; books were shown in over 30 languages.",
+          "sources": [
+            {
+              "label": "All About Book Publishing: New Delhi World Book Fair 2026 attracts two million footfalls in nine days",
+              "url": "https://allaboutbookpublishing.com/?p=14884",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "workType": "nonfiction",
+          "creator": "National Book Trust, India (organiser)",
+          "languages": [
+            "Hindi",
+            "English"
+          ],
+          "regionTag": "north",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.books-reading.e-pustakalaya",
+          "kind": "work",
+          "title": "Rashtriya e-Pustakalaya",
+          "summary": "The National Book Trust's digital library offered more than 6,000 e-books in over 23 languages at the 2026 Delhi fair.",
+          "sources": [
+            {
+              "label": "All About Book Publishing: New Delhi World Book Fair 2026 attracts two million footfalls in nine days",
+              "url": "https://allaboutbookpublishing.com/?p=14884",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "workType": "nonfiction",
+          "creator": "National Book Trust, India",
+          "languages": [
+            "Hindi",
+            "English"
+          ],
+          "regionTag": "national",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.books-reading.kolkata-book-fair",
+          "kind": "work",
+          "title": "The Kolkata International Book Fair",
+          "summary": "The 49th fair opened on 22 January 2026 at Boi Mela Prangan in Salt Lake with Argentina as its first focal theme country and nearly 20 countries taking part.",
+          "sources": [
+            {
+              "label": "The Telegraph (t2): The 49th International Kolkata Book Fair commenced (22 January 2026)",
+              "url": "https://t2online.in/events/events-1/the-49th-international-kolkata-book-fair-commenced-at-the-boi-mela-prangan-in-salt-lake-on-thursday/2003276",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "workType": "nonfiction",
+          "creator": "Publishers and Booksellers Guild (organiser)",
+          "languages": [
+            "Bengali",
+            "English"
+          ],
+          "regionTag": "east",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.books-reading.human-edge-launch",
+          "kind": "work",
+          "title": "The Human Edge in an AI-Driven Cyber World",
+          "summary": "Nitin Seth launched this book at the New Delhi World Book Fair in January 2026.",
+          "sources": [
+            {
+              "label": "All About Book Publishing: New Delhi World Book Fair 2026 attracts two million footfalls in nine days",
+              "url": "https://allaboutbookpublishing.com/?p=14884",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "workType": "nonfiction",
+          "creator": "Nitin Seth",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "north",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.books-reading.jaipur-festival",
+          "kind": "work",
+          "title": "The Jaipur Literature Festival",
+          "summary": "The 19th festival ran from 15 to 19 January 2026 at Hotel Clarks Amer, with speakers including Kiran Desai, Vir Das, Stephen Fry and Tim Berners-Lee.",
+          "sources": [
+            {
+              "label": "The Telegraph (t2): Jaipur Literature Festival 2026 unveils final list (January 2026)",
+              "url": "https://t2online.in/goodlife/books/jaipur-literature-festival-2026-unveils-final-list--features-vir-das--deepa-bhasthi-and-kiran-desai/2002272",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "workType": "nonfiction",
+          "creator": "Teamwork Arts (organiser)",
+          "languages": [
+            "English"
+          ],
+          "regionTag": "north",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.books-reading.rekhta-kavi-sammelan",
+          "kind": "work",
+          "title": "Rekhta's Kavi Sammelan",
+          "summary": "The Rekhta Foundation's poetry gathering drew large crowds at the 2026 New Delhi World Book Fair.",
+          "sources": [
+            {
+              "label": "All About Book Publishing: New Delhi World Book Fair 2026 attracts two million footfalls in nine days",
+              "url": "https://allaboutbookpublishing.com/?p=14884",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "workType": "poetry",
+          "creator": "Rekhta Foundation",
+          "languages": [
+            "Hindi",
+            "Urdu"
+          ],
+          "regionTag": "north",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        }
+      ],
+      "interactive": {
+        "component": "ReadingRoom"
+      }
+    },
+    "cinema": {
+      "title": "Cinema",
+      "standfirst": "A record first half and a Hindi blockbuster; hits in Telugu, Kannada, Tamil and Malayalam too.",
+      "items": [
+        {
+          "id": "in.2026.dd.cinema.dhurandhar-the-revenge",
+          "kind": "film",
+          "title": "Dhurandhar: The Revenge",
+          "summary": "Aditya Dhar's Hindi film, released in March 2026 with an A certificate, had earned an estimated Rs 1,852 crore worldwide by June, the highest of the year.",
+          "sources": [
+            {
+              "label": "Wikipedia: Dhurandhar: The Revenge",
+              "url": "https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: List of Indian films of 2026",
+              "url": "https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Ormax Media: The India box office report, January to June 2026",
+              "url": "https://www.ormaxmedia.com/stories/the-india-box-office-report-jan-jun-2026.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "language": "Hindi",
+          "notable": "Highest-grossing Indian film of 2026 so far",
+          "regionTag": "west",
+          "director": "Aditya Dhar",
+          "certification": "A",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.cinema.border-2",
+          "kind": "film",
+          "title": "Border 2",
+          "summary": "The Hindi film Border 2 had grossed an estimated Rs 464.5 crore worldwide by October.",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Indian films of 2026",
+              "url": "https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "language": "Hindi",
+          "notable": "Third-highest-grossing Indian film of 2026 so far",
+          "regionTag": "west",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.cinema.peddi",
+          "kind": "film",
+          "title": "Peddi",
+          "summary": "The Telugu film Peddi was June's top-grossing film in India and had earned an estimated Rs 330 to 337 crore worldwide.",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Indian films of 2026",
+              "url": "https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Ormax Media: The India box office report, January to June 2026",
+              "url": "https://www.ormaxmedia.com/stories/the-india-box-office-report-jan-jun-2026.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "language": "Telugu",
+          "notable": "June's top-grossing film",
+          "regionTag": "south",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.cinema.toxic",
+          "kind": "film",
+          "title": "Toxic",
+          "summary": "The Kannada and English film Toxic had grossed an estimated Rs 320 to 341 crore worldwide.",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Indian films of 2026",
+              "url": "https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "language": "Kannada",
+          "notable": "Among the year's top ten",
+          "regionTag": "south",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.cinema.jailer-2",
+          "kind": "film",
+          "title": "Jailer 2",
+          "summary": "The Tamil film Jailer 2 had grossed an estimated Rs 325 crore worldwide.",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Indian films of 2026",
+              "url": "https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "language": "Tamil",
+          "notable": "Among the year's top ten",
+          "regionTag": "south",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.cinema.bethlehem-kudumba-unit",
+          "kind": "film",
+          "title": "Bethlehem Kudumba Unit",
+          "summary": "The Malayalam film Bethlehem Kudumba Unit had grossed an estimated Rs 330.93 crore worldwide, fifth among 2026 Indian films.",
+          "sources": [
+            {
+              "label": "Wikipedia: List of Indian films of 2026",
+              "url": "https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "language": "Malayalam",
+          "notable": "The year's top Malayalam film",
+          "regionTag": "south",
+          "checked": "2026-10-18"
+        }
+      ],
+      "interactive": {
+        "component": "ProjectorReel"
+      }
+    },
+    "music-arts": {
+      "title": "Music & arts",
+      "standfirst": "Padma honours for a violinist and a playback singer, and the Akademi's awards.",
+      "items": [
+        {
+          "id": "in.2026.dd.music-arts.n-rajam-padma-vibhushan",
+          "kind": "art",
+          "title": "N. Rajam",
+          "summary": "The classical violinist N. Rajam received a Padma Vibhushan in the Padma Awards announced on the eve of Republic Day 2026.",
+          "sources": [
+            {
+              "label": "Drishti IAS: Padma Awards 2026 (28 January 2026)",
+              "url": "https://www.drishtiias.com/state-pcs-current-affairs/president-droupadi-murmu-conferred-padma-awards-on-131-individuals-in-2026/print_manually",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "form": "music",
+          "creator": "N. Rajam",
+          "regionTag": "north",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.music-arts.alka-yagnik-padma-bhushan",
+          "kind": "art",
+          "title": "Alka Yagnik",
+          "summary": "The playback singer Alka Yagnik received a Padma Bhushan in the 2026 Padma Awards.",
+          "sources": [
+            {
+              "label": "Drishti IAS: Padma Awards 2026 (28 January 2026)",
+              "url": "https://www.drishtiias.com/state-pcs-current-affairs/president-droupadi-murmu-conferred-padma-awards-on-131-individuals-in-2026/print_manually",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "form": "music",
+          "creator": "Alka Yagnik",
+          "regionTag": "national",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.music-arts.sangeet-natak-akademi",
+          "kind": "art",
+          "title": "Sangeet Natak Akademi honours",
+          "summary": "The President was to confer the Akademi's fellowships and awards for 2024 and 2025 on 115 artists, including seven fellows, on 13 August 2026 at Vigyan Bhawan, New Delhi.",
+          "sources": [
+            {
+              "label": "Drishti IAS: Sangeet Natak Akademi fellowships and awards for 2024 and 2025 (12 August 2026)",
+              "url": "https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced/print_manually",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "form": "music",
+          "regionTag": "national",
+          "date": "2026-08",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.music-arts.zubeen-garg-tribute",
+          "kind": "art",
+          "title": "A tribute to Zubeen Garg",
+          "summary": "On 19 September 2026, the first anniversary of the Assamese singer Zubeen Garg's death, Shaan released a new song with Mahalaxmi Iyer as a tribute.",
+          "sources": [
+            {
+              "label": "Telangana Today: Shaan remembers late friend Zubeen Garg with new song (19 September 2026)",
+              "url": "https://telanganatoday.com/shaan-remembers-late-friend-zubeen-garg-with-new-song-on-first-death-anniversary",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "form": "music",
+          "creator": "Shaan",
+          "regionTag": "north-east",
+          "date": "2026-09",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item mentions the death of a public figure."
+          },
+          "todo": true
+        }
+      ],
+      "interactive": {
+        "component": "RiyaazRoom"
+      },
+      "scarcityNote": "Year in progress and the national arts awards come late. Four items are shown; no Grammy or international-tour news for an Indian artist in 2026 could be opened."
+    },
+    "economy-business": {
+      "title": "Economy & business",
+      "standfirst": "Growth near 8 percent, tax and trade numbers up, and a rate rise.",
+      "items": [
+        {
+          "id": "in.2026.dd.economy-business.gdp-growth-q1",
+          "kind": "indicator",
+          "title": "Growth in April-June",
+          "summary": "Real GDP grew 7.8 percent in April-June 2026 against a year earlier, to Rs 81.36 lakh crore, and gross value added grew 8.2 percent.",
+          "sources": [
+            {
+              "label": "Sentinel Assam: India's GDP growth hits 7.8% in Q1 FY27 (1 September 2026)",
+              "url": "https://www.sentinelassam.com/topheadlines/indias-gdp-growth-hits-78-in-q1-fy27-surpasses-rbi-estimate",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "5paisa: India's GDP growth rises to 7.8% in Q1 FY27 (31 August 2026)",
+              "url": "https://www.5paisa.com/news/indias-gdp-growth-rises-to-78-in-q1-fy27-beats-estimates-despite-global-headwinds",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "GDP growth, April-June",
+          "value": "7.8",
+          "unit": "percent",
+          "asOf": "April-June 2026",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.economy-business.gst-september",
+          "kind": "indicator",
+          "title": "GST collections",
+          "summary": "Gross GST collections were Rs 2,03,521 crore in September 2026, up 14.7 percent, the third month in a row above Rs 2 lakh crore.",
+          "sources": [
+            {
+              "label": "Business Today: September GST collections rise 14.7% to Rs 2.04 lakh crore (1 October 2026)",
+              "url": "https://businesstoday.in/latest/economy/story/september-gst-collections-rise-14-7-to-rs2-04-lakh-crore-558985-2026-10-01",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Morung Express: Gross GST collection rises 14.7 pc to almost Rs 2.04 lakh crore in September (1 October 2026)",
+              "url": "https://morungexpress.com/gross-gst-collection-rises-147-pc-to-almost-rs-204-lakh-crore-in-september",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Gross GST collections, September",
+          "value": "203521",
+          "unit": "crore rupees",
+          "asOf": "September 2026",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.economy-business.merchandise-exports",
+          "kind": "indicator",
+          "title": "Goods exports",
+          "summary": "Merchandise exports were $44.40 billion in September 2026, up 23 percent, and the goods trade deficit narrowed to $30.21 billion.",
+          "sources": [
+            {
+              "label": "Business Today: India's exports rise to $44.4 billion in September (15 October 2026)",
+              "url": "https://www.businesstoday.in/latest/economy/story/india-exports-rise-to-44-4-billion-in-september-trade-deficit-narrows-to-30-21-billion-561822-2026-10-15",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Devdiscourse: India's merchandise exports jump 23% to USD 44.4 billion in September (15 October 2026)",
+              "url": "https://www.devdiscourse.com/article/business/3992865-indias-merchandise-exports-jump-23-to-usd-444-billion-in-september-trade-deficit-narrows",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Merchandise exports, September",
+          "value": "44.40",
+          "unit": "billion dollars",
+          "asOf": "September 2026",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.economy-business.forex-reserves",
+          "kind": "indicator",
+          "title": "Foreign exchange reserves",
+          "summary": "Foreign exchange reserves were $726.03 billion in the week to 9 October 2026, down $8.58 billion on the week and $34.9 billion above the end of March.",
+          "sources": [
+            {
+              "label": "Devdiscourse: India's forex reserves down by USD 8.58 billion in week ended Oct 9 (16 October 2026)",
+              "url": "https://www.devdiscourse.com/article/business/3993648-indias-forex-reserves-down-by-usd-858-billion-to-usd-72603-billion-in-week-ended-oct-9",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "NewKerala: India's forex reserves down USD 8.58 billion (16 October 2026)",
+              "url": "https://www.newkerala.com/news/a/indias-forex-reserves-down-usd-858-billion-usd-570.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Foreign exchange reserves",
+          "value": "726.03",
+          "unit": "billion dollars",
+          "asOf": "week ended 9 October 2026",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.economy-business.rbi-growth-forecast",
+          "kind": "indicator",
+          "title": "The RBI's growth forecast",
+          "summary": "The Reserve Bank projected real GDP growth of 7.1 percent for 2026-27, up from 6.7 percent in August.",
+          "sources": [
+            {
+              "label": "Reserve Bank of India: Monetary Policy Statement 2026-27, resolution of the MPC, 5 to 7 October 2026",
+              "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "GKToday: RBI hikes repo rate by 25 basis points to 5.50% (October 2026)",
+              "url": "https://www.gktoday.in/rbi-hikes-repo-rate-by-25-basis-points-to-5-50/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "RBI projection: real GDP growth, 2026-27",
+          "value": "7.1",
+          "unit": "percent",
+          "asOf": "forecast for 2026-27",
+          "regionTag": "national",
+          "forecast": {
+            "publisher": "Reserve Bank of India",
+            "published": "2026-10-07"
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.dd.economy-business.rbi-inflation-forecast",
+          "kind": "indicator",
+          "title": "The RBI's inflation forecast",
+          "summary": "The Reserve Bank projected consumer price inflation of 5.2 percent for 2026-27, up from 5.0 percent.",
+          "sources": [
+            {
+              "label": "Reserve Bank of India: Monetary Policy Statement 2026-27, resolution of the MPC, 5 to 7 October 2026",
+              "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "GKToday: RBI hikes repo rate by 25 basis points to 5.50% (October 2026)",
+              "url": "https://www.gktoday.in/rbi-hikes-repo-rate-by-25-basis-points-to-5-50/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "RBI projection: CPI inflation, 2026-27",
+          "value": "5.2",
+          "unit": "percent",
+          "asOf": "forecast for 2026-27",
+          "regionTag": "national",
+          "forecast": {
+            "publisher": "Reserve Bank of India",
+            "published": "2026-10-07"
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "interactive": {
+        "component": "RupeeDashboard",
+        "data": {
+          "now": {
+            "GDP growth, April-June": -23.9
+          }
+        },
+        "sources": [
+          {
+            "label": "Wikipedia: 2020 in India",
+            "url": "https://en.wikipedia.org/wiki/2020_in_India",
+            "accessed": "2026-10-18",
+            "quality": "reference"
+          },
+          {
+            "label": "Sentinel Assam: India's GDP growth hits 7.8% in Q1 FY27 (1 September 2026)",
+            "url": "https://www.sentinelassam.com/topheadlines/indias-gdp-growth-hits-78-in-q1-fy27-surpasses-rbi-estimate",
+            "accessed": "2026-10-18",
+            "quality": "secondary"
+          },
+          {
+            "label": "5paisa: India's GDP growth rises to 7.8% in Q1 FY27 (31 August 2026)",
+            "url": "https://www.5paisa.com/news/indias-gdp-growth-rises-to-78-in-q1-fy27-beats-estimates-despite-global-headwinds",
+            "accessed": "2026-10-18",
+            "quality": "secondary"
+          }
+        ]
+      }
+    }
+  },
+  "contentAsOf": "2026-10-18"
+}

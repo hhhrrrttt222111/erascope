@@ -118,6 +118,12 @@ const PRESETS: Record<string, Preset> = {
     tone(ctx, out, t, 0.35, 587.33, 0.2, "sine");
     tone(ctx, out, t + 0.16, 0.5, 880, 0.2, "sine");
   },
+  // 2026: a soft, low haptic "thock" as the grid settles.
+  "haptic-thock": (ctx, out) => {
+    const t = ctx.currentTime;
+    tone(ctx, out, t, 0.14, 160, 0.3, "sine", 70);
+    burst(ctx, out, t, 0.03, 900, 0.18, "lowpass");
+  },
   // 2050: a rising synth whoosh.
   whoosh: (ctx, out) => {
     const t = ctx.currentTime;

@@ -114,6 +114,14 @@ export function Motif({ id, style, size = 48, accent, accent2, className, css }:
         </>
       );
       break;
+    case "stitch":
+      body = (
+        <>
+          <rect x="3" y="3" width="42" height="42" rx="14" {...common} strokeWidth="1.6" strokeDasharray="4 3" />
+          {draw({ strokeWidth: 2.2, strokeDasharray: "4 3" })}
+        </>
+      );
+      break;
     case "holo":
       body = <g style={{ filter: "drop-shadow(0 0 3px currentColor)" }}>{draw({ strokeWidth: 1.5 })}</g>;
       break;

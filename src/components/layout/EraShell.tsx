@@ -56,6 +56,7 @@ const CHROME_LOADERS: Record<ChromeId, () => Promise<ChromeModule>> = {
   web2gloss: () => import("./Web2GlossChrome").then((m) => ({ default: m.Web2GlossChrome })),
   flatweb: () => import("./FlatWebChrome").then((m) => ({ default: m.FlatWebChrome })),
   videocall: () => import("./VideoCallChrome").then((m) => ({ default: m.VideoCallChrome })),
+  bento: () => import("./BentoChrome").then((m) => ({ default: m.BentoChrome })),
   futureos: () => import("./FutureOSChrome").then((m) => ({ default: m.FutureOSChrome })),
 };
 

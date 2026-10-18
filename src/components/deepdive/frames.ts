@@ -24,5 +24,6 @@ export const FRAMES: Record<Frame, FrameSpec> = {
   gloss: { shape: "round", border: 0.05, glow: false, css: { border: "1px solid currentColor", borderRadius: "16px", boxShadow: "inset 0 10px 14px rgba(255,255,255,0.45)" } },
   card: { shape: "rect", border: 0.03, glow: false, css: { border: "none", borderRadius: "8px", boxShadow: "0 2px 8px rgba(0,0,0,0.2)" } },
   tile: { shape: "round", border: 0.04, glow: false, css: { border: "2px solid currentColor", borderRadius: "14px" } },
+  "stitch-tile": { shape: "round", border: 0.04, glow: false, css: { border: "2px dashed currentColor", borderRadius: "24px", outline: "1px solid currentColor", outlineOffset: "-8px" } },
   holo: { shape: "arch", border: 0.03, glow: true, css: { border: "1px solid currentColor", borderRadius: "18px", boxShadow: "0 0 18px currentColor" } },
 };

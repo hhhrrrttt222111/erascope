@@ -19,7 +19,7 @@ export function OnThisDay({ items }: { items: FlatItem[] }) {
 
   const { today, next } = useMemo(() => {
     const dated = items
-      .filter((f) => !f.speculative && f.item.sensitivity?.level !== "content-note" && FULL.test(f.item.date ?? ""))
+      .filter((f) => !f.speculative && !f.item.scheduled && !f.item.forecast && f.item.sensitivity?.level !== "content-note" && FULL.test(f.item.date ?? ""))
       .map((f) => {
         const [, mm, dd] = f.item.date!.match(FULL)!;
         return { f, m: Number(mm), d: Number(dd) };

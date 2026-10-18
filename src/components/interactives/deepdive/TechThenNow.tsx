@@ -1,5 +1,6 @@
 import { Box, Button, Typography } from "@mui/material";
 import { lazy, Suspense, useState, type ComponentType } from "react";
+import { comparisonYear } from "../../../data/present";
 import { useReducedMotion } from "../../../hooks/useReducedMotion";
 import { useDeepDiveStyle } from "../../deepdive/useDeepDiveStyle";
 import type { DeviceModelProps } from "../../three/ringTypes";
@@ -12,7 +13,7 @@ const DeviceModel = lazy(Object.values(modelModules)[0]);
 interface Spec { label: string; then: string; now: string }
 interface Comparison { itemId: string; nowTitle: string; specs: Spec[]; model?: DeviceModelProps["kind"] }
 
-/** Drag a divider between the year's technology and its 2026 equivalent; optional turnable 3D model. */
+/** Drag a divider between the year's technology and its equivalent in the comparison year (2026, or 2020 when the year is the present); optional turnable 3D model. */
 export default function TechThenNow(props: InteractiveProps) {
   const items = itemsOfKind(props, "tech");
   const comparisons = asArray<Comparison>(dataOf(props).comparisons);
@@ -28,7 +29,7 @@ export default function TechThenNow(props: InteractiveProps) {
   const specs: Spec[] = cmp?.specs ?? [];
 
   return (
-    <InteractiveShell title="Then and now" hint="Pick a technology, then drag the divider to compare it with its 2026 equivalent.">
+    <InteractiveShell title="Then and now" hint={`Pick a technology, then drag the divider to compare it with its ${comparisonYear(props.year)} equivalent.`}>
       <Box role="tablist" aria-label="Technology" sx={{ display: "flex", gap: 1, flexWrap: "wrap", mb: 2 }}>
         {items.map((it, i) => (
           <Button key={it.id} role="tab" aria-selected={i === selected} size="small" variant={i === selected ? "contained" : "outlined"} onClick={() => setSelected(i)}>
@@ -39,7 +40,7 @@ export default function TechThenNow(props: InteractiveProps) {
 
       <Box sx={{ position: "relative", border: `1px solid ${theme.palette.divider}`, minHeight: 160, overflow: "hidden" }}>
         <Box sx={{ p: 2 }}>
-          <Typography variant="overline">2026 equivalent</Typography>
+          <Typography variant="overline">{comparisonYear(props.year)} equivalent</Typography>
           <Typography variant="h6">{cmp?.nowTitle ?? "To be researched"}</Typography>
           {specs.map((s) => (
             <Typography key={s.label} variant="body2">

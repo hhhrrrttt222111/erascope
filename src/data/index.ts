@@ -1,6 +1,7 @@
 import type { CountryId, DeepDive, Everyday, Era, EraBase, EraId, ResolvedEra } from "./types";
 import { ERA_YEARS, validateCollection, validateEra } from "./validate.ts";
 import { resolveEra } from "./resolve.ts";
+import { nearestYear } from "./present.ts";
 import { countryById, DEFAULT_COUNTRY } from "./countries/registry";
 import { worldEras } from "./countries/world";
 
@@ -51,5 +52,5 @@ export const isEraId = (value: unknown): value is EraId => ERA_YEARS.includes(Nu
 
 /** The era closest to any year, for deep links like #/1987 (→ 1984). */
 export function nearestEra(year: number): EraId {
-  return ERA_YEARS.reduce((best, y) => (Math.abs(y - year) < Math.abs(best - year) ? y : best), ERA_YEARS[0]);
+  return nearestYear(ERA_YEARS, year);
 }

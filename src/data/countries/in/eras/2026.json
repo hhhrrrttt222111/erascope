@@ -1,0 +1,345 @@
+{
+  "year": 2026,
+  "country": "in",
+  "contentAsOf": "2026-10-18",
+  "title": "2026 so far",
+  "tagline": "A phone payment for nearly everything, a home-won World Cup and a census begun: India to 18 October.",
+  "locale": {
+    "region": "India",
+    "currency": "INR",
+    "persona": "an urban household in Guwahati, Assam (typical, not one named family)",
+    "politicalStatus": "Republic of India",
+    "placeNameNote": "Period place names with today's name in brackets on first mention, e.g. Bombay (now Mumbai)."
+  },
+  "sceneCaption": "A pair of smart glasses on a charging stand beside an open earbuds case.",
+  "morningRoutine": [
+    {
+      "id": "in.2026.morning.cooking-gas",
+      "time": "6:30 AM",
+      "activity": "Light the gas",
+      "detail": "A 14.2 kg domestic LPG cylinder was listed at about Rs 991 in Guwahati in mid-October 2026.",
+      "icon": "LocalFireDepartment",
+      "source": {
+        "label": "Upstox: LPG price in Guwahati (page for 18 October 2026)",
+        "url": "https://upstox.com/lpg-price/lpg-price-in-guwahati/",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "todo": true
+    },
+    {
+      "id": "in.2026.morning.phone-connections",
+      "time": "7:00 AM",
+      "activity": "Phone first",
+      "detail": "India had about 1,360.7 million telephone connections at the end of August 2026, mostly wireless, about 1,312 million.",
+      "icon": "PhoneAndroid",
+      "source": {
+        "label": "TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)",
+        "url": "https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "in.2026.morning.scan-and-pay",
+      "time": "8:00 AM",
+      "activity": "Scan and pay",
+      "detail": "UPI handled an average of about 802 million transactions a day in September 2026, the first month above 800 million a day.",
+      "icon": "QrCodeScanner",
+      "source": {
+        "label": "Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)",
+        "url": "https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "in.2026.morning.vegetable-bill",
+      "time": "8:30 AM",
+      "activity": "The vegetable bill",
+      "detail": "Food prices were 7.74 percent higher in September 2026 than a year earlier, by the official consumer food price index.",
+      "icon": "ShoppingBasket",
+      "source": {
+        "label": "MoSPI National Statistics Office: Press release of CPI (base 2024=100) for September 2026 (12 October 2026)",
+        "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1791801549227-Press%20Release%20for%20the%20month%20of%20September,%202026.pdf",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    }
+  ],
+  "places": [
+    {
+      "id": "in.2026.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "A cricket World Cup won at home, a global AI summit in Delhi and a new tax law.",
+      "imageAlt": "A news app with the World Cup win and the AI summit",
+      "highlights": [
+        "India beat New Zealand by 96 runs to win the men's T20 World Cup (8 March)",
+        "Delhi hosts the AI Impact Summit (16 to 20 February)",
+        "The new Income-tax Act, 2025 takes effect (1 April)",
+        "The census houselisting begins (1 April)"
+      ],
+      "source": {
+        "label": "Wikipedia: 2026 in India",
+        "url": "https://en.wikipedia.org/wiki/2026_in_India",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "in.2026.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedside",
+      "description": "A phone charging by the bed carries the household's calls, payments and news.",
+      "imageAlt": "A phone charging on a bedside table beside a pair of smart glasses on a stand",
+      "highlights": [
+        "About 1.36 billion telephone connections in the country (August 2026)",
+        "More than a billion broadband connections"
+      ],
+      "source": {
+        "label": "TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)",
+        "url": "https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "in.2026.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "At the gate, delivery riders hand over a bag; the shop's '10 minutes' promise has been toned down.",
+      "imageAlt": "A delivery rider handing a bag to a customer at a gate",
+      "highlights": [
+        "Blinkit replaced '10,000+ products delivered in 10 minutes' with '30,000+ products delivered at your doorstep' (January)",
+        "Zepto reportedly dropped the claim too, while Swiggy Instamart still showed 8- or 10-minute estimates in many places"
+      ],
+      "source": {
+        "label": "The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)",
+        "url": "https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "todo": true
+    }
+  ],
+  "prices": [
+    {
+      "id": "in.2026.prices.electricity-domestic",
+      "item": "Electricity, first 120 units a month (Assam, domestic)",
+      "price": "Rs 4.25 per unit",
+      "source": {
+        "label": "APDCL: Schedule of tariff with effect from 1 April 2026 (AERC order of 6 March 2026)",
+        "url": "https://www.apdcl.org/website/docs/acts_and_rules/TariffnoticeforFY2026-27.pdf",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18",
+      "adjusted2026": "Rs 4.25 per unit",
+      "adjustedMethod": "nominal 2026 price"
+    },
+    {
+      "id": "in.2026.prices.electricity-jeevan-dhara",
+      "item": "Electricity, Jeevan Dhara (Assam, low-use households)",
+      "price": "Rs 3.35 per unit",
+      "source": {
+        "label": "APDCL: Schedule of tariff with effect from 1 April 2026 (AERC order of 6 March 2026)",
+        "url": "https://www.apdcl.org/website/docs/acts_and_rules/TariffnoticeforFY2026-27.pdf",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18",
+      "adjusted2026": "Rs 3.35 per unit",
+      "adjustedMethod": "nominal 2026 price"
+    },
+    {
+      "id": "in.2026.prices.lpg-cylinder",
+      "item": "Domestic LPG cylinder, 14.2 kg (Guwahati)",
+      "price": "Rs 991",
+      "source": {
+        "label": "Upstox: LPG price in Guwahati (page for 18 October 2026)",
+        "url": "https://upstox.com/lpg-price/lpg-price-in-guwahati/",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "adjusted2026": "Rs 991",
+      "adjustedMethod": "nominal 2026 price",
+      "todo": true
+    },
+    {
+      "id": "in.2026.prices.petrol",
+      "item": "Petrol, per litre (Guwahati)",
+      "price": "Rs 106.51",
+      "source": {
+        "label": "Business Today: Petrol price in Guwahati today (18 October 2026)",
+        "url": "https://www.businesstoday.in/fuel-price/petrol-price-in-guwahati-today",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "adjusted2026": "Rs 106.51",
+      "adjustedMethod": "nominal 2026 price",
+      "todo": true
+    },
+    {
+      "id": "in.2026.prices.diesel",
+      "item": "Diesel, per litre (Guwahati)",
+      "price": "Rs 92.59",
+      "source": {
+        "label": "Business Today: Diesel price in Guwahati today (18 October 2026)",
+        "url": "https://www.businesstoday.in/fuel-price/diesel-price-in-guwahati-today",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "adjusted2026": "Rs 92.59",
+      "adjustedMethod": "nominal 2026 price",
+      "todo": true
+    },
+    {
+      "id": "in.2026.prices.amul-milk",
+      "item": "Fresh pouch milk (Amul)",
+      "price": "Rs 2 a litre dearer from 14 May",
+      "source": {
+        "label": "Business Today: Amul raises milk prices, new rates effective from May 14 (13 May 2026)",
+        "url": "https://www.businesstoday.in/india/story/amul-raises-milk-prices-new-rates-effective-from-may-14-531344-2026-05-13",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-18"
+    }
+  ],
+  "technology": [
+    {
+      "id": "in.2026.technology.upi",
+      "name": "UPI",
+      "category": "work",
+      "description": "UPI handled about 24 billion transactions worth Rs 29.37 lakh crore in September 2026, around 802 million a day.",
+      "source": {
+        "label": "Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)",
+        "url": "https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "in.2026.technology.mobile-broadband",
+      "name": "Mobile and broadband",
+      "category": "communication",
+      "description": "TRAI counted 1,101 million broadband connections at the end of August 2026, 1,053 million of them wireless, with about 13.45 million on 5G fixed wireless.",
+      "source": {
+        "label": "TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)",
+        "url": "https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "in.2026.technology.indian-language-ai",
+      "name": "Indian-language AI models",
+      "category": "work",
+      "description": "At the AI Impact Summit in February 2026, Sarvam AI showed 30B and 105B models and the government-backed BharatGen released Param2, which covers 22 Indian languages.",
+      "source": {
+        "label": "Wikipedia: AI Impact Summit",
+        "url": "https://en.wikipedia.org/wiki/AI_Impact_Summit",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "todo": true
+    },
+    {
+      "id": "in.2026.technology.quick-commerce",
+      "name": "Quick commerce",
+      "category": "home",
+      "description": "Delivery apps such as Blinkit, Zepto and Swiggy Instamart bring groceries to the door in minutes; in January 2026 Blinkit dropped its '10 minutes' tagline after talks with the Labour Ministry.",
+      "source": {
+        "label": "The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)",
+        "url": "https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "todo": true
+    },
+    {
+      "id": "in.2026.technology.noida-airport",
+      "name": "Noida International Airport",
+      "category": "transport",
+      "description": "The first phase of Noida International Airport (Jewar) was inaugurated on 28 March 2026 and the first commercial flight landed on 15 June 2026.",
+      "source": {
+        "label": "Wikipedia: Noida International Airport",
+        "url": "https://en.wikipedia.org/wiki/Noida_International_Airport",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "todo": true
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "in.2026.visions.amodei-delhi",
+      "prediction": "In a few years, AI models will surpass the cognitive intelligence of most humans.",
+      "whoSaidIt": "Dario Amodei, keynote at the India AI Impact Summit, 19 February 2026",
+      "cameTrue": "unknown",
+      "note": "Too early to judge. Reported as a quotation by one news outlet.",
+      "source": {
+        "label": "Swarajya: 'India has an absolutely central role to play', Anthropic CEO Amodei says at India AI Impact Summit (19 February 2026)",
+        "url": "https://swarajyamag.com/amp/story/news-brief/india-has-an-absolutely-central-role-to-play-anthropic-ceo-amodei-says-at-india-ai-impact-summit",
+        "accessed": "2026-10-18",
+        "quality": "secondary"
+      },
+      "todo": true
+    }
+  ],
+  "headlines": [
+    {
+      "id": "in.2026.headlines.2026-02-16-ai-impact-summit",
+      "date": "2026-02-16",
+      "headline": "Delhi opens the AI Impact Summit",
+      "publication": "News coverage in India",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: AI Impact Summit",
+        "url": "https://en.wikipedia.org/wiki/AI_Impact_Summit",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "in.2026.headlines.2026-03-08-t20-world-cup",
+      "date": "2026-03-08",
+      "headline": "India beat New Zealand by 96 runs to win the T20 World Cup",
+      "publication": "News coverage in India",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2026 ICC Men's T20 World Cup",
+        "url": "https://en.wikipedia.org/wiki/2026_ICC_Men%27s_T20_World_Cup",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "in.2026.headlines.2026-04-01-income-tax-act-census",
+      "date": "2026-04-01",
+      "headline": "The Income-tax Act, 2025 takes effect and the census houselisting begins",
+      "publication": "News coverage in India",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: Income-tax Act, 2025",
+        "url": "https://en.wikipedia.org/wiki/Income-tax_Act,_2025",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    }
+  ],
+  "notes": {
+    "futureVisions": "Only predictions traced to a page that was opened are shown; the Prime Minister's summit speech could not be opened (access blocked) so no India-government forecast is quoted."
+  }
+}

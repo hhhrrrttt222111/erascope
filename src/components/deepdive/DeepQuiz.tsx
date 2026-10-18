@@ -28,7 +28,7 @@ const QUESTIONS = 8;
 /** Only checked (not todo), non-speculative, non-sensitive items whose text does not give the year away. */
 function eligible(items: FlatItem[]) {
   return items.filter(
-    (f) => !f.speculative && !f.item.todo && !f.item.context && f.item.sensitivity?.level !== "content-note" && f.item.sources.length > 0 && !YEARISH.test(`${f.item.title} ${f.item.summary}`) && f.item.summary.length < 260,
+    (f) => !f.speculative && !f.item.todo && !f.item.scheduled && !f.item.forecast && !f.item.context && f.item.sensitivity?.level !== "content-note" && f.item.sources.length > 0 && !YEARISH.test(`${f.item.title} ${f.item.summary}`) && f.item.summary.length < 260,
   );
 }
 

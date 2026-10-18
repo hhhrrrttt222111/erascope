@@ -1,15 +1,18 @@
 import { Box, Button, Typography } from "@mui/material";
 import { useState } from "react";
 import type { EverydayItem } from "../../../data/types";
+import { useShellEra } from "../../../context/EraContext";
+import { comparisonYear } from "../../../data/present";
 import { ofKind, Panel } from "./shared";
 
-/** Pick a journey; compare mode, time and cost then with 2026 (shown where the item has a sourced 2026 equivalent). */
+/** Pick a journey; compare mode, time and cost with the comparison year (shown where the item has a sourced equivalent). */
 export default function JourneyPlanner({ items }: { items: EverydayItem[] }) {
+  const era = useShellEra();
   const trips = ofKind(items, "journey");
   const [i, setI] = useState(0);
   if (trips.length === 0) return null;
   const t = trips[Math.min(i, trips.length - 1)];
-  const cols = [{ head: "Then", v: { mode: t.mode, duration: t.duration, cost: t.cost } }, { head: "2026", v: t.now }];
+  const cols = [{ head: String(era.year), v: { mode: t.mode, duration: t.duration, cost: t.cost } }, { head: String(comparisonYear(era.year)), v: t.now }];
   return (
     <Panel title="Journey planner" hint="Choose a journey, then compare it with the same trip today.">
       <Box role="tablist" aria-label="Journeys" sx={{ display: "flex", gap: 1, flexWrap: "wrap", mb: 1.5 }}>
@@ -28,7 +31,7 @@ export default function JourneyPlanner({ items }: { items: EverydayItem[] }) {
                 <Typography>Cost: {c.v.cost ?? "not recorded"}</Typography>
               </>
             ) : (
-              <Typography variant="body2">No sourced 2026 equivalent yet.</Typography>
+              <Typography variant="body2">No sourced equivalent yet.</Typography>
             )}
           </Box>
         ))}

@@ -31,6 +31,10 @@
 }
 @keyframes in-glow { from { opacity: 0.07; } to { opacity: 0.18; } }
 
+/* 2026: chikankari-style running stitch, drawn with dashed gradients (static, so reduced motion needs nothing). */
+.in-chikankari-stitch::before { background: repeating-linear-gradient(90deg, var(--in-accent) 0 6px, transparent 6px 12px) 0 0 / 100% 2px no-repeat, radial-gradient(circle at 50% 50%, transparent 0 5px, var(--in-accent2) 5.5px 6.5px, transparent 7px) 0 0 / 48px 48px; opacity: 0.07; }
+.in-chikankari-stitch-hero::before { background: repeating-linear-gradient(135deg, transparent 0 14px, var(--in-accent) 14px 16px, transparent 16px 20px), radial-gradient(circle, var(--in-accent2) 0 2px, transparent 2.6px) 0 0 / 30px 30px; opacity: 0.08; }
+
 /* Banner strip: one slot above every chrome. */
 .in-band {
   display: flex;

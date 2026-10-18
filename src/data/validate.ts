@@ -6,13 +6,13 @@
 import type { Claim, DeepDive, Everyday, EverydayItem, DeepDiveItem, DeepDiveThread, Era, EraBase, EraId, FactCheckRow, Source } from "./types.ts";
 import { DEEP_DIVE_SECTIONS, isSectionId } from "./deepdive.ts";
 
-export const ERA_YEARS: readonly EraId[] = [1900, 1920, 1930, 1945, 1960, 1970, 1984, 1995, 1999, 2005, 2010, 2020, 2050];
+export const ERA_YEARS: readonly EraId[] = [1900, 1920, 1930, 1945, 1960, 1970, 1984, 1995, 1999, 2005, 2010, 2020, 2026, 2050];
 
-const CHROMES = ["newspaper", "midcentury", "win98", "flatweb", "futureos", "artnouveau", "artdeco", "homefront", "groovy", "terminal", "earlyweb", "web2gloss", "videocall"];
-const TRANSITIONS = ["pageflip", "tvclick", "crtpoweron", "flatslide", "glitch", "iris", "curtain", "stamp", "lavablob", "typeout", "interlace", "glossswipe", "reconnect"];
+const CHROMES = ["newspaper", "midcentury", "win98", "flatweb", "futureos", "artnouveau", "artdeco", "homefront", "groovy", "terminal", "earlyweb", "web2gloss", "videocall", "bento"];
+const TRANSITIONS = ["pageflip", "tvclick", "crtpoweron", "flatslide", "glitch", "iris", "curtain", "stamp", "lavablob", "typeout", "interlace", "glossswipe", "reconnect", "assemble"];
 const SCENES = [
   "Radio1920", "Television1960", "CrtPc1999", "Smartphone2010", "Hologram2050", "Gramophone1900", "Projector1930",
-  "RationBook1945", "Turntable1970", "FloppyDrive1984", "Modem1995", "MusicPlayer2005", "Laptop2020",
+  "RationBook1945", "Turntable1970", "FloppyDrive1984", "Modem1995", "MusicPlayer2005", "Laptop2020", "SmartGlasses2026",
 ];
 const PLACE_IDS = ["newspaper", "bedroom", "street"];
 const CATEGORIES = ["communication", "entertainment", "home", "transport", "work"];
@@ -306,8 +306,8 @@ export function validateIndiaPrices(era: Era, file: string): string[] {
 }
 
 const OVERLAY_KEYS = ["accent", "accentFont", "pattern", "ornament", "decor", "deepDive"];
-const FRAMES = ["cartouche", "column", "arch", "slip", "poster", "signboard", "crt", "gif", "bevel", "gloss", "card", "tile", "holo"];
-const MOTIF_STYLES = ["woodcut", "deco", "stamp", "poster", "signboard", "pixel", "gif", "bevel", "gloss", "flat", "tile", "holo"];
+const FRAMES = ["cartouche", "column", "arch", "slip", "poster", "signboard", "crt", "gif", "bevel", "gloss", "card", "tile", "holo", "stitch-tile"];
+const MOTIF_STYLES = ["woodcut", "deco", "stamp", "poster", "signboard", "pixel", "gif", "bevel", "gloss", "flat", "tile", "holo", "stitch"];
 const ORNAMENTS = ["blockprint", "ruled", "perforated", "bars", "lattice", "dots"];
 /** Non-text ornaments need 3:1 (WCAG 1.4.11). Body text never uses the accent. */
 export const MIN_ORNAMENT_CONTRAST = 3;

@@ -1,0 +1,951 @@
+{
+  "country": "world",
+  "year": 2026,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "Latest official figures, each shown with the period it covers.",
+      "items": [
+        {
+          "id": "world.2026.everyday.by-the-numbers.unemployment-rate",
+          "kind": "stat",
+          "title": "Unemployment rate",
+          "summary": "The unemployment rate was 4.2 percent in September 2026.",
+          "sources": [
+            {
+              "label": "BLS: The Employment Situation, September 2026 (2 October 2026)",
+              "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "BLS via FRED: Unemployment rate (UNRATE)",
+              "url": "https://fred.stlouisfed.org/series/UNRATE",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Unemployment rate",
+          "value": "4.2",
+          "unit": "percent",
+          "asOf": "September 2026",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.by-the-numbers.hourly-earnings",
+          "kind": "stat",
+          "title": "Average hourly earnings",
+          "summary": "Private-sector employees earned an average of $37.81 an hour in September 2026, up 3.0 percent over 12 months.",
+          "sources": [
+            {
+              "label": "BLS: The Employment Situation, September 2026 (2 October 2026)",
+              "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "BLS via FRED: Average hourly earnings of all employees, total private (CES0500000003)",
+              "url": "https://fred.stlouisfed.org/series/CES0500000003",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average hourly earnings, all private employees",
+          "value": "$37.81",
+          "unit": "per hour",
+          "asOf": "September 2026",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.by-the-numbers.mortgage-rate",
+          "kind": "stat",
+          "title": "Mortgage rate",
+          "summary": "The 30-year fixed mortgage rate averaged 7.40 percent in the week to 15 October 2026, against 6.27 percent a year earlier.",
+          "sources": [
+            {
+              "label": "FRED: 30-year fixed rate mortgage average in the United States (Freddie Mac)",
+              "url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Freddie Mac: Primary Mortgage Market Survey (week of 15 October 2026)",
+              "url": "https://www.freddiemac.com/pmms",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "30-year fixed mortgage rate",
+          "value": "7.40",
+          "unit": "percent",
+          "asOf": "week of 15 October 2026",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.by-the-numbers.consumer-prices",
+          "kind": "stat",
+          "title": "Consumer prices",
+          "summary": "Prices were 3.7 percent higher in September 2026 than a year earlier; without food and energy the rise was 2.6 percent, and energy alone was up 20.4 percent.",
+          "sources": [
+            {
+              "label": "BLS: Consumer Price Index, September 2026 (14 October 2026)",
+              "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "CPI-U, all items, 12-month change",
+          "value": "3.7",
+          "unit": "percent",
+          "asOf": "September 2026",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.by-the-numbers.median-weekly-earnings",
+          "kind": "stat",
+          "title": "A typical weekly pay packet",
+          "summary": "Full-time wage and salary workers had median usual weekly earnings of $1,251 in the second quarter of 2026, 4.6 percent more than a year before.",
+          "sources": [
+            {
+              "label": "BLS: Usual weekly earnings of wage and salary workers, second quarter 2026 (21 July 2026)",
+              "url": "https://www.bls.gov/news.release/wkyeng.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Median usual weekly earnings, full-time workers",
+          "value": "$1,251",
+          "unit": "per week",
+          "asOf": "Q2 2026",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.by-the-numbers.payroll-jobs",
+          "kind": "stat",
+          "title": "Hiring slowed",
+          "summary": "Employers added 29,000 jobs in September 2026 and the workweek averaged 34.4 hours.",
+          "sources": [
+            {
+              "label": "BLS: The Employment Situation, September 2026 (2 October 2026)",
+              "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Change in nonfarm payroll employment",
+          "value": "+29,000",
+          "unit": "jobs",
+          "asOf": "September 2026",
+          "todo": true
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Eggs got cheaper, chicken and bananas barely moved, and eating out cost more than eating in.",
+      "items": [
+        {
+          "id": "world.2026.everyday.food-and-kitchen.eggs-cheaper",
+          "kind": "fact",
+          "title": "Eggs a third cheaper",
+          "summary": "A dozen eggs cost $2.27 in September 2026, against $3.49 a year earlier.",
+          "sources": [
+            {
+              "label": "BLS: Average retail food and energy prices, U.S. city average (September 2026)",
+              "url": "https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "BLS via FRED: Eggs, Grade A, Large, per dozen (APU0000708111)",
+              "url": "https://fred.stlouisfed.org/series/APU0000708111",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-09",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.food-and-kitchen.whole-chicken",
+          "kind": "price",
+          "title": "A whole chicken",
+          "summary": "A fresh whole chicken averaged $2.06 a pound in September 2026.",
+          "sources": [
+            {
+              "label": "BLS: Average retail food and energy prices, U.S. city average (September 2026)",
+              "url": "https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "BLS via FRED: Chicken, Fresh, Whole, per pound (APU0000706111)",
+              "url": "https://fred.stlouisfed.org/series/APU0000706111",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "price": "$2.06 a pound",
+          "adjusted2026": "$2.06 a pound",
+          "adjustedMethod": "nominal 2026 price",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.food-and-kitchen.bananas",
+          "kind": "price",
+          "title": "Bananas",
+          "summary": "Bananas averaged 66 cents a pound in September 2026.",
+          "sources": [
+            {
+              "label": "BLS: Average retail food and energy prices, U.S. city average (September 2026)",
+              "url": "https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "BLS via FRED: Bananas, per pound (APU0000711211)",
+              "url": "https://fred.stlouisfed.org/series/APU0000711211",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "price": "$0.656 a pound",
+          "adjusted2026": "$0.656 a pound",
+          "adjustedMethod": "nominal 2026 price",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.food-and-kitchen.kitchen-gas",
+          "kind": "price",
+          "title": "Gas for the stove",
+          "summary": "Piped natural gas cost $1.70 a therm in September 2026.",
+          "sources": [
+            {
+              "label": "BLS: Average retail food and energy prices, U.S. city average (September 2026)",
+              "url": "https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "BLS via FRED: Utility (piped) gas per therm (APU000072620)",
+              "url": "https://fred.stlouisfed.org/series/APU000072620",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "price": "$1.70 a therm",
+          "adjusted2026": "$1.70 a therm",
+          "adjustedMethod": "nominal 2026 price",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.food-and-kitchen.in-or-out",
+          "kind": "fact",
+          "title": "Eating in versus eating out",
+          "summary": "Food bought for the home cost 1.8 percent more than a year earlier in September 2026, while restaurant and takeaway food cost 3.5 percent more.",
+          "sources": [
+            {
+              "label": "BLS: Consumer Price Index, September 2026 (14 October 2026)",
+              "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-09",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Clothes cost a little more, and secondhand kept growing.",
+      "items": [
+        {
+          "id": "world.2026.everyday.clothing-and-style.apparel-prices",
+          "kind": "fact",
+          "title": "Clothes cost more",
+          "summary": "Clothing prices were 3.4 percent higher in September 2026 than a year earlier.",
+          "sources": [
+            {
+              "label": "BLS: Consumer Price Index, September 2026 (14 October 2026)",
+              "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-09",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.clothing-and-style.secondhand-growth",
+          "kind": "fact",
+          "title": "Secondhand takes off",
+          "summary": "ThredUp's 2026 Resale Report said the U.S. secondhand clothing market grew nearly four times faster than the broader clothing market in 2025.",
+          "sources": [
+            {
+              "label": "Retail Dive: US resale market to surpass $78B by 2030 (3 April 2026, on ThredUp's 2026 Resale Report)",
+              "url": "https://retaildive.com/news/us-resale-market-surpass-78-billion-in-2030-secondhand/816470/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.clothing-and-style.resale-forecast",
+          "kind": "fact",
+          "title": "Secondhand by 2030",
+          "summary": "ThredUp (with GlobalData) forecast that U.S. secondhand clothing sales would reach about $78.8 billion by 2030, growing about 7.3 percent a year.",
+          "sources": [
+            {
+              "label": "Retail Dive: US resale market to surpass $78B by 2030 (3 April 2026, on ThredUp's 2026 Resale Report)",
+              "url": "https://retaildive.com/news/us-resale-market-surpass-78-billion-in-2030-secondhand/816470/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "forecast": {
+            "publisher": "ThredUp, with GlobalData (2026 Resale Report)",
+            "published": "2026-04-03"
+          },
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.clothing-and-style.back-to-school-clothes",
+          "kind": "fact",
+          "title": "Back-to-school shopping",
+          "summary": "The National Retail Federation estimated that families with school-age children would spend about $864 each on back-to-school items in 2026, including about $174 on shoes.",
+          "sources": [
+            {
+              "label": "Finder, citing NRF: Back-to-school spending (as reported in search results)",
+              "url": "https://www.shopback.com/blog/finance/back-to-school-2026-us-parents-monthly-budget-3-kids",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Year in progress, and the fashion trade publishes few official 2026 figures. Four items are shown; the NRF and ThredUp pages could not be opened directly."
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "Hiring slowed, pay rose about 3 percent, and layoffs hit tech and media.",
+      "items": [
+        {
+          "id": "world.2026.everyday.work-and-wages.typical-pay",
+          "kind": "wage",
+          "title": "Median full-time pay",
+          "summary": "Median usual weekly earnings of full-time workers were $1,251 in the second quarter of 2026.",
+          "sources": [
+            {
+              "label": "BLS: Usual weekly earnings of wage and salary workers, second quarter 2026 (21 July 2026)",
+              "url": "https://www.bls.gov/news.release/wkyeng.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-07",
+          "job": "All full-time wage and salary workers (median)",
+          "amount": "$1,251",
+          "per": "week",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.work-and-wages.pay-gap",
+          "kind": "fact",
+          "title": "Women's and men's pay",
+          "summary": "Women's median weekly earnings were $1,131 and men's $1,380 in the second quarter of 2026, so women earned 82.0 percent of what men did.",
+          "sources": [
+            {
+              "label": "BLS: Usual weekly earnings of wage and salary workers, second quarter 2026 (21 July 2026)",
+              "url": "https://www.bls.gov/news.release/wkyeng.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.work-and-wages.finance-telework",
+          "kind": "fact",
+          "title": "Who works from home",
+          "summary": "In June 2026, 52.5 percent of workers in financial activities teleworked, against 47.2 percent in information and 7.7 percent in leisure and hospitality.",
+          "sources": [
+            {
+              "label": "BLS TED: 52.5 percent of workers in financial activities teleworked in June 2026 (29 July 2026)",
+              "url": "https://www.bls.gov/opub/ted/2026/52-5-percent-of-workers-in-financial-activities-teleworked-in-june-2026.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-06",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.work-and-wages.media-tech-layoffs",
+          "kind": "fact",
+          "title": "Layoffs in tech and media",
+          "summary": "Epic Games announced more than 1,000 layoffs on 24 March, Microsoft said on 6 July it would cut 1,600 Xbox jobs now and 1,600 more over the next year, and Netflix said in October it would cut about 1,000 jobs.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in video games",
+              "url": "https://en.wikipedia.org/wiki/2026_in_video_games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Netflix",
+              "url": "https://en.wikipedia.org/wiki/Netflix",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.work-and-wages.payrolls-september",
+          "kind": "fact",
+          "title": "A slow September",
+          "summary": "Employers added 29,000 jobs in September 2026 and the unemployment rate stayed at 4.2 percent.",
+          "sources": [
+            {
+              "label": "BLS: The Employment Situation, September 2026 (2 October 2026)",
+              "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "BLS via FRED: Unemployment rate (UNRATE)",
+              "url": "https://fred.stlouisfed.org/series/UNRATE",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-09",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "Teens leaned on chatbots for schoolwork, and phones were locked away in more schools.",
+      "items": [
+        {
+          "id": "world.2026.everyday.school-and-childhood.teens-schoolwork",
+          "kind": "stat",
+          "title": "Chatbots for schoolwork",
+          "summary": "Pew found that 54 percent of U.S. teens had used a chatbot for help with schoolwork, and 10 percent did all or most of their schoolwork with its help.",
+          "sources": [
+            {
+              "label": "Pew Research Center: How teens use and view AI (24 February 2026)",
+              "url": "https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Teens who have used chatbots for schoolwork",
+          "value": "54",
+          "unit": "percent",
+          "asOf": "survey of 25 Sept to 9 Oct 2025",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.school-and-childhood.teens-cheating",
+          "kind": "stat",
+          "title": "Is it cheating?",
+          "summary": "About 59 percent of teens said AI cheating happens at least somewhat often at their school.",
+          "sources": [
+            {
+              "label": "Pew Research Center: How teens use and view AI (24 February 2026)",
+              "url": "https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Teens who say AI cheating happens at least somewhat often",
+          "value": "59",
+          "unit": "percent",
+          "asOf": "survey of 25 Sept to 9 Oct 2025",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.school-and-childhood.phones-away",
+          "kind": "fact",
+          "title": "Phones away",
+          "summary": "Several states restrict phones in class; in Oregon, where districts had to enforce a ban by 2026, 99 percent had done so by February 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mobile phone use in schools",
+              "url": "https://en.wikipedia.org/wiki/Mobile_phone_use_in_schools",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.school-and-childhood.back-to-school-bill",
+          "kind": "fact",
+          "title": "The back-to-school bill",
+          "summary": "The NRF estimated families with school-age children would spend about $864 each in 2026, a record total of about $43 billion.",
+          "sources": [
+            {
+              "label": "Finder, citing NRF: Back-to-school spending (as reported in search results)",
+              "url": "https://www.shopback.com/blog/finance/back-to-school-2026-us-parents-monthly-budget-3-kids",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.school-and-childhood.enrollment",
+          "kind": "stat",
+          "title": "How many pupils",
+          "summary": "U.S. public schools enrolled about 48.8 million students in fall 2024, 0.3 percent fewer than in fall 2023; a fall 2025 national count was not yet available.",
+          "sources": [
+            {
+              "label": "Florida Education Association: 2026 Rankings and Estimates Report (April 2026)",
+              "url": "https://feaweb.org/wp-content/uploads/2026/04/2026_Rankings_and_Estimates_Report.pdf",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Public school enrollment",
+          "value": "48,836,735",
+          "unit": "students",
+          "asOf": "fall 2024",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "Flying set a summer record while pump prices jumped.",
+      "items": [
+        {
+          "id": "world.2026.everyday.getting-around.tsa-peak",
+          "kind": "stat",
+          "title": "A busy day at the airport",
+          "summary": "TSA screened 2,988,204 people on 18 June 2026, the highest single day in its 2026 table.",
+          "sources": [
+            {
+              "label": "TSA: TSA checkpoint travel numbers (2026)",
+              "url": "https://www.tsa.gov/travel/passenger-volumes",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-06-18",
+          "metric": "People screened at U.S. airport checkpoints in one day",
+          "value": "2,988,204",
+          "unit": "people",
+          "asOf": "18 June 2026",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.getting-around.gasoline-jump",
+          "kind": "fact",
+          "title": "Pump prices jump",
+          "summary": "Gasoline prices were 34.2 percent higher in September 2026 than a year earlier, and energy as a whole was up 20.4 percent.",
+          "sources": [
+            {
+              "label": "BLS: Consumer Price Index, September 2026 (14 October 2026)",
+              "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-09",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.getting-around.waymo-airports",
+          "kind": "fact",
+          "title": "Driverless rides to the airport",
+          "summary": "Waymo opened San Francisco International Airport to a waitlist on 29 January 2026 and Nashville International on 13 October.",
+          "sources": [
+            {
+              "label": "Wikipedia: Waymo",
+              "url": "https://en.wikipedia.org/wiki/Waymo",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.getting-around.spirit-ceases",
+          "kind": "fact",
+          "title": "An airline stops flying",
+          "summary": "Spirit Airlines announced on 2 May 2026 that it had ceased operations.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2026-05-02",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.getting-around.lirr-strike",
+          "kind": "fact",
+          "title": "Commuter rail strike",
+          "summary": "Long Island Rail Road workers went on strike on 16 May 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2026-05-16",
+          "todo": true
+        }
+      ]
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "Phones got more expensive to fold, and scams found people by text.",
+      "items": [
+        {
+          "id": "world.2026.everyday.keeping-in-touch.iphone-duo",
+          "kind": "fact",
+          "title": "A folding iPhone",
+          "summary": "Apple said its first folding iPhone, the iPhone Duo, goes on sale on 23 October 2026 from $1,999, with pre-orders from 16 October.",
+          "sources": [
+            {
+              "label": "Apple Newsroom: Apple unveils iPhone Duo (9 September 2026)",
+              "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "2026-10-23",
+          "scheduled": true,
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2026.everyday.keeping-in-touch.fraud-losses",
+          "kind": "stat",
+          "title": "Scams cost billions",
+          "summary": "The FTC told Congress that consumers reported $15.9 billion in fraud losses in 2025 from about 3 million reports; investment scams cost the most, $7.9 billion.",
+          "sources": [
+            {
+              "label": "FTC: FTC testifies before the Joint Economic Committee on its efforts to combat fraud (25 March 2026)",
+              "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-testifies-joint-economic-committee-agencys-efforts-combat-fraud",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Fraud losses reported to the FTC",
+          "value": "$15.9 billion",
+          "unit": "",
+          "asOf": "2025",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.keeping-in-touch.verizon-outage",
+          "kind": "fact",
+          "title": "A network outage",
+          "summary": "A Verizon outage on 14 January 2026 affected at least 175,000 people.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2026-01-14",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.keeping-in-touch.starlink-customers",
+          "kind": "stat",
+          "title": "Dish in the sky",
+          "summary": "Starlink reported more than 12 million customers by June 2026, up from about 10.3 million in March.",
+          "sources": [
+            {
+              "label": "Wikipedia: Starlink",
+              "url": "https://en.wikipedia.org/wiki/Starlink",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Starlink customers",
+          "value": "12 million+",
+          "unit": "customers",
+          "asOf": "June 2026",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Year in progress. Four items are shown; Pew's mobile and social-media fact sheets could not be opened."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Weight-loss drugs went mainstream, and measles returned in force.",
+      "items": [
+        {
+          "id": "world.2026.everyday.health-and-medicine.glp1-use",
+          "kind": "stat",
+          "title": "Weight-loss drugs",
+          "summary": "Gallup found that 11 percent of U.S. adults were taking a GLP-1 drug for weight loss in 2026, up from 3 percent in 2024.",
+          "sources": [
+            {
+              "label": "Gallup: In U.S., GLP-1 usage reaches new high (7 July 2026, updated 8 September 2026)",
+              "url": "https://news.gallup.com/poll/712157/glp-usage-reaches-new-high.aspx",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Adults currently taking a GLP-1 drug for weight loss",
+          "value": "11",
+          "unit": "percent",
+          "asOf": "May-June 2026",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.health-and-medicine.obesity-falls",
+          "kind": "stat",
+          "title": "Obesity rate",
+          "summary": "Gallup's self-reported obesity rate fell to 36.8 percent in 2026 from a peak of 39.9 percent in 2022.",
+          "sources": [
+            {
+              "label": "Gallup: In U.S., GLP-1 usage reaches new high (7 July 2026, updated 8 September 2026)",
+              "url": "https://news.gallup.com/poll/712157/glp-usage-reaches-new-high.aspx",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Adult obesity rate (self-reported)",
+          "value": "36.8",
+          "unit": "percent",
+          "asOf": "2026 so far",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.health-and-medicine.measles",
+          "kind": "stat",
+          "title": "Measles returns",
+          "summary": "The CDC counted 4,410 confirmed measles cases in 2026 by 15 October, against 2,289 in all of 2025; about 96 percent were linked to outbreaks.",
+          "sources": [
+            {
+              "label": "CDC: Measles cases and outbreaks (as of 15 October 2026)",
+              "url": "https://www.cdc.gov/measles/data-research/index.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on an outbreak of infectious disease."
+          },
+          "metric": "Confirmed measles cases",
+          "value": "4,410",
+          "unit": "cases",
+          "asOf": "to 15 October 2026",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.health-and-medicine.who-exit",
+          "kind": "fact",
+          "title": "Leaving the WHO",
+          "summary": "The United States left the World Health Organization on 22 January 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2026-01-22",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Year in progress. Four items are shown; no recent national figure for life expectancy or insurance cover could be opened."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "A home World Cup, a record Spider-Man and winter games in Italy.",
+      "items": [
+        {
+          "id": "world.2026.everyday.leisure-and-fun.world-cup-crowds",
+          "kind": "stat",
+          "title": "The World Cup at home",
+          "summary": "The 48-team World Cup drew 6,810,966 spectators to 104 matches, an average of 65,490, with 11 of the 16 host cities in the United States.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 FIFA World Cup",
+              "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Total World Cup attendance",
+          "value": "6,810,966",
+          "unit": "spectators",
+          "asOf": "11 June to 19 July 2026",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.leisure-and-fun.super-bowl-lx",
+          "kind": "fact",
+          "title": "Super Bowl LX",
+          "summary": "The Seattle Seahawks beat the New England Patriots in Super Bowl LX on 8 February 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2026-02-08",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.leisure-and-fun.winter-games",
+          "kind": "fact",
+          "title": "Winter games in Italy",
+          "summary": "The Milan Cortina Winter Olympics ran from 6 to 22 February; Norway topped the medals with 18 golds and the United States won 12.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 Winter Olympics",
+              "url": "https://en.wikipedia.org/wiki/2026_Winter_Olympics",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2026-02",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.leisure-and-fun.box-office",
+          "kind": "fact",
+          "title": "A record opening",
+          "summary": "Spider-Man: Brand New Day had a record U.S. and Canada opening weekend of $360 million and had earned about $2.5 billion worldwide by mid-October.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in film",
+              "url": "https://en.wikipedia.org/wiki/2026_in_film",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.leisure-and-fun.grammys",
+          "kind": "fact",
+          "title": "Grammys",
+          "summary": "Bad Bunny's Debi Tirar Mas Fotos won Album of the Year at the 68th Grammy Awards.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in music",
+              "url": "https://en.wikipedia.org/wiki/2026_in_music",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Living with AI assistants",
+      "standfirst": "Living with AI assistants: how ordinary people used chatbots in 2026.",
+      "items": [
+        {
+          "id": "world.2026.everyday.spotlight.half-of-adults",
+          "kind": "stat",
+          "title": "Half of adults",
+          "summary": "About half of U.S. adults, 49 percent, said in February 2026 that they use AI chatbots, up from about a third in 2024.",
+          "sources": [
+            {
+              "label": "Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)",
+              "url": "https://www.pewresearch.org/?p=303574",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "U.S. adults who use AI chatbots",
+          "value": "49",
+          "unit": "percent",
+          "asOf": "survey of 17-23 February 2026",
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.spotlight.teens-daily",
+          "kind": "fact",
+          "title": "Teens and daily use",
+          "summary": "Pew reported that about three in ten teens use chatbots daily.",
+          "sources": [
+            {
+              "label": "Pew Research Center: How teens use and view AI (24 February 2026)",
+              "url": "https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.spotlight.parents-teens-gap",
+          "kind": "fact",
+          "title": "What parents know",
+          "summary": "About half of parents said their teen uses chatbots, while 64 percent of teens said they do.",
+          "sources": [
+            {
+              "label": "Pew Research Center: How teens use and view AI (24 February 2026)",
+              "url": "https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.spotlight.chatbot-uses",
+          "kind": "fact",
+          "title": "What teens ask",
+          "summary": "Among teens, 57 percent had used chatbots to search for information, 47 percent for fun, 16 percent for casual conversation and 12 percent for emotional support or advice.",
+          "sources": [
+            {
+              "label": "Pew Research Center: How teens use and view AI (24 February 2026)",
+              "url": "https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.2026.everyday.spotlight.state-sues-openai",
+          "kind": "fact",
+          "title": "A state goes to court",
+          "summary": "Florida's attorney general sued OpenAI over ChatGPT on 1 June 2026, the first such suit by a state.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2026-06-01",
+          "todo": true
+        }
+      ]
+    }
+  },
+  "contentAsOf": "2026-10-18"
+}

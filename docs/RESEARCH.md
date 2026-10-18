@@ -284,6 +284,29 @@ Persona: a family working and schooling from home in an apartment. Region: Unite
 - [Wikipedia: Xbox Series X and Series S](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S) (reference, accessed 2026-10-12)
 - [Wikipedia: Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications) (reference, accessed 2026-10-12)
 
+## 2026: The present (snapshot 18 October 2026)
+
+**2026 snapshot date: 18 October 2026.** Every 2026 claim was opened on the web in this session on that date; nothing is from memory. Items that rest on one source, or on a search summary only, carry `todo` and show "Unverified".
+
+World persona: a hybrid-working household in a mid-sized Midwestern city. India persona: an urban household in Guwahati, Assam (the north-east is under-represented in the other India eras).
+
+Spotlights: World "Living with AI assistants" (Pew adult and teen surveys, Gallup, Florida's suit against OpenAI); India "Ten-minute deliveries and the gig worker" (the January 2026 Labour Ministry step, the strike, the company's own figures). Both are the defaults from the brief; no swap was needed.
+
+Sources by section (World): BLS Average Retail Food and Energy Prices (14 October 2026), BLS CPI (September 2026), BLS Employment Situation, BLS usual weekly earnings, BLS TED telework, FRED series for each price, Freddie Mac PMMS, TSA checkpoint numbers, CDC measles page, Gallup GLP-1, Pew chatbot and teen AI reports, FTC testimony, Cox Automotive Q3 EV report, Apple Newsroom (iPhone Duo), Wikipedia for event lists.
+Sources by section (India): MoSPI CPI press release (12 October 2026, read from the PDF), TRAI press release 125/2026 (read from the PDF), APDCL tariff notice (read from the PDF), RBI Monetary Policy Statement (7 October 2026), WHO Disease Outbreak News (Nipah), Ormax box-office report, news reports of NPCI, GST, GDP, trade and forex figures (two opened articles each), Wikipedia for event lists and sports results.
+
+Theme decisions: chrome `bento`, transition `assemble`, scene `SmartGlasses2026`, sound `haptic-thock` (synthesised, no file), fonts Fraunces / Geist / Geist Mono, primary `#C42F34` (the first coral, `#D4363B`, failed AA on the oat background). India layer: Anek Devanagari, pattern `in-chikankari-stitch`, frame `stitch-tile`, motif `stitch`. The validator's uniqueness rules found no collisions. Year test for the scene: camera glasses were on general retail sale in 2026 (Meta Ray-Ban Display since September 2025; Meta's own glasses at $299 per a June 2026 report), so glasses were kept.
+
+Deviations from the brief, all because the repo differs from what the brief assumes: there is no Almanac, Price time machine or era quiz in the repo, so none was built; the deep dive is one file per year, not per section; the country switch for 2026 is a segmented pill in the timeline bar, not inside the command bar; "Compared with 2020" is implemented as labels read from `comparisonYear()` with the comparison values held in the item data, and the 2026 comparisons use values that were already in the 2020 files.
+
+Pages that could not be opened: PIB and pmindia.gov.in (403), Pew's mobile and social-media fact sheets (404), the NRF back-to-school page (404), Deccan Herald and Chain Store Age (403). Figures that only appeared in search summaries are marked `todo`.
+
+2050 audit: world 2050 now points its bread price (`world.2026.prices.bread`) and its AR-glasses price (`world.2026.technology.smart-glasses`) at the 2026 era and quotes the same figures ($1.83 a pound; $299). Other "today" wording in the 2050 files names plans (the Bharatiya Antariksh Station, the 2070 net-zero pledge, population projections) rather than present-day figures and was left as is.
+
+Duplicate check with 2020: three titles recurred (driverless taxis, internet connections, the Prime Minister's office) and now link to their 2020 items with `relatedIds`.
+
+Open issues: Starlink India's status could not be confirmed as of October 2026 (the only source found was from December 2025), so nothing is claimed. The 2026 deep-dive `music-arts` section has four items because the arts awards come late in the year.
+
 ## 2050: Tomorrow, Maybe
 
 Persona: an imagined household in a mid-sized U.S. city. Region: United States (USD).
@@ -686,6 +709,7 @@ Deep dive (year, section, count, reason):
 - 2020 cinema: 4 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
 - 2020 music-arts: 0 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
 - 2020 economy-business: 2 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2026 music-arts: 4 items. Year in progress and the national arts awards come late. Four items are shown; no Grammy or international-tour news for an Indian artist in 2026 could be opened.
 - 1900 personalities: Only one woman (Pandita Ramabai) could be documented for 1900 against two sources; Sister Nivedita and Cornelia Sorabji were considered but their 1900 activity could not be confirmed. Three regions are covered (east, west, overseas).
 
 Everyday sections (country, year, section, count, reason):
@@ -714,7 +738,9 @@ Everyday sections (country, year, section, count, reason):
 - world 1930 spotlight: 4 items. Soup kitchens, bread lines and relief figures could not be sourced from pages we opened.
 - world 1945 byTheNumbers: 5 items. Population, life expectancy and household figures for 1945 could not be confirmed from a source we opened.
 - world 1945 schoolAndChildhood: 2 items. We could not find sourced school figures for 1945: the NCES table we opened has no entry between 1939-40 and 1949-50.
+- world 1945 gettingAround: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
 - world 1945 keepingInTouch: 0 items. We could not find sourced 1945 postal rates, telephone figures or radio audiences.
+- world 1945 healthAndMedicine: 2 items. Only 2 sourced items could be found for this section; the rest were left out rather than guessed.
 - world 1945 leisureAndFun: 0 items. We could not find sourced material on films, radio, sport or holidays for 1945.
 - world 1960 foodAndKitchen: 2 items. We could not find sourced 1960 grocery prices, appliance counts or typical meals.
 - world 1960 workAndWages: 1 items. We could not find sourced figures for 1960 working hours, women's work or the minimum wage.
@@ -722,9 +748,11 @@ Everyday sections (country, year, section, count, reason):
 - world 1960 gettingAround: 1 items. We could not find sourced 1960 fares, journey times or air travel figures; the vehicle count is under The year in numbers.
 - world 1960 keepingInTouch: 0 items. We could not find sourced 1960 postage, telephone or television figures.
 - world 1960 healthAndMedicine: 1 items. We could not find sourced 1960 doctor fees, hospital costs or vaccination figures.
+- world 1960 spotlight: 2 items. Only 2 sourced items could be found for this section; the rest were left out rather than guessed.
 - world 1970 foodAndKitchen: 0 items. We could not find sourced 1970 prices, appliance counts or meals: the pages we opened on fast food and groceries had no figures for 1970.
 - world 1970 workAndWages: 2 items. We could not find sourced figures for 1970 hours, women's work or the minimum wage.
 - world 1970 schoolAndChildhood: 1 items. We could not find sourced enrolment figures, costs or toy sales for 1970.
+- world 1970 gettingAround: 2 items. Only 2 sourced items could be found for this section; the rest were left out rather than guessed.
 - world 1970 keepingInTouch: 1 items. We could not find sourced 1970 postage rates, telephone counts or television households.
 - world 1970 healthAndMedicine: 1 items. We could not find sourced 1970 doctor fees, hospital costs or disease figures.
 - world 1984 byTheNumbers: 6 items. Literacy and household size were not found for 1984. There was no census; population figures are mid-year estimates.
@@ -772,6 +800,10 @@ Everyday sections (country, year, section, count, reason):
 - world 2020 gettingAround: 1 items. We could not find sourced 2020 traffic, fare or vehicle figures.
 - world 2020 keepingInTouch: 3 items. We could not find sourced 2020 postage, call or text figures.
 - world 2020 healthAndMedicine: 3 items. We could not find sourced 2020 doctor fees, telehealth counts or hospital capacity figures.
+- world 2020 spotlight: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- world 2026 clothingAndStyle: 4 items. Year in progress, and the fashion trade publishes few official 2026 figures. Four items are shown; the NRF and ThredUp pages could not be opened directly.
+- world 2026 keepingInTouch: 4 items. Year in progress. Four items are shown; Pew's mobile and social-media fact sheets could not be opened.
+- world 2026 healthAndMedicine: 4 items. Year in progress. Four items are shown; no recent national figure for life expectancy or insurance cover could be opened.
 - in 1900 byTheNumbers: 5 items. Household electricity, telephones and household size are not available for 1900. The figures below are those we could trace to a source.
 - in 1900 foodAndKitchen: 3 items. We could not find sourced 1900 meal patterns, kitchen tools or food storage practice, so this section is short.
 - in 1900 clothingAndStyle: 2 items. We could not find sourced descriptions of everyday garments, fabrics bought or fashions of 1900.
@@ -783,83 +815,83 @@ Everyday sections (country, year, section, count, reason):
 - in 1900 leisureAndFun: 1 items. We could not find sourced material on cinema shows, wrestling, cricket outings or other festivals as people practised them in 1900.
 - in 1900 spotlight: 1 items. Rail and post are covered under Getting around and Keeping in touch; we could not find a sourced 1900 count of post offices, letters carried or telegraph mileage.
 - in 1920 byTheNumbers: 2 items. Literacy, life expectancy and household electricity could not be traced to a source we opened for 1920-21. The two figures below are for the 1921 census.
-- in 1920 foodAndKitchen: 0 items. We could not find sourced material on meals, kitchens or food storage for 1920. The era page's Prices board has sourced grain prices.
-- in 1920 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday garments in 1920 beyond the khadi campaign, which is in the spotlight.
+- in 1920 foodAndKitchen: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1920 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1920 workAndWages: 4 items. We could not find sourced wage rates outside the Bombay mills, nor figures for women's or child labour.
-- in 1920 schoolAndChildhood: 0 items. We could not find sourced figures on school attendance, fees or children's play for 1920.
+- in 1920 schoolAndChildhood: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1920 gettingAround: 2 items. We could not find sourced 1920 railway fares or journey times.
-- in 1920 keepingInTouch: 0 items. We could not find sourced 1920 postal rates, telegram charges or delivery times.
+- in 1920 keepingInTouch: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1920 healthAndMedicine: 3 items. We could not find sourced doctor fees, hospital provision or vaccination figures for 1920.
-- in 1920 leisureAndFun: 0 items. We could not find sourced material on leisure, festivals or sport as ordinary people took part in 1920.
+- in 1920 leisureAndFun: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1920 spotlight: 5 items. We could not find sourced figures for khadi output or prices in 1920, so the section describes the campaign, not its economics.
 - in 1930 byTheNumbers: 3 items. Urban share, life expectancy and household figures are not in the sources we could open for 1930-31.
-- in 1930 foodAndKitchen: 0 items. We could not find sourced 1930 meals, kitchens or food prices. The era page's Prices board has sourced grain prices.
-- in 1930 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1930 beyond the cloth boycott.
-- in 1930 workAndWages: 0 items. We could not find sourced 1930 wages, hours or prices: the Bombay cost-of-living and wage series we searched did not return 1930 figures.
+- in 1930 foodAndKitchen: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1930 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1930 workAndWages: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1930 schoolAndChildhood: 1 items. We could not find sourced 1930 school enrolment or fees.
-- in 1930 gettingAround: 0 items. We could not find sourced 1930 fares or journey times; the Deccan Queen is on the era page.
-- in 1930 keepingInTouch: 0 items. We could not find sourced 1930 postal or telegram rates; state broadcasting is on the era page.
-- in 1930 healthAndMedicine: 0 items. We could not find sourced material on health or medicine for 1930.
+- in 1930 gettingAround: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1930 keepingInTouch: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1930 healthAndMedicine: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1930 leisureAndFun: 2 items. We could not find sourced material on festivals or sport as ordinary people took part in 1930.
-- in 1945 byTheNumbers: 0 items. The census of 1941 is the nearest count; we could not source 1945 population, literacy or price figures from pages we opened.
+- in 1945 byTheNumbers: 5 items. Only 5 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1945 foodAndKitchen: 1 items. We could not find sourced 1945 meals, kitchens or prices; wartime controls are in the spotlight.
-- in 1945 clothingAndStyle: 0 items. We could not find sourced descriptions of dress in 1945 beyond the cloth shortage, which is in the spotlight.
-- in 1945 workAndWages: 0 items. We could not find sourced 1945 wages or hours.
-- in 1945 schoolAndChildhood: 0 items. We could not find sourced 1945 school figures.
-- in 1945 gettingAround: 0 items. We could not find sourced 1945 fares or journey times; railways were requisitioned for the war effort.
-- in 1945 keepingInTouch: 0 items. We could not find sourced 1945 postal or telegram figures.
-- in 1945 healthAndMedicine: 0 items. We could not find sourced health figures for 1945; the famine of 1943 is in the history section.
-- in 1945 leisureAndFun: 0 items. We could not find sourced material on leisure in 1945.
+- in 1945 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1945 workAndWages: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1945 schoolAndChildhood: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1945 gettingAround: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1945 keepingInTouch: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1945 healthAndMedicine: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1945 leisureAndFun: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1945 spotlight: 5 items. We could not find sourced allowances for sugar, cloth or kerosene, or prices, so the section describes the system rather than the quantities.
-- in 1960 foodAndKitchen: 0 items. We could not find sourced 1960 meals, kitchens or retail prices. The era page's Prices board has wholesale grain and sugar prices.
-- in 1960 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1960.
-- in 1960 workAndWages: 0 items. We could not find sourced 1960 wage rates or working hours.
-- in 1960 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1960; literacy is under The year in numbers.
+- in 1960 foodAndKitchen: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1960 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1960 workAndWages: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1960 schoolAndChildhood: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1960 gettingAround: 1 items. We could not find sourced 1960 railway or bus fares, or journey times.
 - in 1960 keepingInTouch: 2 items. We could not find sourced 1960 postal, telegram or telephone figures.
 - in 1960 healthAndMedicine: 2 items. We could not find sourced figures on doctors, hospitals or other diseases for 1960.
-- in 1960 leisureAndFun: 0 items. We could not find sourced material on leisure or festivals in 1960; the film and radio of the year are on the era page.
+- in 1960 leisureAndFun: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1960 spotlight: 5 items. We could not find sourced wages, housing allotments or population for the steel towns in 1960.
-- in 1970 foodAndKitchen: 0 items. We could not find sourced 1970 meals, kitchens or retail prices. Milk and grain prices are on the era page's Prices board, and Operation Flood is in the history section.
-- in 1970 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1970.
-- in 1970 workAndWages: 0 items. We could not find sourced wage rates or working hours for 1970.
-- in 1970 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1970; literacy is under The year in numbers.
+- in 1970 foodAndKitchen: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1970 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1970 workAndWages: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1970 schoolAndChildhood: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1970 gettingAround: 2 items. We could not find sourced 1970 railway or bus fares or journey times.
-- in 1970 keepingInTouch: 0 items. We could not find sourced 1970 postal, telephone or television figures.
-- in 1970 healthAndMedicine: 0 items. We could not find sourced 1970 health figures beyond infant mortality.
-- in 1970 leisureAndFun: 0 items. We could not find sourced material on cinema outings, festivals or sport for 1970; ticket prices were not found.
+- in 1970 keepingInTouch: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1970 healthAndMedicine: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1970 leisureAndFun: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1970 spotlight: 6 items. We could not find sourced fertiliser use, seed prices or the area under new varieties in 1970.
-- in 1984 foodAndKitchen: 0 items. We could not find sourced 1984 meals, kitchens or retail prices. Grain and milk prices are on the era page's Prices board.
-- in 1984 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1984.
-- in 1984 workAndWages: 0 items. We could not find sourced wage rates or working hours for 1984.
-- in 1984 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1984; literacy is under The year in numbers.
+- in 1984 foodAndKitchen: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1984 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1984 workAndWages: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1984 schoolAndChildhood: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1984 gettingAround: 1 items. We could not find sourced 1984 railway or bus fares, or journey times.
 - in 1984 keepingInTouch: 1 items. We could not find a sourced national count of telephones, trunk-call charges or postal rates for 1984.
-- in 1984 healthAndMedicine: 0 items. We could not find sourced 1984 health figures beyond infant mortality; the Bhopal gas leak is in the history section.
-- in 1984 leisureAndFun: 0 items. We could not find sourced material on cinema outings or festivals for 1984, beyond what is in the spotlight.
+- in 1984 healthAndMedicine: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1984 leisureAndFun: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1984 spotlight: 5 items. We could not find a sourced count of television sets in India in 1984, or set prices.
-- in 1995 foodAndKitchen: 0 items. We could not find sourced 1995 meals, kitchens or retail prices. The era page's Prices board has sourced prices.
-- in 1995 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1995.
-- in 1995 workAndWages: 0 items. We could not find sourced wage rates or working hours for 1995.
-- in 1995 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1995; literacy is under The year in numbers.
-- in 1995 gettingAround: 0 items. We could not find sourced 1995 fares or journey times.
+- in 1995 foodAndKitchen: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1995 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1995 workAndWages: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1995 schoolAndChildhood: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1995 gettingAround: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1995 keepingInTouch: 4 items. We could not find sourced 1995 letter rates, call charges or waiting lists beyond what is shown.
 - in 1995 healthAndMedicine: 2 items. We could not find sourced 1995 doctor fees, hospital costs or other health figures.
 - in 1995 leisureAndFun: 1 items. We could not find sourced 1995 ticket prices, festival or sport material beyond the cinema item.
 - in 1995 spotlight: 4 items. We could not find a sourced count of cable homes, monthly cable fees or STD booths for 1995, so the section describes the system rather than the numbers.
 - in 1999 byTheNumbers: 6 items. Literacy, urban share and household size are not given for 1999: the censuses fell in 1991 and 2001.
-- in 1999 foodAndKitchen: 0 items. We could not find sourced 1999 meals, kitchens or retail prices.
-- in 1999 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1999.
-- in 1999 workAndWages: 0 items. We could not find sourced wages or hours for 1999, including software salaries.
-- in 1999 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1999.
-- in 1999 gettingAround: 0 items. We could not find sourced 1999 fares or journey times; the Delhi-Lahore bus is in the history section.
-- in 1999 keepingInTouch: 0 items. We could not find sourced 1999 postal, call or mobile tariff figures; internet access is in the spotlight.
-- in 1999 healthAndMedicine: 0 items. We could not find sourced 1999 health figures beyond infant mortality.
-- in 1999 leisureAndFun: 0 items. We could not find sourced 1999 ticket prices or festival material.
+- in 1999 foodAndKitchen: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1999 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1999 workAndWages: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1999 schoolAndChildhood: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1999 gettingAround: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1999 keepingInTouch: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1999 healthAndMedicine: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 1999 leisureAndFun: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 1999 spotlight: 7 items. We could not find a sourced count of cyber cafés or software professionals across India for 1999.
 - in 2005 byTheNumbers: 6 items. Literacy and household size are not given for 2005: the census fell in 2001 and 2011. Rupee prices are on the era page.
-- in 2005 foodAndKitchen: 0 items. We could not find sourced 2005 meals, kitchens or retail prices.
-- in 2005 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 2005.
+- in 2005 foodAndKitchen: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 2005 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 2005 workAndWages: 3 items. We could not find sourced 2005 wage rates; the Act's wage figures are from later years.
 - in 2005 schoolAndChildhood: 1 items. We could not find sourced school enrolment or fees for 2005.
 - in 2005 gettingAround: 1 items. We could not find sourced 2005 railway fares or journey times.
@@ -867,24 +899,28 @@ Everyday sections (country, year, section, count, reason):
 - in 2005 healthAndMedicine: 1 items. We could not find sourced 2005 doctor fees, hospital costs or disease figures beyond infant mortality.
 - in 2005 leisureAndFun: 2 items. We could not find sourced 2005 ticket prices, mall counts or festival material.
 - in 2005 spotlight: 2 items. We could not find sourced 2005 subscriber counts, prepaid shares, SMS volumes or handset prices, so the section shows only what could be traced.
-- in 2010 foodAndKitchen: 0 items. We could not find sourced 2010 meals or retail prices; the onion price rise of December is political, not household, in the sources we opened.
-- in 2010 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 2010.
-- in 2010 workAndWages: 0 items. We could not find sourced wage rates or working hours for 2010.
-- in 2010 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 2010; the Act is in the government section.
+- in 2010 foodAndKitchen: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 2010 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 2010 workAndWages: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 2010 schoolAndChildhood: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 2010 gettingAround: 2 items. We could not find sourced 2010 fares or journey times.
 - in 2010 keepingInTouch: 2 items. We could not find sourced 2010 recharge, SMS, data-pack or call tariffs, or smartphone ownership.
-- in 2010 healthAndMedicine: 0 items. We could not find sourced 2010 health figures beyond life expectancy.
-- in 2010 spotlight: 0 items. We could not find sourced prepaid shares, recharge denominations, smartphone sales or data prices for 2010, so only the broad figures are shown.
+- in 2010 healthAndMedicine: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 2010 leisureAndFun: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 2020 byTheNumbers: 6 items. Literacy and household size were not found for 2020: the census had been taken in 2011 and was due in 2021.
 - in 2020 foodAndKitchen: 1 items. We could not find sourced 2020 meals, kitchen costs or retail prices.
-- in 2020 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 2020.
+- in 2020 clothingAndStyle: 3 items. Only 3 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 2020 workAndWages: 2 items. We could not find sourced 2020 wage rates or the number of jobs lost.
 - in 2020 schoolAndChildhood: 1 items. We could not find sourced 2020 counts of children affected or with phone access.
-- in 2020 gettingAround: 0 items. We could not find sourced 2020 fares or traffic figures.
-- in 2020 keepingInTouch: 0 items. We could not find sourced 2020 data-use, call or video-calling figures.
+- in 2020 gettingAround: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
+- in 2020 keepingInTouch: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 2020 healthAndMedicine: 2 items. We could not find sourced 2020 doctor, hospital or testing figures.
-- in 2020 leisureAndFun: 0 items. We could not find sourced 2020 material on cinema, festivals or sport as people took part in it during the lockdown.
+- in 2020 leisureAndFun: 4 items. Only 4 sourced items could be found for this section; the rest were left out rather than guessed.
 - in 2020 spotlight: 5 items. We could not find sourced counts of small shops accepting UPI or smartphone ownership, so the payment growth is shown only in national totals.
+- in 2026 foodAndKitchen: 4 items. Year in progress. Four items are shown: no Guwahati market prices or Assam food statistics could be opened.
+- in 2026 clothingAndStyle: 4 items. Year in progress. Four items are shown: no Assam handloom or Bihu-season sales figures for 2026 could be found.
+- in 2026 gettingAround: 4 items. Year in progress. Four items are shown: no fares, passenger counts or Guwahati city-transport figures for 2026 could be opened.
+- in 2026 keepingInTouch: 4 items. Year in progress. Four items are shown: no 2026 figures on postal services or newspaper readership could be opened.
 
 Deep-dive curation (items removed to make room for women or a wider spread of regions; their facts stay in other sections):
 
@@ -906,3 +942,191 @@ Deep-dive curation (items removed to make room for women or a wider spread of re
 People whose regionTag was 'national' in earlier batches were re-tagged by birthplace region (north, south, east, west, central, overseas) so the region filter and the three-region check work.
 
 <!-- scarcity:end -->
+
+<!-- freshness:start -->
+### 2026 refresh list (generated by `npm run check:freshness`; items to recheck first)
+
+**in / deep dive / achievements** (1)
+
+- in.2026.dd.achievements.first-trap-world-cup-gold: never verified (todo)
+
+**in / deep dive / freedom-history** (1)
+
+- in.2026.dd.freedom-history.sarnath-heritage: never verified (todo)
+
+**in / deep dive / government-politics** (1)
+
+- in.2026.dd.government-politics.anti-paper-leak-law: never verified (todo)
+
+**in / deep dive / music-arts** (1)
+
+- in.2026.dd.music-arts.zubeen-garg-tribute: never verified (todo)
+
+**in / deep dive / personalities** (1)
+
+- in.2026.dd.personalities.neeru-dhanda: never verified (todo)
+
+**in / era / futureVisions** (1)
+
+- in.2026.visions.amodei-delhi: never verified (todo)
+
+**in / era / morningRoutine** (1)
+
+- in.2026.morning.cooking-gas: never verified (todo)
+
+**in / era / places** (1)
+
+- in.2026.places.street: never verified (todo)
+
+**in / era / prices** (3)
+
+- in.2026.prices.lpg-cylinder: never verified (todo)
+- in.2026.prices.petrol: never verified (todo)
+- in.2026.prices.diesel: never verified (todo)
+
+**in / era / technology** (3)
+
+- in.2026.technology.indian-language-ai: never verified (todo)
+- in.2026.technology.quick-commerce: never verified (todo)
+- in.2026.technology.noida-airport: never verified (todo)
+
+**in / everyday / byTheNumbers** (1)
+
+- in.2026.everyday.by-the-numbers.unemployment-rate: never verified (todo)
+
+**in / everyday / clothingAndStyle** (4)
+
+- in.2026.everyday.clothing-and-style.khadi-record: never verified (todo)
+- in.2026.everyday.clothing-and-style.garment-exports: never verified (todo)
+- in.2026.everyday.clothing-and-style.handicraft-exports: never verified (todo)
+- in.2026.everyday.clothing-and-style.us-tariff-cut: never verified (todo)
+
+**in / everyday / foodAndKitchen** (4)
+
+- in.2026.everyday.food-and-kitchen.wheat-bought: never verified (todo)
+- in.2026.everyday.food-and-kitchen.onion-jump: never verified (todo)
+- in.2026.everyday.food-and-kitchen.rural-food-prices: never verified (todo)
+- in.2026.everyday.food-and-kitchen.free-grain: never verified (todo)
+
+**in / everyday / gettingAround** (3)
+
+- in.2026.everyday.getting-around.bhogapuram-airport: never verified (todo)
+- in.2026.everyday.getting-around.delhi-metro-growth: never verified (todo)
+- in.2026.everyday.getting-around.air-ambulance-crash: never verified (todo)
+
+**in / everyday / healthAndMedicine** (4)
+
+- in.2026.everyday.health-and-medicine.indore-water: never verified (todo)
+- in.2026.everyday.health-and-medicine.cancer-notifiable: never verified (todo)
+- in.2026.everyday.health-and-medicine.passive-euthanasia: never verified (todo)
+- in.2026.everyday.health-and-medicine.dental-commission: never verified (todo)
+
+**in / everyday / keepingInTouch** (3)
+
+- in.2026.everyday.keeping-in-touch.telegram-blocked: never verified (todo)
+- in.2026.everyday.keeping-in-touch.number-porting: never verified (todo)
+- in.2026.everyday.keeping-in-touch.fixed-wireless-5g: never verified (todo)
+
+**in / everyday / leisureAndFun** (5)
+
+- in.2026.everyday.leisure-and-fun.t20-stars: never verified (todo)
+- in.2026.everyday.leisure-and-fun.commonwealth-games: never verified (todo)
+- in.2026.everyday.leisure-and-fun.asian-games: never verified (todo)
+- in.2026.everyday.leisure-and-fun.women-cricket-gold: never verified (todo)
+- in.2026.everyday.leisure-and-fun.box-office-h1: never verified (todo)
+
+**in / everyday / schoolAndChildhood** (5)
+
+- in.2026.everyday.school-and-childhood.neet-cancelled: never verified (todo)
+- in.2026.everyday.school-and-childhood.paper-leak-law: never verified (todo)
+- in.2026.everyday.school-and-childhood.cbse-marking: never verified (todo)
+- in.2026.everyday.school-and-childhood.tet-postponed: never verified (todo)
+- in.2026.everyday.school-and-childhood.ugc-rules: never verified (todo)
+
+**in / everyday / spotlight** (3)
+
+- in.2026.everyday.spotlight.new-year-strike: never verified (todo)
+- in.2026.everyday.spotlight.goyal-average-order: never verified (todo)
+- in.2026.everyday.spotlight.industry-size: never verified (todo)
+
+**in / everyday / workAndWages** (5)
+
+- in.2026.everyday.work-and-wages.rural-jobs-law: never verified (todo)
+- in.2026.everyday.work-and-wages.gig-social-security: never verified (todo)
+- in.2026.everyday.work-and-wages.women-at-work: never verified (todo)
+- in.2026.everyday.work-and-wages.noida-wage-protest: never verified (todo)
+- in.2026.everyday.work-and-wages.khadi-jobs: never verified (todo)
+
+**world / era / technology** (1)
+
+- world.2026.technology.starlink-mobile: never verified (todo)
+
+**world / everyday / byTheNumbers** (3)
+
+- world.2026.everyday.by-the-numbers.consumer-prices: never verified (todo)
+- world.2026.everyday.by-the-numbers.median-weekly-earnings: never verified (todo)
+- world.2026.everyday.by-the-numbers.payroll-jobs: never verified (todo)
+
+**world / everyday / clothingAndStyle** (4)
+
+- world.2026.everyday.clothing-and-style.apparel-prices: never verified (todo)
+- world.2026.everyday.clothing-and-style.secondhand-growth: never verified (todo)
+- world.2026.everyday.clothing-and-style.resale-forecast: never verified (todo)
+- world.2026.everyday.clothing-and-style.back-to-school-clothes: never verified (todo)
+
+**world / everyday / foodAndKitchen** (1)
+
+- world.2026.everyday.food-and-kitchen.in-or-out: never verified (todo)
+
+**world / everyday / gettingAround** (5)
+
+- world.2026.everyday.getting-around.tsa-peak: never verified (todo)
+- world.2026.everyday.getting-around.gasoline-jump: never verified (todo)
+- world.2026.everyday.getting-around.waymo-airports: never verified (todo)
+- world.2026.everyday.getting-around.spirit-ceases: never verified (todo)
+- world.2026.everyday.getting-around.lirr-strike: never verified (todo)
+
+**world / everyday / healthAndMedicine** (4)
+
+- world.2026.everyday.health-and-medicine.glp1-use: never verified (todo)
+- world.2026.everyday.health-and-medicine.obesity-falls: never verified (todo)
+- world.2026.everyday.health-and-medicine.measles: never verified (todo)
+- world.2026.everyday.health-and-medicine.who-exit: never verified (todo)
+
+**world / everyday / keepingInTouch** (3)
+
+- world.2026.everyday.keeping-in-touch.fraud-losses: never verified (todo)
+- world.2026.everyday.keeping-in-touch.verizon-outage: never verified (todo)
+- world.2026.everyday.keeping-in-touch.starlink-customers: never verified (todo)
+
+**world / everyday / leisureAndFun** (5)
+
+- world.2026.everyday.leisure-and-fun.world-cup-crowds: never verified (todo)
+- world.2026.everyday.leisure-and-fun.super-bowl-lx: never verified (todo)
+- world.2026.everyday.leisure-and-fun.winter-games: never verified (todo)
+- world.2026.everyday.leisure-and-fun.box-office: never verified (todo)
+- world.2026.everyday.leisure-and-fun.grammys: never verified (todo)
+
+**world / everyday / schoolAndChildhood** (5)
+
+- world.2026.everyday.school-and-childhood.teens-schoolwork: never verified (todo)
+- world.2026.everyday.school-and-childhood.teens-cheating: never verified (todo)
+- world.2026.everyday.school-and-childhood.phones-away: never verified (todo)
+- world.2026.everyday.school-and-childhood.back-to-school-bill: never verified (todo)
+- world.2026.everyday.school-and-childhood.enrollment: never verified (todo)
+
+**world / everyday / spotlight** (5)
+
+- world.2026.everyday.spotlight.half-of-adults: never verified (todo)
+- world.2026.everyday.spotlight.teens-daily: never verified (todo)
+- world.2026.everyday.spotlight.parents-teens-gap: never verified (todo)
+- world.2026.everyday.spotlight.chatbot-uses: never verified (todo)
+- world.2026.everyday.spotlight.state-sues-openai: never verified (todo)
+
+**world / everyday / workAndWages** (3)
+
+- world.2026.everyday.work-and-wages.typical-pay: never verified (todo)
+- world.2026.everyday.work-and-wages.pay-gap: never verified (todo)
+- world.2026.everyday.work-and-wages.media-tech-layoffs: never verified (todo)
+
+<!-- freshness:end -->

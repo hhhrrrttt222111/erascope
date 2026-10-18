@@ -104,6 +104,12 @@ const VARIANTS: Record<TransitionId, Variants> = {
     },
     exit: { opacity: 0, filter: "blur(8px)", transition: { duration: 0.25 } },
   },
+  // 2026: tiles settle into place (see AssembleOverlay for the shimmering skeleton).
+  assemble: {
+    initial: { opacity: 0, y: 14, scale: 0.985 },
+    animate: { opacity: 1, y: 0, scale: 1, transition: { duration: 0.5, delay: 0.35, ease: EASE_OUT }, transitionEnd: { transform: "none" } },
+    exit: { opacity: 0, transition: { duration: 0.2 } },
+  },
   // 2050: jittering, colour-shifted, blurred, then resolving.
   glitch: {
     initial: { opacity: 0, x: 0, filter: "blur(16px) hue-rotate(90deg)" },
@@ -191,11 +197,31 @@ function ReconnectOverlay() {
   );
 }
 
+/** Skeleton tiles with a soft shimmer that resolve one after another. */
+function AssembleOverlay() {
+  const sizes = ["span 2", "span 1", "span 1", "span 1", "span 2", "span 1"];
+  return (
+    <div aria-hidden style={{ ...fixedLayer, display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 16, padding: "12vh 5vw", alignContent: "start" }}>
+      {sizes.map((span, i) => (
+        <motion.div
+          key={i}
+          initial={{ opacity: 1 }}
+          animate={{ opacity: 0 }}
+          transition={{ duration: 0.3, delay: 0.35 + i * 0.07 }}
+          style={{ gridColumn: span, height: 120, borderRadius: 24, background: "linear-gradient(100deg, #efe8d8 30%, #fbf7ee 50%, #efe8d8 70%)", backgroundSize: "200% 100%", animation: "tm-shimmer 1.1s linear infinite" }}
+        />
+      ))}
+      <style>{"@keyframes tm-shimmer{from{background-position:200% 0}to{background-position:-200% 0}}"}</style>
+    </div>
+  );
+}
+
 const OVERLAYS: Partial<Record<TransitionId, () => ReactNode>> = {
   curtain: CurtainOverlay,
   interlace: InterlaceOverlay,
   glossswipe: GlossOverlay,
   reconnect: ReconnectOverlay,
+  assemble: AssembleOverlay,
 };
 
 /** Swaps era shells using the transition named in the arriving era's JSON (a plain fade under reduced motion). */

@@ -89,8 +89,11 @@
   "prices": [
     {
       "id": "world.2050.prices.loaf-bread-todays-money",
-      "item": "Loaf of bread (in today's money)",
-      "price": "about $3, if crop yields keep pace with heat"
+      "item": "Loaf of bread (in 2026 dollars)",
+      "price": "about $3, if crop yields keep pace with heat (a 2026 loaf cost $1.83 a pound)",
+      "relatedIds": [
+        "world.2026.prices.bread"
+      ]
     },
     {
       "id": "world.2050.prices.home-solar-electricity-per",
@@ -105,7 +108,10 @@
     {
       "id": "world.2050.prices.lightweight-ar-glasses",
       "item": "Lightweight AR glasses",
-      "price": "about $300, like a phone today"
+      "price": "about $300, the price of Meta's own glasses in 2026",
+      "relatedIds": [
+        "world.2026.technology.smart-glasses"
+      ]
     },
     {
       "id": "world.2050.prices.full-genome-sequencing",

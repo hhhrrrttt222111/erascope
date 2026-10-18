@@ -1,6 +1,6 @@
 export type CountryId = "world" | "in";
 
-export type EraId = 1900 | 1920 | 1930 | 1945 | 1960 | 1970 | 1984 | 1995 | 1999 | 2005 | 2010 | 2020 | 2050;
+export type EraId = 1900 | 1920 | 1930 | 1945 | 1960 | 1970 | 1984 | 1995 | 1999 | 2005 | 2010 | 2020 | 2026 | 2050;
 
 export type ChromeId =
   | "newspaper"
@@ -15,7 +15,8 @@ export type ChromeId =
   | "terminal"
   | "earlyweb"
   | "web2gloss"
-  | "videocall";
+  | "videocall"
+  | "bento";
 
 export type TransitionId =
   | "pageflip"
@@ -30,7 +31,8 @@ export type TransitionId =
   | "typeout"
   | "interlace"
   | "glossswipe"
-  | "reconnect";
+  | "reconnect"
+  | "assemble";
 
 export type SceneId =
   | "Radio1920"
@@ -45,7 +47,8 @@ export type SceneId =
   | "FloppyDrive1984"
   | "Modem1995"
   | "MusicPlayer2005"
-  | "Laptop2020";
+  | "Laptop2020"
+  | "SmartGlasses2026";
 
 export type PlaceId = "newspaper" | "bedroom" | "street";
 
@@ -66,6 +69,15 @@ export interface Claim {
   source?: Source;
   todo?: boolean; // true = not yet verified; the UI shows an "Unverified" marker
   checked?: string; // ISO date the item was verified or corrected against its source
+  relatedIds?: string[]; // other items this one points at (a 2050 item that quotes the present points at its 2026 counterpart)
+  scheduled?: boolean; // 2026 only: a dated plan after contentAsOf, worded as a plan
+  forecast?: Forecast; // 2026 only: an official forecast for the year
+}
+
+/** A sourced statement about the near future by a named institution. Not speculation. */
+export interface Forecast {
+  publisher: string;
+  published: string; // ISO date
 }
 
 export interface MorningStep extends Claim {
@@ -121,6 +133,7 @@ export interface Era {
   title: string; // "The Roaring Twenties"
   tagline: string; // one line shown in the hero
   speculative: boolean; // true only for 2050
+  contentAsOf?: string; // 2026 only: ISO date the content was last checked
   locale: {
     region: string; // "United States"
     currency: string; // "USD"
@@ -192,9 +205,9 @@ export interface OverlayEra {
   decor?: Partial<Record<"bannerText" | "statusText", string>>;
   /** India Deep Dive decor, merged under the same allowed-key rules. */
   deepDive?: {
-    portalFrame: "cartouche" | "column" | "arch" | "slip" | "poster" | "signboard" | "crt" | "gif" | "bevel" | "gloss" | "card" | "tile" | "holo";
+    portalFrame: "cartouche" | "column" | "arch" | "slip" | "poster" | "signboard" | "crt" | "gif" | "bevel" | "gloss" | "card" | "tile" | "holo" | "stitch-tile";
     heroPattern: string;
-    motifStyle: "woodcut" | "deco" | "stamp" | "poster" | "signboard" | "pixel" | "gif" | "bevel" | "gloss" | "flat" | "tile" | "holo";
+    motifStyle: "woodcut" | "deco" | "stamp" | "poster" | "signboard" | "pixel" | "gif" | "bevel" | "gloss" | "flat" | "tile" | "holo" | "stitch";
   };
 }
 
@@ -250,6 +263,8 @@ interface DeepDiveItemBase {
   media?: MediaRef;
   todo?: boolean;
   checked?: string;
+  scheduled?: boolean; // 2026 only
+  forecast?: Forecast; // 2026 only
 }
 
 export type DeepDiveItem =
@@ -284,6 +299,7 @@ export interface DeepDive {
   country: "in";
   year: EraId;
   speculative: boolean;
+  contentAsOf?: string; // 2026 only
   intro: { headline: string; summary: string; sources: Source[] };
   highlights: string[];
   sections: Partial<Record<DeepDiveSectionId, DeepDiveSection>>;
@@ -326,6 +342,8 @@ interface EverydayItemBase {
   media?: MediaRef;
   todo?: boolean;
   checked?: string;
+  scheduled?: boolean;
+  forecast?: Forecast;
 }
 
 export type EverydayItem =
@@ -341,5 +359,6 @@ export interface Everyday {
   country: CountryId;
   year: EraId;
   speculative: boolean;
+  contentAsOf?: string; // 2026 only
   sections: Record<EverydaySectionId, EverydaySection>;
 }

@@ -1,5 +1,6 @@
 import { Box, Typography } from "@mui/material";
 import { useState } from "react";
+import { comparisonYear, PRESENT_YEAR } from "../../../data/present";
 import { useDeepDiveStyle } from "../../deepdive/useDeepDiveStyle";
 import { Empty, InteractiveShell } from "./Shell";
 import { asArray, dataOf, itemsOfKind, type InteractiveProps } from "./types";
@@ -10,9 +11,10 @@ const num = (s: string) => {
   return Number.isFinite(n) ? n : null;
 };
 
-/** Hand-built SVG bars of the year's indicators against 2026, and "what a day's wage buys". */
+/** Hand-built SVG bars of the year's indicators against the comparison year (2026, or 2020 for the present), and "what a day's wage buys". */
 export default function RupeeDashboard(props: InteractiveProps) {
   const { accent, accent2, theme } = useDeepDiveStyle();
+  const cmp = comparisonYear(props.year);
   const data = dataOf(props);
   const indicators = itemsOfKind(props, "indicator");
   const now = (data.now ?? {}) as Record<string, number>;
@@ -22,7 +24,7 @@ export default function RupeeDashboard(props: InteractiveProps) {
   const rows = indicators.map((i) => ({ i, v: num(i.value), n: now[i.metric] })).filter((r) => r.v !== null);
 
   return (
-    <InteractiveShell title="Rupee dashboard" hint="The year's indicators next to 2026, and what a wage bought.">
+    <InteractiveShell title="Rupee dashboard" hint={`The year's indicators next to ${cmp}, and what a wage bought.`}>
       {rows.length === 0 ? (
         <Empty>Figures for this year are still being researched.</Empty>
       ) : (
@@ -32,19 +34,19 @@ export default function RupeeDashboard(props: InteractiveProps) {
             return (
               <li key={i.id} style={{ listStyle: "none", minWidth: 0 }}>
                 <Typography sx={{ fontWeight: 700 }}>{i.metric}</Typography>
-                <svg role="img" aria-label={`${i.metric}: ${i.value} ${i.unit} in ${i.asOf}${n !== undefined ? `, ${n} ${i.unit} in 2026` : ""}`} viewBox="0 0 400 54" width="100%" style={{ maxWidth: 520 }}>
+                <svg role="img" aria-label={`${i.metric}: ${i.value} ${i.unit} in ${i.asOf}${n !== undefined ? `, ${n} ${i.unit} in ${cmp}` : ""}`} viewBox="0 0 400 54" width="100%" style={{ maxWidth: 520 }}>
                   <rect x="70" y="4" width={Math.max((v! / max) * 320, 2)} height="20" fill={accent} />
                   <text x="0" y="19" fontSize="12" fill={theme.palette.text.primary}>{i.asOf}</text>
                   {n !== undefined && (
                     <>
                       <rect x="70" y="30" width={Math.max((n / max) * 320, 2)} height="20" fill={accent2} />
-                      <text x="0" y="45" fontSize="12" fill={theme.palette.text.primary}>2026</text>
+                      <text x="0" y="45" fontSize="12" fill={theme.palette.text.primary}>{cmp}</text>
                     </>
                   )}
                 </svg>
                 <Typography variant="caption" component="p">
                   {i.value} {i.unit}
-                  {n !== undefined ? ` (2026: ${n} ${i.unit})` : " (2026 comparison to be researched)"}
+                  {n !== undefined ? ` (${cmp}: ${n} ${i.unit})` : props.year === PRESENT_YEAR ? "" : ` (${cmp} comparison to be researched)`}
                 </Typography>
               </li>
             );

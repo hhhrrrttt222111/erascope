@@ -27,6 +27,9 @@ const GOOGLE_FONTS: Record<string, string> = {
   "DM Sans": "DM+Sans:ital,wght@0,400;0,500;0,700;1,400",
   "Plus Jakarta Sans": "Plus+Jakarta+Sans:ital,wght@0,400;0,600;0,700;1,400",
   Orbitron: "Orbitron:wght@500;700;900",
+  Fraunces: "Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,800;1,9..144,400",
+  Geist: "Geist:wght@400;500;600;700",
+  "Geist Mono": "Geist+Mono:wght@400;600",
   Inter: "Inter:ital,wght@0,400;0,500;0,600;1,400",
 };
 

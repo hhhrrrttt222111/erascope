@@ -1,9 +1,12 @@
 import { Box, IconButton, Tooltip, useMediaQuery, useTheme } from "@mui/material";
 import { alpha } from "@mui/material/styles";
 import AppsIcon from "@mui/icons-material/Apps";
-import { animate, motion, useMotionValue, useMotionValueEvent } from "framer-motion";
+import { animate, motion, useMotionValue, useMotionValueEvent, useTransform } from "framer-motion";
 import { useEffect, useLayoutEffect, useRef, useState, type KeyboardEvent, type MouseEvent } from "react";
 import { ERA_YEARS, eraByYear, eraIndex, eras } from "../../data";
+import { PRESENT_YEAR } from "../../data/present";
+import { AsOfBadge } from "../common/AsOfBadge";
+import { SpeculativeBadge } from "../common/SpeculativeBadge";
 import { useEraContext } from "../../context/EraContext";
 import { useReducedMotion } from "../../hooks/useReducedMotion";
 import { scrubYear } from "../../theme/interpolate";
@@ -21,10 +24,16 @@ const HANDLE_H = 34;
 const RAIL_Y = 22;
 const SPRING = { type: "spring", stiffness: 420, damping: 36 } as const;
 
+const visuallyHidden = { position: "absolute", width: 1, height: 1, overflow: "hidden", clip: "rect(0 0 0 0)", whiteSpace: "nowrap" } as const;
 const clamp01 = (v: number) => Math.min(Math.max(v, 0), 1);
+/** Slider positions of the present era, and the midpoint between it and the last (speculative) era. */
+const NOW_P = ERA_YEARS.indexOf(PRESENT_YEAR) / LAST;
+const MID_P = (NOW_P + 1) / 2;
+const valueText = (year: number, title: string, speculative: boolean, asOf?: string) =>
+  speculative ? `${year}, speculative: ${title}` : asOf ? `${year}, the present, as of ${new Date(`${asOf}T00:00:00Z`).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })}: ${title}` : `${year}: ${title}`;
 
 export function TimelineSlider() {
-  const { year, setYear, position, setDragging, openLanding } = useEraContext();
+  const { year, setYear, position, isDragging, setDragging, openLanding } = useEraContext();
   const theme = useTheme();
   const reduced = useReducedMotion();
   const trackRef = useRef<HTMLDivElement>(null);
@@ -36,6 +45,10 @@ export function TimelineSlider() {
   const [width, setWidth] = useState(0);
   const x = useMotionValue(0);
   const idx = eraIndex(year);
+  // While dragging between 2026 and 2050, fact fades out and speculation fades in after the midpoint.
+  const asOfOpacity = useTransform(position, [NOW_P - 1 / LAST, NOW_P, MID_P, 1], [0, 1, 1, 0]);
+  const specOpacity = useTransform(position, [MID_P, 1], [0, 1]);
+  const [live, setLive] = useState("");
   const chrome = theme.era.chrome;
 
   useLayoutEffect(() => {
@@ -109,10 +122,13 @@ export function TimelineSlider() {
       PageDown: idx - 1,
       Home: 0,
       End: LAST,
+      n: ERA_YEARS.indexOf(PRESENT_YEAR),
+      N: ERA_YEARS.indexOf(PRESENT_YEAR),
     };
     if (e.key in keys) {
       e.preventDefault();
       go(keys[e.key]);
+      if (e.key.toLowerCase() === "n") setLive(`Now: ${PRESENT_YEAR}, the present`);
     }
   };
 
@@ -169,6 +185,14 @@ export function TimelineSlider() {
         ...barSx,
       }}
     >
+      <Box id="tm-slider-help" sx={visuallyHidden}>Arrow keys step through the years. Home and End jump to the first and last. N jumps to now, {PRESENT_YEAR}.</Box>
+      <Box role="status" aria-live="polite" sx={visuallyHidden}>{live || `${year}: ${era.title}`}</Box>
+      {isDragging && (
+        <Box aria-hidden sx={{ position: "absolute", right: 12, bottom: "calc(100% + 8px)", display: "grid", justifyItems: "end", pointerEvents: "none", "& > *": { gridArea: "1 / 1" } }}>
+          <motion.div style={{ opacity: asOfOpacity }}>{eras.find((e) => e.contentAsOf)?.contentAsOf && <Box sx={{ background: theme.palette.background.paper, borderRadius: 999, color: theme.palette.text.primary }}><AsOfBadge date={eras.find((e) => e.contentAsOf)!.contentAsOf!} /></Box>}</motion.div>
+          <motion.div style={{ opacity: specOpacity }}><SpeculativeBadge /></motion.div>
+        </Box>
+      )}
       <Tooltip title="Choose a year">
         <IconButton onClick={openLanding} aria-label="Back to the year picker" color="inherit">
           <AppsIcon />
@@ -193,7 +217,11 @@ export function TimelineSlider() {
           <Box ref={trackRef} sx={{ position: "relative", height: "100%" }}>
             {/* rail (click to jump) */}
             <Box aria-hidden onClick={onRailClick} sx={{ position: "absolute", left: -12, right: -12, top: RAIL_Y - 12, height: 24, cursor: "pointer" }}>
-              <Box sx={{ position: "absolute", left: 12, right: 12, top: 10, height: 4, borderRadius: "2px", background: alpha(theme.palette.text.primary, 0.18) }} />
+              <Box sx={{ position: "absolute", left: 12, right: 12, top: 10, height: 4 }}>
+                <Box sx={{ position: "absolute", left: 0, width: `${NOW_P * 100}%`, height: 4, borderRadius: "2px 0 0 2px", background: alpha(theme.palette.text.primary, 0.18) }} />
+                {/* Fact becomes speculation after the present: a dashed track. */}
+                <Box sx={{ position: "absolute", left: `${NOW_P * 100}%`, right: 0, height: 4, background: `repeating-linear-gradient(90deg, ${alpha(theme.palette.text.primary, 0.4)} 0 6px, transparent 6px 11px)` }} />
+              </Box>
             </Box>
 
             {/* handle */}
@@ -204,7 +232,8 @@ export function TimelineSlider() {
               aria-valuemin={ERA_YEARS[0]}
               aria-valuemax={ERA_YEARS[LAST]}
               aria-valuenow={year}
-              aria-valuetext={`${year}: ${era.title}${era.speculative ? " (speculative)" : ""}`}
+              aria-valuetext={valueText(year, era.title, era.speculative, era.contentAsOf)}
+              aria-describedby="tm-slider-help"
               onKeyDown={onKeyDown}
               drag="x"
               dragConstraints={{ left: 0, right: width }}

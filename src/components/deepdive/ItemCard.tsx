@@ -5,6 +5,7 @@ import { useState } from "react";
 import type { DeepDiveItem } from "../../data/types";
 import { useReducedMotion } from "../../hooks/useReducedMotion";
 import { SourceNote } from "../common/SourceNote";
+import { TimeTag } from "../common/TimeTag";
 import { useDeepDiveStyle } from "./useDeepDiveStyle";
 
 const NOTE_DEFAULT = "This item describes loss of life or suffering.";
@@ -82,6 +83,7 @@ export function ItemCard({ item, index }: { item: DeepDiveItem; index: number })
             </Box>
           </>
         )}
+        <TimeTag item={item} />
         <SourceNote todo={item.todo} />
         {item.sources.map((s, i) => (
           <SourceNote key={i} source={s} />

@@ -199,7 +199,8 @@
           "regionTag": "south",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "clothingAndStyle": {
       "title": "What people wore",
@@ -253,7 +254,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "workAndWages": {
       "title": "Work and wages",

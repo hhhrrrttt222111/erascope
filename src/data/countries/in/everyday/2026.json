@@ -1,0 +1,1000 @@
+{
+  "country": "in",
+  "year": 2026,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "Latest official figures, each shown with the period it covers.",
+      "items": [
+        {
+          "id": "in.2026.everyday.by-the-numbers.retail-inflation",
+          "kind": "stat",
+          "title": "Retail inflation",
+          "summary": "Retail prices were 5.54 percent higher in September 2026 than a year earlier (provisional), with rural prices up 6.08 percent and urban up 4.88 percent.",
+          "sources": [
+            {
+              "label": "MoSPI National Statistics Office: Press release of CPI (base 2024=100) for September 2026 (12 October 2026)",
+              "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1791801549227-Press%20Release%20for%20the%20month%20of%20September,%202026.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Finnovate: India CPI inflation, September 2026",
+              "url": "https://www.finnovate.in/learn/blog/india-cpi-inflation-september-2026",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "CPI inflation, all India (base 2024=100)",
+          "value": "5.54",
+          "unit": "percent",
+          "asOf": "September 2026",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.by-the-numbers.food-inflation",
+          "kind": "stat",
+          "title": "Food prices",
+          "summary": "Food inflation by the Consumer Food Price Index was 7.74 percent in September 2026, up from 5.97 percent in August.",
+          "sources": [
+            {
+              "label": "MoSPI National Statistics Office: Press release of CPI (base 2024=100) for September 2026 (12 October 2026)",
+              "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1791801549227-Press%20Release%20for%20the%20month%20of%20September,%202026.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Finnovate: India CPI inflation, September 2026",
+              "url": "https://www.finnovate.in/learn/blog/india-cpi-inflation-september-2026",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Consumer Food Price Index, year on year",
+          "value": "7.74",
+          "unit": "percent",
+          "asOf": "September 2026",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.by-the-numbers.upi-month",
+          "kind": "stat",
+          "title": "A month of UPI",
+          "summary": "UPI handled 24.07 billion transactions worth Rs 29.37 lakh crore in September 2026, about 23 percent more by number than a year earlier.",
+          "sources": [
+            {
+              "label": "Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)",
+              "url": "https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "StartupTalky: UPI daily transactions cross 800 million, September 2026 (2 October 2026, citing NPCI)",
+              "url": "https://startuptalky.com/india-upi-transactions-september-2026/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "UPI transactions in a month",
+          "value": "24.07 billion",
+          "unit": "transactions",
+          "asOf": "September 2026",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.by-the-numbers.wireless-connections",
+          "kind": "stat",
+          "title": "Phone connections",
+          "summary": "India had 1,312.25 million wireless (mobile and fixed wireless) subscribers at the end of August 2026.",
+          "sources": [
+            {
+              "label": "TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)",
+              "url": "https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)",
+              "url": "https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Wireless subscribers",
+          "value": "1,312.25 million",
+          "unit": "subscribers",
+          "asOf": "end of August 2026",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.by-the-numbers.repo-rate",
+          "kind": "stat",
+          "title": "The policy rate",
+          "summary": "The Reserve Bank raised its repo rate by 0.25 percentage points to 5.50 percent on 7 October 2026, its first rise since February 2023.",
+          "sources": [
+            {
+              "label": "Reserve Bank of India: Monetary Policy Statement 2026-27, resolution of the MPC, 5 to 7 October 2026",
+              "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "GKToday: RBI hikes repo rate by 25 basis points to 5.50% (October 2026)",
+              "url": "https://www.gktoday.in/rbi-hikes-repo-rate-by-25-basis-points-to-5-50/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "RBI policy repo rate",
+          "value": "5.50",
+          "unit": "percent",
+          "asOf": "7 October 2026",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.by-the-numbers.unemployment-rate",
+          "kind": "stat",
+          "title": "Unemployment",
+          "summary": "The monthly labour force survey put unemployment among people aged 15 and over at 5.0 percent in September 2026, with urban women at 9.2 percent.",
+          "sources": [
+            {
+              "label": "DD India: Urban workforce participation improves in September (PLFS monthly bulletin, 15 October 2026)",
+              "url": "https://ddindia.co.in/2026/10/urban-workforce-participation-improves-in-september-female-lfpr-reaches-highest-level-since-october-2025/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Unemployment rate, 15 years and above (current weekly status)",
+          "value": "5.0",
+          "unit": "percent",
+          "asOf": "September 2026",
+          "todo": true
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "More wheat bought for the public stores, and onions and food prices on the rise.",
+      "items": [
+        {
+          "id": "in.2026.everyday.food-and-kitchen.wheat-bought",
+          "kind": "stat",
+          "title": "Grain for the public stores",
+          "summary": "Government agencies bought over 35 million tonnes of wheat in the 2026-27 season, about 17 percent more than the previous season.",
+          "sources": [
+            {
+              "label": "Daily Pioneer: Wheat procurement rises to 35 MT, exceeds target for 2026-27 (4 June 2026)",
+              "url": "https://www.dailypioneer.com/news/wheat-procurement-rises-to-35-mt-exceeds-target-for-2026-27",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-06",
+          "metric": "Wheat procurement, rabi marketing season",
+          "value": "over 35",
+          "unit": "million tonnes",
+          "asOf": "reported 4 June 2026",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.food-and-kitchen.onion-jump",
+          "kind": "fact",
+          "title": "Onions climb",
+          "summary": "Wholesale onion prices at Lasalgaon, Maharashtra, rose from Rs 2,180 to Rs 2,760 a quintal in five trading days in August after rain cut arrivals.",
+          "sources": [
+            {
+              "label": "Business Today: Wholesale onion prices go up by 25 percent at Lasalgaon, Pimpalgaon mandis (14 August 2026)",
+              "url": "https://www.businesstoday.in/india/story/wholesale-onion-prices-go-up-by-25-percent-at-lasalgaon-pimpalgaon-mandis-549144-2026-08-14",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "west",
+          "date": "2026-08",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.food-and-kitchen.rural-food-prices",
+          "kind": "fact",
+          "title": "Dearer in the village",
+          "summary": "By the official food index, food prices in September 2026 were 8.06 percent higher than a year earlier in rural areas and 7.18 percent higher in urban areas.",
+          "sources": [
+            {
+              "label": "MoSPI National Statistics Office: Press release of CPI (base 2024=100) for September 2026 (12 October 2026)",
+              "url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1791801549227-Press%20Release%20for%20the%20month%20of%20September,%202026.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-09",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.food-and-kitchen.free-grain",
+          "kind": "fact",
+          "title": "Free ration grain",
+          "summary": "The free foodgrain scheme PMGKAY was extended for five years to December 2028; reports put the number of people covered at about 81 crore.",
+          "sources": [
+            {
+              "label": "Deccan Herald: New beneficiaries can be added to PM Garib Kalyan Anna Yojana (as listed in search results)",
+              "url": "https://www.deccanherald.com/india/new-beneficiaries-can-be-added-to-pm-garib-kalyan-anna-yojana-says-union-minister-pralhad-joshi-3462345",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Year in progress. Four items are shown: no Guwahati market prices or Assam food statistics could be opened."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Khadi sold a record, and garment exports edged up despite US tariffs.",
+      "items": [
+        {
+          "id": "in.2026.everyday.clothing-and-style.khadi-record",
+          "kind": "stat",
+          "title": "Khadi and village industries",
+          "summary": "The Khadi and Village Industries Commission reported record sales of Rs 1,87,105 crore for 2025-26, up from Rs 1,70,551 crore the year before.",
+          "sources": [
+            {
+              "label": "Outlook Business: Khadi and village industries product sales cross Rs 1.87 lakh crore in FY26 (KVIC, 26 May 2026)",
+              "url": "https://www.outlookbusiness.com/news/khadi-village-industries-product-sales-cross-187-lakh-cr-in-fy26-kvic",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-05-26",
+          "metric": "Khadi and village industries product sales",
+          "value": "Rs 1,87,105 crore",
+          "unit": "",
+          "asOf": "2025-26",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.clothing-and-style.garment-exports",
+          "kind": "stat",
+          "title": "Garments for the world",
+          "summary": "Ready-made garment exports were worth Rs 1,39,349 crore in 2025-26, up 2.9 percent, the largest part of Rs 3,16,334 crore of textile exports.",
+          "sources": [
+            {
+              "label": "The Week: Textile industry growth in India, FY2025-26 exports (30 April 2026)",
+              "url": "https://www.theweek.in/news/biz-tech/2026/04/30/textile-industry-growth-india.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Ready-made garment exports",
+          "value": "Rs 1,39,349 crore",
+          "unit": "",
+          "asOf": "2025-26",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.clothing-and-style.handicraft-exports",
+          "kind": "stat",
+          "title": "Handicrafts",
+          "summary": "Handicraft exports grew 6.1 percent to Rs 15,855 crore in 2025-26, the fastest of any major textile category.",
+          "sources": [
+            {
+              "label": "The Week: Textile industry growth in India, FY2025-26 exports (30 April 2026)",
+              "url": "https://www.theweek.in/news/biz-tech/2026/04/30/textile-industry-growth-india.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Handicraft exports",
+          "value": "Rs 15,855 crore",
+          "unit": "",
+          "asOf": "2025-26",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.clothing-and-style.us-tariff-cut",
+          "kind": "fact",
+          "title": "Cheaper to sell in America",
+          "summary": "On 2 February 2026 the United States announced a trade deal cutting its tariff on Indian goods to 18 percent.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-02-02",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Year in progress. Four items are shown: no Assam handloom or Bihu-season sales figures for 2026 could be found."
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A new rural jobs law, a social security fund for delivery riders, and the khadi workforce.",
+      "items": [
+        {
+          "id": "in.2026.everyday.work-and-wages.rural-jobs-law",
+          "kind": "fact",
+          "title": "A new rural jobs law",
+          "summary": "The VB-G RAM G law took effect on 1 July 2026, replacing the MGNREGA rural employment guarantee, and the first Rs 25,863 crore was released to states on 5 July.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-07-01",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.work-and-wages.gig-social-security",
+          "kind": "fact",
+          "title": "A fund for platform workers",
+          "summary": "Under the labour codes notified in November 2025, delivery and ride apps must pay 1 to 2 percent of their annual turnover, within caps, into a social security fund for gig workers.",
+          "sources": [
+            {
+              "label": "Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)",
+              "url": "https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.work-and-wages.women-at-work",
+          "kind": "stat",
+          "title": "Women in the workforce",
+          "summary": "In September 2026 the monthly survey put women's labour force participation at 34.6 percent and urban women's unemployment at 9.2 percent.",
+          "sources": [
+            {
+              "label": "DD India: Urban workforce participation improves in September (PLFS monthly bulletin, 15 October 2026)",
+              "url": "https://ddindia.co.in/2026/10/urban-workforce-participation-improves-in-september-female-lfpr-reaches-highest-level-since-october-2025/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Female labour force participation (15+)",
+          "value": "34.6",
+          "unit": "percent",
+          "asOf": "September 2026",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.work-and-wages.noida-wage-protest",
+          "kind": "fact",
+          "title": "Factory workers' protest",
+          "summary": "After a workers' protest in Noida, Uttar Pradesh announced wage increases on 14 April 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "date": "2026-04-14",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.work-and-wages.khadi-jobs",
+          "kind": "stat",
+          "title": "Jobs in khadi and village industries",
+          "summary": "Cumulative employment in khadi and village industries reached 2.04 crore in 2025-26, up 56 percent from 1.30 crore in 2013-14.",
+          "sources": [
+            {
+              "label": "Outlook Business: Khadi and village industries product sales cross Rs 1.87 lakh crore in FY26 (KVIC, 26 May 2026)",
+              "url": "https://www.outlookbusiness.com/news/khadi-village-industries-product-sales-cross-187-lakh-cr-in-fy26-kvic",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Cumulative employment, khadi and village industries",
+          "value": "2.04 crore",
+          "unit": "jobs",
+          "asOf": "2025-26",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "Paper leaks cancelled exams and led to a new law.",
+      "items": [
+        {
+          "id": "in.2026.everyday.school-and-childhood.neet-cancelled",
+          "kind": "fact",
+          "title": "A medical exam cancelled",
+          "summary": "The National Testing Agency cancelled the NEET-UG medical entrance exam held on 3 May 2026 after a question paper leak, on 12 May.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-05-12",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.school-and-childhood.paper-leak-law",
+          "kind": "fact",
+          "title": "A law against paper leaks",
+          "summary": "Parliament passed the Anti Paper Leak Bill, 2026 on 30 July, after the Prime Minister announced a draft on 23 July.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-07-30",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.school-and-childhood.cbse-marking",
+          "kind": "fact",
+          "title": "A marking row",
+          "summary": "A controversy over the Central Board of Secondary Education's on-screen marking of answer scripts erupted on 13 May 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-05-13",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.school-and-childhood.tet-postponed",
+          "kind": "fact",
+          "title": "A teacher test postponed",
+          "summary": "Maharashtra postponed its Teacher Eligibility Test, due to start on 28 June, on 27 June after a suspected paper leak.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "date": "2026-06-27",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.school-and-childhood.ugc-rules",
+          "kind": "fact",
+          "title": "College rules stayed",
+          "summary": "The Supreme Court stayed the University Grants Commission's Equity Regulations, 2026 on 29 January, after nationwide protests against the UGC Bill.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-01-29",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "A sleeper train to Guwahati, and the Delhi Metro keeps growing.",
+      "items": [
+        {
+          "id": "in.2026.everyday.getting-around.vande-bharat-sleeper",
+          "kind": "fact",
+          "title": "A sleeper train to Guwahati",
+          "summary": "India's first Vande Bharat Sleeper train began running between Howrah and Guwahati (Kamakhya) on 17 January 2026; it has 16 coaches, carries about 823 passengers and is designed for 180 km/h.",
+          "sources": [
+            {
+              "label": "Indian Infrastructure: India's first Vande Bharat Sleeper train launched on Howrah-Guwahati route (19 January 2026)",
+              "url": "https://indianinfrastructure.com/2026/01/19/indias-first-vande-bharat-sleeper-train-launched-on-howrah-guwahati-route-in-west-bengal-and-assam/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Global Mass Transit: First Vande Bharat Sleeper train launched between Howrah and Guwahati (17 January 2026)",
+              "url": "https://globalmasstransit.net/first-vande-bharat-sleeper-train-launched-between-howrah-and-guwahati-india/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "north-east",
+          "place": "Guwahati (Kamakhya)",
+          "date": "2026-01-17",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.getting-around.bhogapuram-airport",
+          "kind": "fact",
+          "title": "A new airport in Andhra Pradesh",
+          "summary": "The Prime Minister inaugurated Alluri Sitarama Raju International Airport in Andhra Pradesh on 1 August 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "date": "2026-08-01",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.getting-around.delhi-metro-growth",
+          "kind": "stat",
+          "title": "The Delhi Metro keeps growing",
+          "summary": "The Delhi Metro network was 393 km with 288 stations and 12 lines in July 2026, with about 217 km and 123 more stations planned under Phases 4, 5A and 5B.",
+          "sources": [
+            {
+              "label": "Business Today: Delhi Metro's biggest expansion ever (24 July 2026)",
+              "url": "https://www.businesstoday.in/latest/trends/photo/delhi-metros-biggest-expansion-ever-217-km-123-new-stations-16-corridors-planned-under-phases-4-5a-and-5b-545145-2026-07-24",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "north",
+          "metric": "Delhi Metro network length",
+          "value": "393",
+          "unit": "km",
+          "asOf": "July 2026",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.getting-around.air-ambulance-crash",
+          "kind": "fact",
+          "title": "Air safety",
+          "summary": "A Learjet crashed at Baramati on 28 January 2026, killing five, and an air ambulance crashed after take-off from Ranchi on 23 February, killing all seven aboard.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on aircraft accidents and loss of life."
+          },
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Year in progress. Four items are shown: no fares, passenger counts or Guwahati city-transport figures for 2026 could be opened."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "More than a billion people online, and one messaging app blocked for a week.",
+      "items": [
+        {
+          "id": "in.2026.everyday.keeping-in-touch.telegram-blocked",
+          "kind": "fact",
+          "title": "Telegram blocked",
+          "summary": "The IT Ministry blocked the messaging app Telegram from 16 to 22 June 2026 and disabled message editing until 30 June.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-06-16",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.keeping-in-touch.number-porting",
+          "kind": "stat",
+          "title": "Switching operators",
+          "summary": "About 15.83 million people asked to move their number to another operator in August 2026.",
+          "sources": [
+            {
+              "label": "TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)",
+              "url": "https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Mobile number portability requests in a month",
+          "value": "15.83 million",
+          "unit": "requests",
+          "asOf": "August 2026",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.keeping-in-touch.fixed-wireless-5g",
+          "kind": "stat",
+          "title": "5G for the home",
+          "summary": "About 13.45 million homes and offices used 5G fixed wireless broadband at the end of August 2026.",
+          "sources": [
+            {
+              "label": "TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)",
+              "url": "https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "5G fixed wireless access subscribers",
+          "value": "13.45 million",
+          "unit": "subscribers",
+          "asOf": "end of August 2026",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.keeping-in-touch.broadband-base",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "India had 1,101.21 million broadband connections at the end of August 2026, 1,052.58 million of them wireless.",
+          "sources": [
+            {
+              "label": "TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)",
+              "url": "https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)",
+              "url": "https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "relatedIds": [
+            "in.2020.everyday.by-the-numbers.internet-users"
+          ],
+          "metric": "Broadband subscribers (with M2M connections)",
+          "value": "1,101.21 million",
+          "unit": "subscribers",
+          "asOf": "end of August 2026",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "Year in progress. Four items are shown: no 2026 figures on postal services or newspaper readership could be opened."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "A Nipah scare in Bengal, a water-borne outbreak in Indore, and new health rules.",
+      "items": [
+        {
+          "id": "in.2026.everyday.health-and-medicine.nipah-bengal",
+          "kind": "fact",
+          "title": "Nipah in West Bengal",
+          "summary": "India told the WHO of two confirmed Nipah virus cases, both nurses at a private hospital near Kolkata; more than 190 contacts tested negative and the WHO judged the risk low nationally.",
+          "sources": [
+            {
+              "label": "WHO Disease Outbreak News: Nipah virus infection, India (30 January 2026)",
+              "url": "https://who.int/emergencies/disease-outbreak-news/item/2026-DON593",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "east",
+          "date": "2026-01-26",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on an outbreak of infectious disease."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.health-and-medicine.indore-water",
+          "kind": "fact",
+          "title": "Contaminated water in Indore",
+          "summary": "At least 14 people died after contaminated water in Indore on 2 January 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "central",
+          "date": "2026-01-02",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on a disaster with loss of life."
+          },
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.health-and-medicine.cancer-notifiable",
+          "kind": "fact",
+          "title": "Cancer a notifiable disease",
+          "summary": "Telangana made cancer a notifiable disease on 6 April 2026.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "date": "2026-04-06",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.health-and-medicine.passive-euthanasia",
+          "kind": "fact",
+          "title": "A court ruling on the end of life",
+          "summary": "On 11 March 2026 the Supreme Court allowed passive euthanasia, a first for an Indian court.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-03-11",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.health-and-medicine.dental-commission",
+          "kind": "fact",
+          "title": "A new dental regulator",
+          "summary": "The National Dental Commission was constituted on 19 March 2026, replacing the Dental Council of India.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 in India",
+              "url": "https://en.wikipedia.org/wiki/2026_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-03-19",
+          "todo": true
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "A World Cup at home, a Games medal haul and a record first half at the cinema.",
+      "items": [
+        {
+          "id": "in.2026.everyday.leisure-and-fun.t20-stars",
+          "kind": "fact",
+          "title": "The tournament's stars",
+          "summary": "Sanju Samson was player of the T20 World Cup, and Jasprit Bumrah and Varun Chakravarthy shared the most wickets with 14 each.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2026 ICC Men's T20 World Cup",
+              "url": "https://en.wikipedia.org/wiki/2026_ICC_Men%27s_T20_World_Cup",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-03-08",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.leisure-and-fun.commonwealth-games",
+          "kind": "stat",
+          "title": "Commonwealth Games",
+          "summary": "India won 39 medals, 13 of them gold, at the Glasgow Commonwealth Games (23 July to 2 August) and finished fourth.",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 2026 Commonwealth Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "India's medals at the 2026 Commonwealth Games",
+          "value": "39",
+          "unit": "medals",
+          "asOf": "23 July to 2 August 2026",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.leisure-and-fun.asian-games",
+          "kind": "stat",
+          "title": "Asian Games",
+          "summary": "India won 85 medals, 21 of them gold, at the Aichi-Nagoya Asian Games (19 September to 4 October) and finished fourth.",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 2026 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "India's medals at the 2026 Asian Games",
+          "value": "85",
+          "unit": "medals",
+          "asOf": "19 September to 4 October 2026",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.leisure-and-fun.women-cricket-gold",
+          "kind": "fact",
+          "title": "First gold for women's cricket",
+          "summary": "The women's cricket team won India's first gold of the Asian Games, and the men's team also won gold.",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 2026 Asian Games",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-10",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.leisure-and-fun.box-office-h1",
+          "kind": "stat",
+          "title": "A record half-year at the cinema",
+          "summary": "Cinemas grossed Rs 6,398 crore in January to June 2026, the best first half of any year after 2020, with Dhurandhar: The Revenge taking nearly a fifth.",
+          "sources": [
+            {
+              "label": "Ormax Media: The India box office report, January to June 2026",
+              "url": "https://www.ormaxmedia.com/stories/the-india-box-office-report-jan-jun-2026.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "India box office, first half",
+          "value": "Rs 6,398 crore",
+          "unit": "",
+          "asOf": "January to June 2026",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Ten-minute deliveries and the gig worker",
+      "standfirst": "Ten-minute deliveries and the gig worker: what changed for delivery apps and their riders in 2026.",
+      "items": [
+        {
+          "id": "in.2026.everyday.spotlight.ministry-asks",
+          "kind": "fact",
+          "title": "The Labour Ministry steps in",
+          "summary": "In mid-January 2026 the Labour Ministry asked quick-commerce platforms to stop advertising 10-minute delivery guarantees, after a meeting about road safety, work pressure and gig workers' conditions.",
+          "sources": [
+            {
+              "label": "Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)",
+              "url": "https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)",
+              "url": "https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-01-13",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.spotlight.blinkit-tagline",
+          "kind": "fact",
+          "title": "The tagline changes",
+          "summary": "Blinkit replaced '10,000+ products delivered in 10 minutes' with '30,000+ products delivered at your doorstep'; Eternal said the change would not materially affect its business.",
+          "sources": [
+            {
+              "label": "Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)",
+              "url": "https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)",
+              "url": "https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "date": "2026-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2026.everyday.spotlight.new-year-strike",
+          "kind": "fact",
+          "title": "A strike on New Year's Eve",
+          "summary": "Delivery workers struck nationwide on New Year's Eve over pay, insurance and ultra-fast targets; on 5 January a delivery worker was killed in an accident in Hyderabad, and a union raised concerns about delivery timelines.",
+          "sources": [
+            {
+              "label": "The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)",
+              "url": "https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "south",
+          "date": "2026-01-05",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on the death of a worker."
+          },
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.spotlight.goyal-average-order",
+          "kind": "fact",
+          "title": "The company's side",
+          "summary": "Blinkit's chief executive said that in 2025 the average order travelled 2.03 km, with about 8 minutes of driving, an average speed of roughly 16 km/h, and that delivery partners were not overworked.",
+          "sources": [
+            {
+              "label": "The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)",
+              "url": "https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2026.everyday.spotlight.industry-size",
+          "kind": "fact",
+          "title": "A fast-growing business",
+          "summary": "India's quick-commerce companies were reported in January 2026 to be nearing Rs 10,000 crore in quarterly revenue, with most deliveries taking 10 to 20 minutes.",
+          "sources": [
+            {
+              "label": "Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)",
+              "url": "https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    }
+  },
+  "contentAsOf": "2026-10-18"
+}

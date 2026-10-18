@@ -17,7 +17,7 @@ export function CountryBand() {
   const family = overlay?.accentFont;
 
   useEffect(() => {
-    if (family) loadAccentFont(family.spec, `${entry?.name ?? ""}${native?.text ?? ""}${overlay?.decor?.bannerText ?? ""} ·0123456789()`);
+    if (family) loadAccentFont(family.spec, `${entry?.name ?? ""}${native?.text ?? ""}${overlay?.decor?.bannerText ?? ""}${overlay?.decor?.statusText ?? ""} ·0123456789()`);
   }, [family, entry, native, overlay]);
 
   if (!overlay || !entry) return null;
@@ -48,7 +48,13 @@ export function CountryBand() {
       </span>
       {status && <span>{status}</span>}
       {overlay.decor?.bannerText && <span>{overlay.decor.bannerText}</span>}
-      {overlay.decor?.statusText && <span>{overlay.decor.statusText}</span>}
+      {overlay.decor?.statusText && (
+        <span>
+          {overlay.decor.statusText.split(" · ").map((part, i) => (
+            <span key={part} lang={/[\u0900-\u097F]/.test(part) ? "hi" : undefined}>{i > 0 && " · "}{part}</span>
+          ))}
+        </span>
+      )}
     </div>
   );
 }

@@ -120,7 +120,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "clothingAndStyle": {
       "title": "What people wore",
@@ -174,7 +175,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "workAndWages": {
       "title": "Work and wages",
@@ -228,7 +230,8 @@
           "regionTag": "east",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "schoolAndChildhood": {
       "title": "Growing up",
@@ -331,7 +334,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 4 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "keepingInTouch": {
       "title": "Keeping in touch",
@@ -385,7 +389,8 @@
           "regionTag": "west",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "healthAndMedicine": {
       "title": "Health and medicine",
@@ -443,7 +448,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "leisureAndFun": {
       "title": "Evenings, weekends and festivals",

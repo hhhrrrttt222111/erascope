@@ -1,0 +1,24 @@
+{
+  "year": 2026,
+  "speculative": false,
+  "theme": {
+    "chrome": "bento",
+    "transition": "assemble",
+    "palette": {
+      "primary": "#C42F34",
+      "secondary": "#3F5B3A",
+      "background": "#F7F2E8",
+      "paper": "#FFFDF8",
+      "text": "#1F1B16"
+    },
+    "fonts": {
+      "heading": "Fraunces",
+      "body": "Geist",
+      "mono": "Geist Mono"
+    },
+    "sound": "haptic-thock"
+  },
+  "scene": {
+    "component": "SmartGlasses2026"
+  }
+}

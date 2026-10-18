@@ -19,7 +19,7 @@ export function EraTick({ era, index, count, current, short = false, onSelect }:
       component="button"
       type="button"
       onClick={onSelect}
-      aria-label={`Travel to ${era.year}: ${era.title}${era.speculative ? " (speculative)" : ""}`}
+      aria-label={`Travel to ${era.year}: ${era.title}${era.speculative ? " (speculative)" : era.contentAsOf ? " (the present)" : ""}`}
       aria-current={current ? "true" : undefined}
       sx={{
         position: "absolute",
@@ -48,6 +48,11 @@ export function EraTick({ era, index, count, current, short = false, onSelect }:
         "&:focus-visible": { outline: `2px solid ${theme.palette.primary.main}`, outlineOffset: 2 },
       }}
     >
+      {era.contentAsOf && (
+        <Box aria-hidden component="span" sx={{ fontSize: 10, fontWeight: 800, letterSpacing: "0.04em", lineHeight: 1, px: 0.75, py: 0.4, borderRadius: 999, background: theme.palette.primary.main, color: theme.palette.primary.contrastText }}>
+          Now
+        </Box>
+      )}
       <Box aria-hidden sx={{ width: 2, height: current ? 14 : 10, background: "currentColor", borderRadius: 1 }} />
       <span aria-hidden={short || undefined}>{short ? `’${String(era.year).slice(2)}` : era.year}</span>
     </Box>

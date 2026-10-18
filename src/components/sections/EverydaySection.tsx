@@ -3,9 +3,11 @@ import ExpandMore from "@mui/icons-material/ExpandMore";
 import { lazy, Suspense, useEffect, useState, type ComponentType, type LazyExoticComponent } from "react";
 import { useShellEra } from "../../context/EraContext";
 import { getEveryday } from "../../data";
+import { comparisonYear } from "../../data/present";
 import type { CountryId, EraId, Everyday, EverydayItem, EverydaySection as Section, EverydaySectionId } from "../../data/types";
 import { EraCard } from "../common/EraCard";
 import { SourceNote } from "../common/SourceNote";
+import { TimeTag } from "../common/TimeTag";
 
 const cache = new Map<string, Promise<Everyday>>();
 /** One fetch per country-year; every section of the page shares it. */
@@ -50,6 +52,7 @@ function detail(it: EverydayItem): string | undefined {
 }
 
 function Item({ it, tile }: { it: EverydayItem; tile?: boolean }) {
+  const era = useShellEra();
   const [open, setOpen] = useState(false);
   const noted = it.sensitivity?.level === "content-note";
   const bodyId = `${it.id}-body`;
@@ -63,7 +66,7 @@ function Item({ it, tile }: { it: EverydayItem; tile?: boolean }) {
             {it.value} <Typography component="span" sx={{ fontSize: "0.9rem" }}>{it.unit}</Typography>
           </Typography>
           <Typography component="h3" variant="subtitle1" sx={{ fontWeight: 700 }}>{it.metric}</Typography>
-          <Typography variant="caption" component="p" sx={{ color: "text.secondary" }}>as of {it.asOf}{it.comparison2026 ? ` · 2026: ${it.comparison2026}` : ""}</Typography>
+          <Typography variant="caption" component="p" sx={{ color: "text.secondary" }}>as of {it.asOf}{it.comparison2026 ? ` · ${comparisonYear(era.year)}: ${it.comparison2026}` : ""}</Typography>
         </>
       ) : (
         <>
@@ -84,6 +87,7 @@ function Item({ it, tile }: { it: EverydayItem; tile?: boolean }) {
           </Box>
         </>
       )}
+      <TimeTag item={it} />
       <SourceNote todo={it.todo} />
       {it.sources.map((s, i) => <SourceNote key={i} source={s} />)}
     </EraCard>

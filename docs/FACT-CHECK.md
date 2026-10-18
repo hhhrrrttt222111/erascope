@@ -23,8 +23,9 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 | 2005 | 21 | 21 | 0 | 0 | 0 |
 | 2010 | 20 | 20 | 0 | 0 | 0 |
 | 2020 | 18 | 18 | 0 | 0 | 0 |
+| 2026 | 25 | 16 | 0 | 9 | 0 |
 | 2050 | 27 | 12 | 0 | 15 | 0 |
-| **Total** | **281** | **266** | **0** | **15** | **0** |
+| **Total** | **306** | **282** | **0** | **24** | **0** |
 
 ### in · 1900
 
@@ -1900,6 +1901,199 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Reuses deep-dive item in.2020.dd.sports.online-olympiad; same source.
 - **Source:** [Wikipedia: FIDE Online Chess Olympiad 2020](https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020) (reference, 2026-10-13)
 
+### in · 2026
+
+#### `in.2026.morning.cooking-gas` · detail · unverifiable
+
+> Light the gas: A 14.2 kg domestic LPG cylinder was listed at about Rs 991 in Guwahati in mid-October 2026.
+
+- **Note:** One price-tracker page; the oil companies' own price page was not available, so this is shown as unverified.
+- **Source:** [Upstox: LPG price in Guwahati (page for 18 October 2026)](https://upstox.com/lpg-price/lpg-price-in-guwahati/) (secondary, 2026-10-18)
+
+#### `in.2026.places.street` · description · unverifiable
+
+> The street: At the gate, delivery riders hand over a bag; the shop's '10 minutes' promise has been toned down. Highlights: Blinkit replaced '10,000+ products delivered in 10 minutes' with '30,000+ products delivered at your doorstep' (January); Zepto reportedly dropped the claim too, while Swiggy Instamart still showed 8- or 10-minute estimates in many places
+
+- **Note:** One news report, based on user reports and unnamed sources; the companies made no official announcement.
+- **Source:** [The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)](https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html) (secondary, 2026-10-18)
+
+#### `in.2026.prices.diesel` · price · unverifiable
+
+> Diesel, per litre (Guwahati): Rs 92.59
+
+- **Note:** One tracker page; another table on the same page lists Rs 97.23, so the figure is approximate.
+- **Source:** [Business Today: Diesel price in Guwahati today (18 October 2026)](https://www.businesstoday.in/fuel-price/diesel-price-in-guwahati-today) (secondary, 2026-10-18)
+
+#### `in.2026.prices.lpg-cylinder` · price · unverifiable
+
+> Domestic LPG cylinder, 14.2 kg (Guwahati): Rs 991
+
+- **Note:** One price-tracker page; it also shows Rs 983.27 about six months earlier.
+- **Source:** [Upstox: LPG price in Guwahati (page for 18 October 2026)](https://upstox.com/lpg-price/lpg-price-in-guwahati/) (secondary, 2026-10-18)
+
+#### `in.2026.prices.petrol` · price · unverifiable
+
+> Petrol, per litre (Guwahati): Rs 106.51
+
+- **Note:** One tracker page; it shows Rs 100.04 on 1 April. Its own tables contain odd monthly lows, so treat the level as approximate.
+- **Source:** [Business Today: Petrol price in Guwahati today (18 October 2026)](https://www.businesstoday.in/fuel-price/petrol-price-in-guwahati-today) (secondary, 2026-10-18)
+
+#### `in.2026.technology.indian-language-ai` · description · unverifiable
+
+> Indian-language AI models: At the AI Impact Summit in February 2026, Sarvam AI showed 30B and 105B models and the government-backed BharatGen released Param2, which covers 22 Indian languages.
+
+- **Note:** One source (Wikipedia); shown as unverified.
+- **Source:** [Wikipedia: AI Impact Summit](https://en.wikipedia.org/wiki/AI_Impact_Summit) (reference, 2026-10-18)
+
+#### `in.2026.technology.noida-airport` · description · unverifiable
+
+> Noida International Airport: The first phase of Noida International Airport (Jewar) was inaugurated on 28 March 2026 and the first commercial flight landed on 15 June 2026.
+
+- **Note:** One source (Wikipedia); shown as unverified.
+- **Source:** [Wikipedia: Noida International Airport](https://en.wikipedia.org/wiki/Noida_International_Airport) (reference, 2026-10-18)
+
+#### `in.2026.technology.quick-commerce` · description · unverifiable
+
+> Quick commerce: Delivery apps such as Blinkit, Zepto and Swiggy Instamart bring groceries to the door in minutes; in January 2026 Blinkit dropped its '10 minutes' tagline after talks with the Labour Ministry.
+
+- **Note:** One news report citing unnamed sources.
+- **Source:** [The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)](https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html) (secondary, 2026-10-18)
+
+#### `in.2026.visions.amodei-delhi` · prediction · unverifiable
+
+> Dario Amodei, 19 February 2026: In a few years, AI models will surpass the cognitive intelligence of most humans.
+
+- **Note:** One news report quoting the speech; the original transcript was not found.
+- **Source:** [Swarajya: 'India has an absolutely central role to play', Anthropic CEO Amodei says at India AI Impact Summit (19 February 2026)](https://swarajyamag.com/amp/story/news-brief/india-has-an-absolutely-central-role-to-play-anthropic-ceo-amodei-says-at-india-ai-impact-summit) (secondary, 2026-10-18)
+
+#### `in.2026.era.persona` · persona · verified
+
+> an urban household in Guwahati, Assam (typical, not one named family)
+
+- **Note:** A framing choice, not a real household. Guwahati was chosen because the north-east is under-represented in the other India eras.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.era.tagline` · tagline · verified
+
+> A phone payment for nearly everything, a home-won World Cup and a census begun: India to 18 October.
+
+- **Note:** UPI about 800 million transactions a day in September; India beat New Zealand in the T20 World Cup final on 8 March; the census houselisting began on 1 April.
+- **Source:** [Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)](https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september) (secondary, 2026-10-18)
+- **Source:** [StartupTalky: UPI daily transactions cross 800 million, September 2026 (2 October 2026, citing NPCI)](https://startuptalky.com/india-upi-transactions-september-2026/) (secondary, 2026-10-18)
+- **Source:** [Wikipedia: 2026 ICC Men's T20 World Cup](https://en.wikipedia.org/wiki/2026_ICC_Men%27s_T20_World_Cup) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2027 Indian census](https://en.wikipedia.org/wiki/2027_Indian_census) (reference, 2026-10-18)
+
+#### `in.2026.era.title` · title · verified
+
+> 2026 so far
+
+- **Note:** A framing label; the year-to-date events were checked.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.headlines.2026-02-16-ai-impact-summit` · headline · verified
+
+> 2026-02-16 News coverage in India: Delhi opens the AI Impact Summit [paraphrase]
+
+- **Note:** Held at Bharat Mandapam 16 to 20 February (the lead says 21 February, when the expo's hours were extended).
+- **Source:** [Wikipedia: AI Impact Summit](https://en.wikipedia.org/wiki/AI_Impact_Summit) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.headlines.2026-03-08-t20-world-cup` · headline · verified
+
+> 2026-03-08 News coverage in India: India beat New Zealand by 96 runs to win the T20 World Cup [paraphrase]
+
+- **Note:** India and Sri Lanka co-hosted; the final was on 8 March.
+- **Source:** [Wikipedia: 2026 ICC Men's T20 World Cup](https://en.wikipedia.org/wiki/2026_ICC_Men%27s_T20_World_Cup) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.headlines.2026-04-01-income-tax-act-census` · headline · verified
+
+> 2026-04-01 News coverage in India: The Income-tax Act, 2025 takes effect and the census houselisting begins [paraphrase]
+
+- **Note:** Both took effect or began on 1 April 2026, per the pages.
+- **Source:** [Wikipedia: Income-tax Act, 2025](https://en.wikipedia.org/wiki/Income-tax_Act,_2025) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2027 Indian census](https://en.wikipedia.org/wiki/2027_Indian_census) (reference, 2026-10-18)
+
+#### `in.2026.morning.phone-connections` · detail · verified
+
+> Phone first: India had about 1,360.7 million telephone connections at the end of August 2026, mostly wireless, about 1,312 million.
+
+- **Note:** TRAI's total of 1,360.70 million is wireless plus wireline; the second source gives the wireless figure only.
+- **Source:** [TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)](https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf) (primary, 2026-10-18)
+- **Source:** [TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)](https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/) (secondary, 2026-10-18)
+
+#### `in.2026.morning.scan-and-pay` · detail · verified
+
+> Scan and pay: UPI handled an average of about 802 million transactions a day in September 2026, the first month above 800 million a day.
+
+- **Note:** Both articles cite NPCI; NPCI's own statistics page could not be opened.
+- **Source:** [Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)](https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september) (secondary, 2026-10-18)
+- **Source:** [StartupTalky: UPI daily transactions cross 800 million, September 2026 (2 October 2026, citing NPCI)](https://startuptalky.com/india-upi-transactions-september-2026/) (secondary, 2026-10-18)
+
+#### `in.2026.morning.vegetable-bill` · detail · verified
+
+> The vegetable bill: Food prices were 7.74 percent higher in September 2026 than a year earlier, by the official consumer food price index.
+
+- **Note:** The onion figure comes from news coverage of the release, not the release text, so only the 7.74 percent is stated as official.
+- **Source:** [MoSPI National Statistics Office: Press release of CPI (base 2024=100) for September 2026 (12 October 2026)](https://www.mospi.gov.in/uploads/latestreleasesfiles/1791801549227-Press%20Release%20for%20the%20month%20of%20September,%202026.pdf) (primary, 2026-10-18)
+
+#### `in.2026.places.bedroom` · description · verified
+
+> The bedside: A phone charging by the bed carries the household's calls, payments and news. Highlights: About 1.36 billion telephone connections in the country (August 2026); More than a billion broadband connections
+
+- **Note:** Sources agree.
+- **Source:** [TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)](https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf) (primary, 2026-10-18)
+- **Source:** [TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)](https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/) (secondary, 2026-10-18)
+
+#### `in.2026.places.newspaper` · description · verified
+
+> The front page: A cricket World Cup won at home, a global AI summit in Delhi and a new tax law. Highlights: India beat New Zealand by 96 runs to win the men's T20 World Cup (8 March); Delhi hosts the AI Impact Summit (16 to 20 February); The new Income-tax Act, 2025 takes effect (1 April); The census houselisting begins (1 April)
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2026 ICC Men's T20 World Cup](https://en.wikipedia.org/wiki/2026_ICC_Men%27s_T20_World_Cup) (reference, 2026-10-18)
+- **Source:** [Wikipedia: AI Impact Summit](https://en.wikipedia.org/wiki/AI_Impact_Summit) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Income-tax Act, 2025](https://en.wikipedia.org/wiki/Income-tax_Act,_2025) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2027 Indian census](https://en.wikipedia.org/wiki/2027_Indian_census) (reference, 2026-10-18)
+
+#### `in.2026.prices.amul-milk` · price · verified
+
+> Fresh pouch milk (Amul): Rs 2 a litre dearer from 14 May
+
+- **Note:** Amul's marketer GCMMF cited higher input costs; the article gives no new shelf prices.
+- **Source:** [Business Today: Amul raises milk prices, new rates effective from May 14 (13 May 2026)](https://www.businesstoday.in/india/story/amul-raises-milk-prices-new-rates-effective-from-may-14-531344-2026-05-13) (secondary, 2026-10-18)
+
+#### `in.2026.prices.electricity-domestic` · price · verified
+
+> Electricity, first 120 units a month (Assam, domestic): Rs 4.25 per unit
+
+- **Note:** APDCL's tariff schedule from 1 April 2026 lists an effective tariff of Rs 4.25 per kWh for the first 120 units, plus a fixed charge of Rs 70 a month. 'No hike' from the previous year.
+- **Source:** [APDCL: Schedule of tariff with effect from 1 April 2026 (AERC order of 6 March 2026)](https://www.apdcl.org/website/docs/acts_and_rules/TariffnoticeforFY2026-27.pdf) (primary, 2026-10-18)
+- **Source:** [SolarQuarter: Assam keeps power tariffs unchanged for FY 2026-27 (30 March 2026)](https://solarquarter.com/2026/03/30/assam-keeps-power-tariffs-unchanged-for-fy-2026-27-ensuring-consumer-relief/) (secondary, 2026-10-18)
+
+#### `in.2026.prices.electricity-jeevan-dhara` · price · verified
+
+> Electricity, Jeevan Dhara (Assam, low-use households): Rs 3.35 per unit
+
+- **Note:** Effective tariff for the subsidised Jeevan Dhara category (0.5 kW and 1.5 kWh a day).
+- **Source:** [APDCL: Schedule of tariff with effect from 1 April 2026 (AERC order of 6 March 2026)](https://www.apdcl.org/website/docs/acts_and_rules/TariffnoticeforFY2026-27.pdf) (primary, 2026-10-18)
+
+#### `in.2026.technology.mobile-broadband` · description · verified
+
+> Mobile and broadband: TRAI counted 1,101 million broadband connections at the end of August 2026, 1,053 million of them wireless, with about 13.45 million on 5G fixed wireless.
+
+- **Note:** TRAI gives broadband subscribers of 1,101.21 million with M2M connections (1,052.58 million wireless); the 5G FWA figure is from the second source.
+- **Source:** [TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)](https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf) (primary, 2026-10-18)
+- **Source:** [TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)](https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/) (secondary, 2026-10-18)
+
+#### `in.2026.technology.upi` · description · verified
+
+> UPI: UPI handled about 24 billion transactions worth Rs 29.37 lakh crore in September 2026, around 802 million a day.
+
+- **Note:** Both articles cite NPCI.
+- **Source:** [Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)](https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september) (secondary, 2026-10-18)
+- **Source:** [StartupTalky: UPI daily transactions cross 800 million, September 2026 (2 October 2026, citing NPCI)](https://startuptalky.com/india-upi-transactions-september-2026/) (secondary, 2026-10-18)
+
 ### in · 2050
 
 #### `in.2050.era.persona` · persona · unverifiable
@@ -2092,8 +2286,9 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 | 2005 | 37 | 37 | 0 | 0 | 0 |
 | 2010 | 34 | 33 | 0 | 1 | 0 |
 | 2020 | 32 | 31 | 0 | 1 | 0 |
+| 2026 | 71 | 66 | 0 | 5 | 0 |
 | 2050 | 44 | 0 | 0 | 44 | 0 |
-| **Total** | **558** | **493** | **1** | **64** | **0** |
+| **Total** | **629** | **559** | **1** | **69** | **0** |
 
 ### in/dd · 1900
 
@@ -6049,6 +6244,536 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia article.
 - **Source:** [Wikipedia: Covaxin](https://en.wikipedia.org/wiki/Covaxin) (reference, 2026-10-13)
 
+### in/dd · 2026
+
+#### `in.2026.dd.achievements.first-trap-world-cup-gold` · summary · unverifiable
+
+> First women's trap World Cup gold: Neeru Dhanda won the women's trap at the ISSF World Cup in Lonato del Garda, the first Indian woman to win the event.
+
+- **Note:** One Wikipedia page; shown as unverified.
+- **Source:** [Wikipedia: Neeru Dhanda](https://en.wikipedia.org/wiki/Neeru_Dhanda) (reference, 2026-10-18)
+
+#### `in.2026.dd.freedom-history.sarnath-heritage` · summary · unverifiable
+
+> Sarnath named a World Heritage Site: Sarnath, where the Buddha gave his first sermon, was named a UNESCO World Heritage Site on 25 July 2026.
+
+- **Note:** Wikipedia's list of events; UNESCO's page was not opened.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.government-politics.anti-paper-leak-law` · summary · unverifiable
+
+> The Anti Paper Leak Act: Parliament passed the Anti Paper Leak Bill, 2026 on 30 July 2026, a week after the Prime Minister announced a draft, following the cancellation of a national medical entrance exam over a paper leak.
+
+- **Note:** Wikipedia's list of events; the Bill's text was not opened.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.music-arts.zubeen-garg-tribute` · summary · unverifiable
+
+> A tribute to Zubeen Garg: On 19 September 2026, the first anniversary of the Assamese singer Zubeen Garg's death, Shaan released a new song with Mahalaxmi Iyer as a tribute.
+
+- **Note:** One news report; the song's title is not given.
+- **Source:** [Telangana Today: Shaan remembers late friend Zubeen Garg with new song (19 September 2026)](https://telanganatoday.com/shaan-remembers-late-friend-zubeen-garg-with-new-song-on-first-death-anniversary) (secondary, 2026-10-18)
+
+#### `in.2026.dd.personalities.neeru-dhanda` · summary · unverifiable
+
+> Neeru Dhanda: She won the Asian Games women's trap gold, and earlier in 2026 the first women's trap gold by an Indian at an ISSF World Cup, in Lonato del Garda.
+
+- **Note:** Both sources are Wikipedia pages; shown as unverified.
+- **Source:** [Wikipedia: Neeru Dhanda](https://en.wikipedia.org/wiki/Neeru_Dhanda) (reference, 2026-10-18)
+- **Source:** [Wikipedia: India at the 2026 Asian Games](https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games) (reference, 2026-10-18)
+
+#### `in.2026.dd.achievements.ai-pledges-record` · summary · verified
+
+> A record number of AI pledges: More than 250,000 valid AI responsibility pledges were collected on 16 and 17 February 2026, a Guinness record against an initial target of 5,000.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: AI Impact Summit](https://en.wikipedia.org/wiki/AI_Impact_Summit) (reference, 2026-10-18)
+
+#### `in.2026.dd.achievements.boxing-golds-glasgow` · summary · verified
+
+> Seven boxing golds at the Games: Boxing gave India seven of its 13 gold medals at the Glasgow Commonwealth Games.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: India at the 2026 Commonwealth Games](https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games) (reference, 2026-10-18)
+
+#### `in.2026.dd.achievements.india-eu-trade-deal` · summary · verified
+
+> A free trade agreement with the European Union: India and the European Union reached a free trade agreement on 27 January 2026.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.achievements.third-t20-title` · summary · verified
+
+> A third T20 World Cup: India became the first team to win three men's T20 World Cups, the first to retain the title and the first host to win it.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2026 Men's T20 World Cup final](https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup_final) (reference, 2026-10-18)
+- **Source:** [Gulf News: India win record third T20 World Cup (8 March 2026)](https://gulfnews.com/amp/story/sport%2Fcricket%2Ft20-world-cup-final-india-and-new-zealand-ready-for-big-clash-1.500467527) (secondary, 2026-10-18)
+
+#### `in.2026.dd.achievements.womens-cricket-asiad-gold` · summary · verified
+
+> First gold of the Asian Games: India's women's cricket team won the Asian Games title, defending it, and gave India its first gold of the 2026 Games.
+
+- **Note:** Sources agree.
+- **Source:** [Business Today: Indian women's cricket team strike first gold at the Asian Games (22 September 2026)](https://www.businesstoday.in/sports/story/asian-games-2026-indian-womens-cricket-team-strike-first-gold-beat-sri-lanka-in-final-557038-2026-09-22) (secondary, 2026-10-18)
+- **Source:** [Wikipedia: India at the 2026 Asian Games](https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games) (reference, 2026-10-18)
+
+#### `in.2026.dd.books-reading.delhi-book-fair` · summary · verified
+
+> New Delhi World Book Fair 2026: The 53rd fair, held at Bharat Mandapam from 10 to 18 January, drew about two million visitors and had Qatar as guest of honour and Spain as focus country; books were shown in over 30 languages.
+
+- **Note:** A reading-culture event modelled as an item; its theme was 'Indian Military History: Valour and Wisdom @75'.
+- **Source:** [All About Book Publishing: New Delhi World Book Fair 2026 attracts two million footfalls in nine days](https://allaboutbookpublishing.com/?p=14884) (secondary, 2026-10-18)
+
+#### `in.2026.dd.books-reading.e-pustakalaya` · summary · verified
+
+> Rashtriya e-Pustakalaya: The National Book Trust's digital library offered more than 6,000 e-books in over 23 languages at the 2026 Delhi fair.
+
+- **Note:** Sources agree.
+- **Source:** [All About Book Publishing: New Delhi World Book Fair 2026 attracts two million footfalls in nine days](https://allaboutbookpublishing.com/?p=14884) (secondary, 2026-10-18)
+
+#### `in.2026.dd.books-reading.human-edge-launch` · summary · verified
+
+> The Human Edge in an AI-Driven Cyber World: Nitin Seth launched this book at the New Delhi World Book Fair in January 2026.
+
+- **Note:** Sources agree.
+- **Source:** [All About Book Publishing: New Delhi World Book Fair 2026 attracts two million footfalls in nine days](https://allaboutbookpublishing.com/?p=14884) (secondary, 2026-10-18)
+
+#### `in.2026.dd.books-reading.jaipur-festival` · summary · verified
+
+> The Jaipur Literature Festival: The 19th festival ran from 15 to 19 January 2026 at Hotel Clarks Amer, with speakers including Kiran Desai, Vir Das, Stephen Fry and Tim Berners-Lee.
+
+- **Note:** The page names the speakers; the organiser is not named there, so the creator label is general.
+- **Source:** [The Telegraph (t2): Jaipur Literature Festival 2026 unveils final list (January 2026)](https://t2online.in/goodlife/books/jaipur-literature-festival-2026-unveils-final-list--features-vir-das--deepa-bhasthi-and-kiran-desai/2002272) (secondary, 2026-10-18)
+
+#### `in.2026.dd.books-reading.kolkata-book-fair` · summary · verified
+
+> The Kolkata International Book Fair: The 49th fair opened on 22 January 2026 at Boi Mela Prangan in Salt Lake with Argentina as its first focal theme country and nearly 20 countries taking part.
+
+- **Note:** Sources agree.
+- **Source:** [The Telegraph (t2): The 49th International Kolkata Book Fair commenced (22 January 2026)](https://t2online.in/events/events-1/the-49th-international-kolkata-book-fair-commenced-at-the-boi-mela-prangan-in-salt-lake-on-thursday/2003276) (secondary, 2026-10-18)
+
+#### `in.2026.dd.books-reading.rekhta-kavi-sammelan` · summary · verified
+
+> Rekhta's Kavi Sammelan: The Rekhta Foundation's poetry gathering drew large crowds at the 2026 New Delhi World Book Fair.
+
+- **Note:** Sources agree.
+- **Source:** [All About Book Publishing: New Delhi World Book Fair 2026 attracts two million footfalls in nine days](https://allaboutbookpublishing.com/?p=14884) (secondary, 2026-10-18)
+
+#### `in.2026.dd.cinema.bethlehem-kudumba-unit` · summary · verified
+
+> Bethlehem Kudumba Unit: The Malayalam film Bethlehem Kudumba Unit had grossed an estimated Rs 330.93 crore worldwide, fifth among 2026 Indian films.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: List of Indian films of 2026](https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026) (reference, 2026-10-18)
+
+#### `in.2026.dd.cinema.border-2` · summary · verified
+
+> Border 2: The Hindi film Border 2 had grossed an estimated Rs 464.5 crore worldwide by October.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: List of Indian films of 2026](https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026) (reference, 2026-10-18)
+
+#### `in.2026.dd.cinema.dhurandhar-the-revenge` · summary · verified
+
+> Dhurandhar: The Revenge: Aditya Dhar's Hindi film, released in March 2026 with an A certificate, had earned an estimated Rs 1,852 crore worldwide by June, the highest of the year.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Dhurandhar: The Revenge](https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge) (reference, 2026-10-18)
+- **Source:** [Wikipedia: List of Indian films of 2026](https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026) (reference, 2026-10-18)
+- **Source:** [Ormax Media: The India box office report, January to June 2026](https://www.ormaxmedia.com/stories/the-india-box-office-report-jan-jun-2026.html) (secondary, 2026-10-18)
+
+#### `in.2026.dd.cinema.jailer-2` · summary · verified
+
+> Jailer 2: The Tamil film Jailer 2 had grossed an estimated Rs 325 crore worldwide.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: List of Indian films of 2026](https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026) (reference, 2026-10-18)
+
+#### `in.2026.dd.cinema.peddi` · summary · verified
+
+> Peddi: The Telugu film Peddi was June's top-grossing film in India and had earned an estimated Rs 330 to 337 crore worldwide.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: List of Indian films of 2026](https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026) (reference, 2026-10-18)
+- **Source:** [Ormax Media: The India box office report, January to June 2026](https://www.ormaxmedia.com/stories/the-india-box-office-report-jan-jun-2026.html) (secondary, 2026-10-18)
+
+#### `in.2026.dd.cinema.toxic` · summary · verified
+
+> Toxic: The Kannada and English film Toxic had grossed an estimated Rs 320 to 341 crore worldwide.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: List of Indian films of 2026](https://en.wikipedia.org/wiki/List_of_Indian_films_of_2026) (reference, 2026-10-18)
+
+#### `in.2026.dd.economy-business.forex-reserves` · summary · verified
+
+> Foreign exchange reserves: Foreign exchange reserves were $726.03 billion in the week to 9 October 2026, down $8.58 billion on the week and $34.9 billion above the end of March.
+
+- **Note:** Sources agree.
+- **Source:** [Devdiscourse: India's forex reserves down by USD 8.58 billion in week ended Oct 9 (16 October 2026)](https://www.devdiscourse.com/article/business/3993648-indias-forex-reserves-down-by-usd-858-billion-to-usd-72603-billion-in-week-ended-oct-9) (secondary, 2026-10-18)
+- **Source:** [NewKerala: India's forex reserves down USD 8.58 billion (16 October 2026)](https://www.newkerala.com/news/a/indias-forex-reserves-down-usd-858-billion-usd-570.htm) (secondary, 2026-10-18)
+
+#### `in.2026.dd.economy-business.gdp-growth-q1` · summary · verified
+
+> Growth in April-June: Real GDP grew 7.8 percent in April-June 2026 against a year earlier, to Rs 81.36 lakh crore, and gross value added grew 8.2 percent.
+
+- **Note:** Sources agree.
+- **Source:** [Sentinel Assam: India's GDP growth hits 7.8% in Q1 FY27 (1 September 2026)](https://www.sentinelassam.com/topheadlines/indias-gdp-growth-hits-78-in-q1-fy27-surpasses-rbi-estimate) (secondary, 2026-10-18)
+- **Source:** [5paisa: India's GDP growth rises to 7.8% in Q1 FY27 (31 August 2026)](https://www.5paisa.com/news/indias-gdp-growth-rises-to-78-in-q1-fy27-beats-estimates-despite-global-headwinds) (secondary, 2026-10-18)
+
+#### `in.2026.dd.economy-business.gst-september` · summary · verified
+
+> GST collections: Gross GST collections were Rs 2,03,521 crore in September 2026, up 14.7 percent, the third month in a row above Rs 2 lakh crore.
+
+- **Note:** Sources agree.
+- **Source:** [Business Today: September GST collections rise 14.7% to Rs 2.04 lakh crore (1 October 2026)](https://businesstoday.in/latest/economy/story/september-gst-collections-rise-14-7-to-rs2-04-lakh-crore-558985-2026-10-01) (secondary, 2026-10-18)
+- **Source:** [Morung Express: Gross GST collection rises 14.7 pc to almost Rs 2.04 lakh crore in September (1 October 2026)](https://morungexpress.com/gross-gst-collection-rises-147-pc-to-almost-rs-204-lakh-crore-in-september) (secondary, 2026-10-18)
+
+#### `in.2026.dd.economy-business.merchandise-exports` · summary · verified
+
+> Goods exports: Merchandise exports were $44.40 billion in September 2026, up 23 percent, and the goods trade deficit narrowed to $30.21 billion.
+
+- **Note:** Sources agree.
+- **Source:** [Business Today: India's exports rise to $44.4 billion in September (15 October 2026)](https://www.businesstoday.in/latest/economy/story/india-exports-rise-to-44-4-billion-in-september-trade-deficit-narrows-to-30-21-billion-561822-2026-10-15) (secondary, 2026-10-18)
+- **Source:** [Devdiscourse: India's merchandise exports jump 23% to USD 44.4 billion in September (15 October 2026)](https://www.devdiscourse.com/article/business/3992865-indias-merchandise-exports-jump-23-to-usd-444-billion-in-september-trade-deficit-narrows) (secondary, 2026-10-18)
+
+#### `in.2026.dd.economy-business.rbi-growth-forecast` · summary · verified
+
+> The RBI's growth forecast: The Reserve Bank projected real GDP growth of 7.1 percent for 2026-27, up from 6.7 percent in August.
+
+- **Note:** Sources agree.
+- **Source:** [Reserve Bank of India: Monetary Policy Statement 2026-27, resolution of the MPC, 5 to 7 October 2026](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742) (primary, 2026-10-18)
+- **Source:** [GKToday: RBI hikes repo rate by 25 basis points to 5.50% (October 2026)](https://www.gktoday.in/rbi-hikes-repo-rate-by-25-basis-points-to-5-50/) (secondary, 2026-10-18)
+
+#### `in.2026.dd.economy-business.rbi-inflation-forecast` · summary · verified
+
+> The RBI's inflation forecast: The Reserve Bank projected consumer price inflation of 5.2 percent for 2026-27, up from 5.0 percent.
+
+- **Note:** Sources agree.
+- **Source:** [Reserve Bank of India: Monetary Policy Statement 2026-27, resolution of the MPC, 5 to 7 October 2026](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742) (primary, 2026-10-18)
+- **Source:** [GKToday: RBI hikes repo rate by 25 basis points to 5.50% (October 2026)](https://www.gktoday.in/rbi-hikes-repo-rate-by-25-basis-points-to-5-50/) (secondary, 2026-10-18)
+
+#### `in.2026.dd.freedom-history.assam-election` · summary · verified
+
+> Assam votes: Assam's 126 seats were contested on 9 April 2026 and counted on 4 May; the NDA won 102, including 82 for the BJP, and the Congress-led alliance won 21.
+
+- **Note:** The Election Commission of India is the page's cited source. Turnout is given as 85.96 or 85.38 percent in different places.
+- **Source:** [Wikipedia: 2026 Assam Legislative Assembly election](https://en.wikipedia.org/wiki/2026_Assam_Legislative_Assembly_election) (reference, 2026-10-18)
+
+#### `in.2026.dd.freedom-history.census-houselisting` · summary · verified
+
+> The census begins: The houselisting phase of India's census began on 1 April 2026 with online self-enumeration for the first time; population enumeration, including a caste count, is scheduled for 9 to 28 February 2027.
+
+- **Note:** Wikipedia's page; it carries a notice that parts may be unverified. Check censusindia.gov.in.
+- **Source:** [Wikipedia: 2027 Indian census](https://en.wikipedia.org/wiki/2027_Indian_census) (reference, 2026-10-18)
+
+#### `in.2026.dd.freedom-history.delimitation-bill` · summary · verified
+
+> A constitutional amendment falls short: The Delimitation Bill and the Constitution (131st Amendment) Bill failed to pass the Lok Sabha on 17 April 2026 for lack of a two-thirds majority.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.freedom-history.independence-day-80` · summary · verified
+
+> The 80th Independence Day: Independence Day on 15 August 2026 included a performance of Vande Mataram at the Red Fort.
+
+- **Note:** The Independence Day page counts 15 August 2026 as the 80th celebration; the Vande Mataram page describes the Red Fort performance.
+- **Source:** [Wikipedia: Independence Day (India)](https://en.wikipedia.org/wiki/Independence_Day_(India)) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Vande Mataram](https://en.wikipedia.org/wiki/Vande_Mataram) (reference, 2026-10-18)
+
+#### `in.2026.dd.freedom-history.republic-day-2026` · summary · verified
+
+> Republic Day 2026: The 77th Republic Day parade on Kartavya Path had two chief guests, European Council President António Costa and European Commission President Ursula von der Leyen, the first time since 2018 that more than one was invited.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Republic Day (India)](https://en.wikipedia.org/wiki/Republic_Day_(India)) (reference, 2026-10-18)
+
+#### `in.2026.dd.freedom-history.vande-mataram-150` · summary · verified
+
+> 150 years of Vande Mataram: A year-long commemoration of the song's 150 years began on 7 November 2025; in February 2026 the Home Ministry issued rules for singing it, and in May the Cabinet approved an amendment to protect it under the national-honour law.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Vande Mataram](https://en.wikipedia.org/wiki/Vande_Mataram) (reference, 2026-10-18)
+
+#### `in.2026.dd.government-politics.chief-justice` · summary · verified
+
+> Chief Justice: Surya Kant: Surya Kant became the 53rd Chief Justice of India on 24 November 2025, succeeding B. R. Gavai.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Chief Justice of India](https://en.wikipedia.org/wiki/Chief_Justice_of_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.government-politics.election-commissioner` · summary · verified
+
+> Chief Election Commissioner: Gyanesh Kumar: Gyanesh Kumar has been Chief Election Commissioner since 19 February 2025.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Chief Election Commissioner of India](https://en.wikipedia.org/wiki/Chief_Election_Commissioner_of_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.government-politics.income-tax-act` · summary · verified
+
+> The Income-tax Act, 2025: The Act, which replaced the Income-tax Act, 1961, took effect on 1 April 2026; it introduced a single 'tax year' and cut the number of sections from over 800 to 536.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Income-tax Act, 2025](https://en.wikipedia.org/wiki/Income-tax_Act,_2025) (reference, 2026-10-18)
+
+#### `in.2026.dd.government-politics.president` · summary · verified
+
+> President: Droupadi Murmu: Droupadi Murmu has been President of India since 25 July 2022.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: President of India](https://en.wikipedia.org/wiki/President_of_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.government-politics.prime-minister` · summary · verified
+
+> Prime Minister: Narendra Modi: Narendra Modi has been Prime Minister since 26 May 2014 and won a third successive term in 2024.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Prime Minister of India](https://en.wikipedia.org/wiki/Prime_Minister_of_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.government-politics.speaker` · summary · verified
+
+> Speaker: Om Birla: Om Birla, Speaker since 19 June 2019, presided over the 18th Lok Sabha, which first met in June 2024.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Speaker of the Lok Sabha](https://en.wikipedia.org/wiki/Speaker_of_the_Lok_Sabha) (reference, 2026-10-18)
+
+#### `in.2026.dd.government-politics.vice-president` · summary · verified
+
+> Vice-President: C. P. Radhakrishnan: C. P. Radhakrishnan has been Vice-President of India since 12 September 2025.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Vice President of India](https://en.wikipedia.org/wiki/Vice_President_of_India) (reference, 2026-10-18)
+
+#### `in.2026.dd.intro` · summary · verified
+
+> Highlights of the year so far: a third T20 World Cup, the Glasgow and Aichi-Nagoya medal tables, the new Income-tax Act, a sleeper train to Guwahati and a record first half at the cinema.
+
+- **Note:** Summarises items checked in the sections.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2026 Men's T20 World Cup final](https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup_final) (reference, 2026-10-18)
+- **Source:** [Wikipedia: India at the 2026 Commonwealth Games](https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games) (reference, 2026-10-18)
+- **Source:** [Wikipedia: India at the 2026 Asian Games](https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games) (reference, 2026-10-18)
+
+#### `in.2026.dd.literature.crimson-spring` · summary · verified
+
+> Crimson Spring: Navtej Sarna's English novel won a Sahitya Akademi Award for 2025.
+
+- **Note:** Sources agree.
+- **Source:** [Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)](https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages) (primary, 2026-10-18)
+
+#### `in.2026.dd.literature.jeete-jee-allahabad` · summary · verified
+
+> Jeete Jee Allahabad: Mamta Kalia's Hindi memoir won a Sahitya Akademi Award for 2025.
+
+- **Note:** Sources agree.
+- **Source:** [Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)](https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages) (primary, 2026-10-18)
+
+#### `in.2026.dd.literature.jnanpith-vairamuthu` · summary · verified
+
+> R. Vairamuthu's Tamil poetry: R. Vairamuthu was named for the 60th Jnanpith Award, the third Tamil writer and the first honoured for Tamil poetry.
+
+- **Note:** Sources agree.
+- **Source:** [Drishti IAS: 60th Jnanpith Award (17 March 2026)](https://www.drishtiias.com/daily-updates/daily-news-analysis/60th-jnanpith-award) (secondary, 2026-10-18)
+
+#### `in.2026.dd.literature.karhi-khelar-sadhu` · summary · verified
+
+> Karhi Khelar Sadhu: Devabrat Das's Assamese novel won the Sahitya Akademi Award for 2025, announced on 16 March 2026.
+
+- **Note:** Sources agree.
+- **Source:** [Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)](https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages) (primary, 2026-10-18)
+
+#### `in.2026.dd.literature.safar-jaari-hai` · summary · verified
+
+> Safar Jaari Hai: Pritpal Singh Betab's Urdu poetry won a Sahitya Akademi Award for 2025.
+
+- **Note:** Sources agree.
+- **Source:** [Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)](https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages) (primary, 2026-10-18)
+
+#### `in.2026.dd.literature.shrestha-kabita` · summary · verified
+
+> Shrestha Kabita: Prasun Bandyopadhyay's Bengali poetry won a Sahitya Akademi Award for 2025.
+
+- **Note:** Sources agree.
+- **Source:** [Sahitya Akademi Awards 2025 announced (All India Radio, 16 March 2026)](https://www.newsonair.gov.in/sahitya-akademi-announces-winners-of-sahitya-akademi-awards-2025-in-24-indian-languages) (primary, 2026-10-18)
+
+#### `in.2026.dd.literature.the-outsider` · summary · verified
+
+> The Outsider: Vir Das presented his memoir The Outsider at the Jaipur Literature Festival, held from 15 to 19 January 2026.
+
+- **Note:** Sources agree.
+- **Source:** [The Telegraph (t2): Jaipur Literature Festival 2026 unveils final list (January 2026)](https://t2online.in/goodlife/books/jaipur-literature-festival-2026-unveils-final-list--features-vir-das--deepa-bhasthi-and-kiran-desai/2002272) (secondary, 2026-10-18)
+
+#### `in.2026.dd.music-arts.alka-yagnik-padma-bhushan` · summary · verified
+
+> Alka Yagnik: The playback singer Alka Yagnik received a Padma Bhushan in the 2026 Padma Awards.
+
+- **Note:** Sources agree.
+- **Source:** [Drishti IAS: Padma Awards 2026 (28 January 2026)](https://www.drishtiias.com/state-pcs-current-affairs/president-droupadi-murmu-conferred-padma-awards-on-131-individuals-in-2026/print_manually) (secondary, 2026-10-18)
+
+#### `in.2026.dd.music-arts.n-rajam-padma-vibhushan` · summary · verified
+
+> N. Rajam: The classical violinist N. Rajam received a Padma Vibhushan in the Padma Awards announced on the eve of Republic Day 2026.
+
+- **Note:** Sources agree.
+- **Source:** [Drishti IAS: Padma Awards 2026 (28 January 2026)](https://www.drishtiias.com/state-pcs-current-affairs/president-droupadi-murmu-conferred-padma-awards-on-131-individuals-in-2026/print_manually) (secondary, 2026-10-18)
+
+#### `in.2026.dd.music-arts.sangeet-natak-akademi` · summary · verified
+
+> Sangeet Natak Akademi honours: The President was to confer the Akademi's fellowships and awards for 2024 and 2025 on 115 artists, including seven fellows, on 13 August 2026 at Vigyan Bhawan, New Delhi.
+
+- **Note:** Sources agree.
+- **Source:** [Drishti IAS: Sangeet Natak Akademi fellowships and awards for 2024 and 2025 (12 August 2026)](https://www.drishtiias.com/state-pcs-current-affairs/sangeet-natak-akademi-fellowship-and-awards-for-2024-2025-announced/print_manually) (secondary, 2026-10-18)
+
+#### `in.2026.dd.personalities.jaismine-lamboria` · summary · verified
+
+> Jaismine Lamboria: She won the 57 kg Commonwealth Games gold on 1 August by a unanimous decision over Northern Ireland's Michaela Walsh.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Jaismine Lamboria](https://en.wikipedia.org/wiki/Jaismine_Lamboria) (reference, 2026-10-18)
+- **Source:** [Outlook India: Jaismine Lamboria wins 57kg boxing gold at the Commonwealth Games (1 August 2026)](https://www.outlookindia.com/amp/story/sports/others/india-at-commonwealth-games-2026-jaismine-lamboria-gold-medal-womens-57kg-final-report) (secondary, 2026-10-18)
+
+#### `in.2026.dd.personalities.lovlina-borgohain` · summary · verified
+
+> Lovlina Borgohain: She won silver in the women's 75 kg at the Commonwealth Games on 1 August and gold at the Asian Games on 2 October, beating China's Bao Ziyi 5-0.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Lovlina Borgohain](https://en.wikipedia.org/wiki/Lovlina_Borgohain) (reference, 2026-10-18)
+- **Source:** [Business Today: Lovlina Borgohain defeats China's Ziyi Bao, ends India's 12-year wait for boxing gold (2 October 2026)](https://www.businesstoday.in/sports/story/asian-games-2026-lovlina-borgohain-defeats-chinas-ziyi-bao-ends-indias-12-year-wait-for-boxing-gold-559196-2026-10-02) (secondary, 2026-10-18)
+
+#### `in.2026.dd.personalities.mirabai-chanu` · summary · verified
+
+> Mirabai Chanu: She won her third straight Commonwealth Games gold in the 48 kg class on 26 July with a Games-record 190 kg total, and silver at the Asian Games.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Mirabai Chanu](https://en.wikipedia.org/wiki/Mirabai_Chanu) (reference, 2026-10-18)
+- **Source:** [Onmanorama: Mirabai wins India's first gold at the Glasgow Commonwealth Games (26 July 2026)](https://www.onmanorama.com/sports/other-sports/2026/07/26/weightlifter-mirabai-wins-indian-s-first-gold-in-glasgow-commonwealth-games.amp.html) (secondary, 2026-10-18)
+
+#### `in.2026.dd.personalities.sanjay-malhotra` · summary · verified
+
+> Sanjay Malhotra: As Governor of the Reserve Bank of India he chaired the committee that raised the repo rate to 5.50 percent on 7 October 2026.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Sanjay Malhotra](https://en.wikipedia.org/wiki/Sanjay_Malhotra) (reference, 2026-10-18)
+- **Source:** [Reserve Bank of India: Monetary Policy Statement 2026-27, resolution of the MPC, 5 to 7 October 2026](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742) (primary, 2026-10-18)
+
+#### `in.2026.dd.personalities.sanju-samson` · summary · verified
+
+> Sanju Samson: He was player of the T20 World Cup and scored 89 off 46 balls in the final on 8 March.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Sanju Samson](https://en.wikipedia.org/wiki/Sanju_Samson) (reference, 2026-10-18)
+- **Source:** [Gulf News: India win record third T20 World Cup (8 March 2026)](https://gulfnews.com/amp/story/sport%2Fcricket%2Ft20-world-cup-final-india-and-new-zealand-ready-for-big-clash-1.500467527) (secondary, 2026-10-18)
+
+#### `in.2026.dd.sports.asian-games-tally` · summary · verified
+
+> Asian Games medal table: India won 21 gold, 27 silver and 37 bronze, 85 medals, at the Aichi-Nagoya Games and finished fourth, above Uzbekistan on silver medals.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: India at the 2026 Asian Games](https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games) (reference, 2026-10-18)
+- **Source:** [Khel Now: Final medal tally of Asian Games 2026 (4 October 2026)](https://khelnow.com/asian-games/final-medal-tally-asian-games-202610) (secondary, 2026-10-18)
+
+#### `in.2026.dd.sports.commonwealth-games-tally` · summary · verified
+
+> Commonwealth Games medal table: India won 13 gold, 17 silver and 9 bronze, 39 medals, at the Glasgow Games (23 July to 2 August) and finished fourth.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: India at the 2026 Commonwealth Games](https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games) (reference, 2026-10-18)
+- **Source:** [Outlook India: Glasgow 2026 Commonwealth Games medal table](https://www.outlookindia.com/sports/commonwealth-games-2026) (secondary, 2026-10-18)
+
+#### `in.2026.dd.sports.jaismine-57kg` · summary · verified
+
+> Boxing, women's 57 kg: Jaismine Lamboria won all five judges' scorecards against Northern Ireland's Michaela Walsh in the Commonwealth Games final on 1 August.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Jaismine Lamboria](https://en.wikipedia.org/wiki/Jaismine_Lamboria) (reference, 2026-10-18)
+- **Source:** [Outlook India: Jaismine Lamboria wins 57kg boxing gold at the Commonwealth Games (1 August 2026)](https://www.outlookindia.com/amp/story/sports/others/india-at-commonwealth-games-2026-jaismine-lamboria-gold-medal-womens-57kg-final-report) (secondary, 2026-10-18)
+
+#### `in.2026.dd.sports.lovlina-75kg` · summary · verified
+
+> Boxing, women's 75 kg: Lovlina Borgohain beat China's Bao Ziyi 5-0 in the Asian Games final on 2 October, ending India's 12-year wait for a women's boxing gold at the Games.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Lovlina Borgohain](https://en.wikipedia.org/wiki/Lovlina_Borgohain) (reference, 2026-10-18)
+- **Source:** [Business Today: Lovlina Borgohain defeats China's Ziyi Bao, ends India's 12-year wait for boxing gold (2 October 2026)](https://www.businesstoday.in/sports/story/asian-games-2026-lovlina-borgohain-defeats-chinas-ziyi-bao-ends-indias-12-year-wait-for-boxing-gold-559196-2026-10-02) (secondary, 2026-10-18)
+
+#### `in.2026.dd.sports.mirabai-48kg` · summary · verified
+
+> Weightlifting, women's 48 kg: Mirabai Chanu lifted 85 kg in the snatch and 105 kg in the clean and jerk for a 190 kg total, all Games records, to win gold on 26 July.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Mirabai Chanu](https://en.wikipedia.org/wiki/Mirabai_Chanu) (reference, 2026-10-18)
+- **Source:** [Onmanorama: Mirabai wins India's first gold at the Glasgow Commonwealth Games (26 July 2026)](https://www.onmanorama.com/sports/other-sports/2026/07/26/weightlifter-mirabai-wins-indian-s-first-gold-in-glasgow-commonwealth-games.amp.html) (secondary, 2026-10-18)
+
+#### `in.2026.dd.sports.t20-world-cup-final` · summary · verified
+
+> The T20 World Cup final: On 8 March 2026 in Ahmedabad India made 255 for 5, the highest total in a men's T20 World Cup final, and bowled New Zealand out for 159 to win by 96 runs; Jasprit Bumrah took 4 for 15.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2026 Men's T20 World Cup final](https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup_final) (reference, 2026-10-18)
+- **Source:** [Gulf News: India win record third T20 World Cup (8 March 2026)](https://gulfnews.com/amp/story/sport%2Fcricket%2Ft20-world-cup-final-india-and-new-zealand-ready-for-big-clash-1.500467527) (secondary, 2026-10-18)
+
+#### `in.2026.dd.sports.womens-cricket-asiad-final` · summary · verified
+
+> Women's cricket final: India made 216 for 3 and bowled Sri Lanka out for 69 to win by 147 runs at the Asian Games on 22 September; Deepti Sharma took three wickets.
+
+- **Note:** Sources agree.
+- **Source:** [Business Today: Indian women's cricket team strike first gold at the Asian Games (22 September 2026)](https://www.businesstoday.in/sports/story/asian-games-2026-indian-womens-cricket-team-strike-first-gold-beat-sri-lanka-in-final-557038-2026-09-22) (secondary, 2026-10-18)
+- **Source:** [Wikipedia: India at the 2026 Asian Games](https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games) (reference, 2026-10-18)
+
+#### `in.2026.dd.technology-science.fixed-wireless-5g` · summary · verified
+
+> 5G fixed wireless: About 13.45 million homes and offices used 5G fixed wireless broadband at the end of August 2026.
+
+- **Note:** Sources agree.
+- **Source:** [TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)](https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/) (secondary, 2026-10-18)
+
+#### `in.2026.dd.technology-science.gaganyaan-parachute-tests` · summary · verified
+
+> Gaganyaan parachute tests: A second integrated air drop test on 10 April 2026 deployed ten parachutes and the Indian Navy recovered the simulated crew module; the first uncrewed Gaganyaan flight was still listed as 'to be decided' in 2026.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Gaganyaan](https://en.wikipedia.org/wiki/Gaganyaan) (reference, 2026-10-18)
+
+#### `in.2026.dd.technology-science.indiaai-compute` · summary · verified
+
+> IndiaAI compute: The government plans to add more than 20,000 GPUs to an existing base of 38,000 under the IndiaAI Compute Portal.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: AI Impact Summit](https://en.wikipedia.org/wiki/AI_Impact_Summit) (reference, 2026-10-18)
+
+#### `in.2026.dd.technology-science.indian-language-ai` · summary · verified
+
+> Indian-language AI models: At the AI Impact Summit Sarvam AI showed 30B and 105B models and the government-backed BharatGen released Param2, with 17 billion parameters and 22 Indian languages.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: AI Impact Summit](https://en.wikipedia.org/wiki/AI_Impact_Summit) (reference, 2026-10-18)
+
+#### `in.2026.dd.technology-science.quick-commerce-apps` · summary · verified
+
+> Quick-commerce apps: Apps such as Blinkit, Zepto and Swiggy Instamart delivered groceries to city doors in minutes; in January the Labour Ministry asked them to drop explicit 10-minute guarantees.
+
+- **Note:** Sources agree.
+- **Source:** [Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)](https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm) (secondary, 2026-10-18)
+- **Source:** [The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)](https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html) (secondary, 2026-10-18)
+
+#### `in.2026.dd.technology-science.upi` · summary · verified
+
+> UPI: UPI handled about 24.07 billion transactions worth Rs 29.37 lakh crore in September 2026, around 802 million a day.
+
+- **Note:** Sources agree.
+- **Source:** [Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)](https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september) (secondary, 2026-10-18)
+- **Source:** [StartupTalky: UPI daily transactions cross 800 million, September 2026 (2 October 2026, citing NPCI)](https://startuptalky.com/india-upi-transactions-september-2026/) (secondary, 2026-10-18)
+
+#### `in.2026.dd.technology-science.vande-bharat-sleeper` · summary · verified
+
+> Vande Bharat Sleeper: India's first Vande Bharat Sleeper train began running between Howrah and Guwahati (Kamakhya) on 17 January 2026, with 16 coaches and about 823 passengers.
+
+- **Note:** Sources agree.
+- **Source:** [Indian Infrastructure: India's first Vande Bharat Sleeper train launched on Howrah-Guwahati route (19 January 2026)](https://indianinfrastructure.com/2026/01/19/indias-first-vande-bharat-sleeper-train-launched-on-howrah-guwahati-route-in-west-bengal-and-assam/) (secondary, 2026-10-18)
+- **Source:** [Global Mass Transit: First Vande Bharat Sleeper train launched between Howrah and Guwahati (17 January 2026)](https://globalmasstransit.net/first-vande-bharat-sleeper-train-launched-between-howrah-and-guwahati-india/) (secondary, 2026-10-18)
+
 ### in/dd · 2050
 
 #### `in.2050.dd.achievements.net-zero-path` · summary · unverifiable
@@ -6343,7 +7068,8 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 | 2005 | 25 | 9 | 0 | 16 | 0 |
 | 2010 | 34 | 7 | 0 | 27 | 0 |
 | 2020 | 32 | 10 | 0 | 22 | 0 |
-| **Total** | **385** | **98** | **0** | **287** | **0** |
+| 2026 | 47 | 10 | 0 | 37 | 0 |
+| **Total** | **432** | **108** | **0** | **324** | **0** |
 
 ### in/everyday · 1900
 
@@ -9136,6 +9862,346 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-18)
 - **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
 
+### in/everyday · 2026
+
+#### `in.2026.everyday.by-the-numbers.unemployment-rate` · summary · unverifiable
+
+> Unemployment: The monthly labour force survey put unemployment among people aged 15 and over at 5.0 percent in September 2026, with urban women at 9.2 percent.
+
+- **Note:** One news report of the MoSPI bulletin; the bulletin itself was not opened.
+- **Source:** [DD India: Urban workforce participation improves in September (PLFS monthly bulletin, 15 October 2026)](https://ddindia.co.in/2026/10/urban-workforce-participation-improves-in-september-female-lfpr-reaches-highest-level-since-october-2025/) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.clothing-and-style.garment-exports` · summary · unverifiable
+
+> Garments for the world: Ready-made garment exports were worth Rs 1,39,349 crore in 2025-26, up 2.9 percent, the largest part of Rs 3,16,334 crore of textile exports.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [The Week: Textile industry growth in India, FY2025-26 exports (30 April 2026)](https://www.theweek.in/news/biz-tech/2026/04/30/textile-industry-growth-india.html) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.clothing-and-style.handicraft-exports` · summary · unverifiable
+
+> Handicrafts: Handicraft exports grew 6.1 percent to Rs 15,855 crore in 2025-26, the fastest of any major textile category.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [The Week: Textile industry growth in India, FY2025-26 exports (30 April 2026)](https://www.theweek.in/news/biz-tech/2026/04/30/textile-industry-growth-india.html) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.clothing-and-style.khadi-record` · summary · unverifiable
+
+> Khadi and village industries: The Khadi and Village Industries Commission reported record sales of Rs 1,87,105 crore for 2025-26, up from Rs 1,70,551 crore the year before.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Outlook Business: Khadi and village industries product sales cross Rs 1.87 lakh crore in FY26 (KVIC, 26 May 2026)](https://www.outlookbusiness.com/news/khadi-village-industries-product-sales-cross-187-lakh-cr-in-fy26-kvic) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.clothing-and-style.us-tariff-cut` · summary · unverifiable
+
+> Cheaper to sell in America: On 2 February 2026 the United States announced a trade deal cutting its tariff on Indian goods to 18 percent.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.food-and-kitchen.free-grain` · summary · unverifiable
+
+> Free ration grain: The free foodgrain scheme PMGKAY was extended for five years to December 2028; reports put the number of people covered at about 81 crore.
+
+- **Note:** Seen only in a search summary; the extension was announced in January 2024, so it is background, not a 2026 event.
+- **Source:** [Deccan Herald: New beneficiaries can be added to PM Garib Kalyan Anna Yojana (as listed in search results)](https://www.deccanherald.com/india/new-beneficiaries-can-be-added-to-pm-garib-kalyan-anna-yojana-says-union-minister-pralhad-joshi-3462345) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.food-and-kitchen.onion-jump` · summary · unverifiable
+
+> Onions climb: Wholesale onion prices at Lasalgaon, Maharashtra, rose from Rs 2,180 to Rs 2,760 a quintal in five trading days in August after rain cut arrivals.
+
+- **Note:** One news report; prices as quoted.
+- **Source:** [Business Today: Wholesale onion prices go up by 25 percent at Lasalgaon, Pimpalgaon mandis (14 August 2026)](https://www.businesstoday.in/india/story/wholesale-onion-prices-go-up-by-25-percent-at-lasalgaon-pimpalgaon-mandis-549144-2026-08-14) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.food-and-kitchen.rural-food-prices` · summary · unverifiable
+
+> Dearer in the village: By the official food index, food prices in September 2026 were 8.06 percent higher than a year earlier in rural areas and 7.18 percent higher in urban areas.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [MoSPI National Statistics Office: Press release of CPI (base 2024=100) for September 2026 (12 October 2026)](https://www.mospi.gov.in/uploads/latestreleasesfiles/1791801549227-Press%20Release%20for%20the%20month%20of%20September,%202026.pdf) (primary, 2026-10-18)
+
+#### `in.2026.everyday.food-and-kitchen.wheat-bought` · summary · unverifiable
+
+> Grain for the public stores: Government agencies bought over 35 million tonnes of wheat in the 2026-27 season, about 17 percent more than the previous season.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Daily Pioneer: Wheat procurement rises to 35 MT, exceeds target for 2026-27 (4 June 2026)](https://www.dailypioneer.com/news/wheat-procurement-rises-to-35-mt-exceeds-target-for-2026-27) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.getting-around.air-ambulance-crash` · summary · unverifiable
+
+> Air safety: A Learjet crashed at Baramati on 28 January 2026, killing five, and an air ambulance crashed after take-off from Ranchi on 23 February, killing all seven aboard.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.getting-around.bhogapuram-airport` · summary · unverifiable
+
+> A new airport in Andhra Pradesh: The Prime Minister inaugurated Alluri Sitarama Raju International Airport in Andhra Pradesh on 1 August 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.getting-around.delhi-metro-growth` · summary · unverifiable
+
+> The Delhi Metro keeps growing: The Delhi Metro network was 393 km with 288 stations and 12 lines in July 2026, with about 217 km and 123 more stations planned under Phases 4, 5A and 5B.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Business Today: Delhi Metro's biggest expansion ever (24 July 2026)](https://www.businesstoday.in/latest/trends/photo/delhi-metros-biggest-expansion-ever-217-km-123-new-stations-16-corridors-planned-under-phases-4-5a-and-5b-545145-2026-07-24) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.health-and-medicine.cancer-notifiable` · summary · unverifiable
+
+> Cancer a notifiable disease: Telangana made cancer a notifiable disease on 6 April 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.health-and-medicine.dental-commission` · summary · unverifiable
+
+> A new dental regulator: The National Dental Commission was constituted on 19 March 2026, replacing the Dental Council of India.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.health-and-medicine.indore-water` · summary · unverifiable
+
+> Contaminated water in Indore: At least 14 people died after contaminated water in Indore on 2 January 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.health-and-medicine.passive-euthanasia` · summary · unverifiable
+
+> A court ruling on the end of life: On 11 March 2026 the Supreme Court allowed passive euthanasia, a first for an Indian court.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.keeping-in-touch.fixed-wireless-5g` · summary · unverifiable
+
+> 5G for the home: About 13.45 million homes and offices used 5G fixed wireless broadband at the end of August 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)](https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.keeping-in-touch.number-porting` · summary · unverifiable
+
+> Switching operators: About 15.83 million people asked to move their number to another operator in August 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)](https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf) (primary, 2026-10-18)
+
+#### `in.2026.everyday.keeping-in-touch.telegram-blocked` · summary · unverifiable
+
+> Telegram blocked: The IT Ministry blocked the messaging app Telegram from 16 to 22 June 2026 and disabled message editing until 30 June.
+
+- **Note:** Wikipedia's list of events; the order itself was not opened.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.leisure-and-fun.asian-games` · summary · unverifiable
+
+> Asian Games: India won 85 medals, 21 of them gold, at the Aichi-Nagoya Asian Games (19 September to 4 October) and finished fourth.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: India at the 2026 Asian Games](https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games) (reference, 2026-10-18)
+
+#### `in.2026.everyday.leisure-and-fun.box-office-h1` · summary · unverifiable
+
+> A record half-year at the cinema: Cinemas grossed Rs 6,398 crore in January to June 2026, the best first half of any year after 2020, with Dhurandhar: The Revenge taking nearly a fifth.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Ormax Media: The India box office report, January to June 2026](https://www.ormaxmedia.com/stories/the-india-box-office-report-jan-jun-2026.html) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.leisure-and-fun.commonwealth-games` · summary · unverifiable
+
+> Commonwealth Games: India won 39 medals, 13 of them gold, at the Glasgow Commonwealth Games (23 July to 2 August) and finished fourth.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: India at the 2026 Commonwealth Games](https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games) (reference, 2026-10-18)
+
+#### `in.2026.everyday.leisure-and-fun.t20-stars` · summary · unverifiable
+
+> The tournament's stars: Sanju Samson was player of the T20 World Cup, and Jasprit Bumrah and Varun Chakravarthy shared the most wickets with 14 each.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 ICC Men's T20 World Cup](https://en.wikipedia.org/wiki/2026_ICC_Men%27s_T20_World_Cup) (reference, 2026-10-18)
+
+#### `in.2026.everyday.leisure-and-fun.women-cricket-gold` · summary · unverifiable
+
+> First gold for women's cricket: The women's cricket team won India's first gold of the Asian Games, and the men's team also won gold.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: India at the 2026 Asian Games](https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games) (reference, 2026-10-18)
+
+#### `in.2026.everyday.school-and-childhood.cbse-marking` · summary · unverifiable
+
+> A marking row: A controversy over the Central Board of Secondary Education's on-screen marking of answer scripts erupted on 13 May 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.school-and-childhood.neet-cancelled` · summary · unverifiable
+
+> A medical exam cancelled: The National Testing Agency cancelled the NEET-UG medical entrance exam held on 3 May 2026 after a question paper leak, on 12 May.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.school-and-childhood.paper-leak-law` · summary · unverifiable
+
+> A law against paper leaks: Parliament passed the Anti Paper Leak Bill, 2026 on 30 July, after the Prime Minister announced a draft on 23 July.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.school-and-childhood.tet-postponed` · summary · unverifiable
+
+> A teacher test postponed: Maharashtra postponed its Teacher Eligibility Test, due to start on 28 June, on 27 June after a suspected paper leak.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.school-and-childhood.ugc-rules` · summary · unverifiable
+
+> College rules stayed: The Supreme Court stayed the University Grants Commission's Equity Regulations, 2026 on 29 January, after nationwide protests against the UGC Bill.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.spotlight.goyal-average-order` · summary · unverifiable
+
+> The company's side: Blinkit's chief executive said that in 2025 the average order travelled 2.03 km, with about 8 minutes of driving, an average speed of roughly 16 km/h, and that delivery partners were not overworked.
+
+- **Note:** The company's own statement, reported in one article; not independently checked.
+- **Source:** [The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)](https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.spotlight.industry-size` · summary · unverifiable
+
+> A fast-growing business: India's quick-commerce companies were reported in January 2026 to be nearing Rs 10,000 crore in quarterly revenue, with most deliveries taking 10 to 20 minutes.
+
+- **Note:** One article's estimate.
+- **Source:** [Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)](https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.spotlight.new-year-strike` · summary · unverifiable
+
+> A strike on New Year's Eve: Delivery workers struck nationwide on New Year's Eve over pay, insurance and ultra-fast targets; on 5 January a delivery worker was killed in an accident in Hyderabad, and a union raised concerns about delivery timelines.
+
+- **Note:** One news report; Zepto said the worker was not delivering for it.
+- **Source:** [The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)](https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.work-and-wages.gig-social-security` · summary · unverifiable
+
+> A fund for platform workers: Under the labour codes notified in November 2025, delivery and ride apps must pay 1 to 2 percent of their annual turnover, within caps, into a social security fund for gig workers.
+
+- **Note:** One news report; the codes were notified in November 2025, so this is background for 2026.
+- **Source:** [Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)](https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.work-and-wages.khadi-jobs` · summary · unverifiable
+
+> Jobs in khadi and village industries: Cumulative employment in khadi and village industries reached 2.04 crore in 2025-26, up 56 percent from 1.30 crore in 2013-14.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Outlook Business: Khadi and village industries product sales cross Rs 1.87 lakh crore in FY26 (KVIC, 26 May 2026)](https://www.outlookbusiness.com/news/khadi-village-industries-product-sales-cross-187-lakh-cr-in-fy26-kvic) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.work-and-wages.noida-wage-protest` · summary · unverifiable
+
+> Factory workers' protest: After a workers' protest in Noida, Uttar Pradesh announced wage increases on 14 April 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.work-and-wages.rural-jobs-law` · summary · unverifiable
+
+> A new rural jobs law: The VB-G RAM G law took effect on 1 July 2026, replacing the MGNREGA rural employment guarantee, and the first Rs 25,863 crore was released to states on 5 July.
+
+- **Note:** Wikipedia's list of events; the Act's own text was not opened.
+- **Source:** [Wikipedia: 2026 in India](https://en.wikipedia.org/wiki/2026_in_India) (reference, 2026-10-18)
+
+#### `in.2026.everyday.work-and-wages.women-at-work` · summary · unverifiable
+
+> Women in the workforce: In September 2026 the monthly survey put women's labour force participation at 34.6 percent and urban women's unemployment at 9.2 percent.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [DD India: Urban workforce participation improves in September (PLFS monthly bulletin, 15 October 2026)](https://ddindia.co.in/2026/10/urban-workforce-participation-improves-in-september-female-lfpr-reaches-highest-level-since-october-2025/) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.by-the-numbers.food-inflation` · summary · verified
+
+> Food prices: Food inflation by the Consumer Food Price Index was 7.74 percent in September 2026, up from 5.97 percent in August.
+
+- **Note:** Sources agree.
+- **Source:** [MoSPI National Statistics Office: Press release of CPI (base 2024=100) for September 2026 (12 October 2026)](https://www.mospi.gov.in/uploads/latestreleasesfiles/1791801549227-Press%20Release%20for%20the%20month%20of%20September,%202026.pdf) (primary, 2026-10-18)
+- **Source:** [Finnovate: India CPI inflation, September 2026](https://www.finnovate.in/learn/blog/india-cpi-inflation-september-2026) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.by-the-numbers.repo-rate` · summary · verified
+
+> The policy rate: The Reserve Bank raised its repo rate by 0.25 percentage points to 5.50 percent on 7 October 2026, its first rise since February 2023.
+
+- **Note:** Sources agree.
+- **Source:** [Reserve Bank of India: Monetary Policy Statement 2026-27, resolution of the MPC, 5 to 7 October 2026](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742) (primary, 2026-10-18)
+- **Source:** [GKToday: RBI hikes repo rate by 25 basis points to 5.50% (October 2026)](https://www.gktoday.in/rbi-hikes-repo-rate-by-25-basis-points-to-5-50/) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.by-the-numbers.retail-inflation` · summary · verified
+
+> Retail inflation: Retail prices were 5.54 percent higher in September 2026 than a year earlier (provisional), with rural prices up 6.08 percent and urban up 4.88 percent.
+
+- **Note:** Sources agree.
+- **Source:** [MoSPI National Statistics Office: Press release of CPI (base 2024=100) for September 2026 (12 October 2026)](https://www.mospi.gov.in/uploads/latestreleasesfiles/1791801549227-Press%20Release%20for%20the%20month%20of%20September,%202026.pdf) (primary, 2026-10-18)
+- **Source:** [Finnovate: India CPI inflation, September 2026](https://www.finnovate.in/learn/blog/india-cpi-inflation-september-2026) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.by-the-numbers.upi-month` · summary · verified
+
+> A month of UPI: UPI handled 24.07 billion transactions worth Rs 29.37 lakh crore in September 2026, about 23 percent more by number than a year earlier.
+
+- **Note:** Sources agree.
+- **Source:** [Outlook Money: UPI processes 24.07 billion transactions in September (2 October 2026, citing NPCI)](https://www.outlookmoney.com/banking/upi-processes-2407-billion-transactions-worth-rs-2937-lakh-crore-in-september) (secondary, 2026-10-18)
+- **Source:** [StartupTalky: UPI daily transactions cross 800 million, September 2026 (2 October 2026, citing NPCI)](https://startuptalky.com/india-upi-transactions-september-2026/) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.by-the-numbers.wireless-connections` · summary · verified
+
+> Phone connections: India had 1,312.25 million wireless (mobile and fixed wireless) subscribers at the end of August 2026.
+
+- **Note:** Sources agree.
+- **Source:** [TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)](https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf) (primary, 2026-10-18)
+- **Source:** [TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)](https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.getting-around.vande-bharat-sleeper` · summary · verified
+
+> A sleeper train to Guwahati: India's first Vande Bharat Sleeper train began running between Howrah and Guwahati (Kamakhya) on 17 January 2026; it has 16 coaches, carries about 823 passengers and is designed for 180 km/h.
+
+- **Note:** Both pages give the date and route; the coach count and speed are from the first.
+- **Source:** [Indian Infrastructure: India's first Vande Bharat Sleeper train launched on Howrah-Guwahati route (19 January 2026)](https://indianinfrastructure.com/2026/01/19/indias-first-vande-bharat-sleeper-train-launched-on-howrah-guwahati-route-in-west-bengal-and-assam/) (secondary, 2026-10-18)
+- **Source:** [Global Mass Transit: First Vande Bharat Sleeper train launched between Howrah and Guwahati (17 January 2026)](https://globalmasstransit.net/first-vande-bharat-sleeper-train-launched-between-howrah-and-guwahati-india/) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.health-and-medicine.nipah-bengal` · summary · verified
+
+> Nipah in West Bengal: India told the WHO of two confirmed Nipah virus cases, both nurses at a private hospital near Kolkata; more than 190 contacts tested negative and the WHO judged the risk low nationally.
+
+- **Note:** Sources agree.
+- **Source:** [WHO Disease Outbreak News: Nipah virus infection, India (30 January 2026)](https://who.int/emergencies/disease-outbreak-news/item/2026-DON593) (primary, 2026-10-18)
+
+#### `in.2026.everyday.keeping-in-touch.broadband-base` · summary · verified
+
+> Online: India had 1,101.21 million broadband connections at the end of August 2026, 1,052.58 million of them wireless.
+
+- **Note:** The two sources agree on the wireless figure; the total is from TRAI.
+- **Source:** [TRAI Press Release No. 125/2026: Telecom subscription data at the end of August 2026 (28 September 2026)](https://trai.gov.in/sites/default/files/2026-09/PR_No125of2026.pdf) (primary, 2026-10-18)
+- **Source:** [TelecomTalk: India's wireless subscriber base, August 2026 (TRAI data)](https://telecomtalk.info/india-wireless-telecom-subscriber-base-130billion-august2026/1012285/) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.spotlight.blinkit-tagline` · summary · verified
+
+> The tagline changes: Blinkit replaced '10,000+ products delivered in 10 minutes' with '30,000+ products delivered at your doorstep'; Eternal said the change would not materially affect its business.
+
+- **Note:** Sources agree.
+- **Source:** [Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)](https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm) (secondary, 2026-10-18)
+- **Source:** [The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)](https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html) (secondary, 2026-10-18)
+
+#### `in.2026.everyday.spotlight.ministry-asks` · summary · verified
+
+> The Labour Ministry steps in: In mid-January 2026 the Labour Ministry asked quick-commerce platforms to stop advertising 10-minute delivery guarantees, after a meeting about road safety, work pressure and gig workers' conditions.
+
+- **Note:** Both reports date the change to 13 January; the Week attributes the push to unnamed sources.
+- **Source:** [Storyboard18: Qcomm branding reset, Blinkit, Instamart, Zepto and the retreat from 10-minute delivery (14 January 2026)](https://www.storyboard18.com/how-it-works/qcomm-branding-reset-blinkit-instamart-zepto-and-the-retreat-from-10-minute-delivery-87569.htm) (secondary, 2026-10-18)
+- **Source:** [The Week: Blinkit stops '10 minute' delivery claim; Zepto follows suit (13 January 2026)](https://www.theweek.in/news/biz-tech/2026/01/13/gig-worker-labour-rights-blinkit-stops-10-minute-delivery-claim-zepto-follows-suit.amp.html) (secondary, 2026-10-18)
+
 ## World (original, US-centred)
 
 | Era | Claims | Verified | Corrected | Unverifiable | Removed |
@@ -9152,8 +10218,9 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 | 2005 | 40 | 34 | 6 | 0 | 0 |
 | 2010 | 37 | 28 | 9 | 0 | 0 |
 | 2020 | 41 | 35 | 6 | 0 | 0 |
+| 2026 | 28 | 27 | 0 | 1 | 0 |
 | 2050 | 53 | 0 | 0 | 53 | 0 |
-| **Total** | **525** | **358** | **114** | **53** | **0** |
+| **Total** | **553** | **385** | **114** | **54** | **0** |
 
 ### world · 1900
 
@@ -12915,6 +13982,220 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Quote and date as listed in the article's table of predictions.
 - **Source:** [Wikipedia: List of predictions for autonomous Tesla vehicles by Elon Musk](https://en.wikipedia.org/wiki/List_of_predictions_for_autonomous_Tesla_vehicles_by_Elon_Musk) (reference, 2026-10-12)
 
+### world · 2026
+
+#### `world.2026.technology.starlink-mobile` · description · unverifiable
+
+> Phone-to-satellite service: SpaceX renamed its direct-to-phone satellite service Starlink Mobile in March 2026; ordinary LTE phones connect directly to satellites for texting where cell coverage is missing.
+
+- **Note:** One source (Wikipedia, which cites SpaceX); shown as unverified.
+- **Source:** [Wikipedia: Starlink](https://en.wikipedia.org/wiki/Starlink) (reference, 2026-10-18)
+
+#### `world.2026.era.persona` · persona · verified
+
+> a hybrid-working household in a mid-sized Midwestern city
+
+- **Note:** A framing choice, not a real household. Telework is a minority pattern (22.6% in March 2026), so 'hybrid' describes one common arrangement.
+- **Source:** [BLS TED: 22.6 percent of workers teleworked in March 2026](https://www.bls.gov/opub/ted/2026/22-6-percent-of-workers-teleworked-in-march-2026.htm) (primary, 2026-10-18)
+
+#### `world.2026.era.tagline` · tagline · verified
+
+> Chatbots in half of pockets, driverless taxis in a dozen cities and a crew around the Moon: the year to 18 October.
+
+- **Note:** Half of adults use chatbots (Pew, 49%); Waymo full service in at least 12 metro areas by 14 October; Artemis II flew around the Moon in April.
+- **Source:** [Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)](https://www.pewresearch.org/?p=303574) (primary, 2026-10-18)
+- **Source:** [Wikipedia: Waymo](https://en.wikipedia.org/wiki/Waymo) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Artemis II](https://en.wikipedia.org/wiki/Artemis_II) (reference, 2026-10-18)
+
+#### `world.2026.era.title` · title · verified
+
+> 2026 so far
+
+- **Note:** A framing label; the year-to-date events were checked.
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2026.headlines.2026-04-10-artemis-ii-splashdown` · headline · verified
+
+> 2026-04-10 News coverage in the United States: Artemis II crew splashes down after flying around the Moon [paraphrase]
+
+- **Note:** NASA gives April 10 for splashdown; Wikipedia gives 11 April 00:07 UTC, the same moment.
+- **Source:** [NASA: Artemis II](https://www.nasa.gov/mission/artemis-ii/) (primary, 2026-10-18)
+- **Source:** [Wikipedia: Artemis II](https://en.wikipedia.org/wiki/Artemis_II) (reference, 2026-10-18)
+
+#### `world.2026.headlines.2026-07-04-semiquincentennial` · headline · verified
+
+> 2026-07-04 News coverage in the United States: The United States marks 250 years since the Declaration of Independence [paraphrase]
+
+- **Note:** Heat and storms disrupted some events.
+- **Source:** [Wikipedia: United States Semiquincentennial](https://en.wikipedia.org/wiki/United_States_Semiquincentennial) (reference, 2026-10-18)
+
+#### `world.2026.headlines.2026-07-19-world-cup-final` · headline · verified
+
+> 2026-07-19 News coverage in the United States: Spain beats Argentina 1-0 after extra time in the World Cup final [paraphrase]
+
+- **Note:** Ferran Torres scored in the 106th minute at MetLife Stadium.
+- **Source:** [Wikipedia: 2026 FIFA World Cup final](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2026.morning.ask-the-chatbot` · detail · verified
+
+> Ask the chatbot: About half of U.S. adults (49 percent) said in February 2026 that they use AI chatbots, up from about a third in 2024; the questions were not asked in quite the same way.
+
+- **Note:** Sources agree.
+- **Source:** [Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)](https://www.pewresearch.org/?p=303574) (primary, 2026-10-18)
+
+#### `world.2026.morning.eggs-breakfast` · detail · verified
+
+> Eggs for breakfast: Eggs cost about $2.27 a dozen in September 2026, well below the $3.49 of a year earlier.
+
+- **Note:** Sources agree.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Eggs, Grade A, Large, per dozen (APU0000708111)](https://fred.stlouisfed.org/series/APU0000708111) (primary, 2026-10-18)
+
+#### `world.2026.morning.fill-up` · detail · verified
+
+> Fill up on the way: Regular gasoline averaged about $4.48 a gallon in September 2026, up from $4.20 in August.
+
+- **Note:** Sources agree.
+- **Source:** [BLS via FRED: Gasoline, Unleaded Regular, per gallon (APU000074714)](https://fred.stlouisfed.org/series/APU000074714) (primary, 2026-10-18)
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+
+#### `world.2026.morning.telework-rate` · detail · verified
+
+> Home day or office day: About 22.6 percent of U.S. workers teleworked or worked at home for pay in March 2026, so many households still plan the morning around who is going in.
+
+- **Note:** Sources agree.
+- **Source:** [BLS TED: 22.6 percent of workers teleworked in March 2026](https://www.bls.gov/opub/ted/2026/22-6-percent-of-workers-teleworked-in-march-2026.htm) (primary, 2026-10-18)
+
+#### `world.2026.places.bedroom` · description · verified
+
+> The bedside: The phone is where the day begins, and more and more of what people do on it is a conversation with a chatbot. Highlights: About half of U.S. adults use AI chatbots (Pew, February 2026); Up from about a third in 2024
+
+- **Note:** Sources agree.
+- **Source:** [Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)](https://www.pewresearch.org/?p=303574) (primary, 2026-10-18)
+
+#### `world.2026.places.newspaper` · description · verified
+
+> The front page: A year of spaceflight, a home World Cup and the nation's 250th birthday. Highlights: Artemis II flies four astronauts around the Moon (1 to 10 April); Spain beats Argentina 1-0 in the World Cup final (19 July); The country marks 250 years since the Declaration of Independence (4 July); Midterm elections are scheduled for 3 November
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+- **Source:** [NASA: Artemis II](https://www.nasa.gov/mission/artemis-ii/) (primary, 2026-10-18)
+- **Source:** [Wikipedia: 2026 FIFA World Cup final](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final) (reference, 2026-10-18)
+- **Source:** [Wikipedia: United States Semiquincentennial](https://en.wikipedia.org/wiki/United_States_Semiquincentennial) (reference, 2026-10-18)
+
+#### `world.2026.places.street` · description · verified
+
+> The street: In a growing list of cities a car with no driver pulls up to the kerb. Highlights: Waymo carried about 500,000 paid rides a week by June 2026; Full service began in Miami (15 April), Nashville (25 June), Dallas (4 August) and Houston (20 August)
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Waymo](https://en.wikipedia.org/wiki/Waymo) (reference, 2026-10-18)
+
+#### `world.2026.prices.bread` · price · verified
+
+> Loaf of white bread (1 lb): $1.83 (Sept 2026, $1.830)
+
+- **Note:** U.S. city average, not seasonally adjusted. The BLS table and the FRED series carry the same figure.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Bread, White, Pan, per pound (APU0000702111)](https://fred.stlouisfed.org/series/APU0000702111) (primary, 2026-10-18)
+
+#### `world.2026.prices.eggs` · price · verified
+
+> Dozen eggs (grade A, large): $2.27 (Sept 2026, $2.272; a year earlier $3.488)
+
+- **Note:** U.S. city average, not seasonally adjusted. The BLS table and the FRED series carry the same figure.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Eggs, Grade A, Large, per dozen (APU0000708111)](https://fred.stlouisfed.org/series/APU0000708111) (primary, 2026-10-18)
+
+#### `world.2026.prices.electricity` · price · verified
+
+> Electricity (1 kWh): $0.196 (Sept 2026, $0.196)
+
+- **Note:** U.S. city average, not seasonally adjusted. The BLS table and the FRED series carry the same figure.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Electricity per kilowatt-hour (APU000072610)](https://fred.stlouisfed.org/series/APU000072610) (primary, 2026-10-18)
+
+#### `world.2026.prices.gasoline` · price · verified
+
+> Gallon of regular gasoline: $4.48 (Sept 2026, $4.482 (BLS regular); the BLS all-types average was $4.631 and the EIA regular all-formulations average $4.355)
+
+- **Note:** U.S. city average, not seasonally adjusted. Series differ in what they count (BLS regular vs all types vs EIA all formulations), so the figures are close but not equal.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Gasoline, Unleaded Regular, per gallon (APU000074714)](https://fred.stlouisfed.org/series/APU000074714) (primary, 2026-10-18)
+- **Source:** [EIA: U.S. retail gasoline prices, monthly](https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_m.htm) (primary, 2026-10-18)
+
+#### `world.2026.prices.ground-beef` · price · verified
+
+> Ground beef, 100% beef (1 lb): $6.79 (Sept 2026, $6.792)
+
+- **Note:** U.S. city average, not seasonally adjusted. The BLS table and the FRED series carry the same figure.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Ground Beef, 100% Beef, per pound (APU0000703112)](https://fred.stlouisfed.org/series/APU0000703112) (primary, 2026-10-18)
+
+#### `world.2026.prices.milk` · price · verified
+
+> Gallon of whole milk: $4.11 (Sept 2026, $4.106)
+
+- **Note:** U.S. city average, not seasonally adjusted. The BLS table and the FRED series carry the same figure.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Milk, Fresh, Whole, Fortified, per gallon (APU0000709112)](https://fred.stlouisfed.org/series/APU0000709112) (primary, 2026-10-18)
+
+#### `world.2026.scene.caption` · caption · verified
+
+> A pair of smart glasses on a charging stand beside an open earbuds case.
+
+- **Note:** Camera-and-display smart glasses were on general retail sale in 2026 (Meta glasses at $299 per a June 2026 report, Meta Ray-Ban Display since September 2025).
+- **Source:** [Wikipedia: Smartglasses](https://en.wikipedia.org/wiki/Smartglasses) (reference, 2026-10-18)
+
+#### `world.2026.technology.ai-chatbots` · description · verified
+
+> AI chatbots: About half of U.S. adults (49 percent) used AI chatbots in Pew's February 2026 survey, up from about a third in 2024.
+
+- **Note:** Pew's published page gives the 49% figure; the daily-use figure appeared only in Pew's chart page seen through a search summary, so only 49% is stated here.
+- **Source:** [Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)](https://www.pewresearch.org/?p=303574) (primary, 2026-10-18)
+
+#### `world.2026.technology.electric-cars` · description · verified
+
+> Electric cars: About 262,000 electric vehicles were sold in the third quarter of 2026, roughly 6.4 percent of new-vehicle sales, up from 5.8 percent in the second quarter.
+
+- **Note:** Cox Automotive estimate with Kelley Blue Book data; the report notes a corrected figure.
+- **Source:** [Cox Automotive: Q3 2026 EV sales (12 October 2026)](https://www.coxautoinc.com/market-insights/q3-2026-ev-sales/) (primary, 2026-10-18)
+
+#### `world.2026.technology.robotaxis` · description · verified
+
+> Driverless taxis: Waymo reported about 500,000 paid rides a week and nearly 3,900 robotaxis in service by June 2026, with full service in cities from Phoenix to Houston.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Waymo](https://en.wikipedia.org/wiki/Waymo) (reference, 2026-10-18)
+
+#### `world.2026.technology.smart-glasses` · description · verified
+
+> Smart glasses: Glasses with cameras, microphones and small displays went on general sale: Meta Ray-Ban Display in September 2025 and Meta's own glasses at $299 in June 2026, with Google's eyewear promised for the fall.
+
+- **Note:** The page cites a June 2026 WIRED report for the $299 price.
+- **Source:** [Wikipedia: Smartglasses](https://en.wikipedia.org/wiki/Smartglasses) (reference, 2026-10-18)
+
+#### `world.2026.visions.altman-insights` · prediction · verified
+
+> Sam Altman, blog post 'The Gentle Singularity' (undated on the page): 2026 will likely see the arrival of systems that can figure out novel insights.
+
+- **Note:** Quoted from the page; the person's own words, not a forecast made by this site.
+- **Source:** [Sam Altman: The Gentle Singularity (blog post)](https://blog.samaltman.com/the-gentle-singularity) (primary, 2026-10-18)
+
+#### `world.2026.visions.altman-robots` · prediction · verified
+
+> Sam Altman, blog post 'The Gentle Singularity' (undated on the page): 2027 may see the arrival of robots that can do tasks in the real world.
+
+- **Note:** Quoted from the page; the person's own words, not a forecast made by this site.
+- **Source:** [Sam Altman: The Gentle Singularity (blog post)](https://blog.samaltman.com/the-gentle-singularity) (primary, 2026-10-18)
+
+#### `world.2026.visions.amodei-2026` · prediction · verified
+
+> Dario Amodei, essay 'Machines of Loving Grace', October 2024: Powerful AI, smarter than a Nobel Prize winner across most relevant fields, could come as early as 2026, though it could take much longer.
+
+- **Note:** Quoted from the page; the person's own words, not a forecast made by this site.
+- **Source:** [Dario Amodei: Machines of Loving Grace (October 2024)](https://www.darioamodei.com/essay/machines-of-loving-grace) (primary, 2026-10-18)
+
 ### world · 2050
 
 #### `world.2050.era.persona` · persona · unverifiable
@@ -13129,19 +14410,19 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 
 #### `world.2050.prices.lightweight-ar-glasses` · price · unverifiable
 
-> Lightweight AR glasses: about $300, like a phone today
+> Lightweight AR glasses: about $300, the price of Meta's own glasses in 2026
 
 - **Note:** Speculative by design: an imagined scenario for 2050, not a historical claim. Shown with the SPECULATIVE badge; it carries no source and no 'unverified' marker.
 
 #### `world.2050.prices.loaf-bread-todays-money` · adjusted2026 · unverifiable
 
-> Loaf of bread (in today's money)
+> Loaf of bread (in 2026 dollars)
 
 - **Note:** Speculative by design: an imagined scenario for 2050, not a historical claim. Shown with the SPECULATIVE badge; it carries no source and no 'unverified' marker.
 
 #### `world.2050.prices.loaf-bread-todays-money` · price · unverifiable
 
-> Loaf of bread (in today's money): about $3, if crop yields keep pace with heat
+> Loaf of bread (in 2026 dollars): about $3, if crop yields keep pace with heat (a 2026 loaf cost $1.83 a pound)
 
 - **Note:** Speculative by design: an imagined scenario for 2050, not a historical claim. Shown with the SPECULATIVE badge; it carries no source and no 'unverified' marker.
 
@@ -13251,7 +14532,8 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 | 2005 | 22 | 17 | 0 | 5 | 0 |
 | 2010 | 27 | 22 | 0 | 5 | 0 |
 | 2020 | 33 | 26 | 0 | 7 | 0 |
-| **Total** | **337** | **249** | **0** | **88** | **0** |
+| 2026 | 48 | 10 | 0 | 38 | 0 |
+| **Total** | **385** | **259** | **0** | **126** | **0** |
 
 ### world/everyday · 1900
 
@@ -15707,3 +16989,359 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 
 - **Note:** Sources agree.
 - **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+### world/everyday · 2026
+
+#### `world.2026.everyday.by-the-numbers.consumer-prices` · summary · unverifiable
+
+> Consumer prices: Prices were 3.7 percent higher in September 2026 than a year earlier; without food and energy the rise was 2.6 percent, and energy alone was up 20.4 percent.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [BLS: Consumer Price Index, September 2026 (14 October 2026)](https://www.bls.gov/news.release/cpi.nr0.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.by-the-numbers.median-weekly-earnings` · summary · unverifiable
+
+> A typical weekly pay packet: Full-time wage and salary workers had median usual weekly earnings of $1,251 in the second quarter of 2026, 4.6 percent more than a year before.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [BLS: Usual weekly earnings of wage and salary workers, second quarter 2026 (21 July 2026)](https://www.bls.gov/news.release/wkyeng.nr0.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.by-the-numbers.payroll-jobs` · summary · unverifiable
+
+> Hiring slowed: Employers added 29,000 jobs in September 2026 and the workweek averaged 34.4 hours.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [BLS: The Employment Situation, September 2026 (2 October 2026)](https://www.bls.gov/news.release/empsit.nr0.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.clothing-and-style.apparel-prices` · summary · unverifiable
+
+> Clothes cost more: Clothing prices were 3.4 percent higher in September 2026 than a year earlier.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [BLS: Consumer Price Index, September 2026 (14 October 2026)](https://www.bls.gov/news.release/cpi.nr0.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.clothing-and-style.back-to-school-clothes` · summary · unverifiable
+
+> Back-to-school shopping: The National Retail Federation estimated that families with school-age children would spend about $864 each on back-to-school items in 2026, including about $174 on shoes.
+
+- **Note:** Figures came from a search summary of a secondary article; neither it nor the NRF page was opened.
+- **Source:** [Finder, citing NRF: Back-to-school spending (as reported in search results)](https://www.shopback.com/blog/finance/back-to-school-2026-us-parents-monthly-budget-3-kids) (secondary, 2026-10-18)
+
+#### `world.2026.everyday.clothing-and-style.resale-forecast` · summary · unverifiable
+
+> Secondhand by 2030: ThredUp (with GlobalData) forecast that U.S. secondhand clothing sales would reach about $78.8 billion by 2030, growing about 7.3 percent a year.
+
+- **Note:** The published date is that of the news report; the report itself was released about a day earlier.
+- **Source:** [Retail Dive: US resale market to surpass $78B by 2030 (3 April 2026, on ThredUp's 2026 Resale Report)](https://retaildive.com/news/us-resale-market-surpass-78-billion-in-2030-secondhand/816470/) (secondary, 2026-10-18)
+
+#### `world.2026.everyday.clothing-and-style.secondhand-growth` · summary · unverifiable
+
+> Secondhand takes off: ThredUp's 2026 Resale Report said the U.S. secondhand clothing market grew nearly four times faster than the broader clothing market in 2025.
+
+- **Note:** One news report of the ThredUp report; ThredUp's own page could not be opened.
+- **Source:** [Retail Dive: US resale market to surpass $78B by 2030 (3 April 2026, on ThredUp's 2026 Resale Report)](https://retaildive.com/news/us-resale-market-surpass-78-billion-in-2030-secondhand/816470/) (secondary, 2026-10-18)
+
+#### `world.2026.everyday.food-and-kitchen.in-or-out` · summary · unverifiable
+
+> Eating in versus eating out: Food bought for the home cost 1.8 percent more than a year earlier in September 2026, while restaurant and takeaway food cost 3.5 percent more.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [BLS: Consumer Price Index, September 2026 (14 October 2026)](https://www.bls.gov/news.release/cpi.nr0.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.getting-around.gasoline-jump` · summary · unverifiable
+
+> Pump prices jump: Gasoline prices were 34.2 percent higher in September 2026 than a year earlier, and energy as a whole was up 20.4 percent.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [BLS: Consumer Price Index, September 2026 (14 October 2026)](https://www.bls.gov/news.release/cpi.nr0.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.getting-around.lirr-strike` · summary · unverifiable
+
+> Commuter rail strike: Long Island Rail Road workers went on strike on 16 May 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2026.everyday.getting-around.spirit-ceases` · summary · unverifiable
+
+> An airline stops flying: Spirit Airlines announced on 2 May 2026 that it had ceased operations.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2026.everyday.getting-around.tsa-peak` · summary · unverifiable
+
+> A busy day at the airport: TSA screened 2,988,204 people on 18 June 2026, the highest single day in its 2026 table.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [TSA: TSA checkpoint travel numbers (2026)](https://www.tsa.gov/travel/passenger-volumes) (primary, 2026-10-18)
+
+#### `world.2026.everyday.getting-around.waymo-airports` · summary · unverifiable
+
+> Driverless rides to the airport: Waymo opened San Francisco International Airport to a waitlist on 29 January 2026 and Nashville International on 13 October.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: Waymo](https://en.wikipedia.org/wiki/Waymo) (reference, 2026-10-18)
+
+#### `world.2026.everyday.health-and-medicine.glp1-use` · summary · unverifiable
+
+> Weight-loss drugs: Gallup found that 11 percent of U.S. adults were taking a GLP-1 drug for weight loss in 2026, up from 3 percent in 2024.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Gallup: In U.S., GLP-1 usage reaches new high (7 July 2026, updated 8 September 2026)](https://news.gallup.com/poll/712157/glp-usage-reaches-new-high.aspx) (primary, 2026-10-18)
+
+#### `world.2026.everyday.health-and-medicine.measles` · summary · unverifiable
+
+> Measles returns: The CDC counted 4,410 confirmed measles cases in 2026 by 15 October, against 2,289 in all of 2025; about 96 percent were linked to outbreaks.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [CDC: Measles cases and outbreaks (as of 15 October 2026)](https://www.cdc.gov/measles/data-research/index.html) (primary, 2026-10-18)
+
+#### `world.2026.everyday.health-and-medicine.obesity-falls` · summary · unverifiable
+
+> Obesity rate: Gallup's self-reported obesity rate fell to 36.8 percent in 2026 from a peak of 39.9 percent in 2022.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Gallup: In U.S., GLP-1 usage reaches new high (7 July 2026, updated 8 September 2026)](https://news.gallup.com/poll/712157/glp-usage-reaches-new-high.aspx) (primary, 2026-10-18)
+
+#### `world.2026.everyday.health-and-medicine.who-exit` · summary · unverifiable
+
+> Leaving the WHO: The United States left the World Health Organization on 22 January 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2026.everyday.keeping-in-touch.fraud-losses` · summary · unverifiable
+
+> Scams cost billions: The FTC told Congress that consumers reported $15.9 billion in fraud losses in 2025 from about 3 million reports; investment scams cost the most, $7.9 billion.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [FTC: FTC testifies before the Joint Economic Committee on its efforts to combat fraud (25 March 2026)](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-testifies-joint-economic-committee-agencys-efforts-combat-fraud) (primary, 2026-10-18)
+
+#### `world.2026.everyday.keeping-in-touch.starlink-customers` · summary · unverifiable
+
+> Dish in the sky: Starlink reported more than 12 million customers by June 2026, up from about 10.3 million in March.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: Starlink](https://en.wikipedia.org/wiki/Starlink) (reference, 2026-10-18)
+
+#### `world.2026.everyday.keeping-in-touch.verizon-outage` · summary · unverifiable
+
+> A network outage: A Verizon outage on 14 January 2026 affected at least 175,000 people.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2026.everyday.leisure-and-fun.box-office` · summary · unverifiable
+
+> A record opening: Spider-Man: Brand New Day had a record U.S. and Canada opening weekend of $360 million and had earned about $2.5 billion worldwide by mid-October.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in film](https://en.wikipedia.org/wiki/2026_in_film) (reference, 2026-10-18)
+
+#### `world.2026.everyday.leisure-and-fun.grammys` · summary · unverifiable
+
+> Grammys: Bad Bunny's Debi Tirar Mas Fotos won Album of the Year at the 68th Grammy Awards.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in music](https://en.wikipedia.org/wiki/2026_in_music) (reference, 2026-10-18)
+
+#### `world.2026.everyday.leisure-and-fun.super-bowl-lx` · summary · unverifiable
+
+> Super Bowl LX: The Seattle Seahawks beat the New England Patriots in Super Bowl LX on 8 February 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2026.everyday.leisure-and-fun.winter-games` · summary · unverifiable
+
+> Winter games in Italy: The Milan Cortina Winter Olympics ran from 6 to 22 February; Norway topped the medals with 18 golds and the United States won 12.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 Winter Olympics](https://en.wikipedia.org/wiki/2026_Winter_Olympics) (reference, 2026-10-18)
+
+#### `world.2026.everyday.leisure-and-fun.world-cup-crowds` · summary · unverifiable
+
+> The World Cup at home: The 48-team World Cup drew 6,810,966 spectators to 104 matches, an average of 65,490, with 11 of the 16 host cities in the United States.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Wikipedia: 2026 FIFA World Cup](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup) (reference, 2026-10-18)
+
+#### `world.2026.everyday.school-and-childhood.back-to-school-bill` · summary · unverifiable
+
+> The back-to-school bill: The NRF estimated families with school-age children would spend about $864 each in 2026, a record total of about $43 billion.
+
+- **Note:** Figures came from a search summary; neither the article nor the NRF page was opened.
+- **Source:** [Finder, citing NRF: Back-to-school spending (as reported in search results)](https://www.shopback.com/blog/finance/back-to-school-2026-us-parents-monthly-budget-3-kids) (secondary, 2026-10-18)
+
+#### `world.2026.everyday.school-and-childhood.enrollment` · summary · unverifiable
+
+> How many pupils: U.S. public schools enrolled about 48.8 million students in fall 2024, 0.3 percent fewer than in fall 2023; a fall 2025 national count was not yet available.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Florida Education Association: 2026 Rankings and Estimates Report (April 2026)](https://feaweb.org/wp-content/uploads/2026/04/2026_Rankings_and_Estimates_Report.pdf) (secondary, 2026-10-18)
+
+#### `world.2026.everyday.school-and-childhood.phones-away` · summary · unverifiable
+
+> Phones away: Several states restrict phones in class; in Oregon, where districts had to enforce a ban by 2026, 99 percent had done so by February 2026.
+
+- **Note:** Wikipedia's account; its own text flags some of it as unverified.
+- **Source:** [Wikipedia: Mobile phone use in schools](https://en.wikipedia.org/wiki/Mobile_phone_use_in_schools) (reference, 2026-10-18)
+
+#### `world.2026.everyday.school-and-childhood.teens-cheating` · summary · unverifiable
+
+> Is it cheating?: About 59 percent of teens said AI cheating happens at least somewhat often at their school.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Pew Research Center: How teens use and view AI (24 February 2026)](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/) (primary, 2026-10-18)
+
+#### `world.2026.everyday.school-and-childhood.teens-schoolwork` · summary · unverifiable
+
+> Chatbots for schoolwork: Pew found that 54 percent of U.S. teens had used a chatbot for help with schoolwork, and 10 percent did all or most of their schoolwork with its help.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Pew Research Center: How teens use and view AI (24 February 2026)](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/) (primary, 2026-10-18)
+
+#### `world.2026.everyday.spotlight.chatbot-uses` · summary · unverifiable
+
+> What teens ask: Among teens, 57 percent had used chatbots to search for information, 47 percent for fun, 16 percent for casual conversation and 12 percent for emotional support or advice.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Pew Research Center: How teens use and view AI (24 February 2026)](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/) (primary, 2026-10-18)
+
+#### `world.2026.everyday.spotlight.half-of-adults` · summary · unverifiable
+
+> Half of adults: About half of U.S. adults, 49 percent, said in February 2026 that they use AI chatbots, up from about a third in 2024.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)](https://www.pewresearch.org/?p=303574) (primary, 2026-10-18)
+
+#### `world.2026.everyday.spotlight.parents-teens-gap` · summary · unverifiable
+
+> What parents know: About half of parents said their teen uses chatbots, while 64 percent of teens said they do.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [Pew Research Center: How teens use and view AI (24 February 2026)](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/) (primary, 2026-10-18)
+
+#### `world.2026.everyday.spotlight.state-sues-openai` · summary · unverifiable
+
+> A state goes to court: Florida's attorney general sued OpenAI over ChatGPT on 1 June 2026, the first such suit by a state.
+
+- **Note:** Wikipedia's list of events; the suit's outcome is not stated.
+- **Source:** [Wikipedia: 2026 in the United States](https://en.wikipedia.org/wiki/2026_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2026.everyday.spotlight.teens-daily` · summary · unverifiable
+
+> Teens and daily use: Pew reported that about three in ten teens use chatbots daily.
+
+- **Note:** Pew's page cites an earlier Pew report for this figure.
+- **Source:** [Pew Research Center: How teens use and view AI (24 February 2026)](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/) (primary, 2026-10-18)
+
+#### `world.2026.everyday.work-and-wages.media-tech-layoffs` · summary · unverifiable
+
+> Layoffs in tech and media: Epic Games announced more than 1,000 layoffs on 24 March, Microsoft said on 6 July it would cut 1,600 Xbox jobs now and 1,600 more over the next year, and Netflix said in October it would cut about 1,000 jobs.
+
+- **Note:** Wikipedia summaries of company announcements.
+- **Source:** [Wikipedia: 2026 in video games](https://en.wikipedia.org/wiki/2026_in_video_games) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Netflix](https://en.wikipedia.org/wiki/Netflix) (reference, 2026-10-18)
+
+#### `world.2026.everyday.work-and-wages.pay-gap` · summary · unverifiable
+
+> Women's and men's pay: Women's median weekly earnings were $1,131 and men's $1,380 in the second quarter of 2026, so women earned 82.0 percent of what men did.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [BLS: Usual weekly earnings of wage and salary workers, second quarter 2026 (21 July 2026)](https://www.bls.gov/news.release/wkyeng.nr0.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.work-and-wages.typical-pay` · summary · unverifiable
+
+> Median full-time pay: Median usual weekly earnings of full-time workers were $1,251 in the second quarter of 2026.
+
+- **Note:** Only one source was opened; shown as unverified.
+- **Source:** [BLS: Usual weekly earnings of wage and salary workers, second quarter 2026 (21 July 2026)](https://www.bls.gov/news.release/wkyeng.nr0.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.by-the-numbers.hourly-earnings` · summary · verified
+
+> Average hourly earnings: Private-sector employees earned an average of $37.81 an hour in September 2026, up 3.0 percent over 12 months.
+
+- **Note:** Sources agree.
+- **Source:** [BLS: The Employment Situation, September 2026 (2 October 2026)](https://www.bls.gov/news.release/empsit.nr0.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Average hourly earnings of all employees, total private (CES0500000003)](https://fred.stlouisfed.org/series/CES0500000003) (primary, 2026-10-18)
+
+#### `world.2026.everyday.by-the-numbers.mortgage-rate` · summary · verified
+
+> Mortgage rate: The 30-year fixed mortgage rate averaged 7.40 percent in the week to 15 October 2026, against 6.27 percent a year earlier.
+
+- **Note:** Sources agree.
+- **Source:** [FRED: 30-year fixed rate mortgage average in the United States (Freddie Mac)](https://fred.stlouisfed.org/series/MORTGAGE30US) (primary, 2026-10-18)
+- **Source:** [Freddie Mac: Primary Mortgage Market Survey (week of 15 October 2026)](https://www.freddiemac.com/pmms) (primary, 2026-10-18)
+
+#### `world.2026.everyday.by-the-numbers.unemployment-rate` · summary · verified
+
+> Unemployment rate: The unemployment rate was 4.2 percent in September 2026.
+
+- **Note:** Sources agree.
+- **Source:** [BLS: The Employment Situation, September 2026 (2 October 2026)](https://www.bls.gov/news.release/empsit.nr0.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Unemployment rate (UNRATE)](https://fred.stlouisfed.org/series/UNRATE) (primary, 2026-10-18)
+
+#### `world.2026.everyday.food-and-kitchen.bananas` · summary · verified
+
+> Bananas: Bananas averaged 66 cents a pound in September 2026.
+
+- **Note:** Sources agree.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Bananas, per pound (APU0000711211)](https://fred.stlouisfed.org/series/APU0000711211) (primary, 2026-10-18)
+
+#### `world.2026.everyday.food-and-kitchen.eggs-cheaper` · summary · verified
+
+> Eggs a third cheaper: A dozen eggs cost $2.27 in September 2026, against $3.49 a year earlier.
+
+- **Note:** The BLS table gives both months; FRED shows the 2026 value.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Eggs, Grade A, Large, per dozen (APU0000708111)](https://fred.stlouisfed.org/series/APU0000708111) (primary, 2026-10-18)
+
+#### `world.2026.everyday.food-and-kitchen.kitchen-gas` · summary · verified
+
+> Gas for the stove: Piped natural gas cost $1.70 a therm in September 2026.
+
+- **Note:** Sources agree.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Utility (piped) gas per therm (APU000072620)](https://fred.stlouisfed.org/series/APU000072620) (primary, 2026-10-18)
+
+#### `world.2026.everyday.food-and-kitchen.whole-chicken` · summary · verified
+
+> A whole chicken: A fresh whole chicken averaged $2.06 a pound in September 2026.
+
+- **Note:** Sources agree.
+- **Source:** [BLS: Average retail food and energy prices, U.S. city average (September 2026)](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Chicken, Fresh, Whole, per pound (APU0000706111)](https://fred.stlouisfed.org/series/APU0000706111) (primary, 2026-10-18)
+
+#### `world.2026.everyday.keeping-in-touch.iphone-duo` · summary · verified
+
+> A folding iPhone: Apple said its first folding iPhone, the iPhone Duo, goes on sale on 23 October 2026 from $1,999, with pre-orders from 16 October.
+
+- **Note:** Official Apple announcement of 9 September 2026. Scheduled: it goes on sale after 18 October.
+- **Source:** [Apple Newsroom: Apple unveils iPhone Duo (9 September 2026)](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/) (primary, 2026-10-18)
+
+#### `world.2026.everyday.work-and-wages.finance-telework` · summary · verified
+
+> Who works from home: In June 2026, 52.5 percent of workers in financial activities teleworked, against 47.2 percent in information and 7.7 percent in leisure and hospitality.
+
+- **Note:** BLS release of 29 July 2026; one primary source.
+- **Source:** [BLS TED: 52.5 percent of workers in financial activities teleworked in June 2026 (29 July 2026)](https://www.bls.gov/opub/ted/2026/52-5-percent-of-workers-in-financial-activities-teleworked-in-june-2026.htm) (primary, 2026-10-18)
+
+#### `world.2026.everyday.work-and-wages.payrolls-september` · summary · verified
+
+> A slow September: Employers added 29,000 jobs in September 2026 and the unemployment rate stayed at 4.2 percent.
+
+- **Note:** Sources agree.
+- **Source:** [BLS: The Employment Situation, September 2026 (2 October 2026)](https://www.bls.gov/news.release/empsit.nr0.htm) (primary, 2026-10-18)
+- **Source:** [BLS via FRED: Unemployment rate (UNRATE)](https://fred.stlouisfed.org/series/UNRATE) (primary, 2026-10-18)
+
+## 2026: scheduled and forecast items
+
+These are sourced statements about the future by named institutions, not events and not speculation. They show a tag on the page and are left out of the quiz and On this day.
+
+- **Forecast** `world.2026.everyday.clothing-and-style.resale-forecast`: Secondhand by 2030, by ThredUp, with GlobalData (2026 Resale Report), published 2026-04-03
+- **Scheduled** `world.2026.everyday.keeping-in-touch.iphone-duo`: A folding iPhone (2026-10-23)
+- **Forecast** `in.2026.dd.economy-business.rbi-growth-forecast`: The RBI's growth forecast, by Reserve Bank of India, published 2026-10-07
+- **Forecast** `in.2026.dd.economy-business.rbi-inflation-forecast`: The RBI's inflation forecast, by Reserve Bank of India, published 2026-10-07

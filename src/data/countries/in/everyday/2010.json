@@ -222,7 +222,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 4 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "clothingAndStyle": {
       "title": "What people wore",
@@ -276,7 +277,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "workAndWages": {
       "title": "Work and wages",
@@ -330,7 +332,8 @@
           "regionTag": "west",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "schoolAndChildhood": {
       "title": "Growing up",
@@ -384,7 +387,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "gettingAround": {
       "title": "Getting around",
@@ -536,7 +540,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "leisureAndFun": {
       "title": "Evenings, weekends and festivals",
@@ -600,7 +605,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "spotlight": {
       "title": "Recharge culture and the first smartphones",

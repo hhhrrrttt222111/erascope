@@ -116,7 +116,8 @@
           }
         }
       ],
-      "layout": "stats"
+      "layout": "stats",
+      "scarcityNote": "Only 5 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "foodAndKitchen": {
       "title": "Food and the kitchen",
@@ -202,7 +203,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "workAndWages": {
       "title": "Work and wages",
@@ -264,7 +266,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "schoolAndChildhood": {
       "title": "Growing up",
@@ -318,7 +321,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "gettingAround": {
       "title": "Getting around",
@@ -384,7 +388,8 @@
             "note": "This item touches on war, famine, epidemic disease or disaster."
           }
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "keepingInTouch": {
       "title": "Keeping in touch",
@@ -450,7 +455,8 @@
             "note": "This item touches on war, famine, epidemic disease or disaster."
           }
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "healthAndMedicine": {
       "title": "Health and medicine",
@@ -512,7 +518,8 @@
             "note": "This item touches on war, famine, epidemic disease or disaster."
           }
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "leisureAndFun": {
       "title": "Evenings, weekends and festivals",
@@ -566,7 +573,8 @@
           "regionTag": "national",
           "todo": true
         }
-      ]
+      ],
+      "scarcityNote": "Only 3 sourced items could be found for this section; the rest were left out rather than guessed."
     },
     "spotlight": {
       "title": "Ration cards and wartime controls",

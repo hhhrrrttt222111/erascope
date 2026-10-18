@@ -29,6 +29,7 @@ const FALLBACKS: Record<ChromeId, { heading: string; body: string; accent: strin
   web2gloss: { heading: "'Trebuchet MS', 'Lucida Grande', sans-serif", body: "'Lucida Grande', Verdana, sans-serif", accent: "sans-serif" },
   flatweb: { heading: SANS, body: SANS, accent: "monospace" },
   videocall: { heading: "system-ui, -apple-system, 'Segoe UI', sans-serif", body: "system-ui, -apple-system, 'Segoe UI', sans-serif", accent: MONO },
+  bento: { heading: "Georgia, 'Times New Roman', serif", body: "system-ui, -apple-system, 'Segoe UI', sans-serif", accent: "ui-monospace, 'SF Mono', Menlo, monospace" },
   futureos: { heading: "'Segoe UI', system-ui, sans-serif", body: "system-ui, -apple-system, 'Segoe UI', sans-serif", accent: "monospace" },
 };
 
@@ -62,6 +63,7 @@ export const CHROME_RADIUS: Record<ChromeId, number> = {
   flatweb: 4,
   videocall: 12,
   futureos: 20,
+  bento: 24,
 };
 
 function chromeOverrides(era: Era, heading: string, body: string): ThemeOptions {
@@ -364,6 +366,21 @@ function chromeOverrides(era: Era, heading: string, body: string): ThemeOptions 
           MuiTab: { styleOverrides: { root: { textTransform: "none", fontWeight: 600 } } },
           MuiChip: { styleOverrides: { root: { borderRadius: 999, background: "#34343e", fontWeight: 600 } } },
           MuiTableCell: { styleOverrides: { root: { borderBottom: "1px solid #3a3a46" } } },
+        },
+      };
+
+    case "bento":
+      return {
+        components: {
+          MuiCard: { styleOverrides: { root: { background: paper, border: `1px solid ${alpha(text, 0.14)}`, borderRadius: 24, backgroundImage: "none", boxShadow: `0 1px 2px ${alpha(text, 0.06)}, 0 8px 24px ${alpha(text, 0.07)}` } } },
+          MuiButton: {
+            defaultProps: { disableElevation: true },
+            styleOverrides: { root: { borderRadius: 999, textTransform: "none", fontWeight: 600 }, contained: { background: primary, color: paper, "&:hover": { background: text } } },
+          },
+          MuiTabs: { styleOverrides: { indicator: { height: 3, borderRadius: 3, background: primary } } },
+          MuiTab: { styleOverrides: { root: { textTransform: "none", fontWeight: 600 } } },
+          MuiChip: { styleOverrides: { root: { borderRadius: 999, background: alpha(text, 0.06), border: `1px solid ${alpha(text, 0.14)}`, fontWeight: 600 } } },
+          MuiTableCell: { styleOverrides: { root: { borderBottom: `1px solid ${alpha(text, 0.12)}` } } },
         },
       };
 

@@ -219,7 +219,20 @@ The year page has nine everyday sections plus a spotlight, for every country and
 | | Before | After |
 |---|---|---|
 | `index-*.js` | 99.26 kB | 100.29 kB |
+| `index-*.js`, after adding the 2026 era | 100.29 kB | 103.73 kB |
+
+The 2026 era adds 3.4 kB, slightly over the 3 kB budget: World's era text is bundled eagerly and one era's text is about 3.5 kB gzipped by itself. The lever, if it matters, is loading World's eras lazily like India's. `BentoChrome` and the glasses scene are separate lazy chunks (5.6 kB and 0.8 kB gzipped).
 
 Everyday data, the three everyday interactives and the deep dive are separate lazy chunks. Lighthouse (mobile, year page): accessibility 100, best practices 100, SEO 100. Era first-paint timings and CLS were not measured.
 
 Content status (18 October 2026): everyday sections are filled, thinly, for 1900, 1920, 1930, 1945, 1960, 1970, 1984, 1995, 1999, 2005, 2010 and 2020 in both countries; 2050 is empty. `docs/COVERAGE.md` shows what is missing, and `docs/RESEARCH.md` lists the scarcity notes, the sources and the corrections found while checking.
+
+## 2026: the present year
+
+2026 is the one era that is true "now" rather than history, so it follows its own rules (see `docs/RESEARCH.md`, "2026").
+
+- **Snapshot date.** Every 2026 file carries `contentAsOf` (currently 18 October 2026), and the page shows an "As of" badge. Nothing dated after it is described as having happened.
+- **Scheduled and Forecast.** A dated plan after the snapshot carries `scheduled: true` and an official source; a named institution's forecast carries `forecast: { publisher, published }`. Each shows a tag on the page and is kept out of the quiz and On this day. Neither is speculation: 2050 stays the only speculative era.
+- **One place names the year.** `src/data/present.ts` holds `PRESENT_YEAR` and the 2020 comparison baseline; `npm run validate` fails if any other code hard-codes the year.
+- **Refreshing it later.** Update the facts and their `checked` dates, bump `contentAsOf` in the three 2026 files per country, and run `npm run check:freshness`. It lists every 2026 item older than 90 days or never verified and writes the list into `docs/RESEARCH.md`. `npm run validate` prints the count as a warning and never fails on it.
+- **Rolling the present forward.** To make a later year the present, add its era, change `PRESENT_YEAR`, and move the current 2026 files to ordinary history: drop `contentAsOf`, turn scheduled items into events with their results or remove them, and re-check forecasts.

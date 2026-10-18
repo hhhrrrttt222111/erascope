@@ -12,7 +12,8 @@
         "in.1984.dd.sports.usha-400h",
         "in.1999.dd.literature.interpreter-of-maladies",
         "in.2005.dd.achievements.sania-newcomer",
-        "in.2005.dd.sports.mirza-us-open"
+        "in.2005.dd.sports.mirza-us-open",
+        "in.2026.dd.personalities.lovlina-borgohain"
       ]
     },
     {
@@ -32,6 +33,7 @@
         "in.1999.dd.technology-science.pslv-c2",
         "in.2005.dd.technology-science.cartosat-1",
         "in.2020.dd.technology-science.covaxin",
+        "in.2026.dd.technology-science.gaganyaan-parachute-tests",
         "in.2050.dd.technology-science.space-station"
       ]
     },
@@ -46,6 +48,7 @@
         "in.1995.dd.technology-science.internet-public",
         "in.2010.dd.technology-science.aadhaar-first",
         "in.2020.dd.technology-science.aarogya-setu",
+        "in.2026.dd.technology-science.upi",
         "in.2050.dd.technology-science.ai-translation"
       ]
     },
@@ -62,7 +65,8 @@
         "in.1970.dd.cinema.pratidwandi",
         "in.1995.dd.cinema.ddlj",
         "in.1999.dd.cinema.padayappa",
-        "in.2020.dd.cinema.soorarai-pottru"
+        "in.2020.dd.cinema.soorarai-pottru",
+        "in.2026.dd.cinema.dhurandhar-the-revenge"
       ]
     },
     {
@@ -75,7 +79,8 @@
         "in.1930.dd.sports.duleep-333",
         "in.1945.dd.sports.modi-season",
         "in.1984.dd.sports.asia-cup-1984",
-        "in.1999.dd.sports.kumble-10-74"
+        "in.1999.dd.sports.kumble-10-74",
+        "in.2026.dd.sports.t20-world-cup-final"
       ]
     },
     {
@@ -91,6 +96,7 @@
         "in.1945.dd.freedom-history.simla-conference",
         "in.1945.dd.freedom-history.ina-trials",
         "in.1960.dd.freedom-history.maharashtra-gujarat",
+        "in.2026.dd.freedom-history.republic-day-2026",
         "in.2050.dd.freedom-history.centenary-of-republic"
       ]
     }

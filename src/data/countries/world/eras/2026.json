@@ -1,0 +1,374 @@
+{
+  "year": 2026,
+  "country": "world",
+  "contentAsOf": "2026-10-18",
+  "title": "2026 so far",
+  "tagline": "Chatbots in half of pockets, driverless taxis in a dozen cities and a crew around the Moon: the year to 18 October.",
+  "locale": {
+    "region": "United States",
+    "currency": "USD",
+    "persona": "a hybrid-working household in a mid-sized Midwestern city"
+  },
+  "sceneCaption": "A pair of smart glasses on a charging stand beside an open earbuds case.",
+  "morningRoutine": [
+    {
+      "id": "world.2026.morning.telework-rate",
+      "time": "7:00 AM",
+      "activity": "Home day or office day",
+      "detail": "About 22.6 percent of U.S. workers teleworked or worked at home for pay in March 2026, so many households still plan the morning around who is going in.",
+      "icon": "Home",
+      "source": {
+        "label": "BLS TED: 22.6 percent of workers teleworked in March 2026",
+        "url": "https://www.bls.gov/opub/ted/2026/22-6-percent-of-workers-teleworked-in-march-2026.htm",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.morning.ask-the-chatbot",
+      "time": "7:30 AM",
+      "activity": "Ask the chatbot",
+      "detail": "About half of U.S. adults (49 percent) said in February 2026 that they use AI chatbots, up from about a third in 2024; the questions were not asked in quite the same way.",
+      "icon": "Chat",
+      "source": {
+        "label": "Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)",
+        "url": "https://www.pewresearch.org/?p=303574",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.morning.eggs-breakfast",
+      "time": "8:00 AM",
+      "activity": "Eggs for breakfast",
+      "detail": "Eggs cost about $2.27 a dozen in September 2026, well below the $3.49 of a year earlier.",
+      "icon": "Restaurant",
+      "source": {
+        "label": "BLS: Average retail food and energy prices, U.S. city average (September 2026)",
+        "url": "https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.morning.fill-up",
+      "time": "8:30 AM",
+      "activity": "Fill up on the way",
+      "detail": "Regular gasoline averaged about $4.48 a gallon in September 2026, up from $4.20 in August.",
+      "icon": "LocalGasStation",
+      "source": {
+        "label": "BLS via FRED: Gasoline, Unleaded Regular, per gallon (APU000074714)",
+        "url": "https://fred.stlouisfed.org/series/APU000074714",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    }
+  ],
+  "places": [
+    {
+      "id": "world.2026.places.newspaper",
+      "kind": "newspaper",
+      "title": "The front page",
+      "description": "A year of spaceflight, a home World Cup and the nation's 250th birthday.",
+      "imageAlt": "A news app showing the Moon flyby and the World Cup final",
+      "highlights": [
+        "Artemis II flies four astronauts around the Moon (1 to 10 April)",
+        "Spain beats Argentina 1-0 in the World Cup final (19 July)",
+        "The country marks 250 years since the Declaration of Independence (4 July)",
+        "Midterm elections are scheduled for 3 November"
+      ],
+      "source": {
+        "label": "Wikipedia: 2026 in the United States",
+        "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.places.bedroom",
+      "kind": "bedroom",
+      "title": "The bedside",
+      "description": "The phone is where the day begins, and more and more of what people do on it is a conversation with a chatbot.",
+      "imageAlt": "A phone on a bedside table beside a pair of smart glasses on a charging stand",
+      "highlights": [
+        "About half of U.S. adults use AI chatbots (Pew, February 2026)",
+        "Up from about a third in 2024"
+      ],
+      "source": {
+        "label": "Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)",
+        "url": "https://www.pewresearch.org/?p=303574",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.places.street",
+      "kind": "street",
+      "title": "The street",
+      "description": "In a growing list of cities a car with no driver pulls up to the kerb.",
+      "imageAlt": "A driverless taxi at a city kerb",
+      "highlights": [
+        "Waymo carried about 500,000 paid rides a week by June 2026",
+        "Full service began in Miami (15 April), Nashville (25 June), Dallas (4 August) and Houston (20 August)"
+      ],
+      "source": {
+        "label": "Wikipedia: Waymo",
+        "url": "https://en.wikipedia.org/wiki/Waymo",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    }
+  ],
+  "prices": [
+    {
+      "id": "world.2026.prices.eggs",
+      "item": "Dozen eggs (grade A, large)",
+      "price": "$2.27",
+      "adjusted2026": "$2.27",
+      "adjustedMethod": "nominal 2026 price",
+      "source": {
+        "label": "BLS via FRED: Eggs, Grade A, Large, per dozen (APU0000708111)",
+        "url": "https://fred.stlouisfed.org/series/APU0000708111",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.prices.milk",
+      "item": "Gallon of whole milk",
+      "price": "$4.11",
+      "adjusted2026": "$4.11",
+      "adjustedMethod": "nominal 2026 price",
+      "source": {
+        "label": "BLS via FRED: Milk, Fresh, Whole, Fortified, per gallon (APU0000709112)",
+        "url": "https://fred.stlouisfed.org/series/APU0000709112",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.prices.bread",
+      "item": "Loaf of white bread (1 lb)",
+      "price": "$1.83",
+      "adjusted2026": "$1.83",
+      "adjustedMethod": "nominal 2026 price",
+      "source": {
+        "label": "BLS via FRED: Bread, White, Pan, per pound (APU0000702111)",
+        "url": "https://fred.stlouisfed.org/series/APU0000702111",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.prices.ground-beef",
+      "item": "Ground beef, 100% beef (1 lb)",
+      "price": "$6.79",
+      "adjusted2026": "$6.79",
+      "adjustedMethod": "nominal 2026 price",
+      "source": {
+        "label": "BLS via FRED: Ground Beef, 100% Beef, per pound (APU0000703112)",
+        "url": "https://fred.stlouisfed.org/series/APU0000703112",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.prices.electricity",
+      "item": "Electricity (1 kWh)",
+      "price": "$0.196",
+      "adjusted2026": "$0.196",
+      "adjustedMethod": "nominal 2026 price",
+      "source": {
+        "label": "BLS via FRED: Electricity per kilowatt-hour (APU000072610)",
+        "url": "https://fred.stlouisfed.org/series/APU000072610",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.prices.gasoline",
+      "item": "Gallon of regular gasoline",
+      "price": "$4.48",
+      "adjusted2026": "$4.48",
+      "adjustedMethod": "nominal 2026 price",
+      "source": {
+        "label": "BLS via FRED: Gasoline, Unleaded Regular, per gallon (APU000074714)",
+        "url": "https://fred.stlouisfed.org/series/APU000074714",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    }
+  ],
+  "technology": [
+    {
+      "id": "world.2026.technology.ai-chatbots",
+      "name": "AI chatbots",
+      "category": "communication",
+      "description": "About half of U.S. adults (49 percent) used AI chatbots in Pew's February 2026 survey, up from about a third in 2024.",
+      "source": {
+        "label": "Pew Research Center: About half of U.S. adults now use AI chatbots, up from a third in 2024 (11 June 2026)",
+        "url": "https://www.pewresearch.org/?p=303574",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.technology.robotaxis",
+      "name": "Driverless taxis",
+      "category": "transport",
+      "description": "Waymo reported about 500,000 paid rides a week and nearly 3,900 robotaxis in service by June 2026, with full service in cities from Phoenix to Houston.",
+      "source": {
+        "label": "Wikipedia: Waymo",
+        "url": "https://en.wikipedia.org/wiki/Waymo",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "relatedIds": [
+        "world.2020.technology.driverless-taxis"
+      ],
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.technology.smart-glasses",
+      "name": "Smart glasses",
+      "category": "communication",
+      "description": "Glasses with cameras, microphones and small displays went on general sale: Meta Ray-Ban Display in September 2025 and Meta's own glasses at $299 in June 2026, with Google's eyewear promised for the fall.",
+      "source": {
+        "label": "Wikipedia: Smartglasses",
+        "url": "https://en.wikipedia.org/wiki/Smartglasses",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.technology.electric-cars",
+      "name": "Electric cars",
+      "category": "transport",
+      "description": "About 262,000 electric vehicles were sold in the third quarter of 2026, roughly 6.4 percent of new-vehicle sales, up from 5.8 percent in the second quarter.",
+      "source": {
+        "label": "Cox Automotive: Q3 2026 EV sales (12 October 2026)",
+        "url": "https://www.coxautoinc.com/market-insights/q3-2026-ev-sales/",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.technology.starlink-mobile",
+      "name": "Phone-to-satellite service",
+      "category": "communication",
+      "description": "SpaceX renamed its direct-to-phone satellite service Starlink Mobile in March 2026; ordinary LTE phones connect directly to satellites for texting where cell coverage is missing.",
+      "source": {
+        "label": "Wikipedia: Starlink",
+        "url": "https://en.wikipedia.org/wiki/Starlink",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "todo": true
+    }
+  ],
+  "futureVisions": [
+    {
+      "id": "world.2026.visions.amodei-2026",
+      "prediction": "Powerful AI, smarter than a Nobel Prize winner across most relevant fields, could come as early as 2026, though it could take much longer.",
+      "whoSaidIt": "Dario Amodei, essay 'Machines of Loving Grace', October 2024",
+      "cameTrue": "unknown",
+      "note": "Too early to judge: this year is not over.",
+      "source": {
+        "label": "Dario Amodei: Machines of Loving Grace (October 2024)",
+        "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.visions.altman-insights",
+      "prediction": "2026 will likely see the arrival of systems that can figure out novel insights.",
+      "whoSaidIt": "Sam Altman, blog post 'The Gentle Singularity' (undated on the page)",
+      "cameTrue": "unknown",
+      "note": "Too early to judge. The page shows no publication date.",
+      "source": {
+        "label": "Sam Altman: The Gentle Singularity (blog post)",
+        "url": "https://blog.samaltman.com/the-gentle-singularity",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.visions.altman-robots",
+      "prediction": "2027 may see the arrival of robots that can do tasks in the real world.",
+      "whoSaidIt": "Sam Altman, blog post 'The Gentle Singularity' (undated on the page)",
+      "cameTrue": "unknown",
+      "note": "Made about 2026, about 2027; see how this site imagines 2050 for the longer view.",
+      "source": {
+        "label": "Sam Altman: The Gentle Singularity (blog post)",
+        "url": "https://blog.samaltman.com/the-gentle-singularity",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    }
+  ],
+  "headlines": [
+    {
+      "id": "world.2026.headlines.2026-04-10-artemis-ii-splashdown",
+      "date": "2026-04-10",
+      "headline": "Artemis II crew splashes down after flying around the Moon",
+      "publication": "News coverage in the United States",
+      "verbatim": false,
+      "source": {
+        "label": "NASA: Artemis II",
+        "url": "https://www.nasa.gov/mission/artemis-ii/",
+        "accessed": "2026-10-18",
+        "quality": "primary"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.headlines.2026-07-04-semiquincentennial",
+      "date": "2026-07-04",
+      "headline": "The United States marks 250 years since the Declaration of Independence",
+      "publication": "News coverage in the United States",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: United States Semiquincentennial",
+        "url": "https://en.wikipedia.org/wiki/United_States_Semiquincentennial",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "world.2026.headlines.2026-07-19-world-cup-final",
+      "date": "2026-07-19",
+      "headline": "Spain beats Argentina 1-0 after extra time in the World Cup final",
+      "publication": "News coverage in the United States",
+      "verbatim": false,
+      "source": {
+        "label": "Wikipedia: 2026 FIFA World Cup final",
+        "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final",
+        "accessed": "2026-10-18",
+        "quality": "reference"
+      },
+      "checked": "2026-10-18"
+    }
+  ],
+  "notes": {}
+}

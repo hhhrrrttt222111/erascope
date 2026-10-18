@@ -9,6 +9,7 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { summarize, validateCollection, validateCountry, validateEra, validateDeepDive, validateEveryday, validateIndiaPrices, validateOverlay, validateReport, validateThreads } from "../src/data/validate.ts";
+import { validatePresent } from "../src/data/validatePresent.ts";
 import { resolveEra } from "../src/data/resolve.ts";
 import type { CountryEra, DeepDive, DeepDiveThread, Era, EraBase, Everyday, FactCheckRow } from "../src/data/types.ts";
 
@@ -66,6 +67,7 @@ for (const dir of countryIds) {
     const merged = resolveEra(base, raw as unknown as CountryEra);
     const fileErrors = validateEra(merged, `${dir}/${year}.json`);
     if (dir === "in") fileErrors.push(...validateIndiaPrices(merged, `${dir}/${year}.json`));
+    fileErrors.push(...validatePresent(`${dir}/${year}.json`, merged.year, merged.contentAsOf, [...merged.morningRoutine, ...merged.places, ...merged.prices, ...merged.technology, ...merged.futureVisions, ...merged.headlines] as never[], merged.futureVisions as never[]));
     errors.push(...fileErrors);
     if (fileErrors.length === 0) eras.push(merged);
   }
@@ -112,6 +114,7 @@ for (const dir of countryIds) {
   const reportIds = new Set(reportRows.map((r) => r.id));
   for (const [y, dd] of files) {
     errors.push(...validateDeepDive(`${dir}/deepdive/${y}.json`, dd, { base: bases.get(y), reportIds, knownIds, credits, research }));
+    errors.push(...validatePresent(`${dir}/deepdive/${y}.json`, dd.year, dd.contentAsOf, Object.values(dd.sections).flatMap((sec) => sec.items) as never[]));
   }
   // Every interactive named in the data must exist as a component file.
   const components = new Set<string>();
@@ -121,6 +124,13 @@ for (const dir of countryIds) {
   }
   const threadsPath = join(ddDir, "threads.json");
   if (existsSync(threadsPath)) errors.push(...validateThreads((readJson(threadsPath).threads ?? []) as DeepDiveThread[], knownIds));
+}
+
+// ---- era items may point at other items (a 2050 price that quotes the present points at its 2026 counterpart)
+for (const [dir, eras] of byCountry) {
+  const lists = (e: Era) => [e.morningRoutine, e.places, e.prices, e.technology, e.futureVisions, e.headlines] as { id: string; relatedIds?: string[] }[][];
+  const known = new Set(eras.flatMap((e) => lists(e).flat().map((i) => i.id)));
+  for (const e of eras) for (const it of lists(e).flat()) for (const r of it.relatedIds ?? []) if (!known.has(r)) errors.push(`${dir}: ${it.id}: relatedIds points at unknown era item "${r}"`);
 }
 
 // ---- Everyday sections: every enabled country needs one file per year
@@ -153,9 +163,39 @@ for (const dir of countryIds) {
     const ddDir = join(countriesDir, dir, "deepdive");
     for (const f of jsonFiles(ddDir).filter((f) => /^\d{4}\.json$/.test(f))) for (const sec of Object.values((readJson(join(ddDir, f)) as DeepDive).sections)) for (const it of sec.items) knownIds.add(it.id);
     const ids = new Set<string>();
+    for (const ev of evs) errors.push(...validatePresent(`${dir}/everyday/${ev.year}.json`, ev.year, ev.contentAsOf, Object.values(ev.sections ?? {}).flatMap((sec) => sec.items) as never[]));
     for (const ev of evs) errors.push(...validateEveryday(`${dir}/everyday/${ev.year}.json`, ev, { base: bases.get(ev.year), reportIds, knownIds }, ids));
   }
 }
+// ---- the present year is named in one place (src/data/present.ts); no other code may hard-code it
+{
+  const walk = (dir: string): string[] => readdirSync(dir, { withFileTypes: true }).flatMap((d) => (d.isDirectory() ? (d.name === "data" && dir.endsWith("src") ? [] : walk(join(dir, d.name))) : /\.tsx?$/.test(d.name) ? [join(dir, d.name)] : []));
+  for (const f of walk(join(import.meta.dirname, "..", "src"))) {
+    const code = readFileSync(f, "utf8").replace(/\/\*[\s\S]*?\*\//g, "").replace(/(^|\s)\/\/.*$/gm, "");
+    if (/(?<![A-Za-z0-9])2026(?![A-Za-z0-9])/.test(code)) errors.push(`${f.slice(f.indexOf("src/"))}: hard-codes 2026; use PRESENT_YEAR or the era's year from src/data/present.ts`);
+  }
+}
+
+// ---- the present year must not repeat the year before it (2020): the same title in both needs a relatedIds link from 2026 to 2020
+for (const dir of countryIds) {
+  const titleKey = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  const collect = (year: number) => {
+    const out = new Map<string, { id: string; relatedIds?: string[] }>();
+    const era = (byCountry.get(dir) ?? []).find((e) => e.year === year);
+    if (era) for (const [list, key] of [[era.morningRoutine, "activity"], [era.technology, "name"], [era.headlines, "headline"]] as const) for (const it of list as unknown as Record<string, string>[]) out.set(titleKey(it[key]), it as never);
+    const ev = join(countriesDir, dir, "everyday", `${year}.json`);
+    if (existsSync(ev)) for (const s of Object.values(readJson(ev).sections as Record<string, { items: { id: string; title: string; relatedIds?: string[] }[] }>)) for (const it of s.items) out.set(titleKey(it.title), it);
+    const dd = join(countriesDir, dir, "deepdive", `${year}.json`);
+    if (existsSync(dd)) for (const s of Object.values(readJson(dd).sections as Record<string, { items: { id: string; title: string; relatedIds?: string[] }[] }>)) for (const it of s.items) out.set(titleKey(it.title), it);
+    return out;
+  };
+  const before = collect(2020);
+  for (const [k, it] of collect(2026)) {
+    const old = before.get(k);
+    if (old && !(it.relatedIds ?? []).includes(old.id)) errors.push(`${dir}: ${it.id} repeats the 2020 item ${old.id}; link it with relatedIds or retitle it`);
+  }
+}
+
 // ---- fact-check report
 const reportPath = join(import.meta.dirname, "..", "docs", "fact-check.json");
 if (!existsSync(reportPath)) errors.push("docs/fact-check.json is missing (see docs/RESEARCH.md)");

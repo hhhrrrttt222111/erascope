@@ -11,6 +11,7 @@ import { loadPreviewFonts } from "../theme/fontLoader";
 import { Cursor } from "./landing/Cursor";
 import { Navbar } from "./landing/Navbar";
 import { Parallax } from "./landing/Parallax";
+import { formatAsOf } from "./common/AsOfBadge";
 import { SpeculativeBadge } from "./common/SpeculativeBadge";
 
 /**
@@ -65,6 +66,7 @@ function tileStyle(chrome: ChromeId, era: Era): CSSProperties {
     web2gloss: { background: `linear-gradient(180deg, #ffffff 0%, ${background} 100%)`, color: text, border: "1px solid #b8d9ee", borderRadius: 14, boxShadow: "0 3px 10px rgba(30,80,120,0.18)" },
     flatweb: { background: paper, color: text, borderRadius: 6, borderTop: `14px solid ${primary}` },
     videocall: { background: paper, color: text, border: `2px solid ${primary}`, borderRadius: 14 },
+    bento: { background: paper, color: text, border: `1px solid ${text}22`, borderRadius: 24, boxShadow: `0 8px 24px ${text}18` },
     futureos: { background: `linear-gradient(160deg, ${paper}, ${background})`, color: text, borderRadius: 24, border: `1px solid ${primary}`, boxShadow: `0 0 28px ${primary}55, inset 0 0 30px ${secondary}22` },
   };
   return styles[chrome];
@@ -224,7 +226,7 @@ export function Landing() {
                       ))}
                     </Box>
                     <Box component="span" sx={{ display: "block", fontSize: "0.9rem", color: "#cfc9ba", mt: 0.5 }}>
-                      {c.id === "world" ? "The original tour: everyday life as lived in the United States." : "Everyday life in India across the same thirteen years. Content is still being researched."}
+                      {c.id === "world" ? "The original tour: everyday life as lived in the United States." : "Everyday life in India across the same fourteen years. Content is still being researched."}
                     </Box>
                   </Box>
                 );
@@ -291,6 +293,7 @@ export function Landing() {
                   <span style={{ fontFamily: theme.typography.h1.fontFamily, fontWeight: 700, fontSize: "clamp(30px, 6vw, 40px)", lineHeight: 1 }}>{era.year}</span>
                   <span style={{ fontFamily: theme.typography.h1.fontFamily, fontWeight: 700, fontSize: 15, lineHeight: 1.2 }}>{eraFor(era.year).title}</span>
                   {era.speculative && <SpeculativeBadge />}
+                  {eraFor(era.year).contentAsOf && <span style={{ fontFamily: "'Geist Mono', ui-monospace, monospace", fontSize: 11, fontWeight: 600 }}>As of {formatAsOf(eraFor(era.year).contentAsOf!)}</span>}
                 </motion.button>
               </motion.li>
             );
@@ -313,7 +316,7 @@ export function Landing() {
               as read about it.
             </Typography>
             <Box sx={{ display: "flex", gap: { xs: 4, md: 6 }, borderTop: "1px solid #3a3526", pt: 3 }}>
-              {[["13", "eras"], ["150", "years"], [String(choices.length), choices.length === 1 ? "country" : "countries"]].map(([n, l]) => (
+              {[[String(eras.length), "eras"], ["150", "years"], [String(choices.length), choices.length === 1 ? "country" : "countries"]].map(([n, l]) => (
                 <Box key={l}>
                   <Typography sx={{ fontFamily: "Georgia, serif", fontSize: "2.4rem", lineHeight: 1, color: GOLD }}>{n}</Typography>
                   <Typography sx={{ fontFamily: "Georgia, serif", fontSize: "0.8rem", letterSpacing: "0.2em", textTransform: "uppercase", color: "#a8a294", mt: 1 }}>{l}</Typography>
@@ -382,8 +385,8 @@ function Label({ children }: { children: ReactNode }) {
 }
 
 const STEPS = [
-  { title: "Pick a country", body: "Choose whose everyday life you want to see. The tour begins in the United States; India follows the same thirteen years." },
-  { title: "Choose a year", body: "Select any of the thirteen stops from 1900 to 2050. The page reshapes itself in that era's typography, colour and chrome." },
+  { title: "Pick a country", body: "Choose whose everyday life you want to see. The tour begins in the United States; India follows the same fourteen years." },
+  { title: "Choose a year", body: "Select any of the fourteen stops from 1900 to 2050. The page reshapes itself in that era's typography, colour and chrome." },
   { title: "Explore and travel", body: "Read the morning, then drag the timeline to move through the decades and watch the interface change. Open a deep dive to go further." },
 ];
 

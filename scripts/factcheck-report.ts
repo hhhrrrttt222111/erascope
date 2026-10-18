@@ -4,7 +4,7 @@
  * Generates docs/FACT-CHECK.md from docs/fact-check.json: a summary table, then one
  * section per era with corrections first. Never edit the Markdown by hand.
  */
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import type { FactCheckRow, FactCheckStatus, Source } from "../src/data/types.ts";
 
@@ -52,6 +52,23 @@ for (const g of groups) {
       out.push("");
     }
   }
+}
+// Present-year items that are plans or forecasts, not events: listed apart from the claim-by-claim rows.
+{
+  const lines: string[] = [];
+  for (const c of ["world", "in"]) {
+    for (const [kind, sections] of [["everyday", (d: any) => Object.values(d.sections)], ["deepdive", (d: any) => Object.values(d.sections)]] as const) {
+      const f = join(root, "src", "data", "countries", c, kind, "2026.json");
+      if (!existsSync(f)) continue;
+      for (const sec of sections(JSON.parse(readFileSync(f, "utf8"))) as { items: { id: string; title: string; date?: string; scheduled?: boolean; forecast?: { publisher: string; published: string } }[] }[]) {
+        for (const it of sec.items) {
+          if (it.scheduled) lines.push(`- **Scheduled** \`${it.id}\`: ${esc(it.title)} (${it.date ?? "undated"})`);
+          if (it.forecast) lines.push(`- **Forecast** \`${it.id}\`: ${esc(it.title)}, by ${esc(it.forecast.publisher)}, published ${it.forecast.published}`);
+        }
+      }
+    }
+  }
+  if (lines.length) out.push("## 2026: scheduled and forecast items", "", "These are sourced statements about the future by named institutions, not events and not speculation. They show a tag on the page and are left out of the quiz and On this day.", "", ...lines, "");
 }
 writeFileSync(join(root, "docs", "FACT-CHECK.md"), out.join("\n"));
 console.log(`wrote docs/FACT-CHECK.md (${rows.length} rows)`);
