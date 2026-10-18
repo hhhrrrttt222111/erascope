@@ -3,7 +3,7 @@ import { useShellEra } from "../../context/EraContext";
 import { EraScene } from "../three/EraScene";
 import { eraDate, headingDomId, sectionDomId, SLIDER_CLEARANCE, type ChromeProps, type SectionId } from "./shared";
 
-const HEADLINES: Record<SectionId, string> = {
+const HEADLINES: Record<SectionId, string | undefined> = {
   morning: "How the City Wakes",
   headlines: "Late Telegraph Dispatches",
   places: "Scenes of Daily Life",
@@ -13,23 +13,14 @@ const HEADLINES: Record<SectionId, string> = {
 };
 
 /** Where each section sits on the 12-column front page. */
-const SPANS: Record<SectionId, { md: string }> = {
-  morning: { md: "span 7" },
-  prices: { md: "span 5" },
-  headlines: { md: "span 12" },
-  places: { md: "span 12" },
-  tech: { md: "span 7" },
-  futures: { md: "span 5" },
-};
-
-const ORDER: SectionId[] = ["morning", "prices", "headlines", "places", "tech", "futures"];
+// Everything is full width except the tech/futures pair, which sit side by side in the page order.
+const SPANS: Record<SectionId, string | undefined> = { tech: "span 7", futures: "span 5" };
 
 export function NewspaperChrome({ sections }: ChromeProps) {
   const era = useShellEra();
   const theme = useTheme();
   const ink = theme.palette.text.primary;
   const rule = `1px solid ${ink}`;
-  const byId = Object.fromEntries(sections.map((s) => [s.id, s]));
 
   return (
     <Box className="fx-paper" sx={{ minHeight: "100vh", color: ink, pb: SLIDER_CLEARANCE, "--tm-paper": theme.palette.background.paper }}>
@@ -93,9 +84,8 @@ export function NewspaperChrome({ sections }: ChromeProps) {
               </Box>
             </Box>
 
-            {ORDER.map((id) => {
-              const s = byId[id];
-              if (!s) return null;
+            {sections.map((s) => {
+              const id = s.id;
               return (
                 <Box
                   component="section"
@@ -103,12 +93,12 @@ export function NewspaperChrome({ sections }: ChromeProps) {
                   id={sectionDomId(id)}
                   aria-labelledby={headingDomId(id)}
                   sx={{
-                    gridColumn: { md: SPANS[id].md },
+                    gridColumn: { md: SPANS[id] ?? "span 12" },
                     py: 2.5,
                     borderBottom: rule,
                     minWidth: 0,
                     // Column rule between side-by-side stories on wide screens.
-                    ...((id === "prices" || id === "futures") && {
+                    ...(id === "futures" && {
                       borderLeft: { md: rule },
                       pl: { md: 3 },
                       ml: { md: -1.5 },
@@ -120,7 +110,7 @@ export function NewspaperChrome({ sections }: ChromeProps) {
                     id={headingDomId(id)}
                     sx={{ textTransform: "uppercase", fontSize: { xs: "1.4rem", md: "1.7rem" }, borderBottom: rule, pb: 1, mb: 2, outline: "none" }}
                   >
-                    {HEADLINES[id]}
+                    {HEADLINES[id] ?? s.title}
                   </Typography>
                   <Box sx={id === "morning" ? { columnCount: { sm: 2 }, columnGap: 4, columnRule: rule } : undefined}>{s.node}</Box>
                 </Box>

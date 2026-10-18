@@ -1,0 +1,665 @@
+{
+  "country": "in",
+  "year": 1984,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "About 755 million people, three in four of them in villages, and fewer than half of those over the age of seven could read.",
+      "items": [
+        {
+          "id": "in.1984.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "India's population was about 755 million in 1984; the census of 1981 had counted about 683 million.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "754,875,449",
+          "unit": "people",
+          "asOf": "1984",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A newborn in 1984 could expect to live about 56 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "55.8",
+          "unit": "years",
+          "asOf": "1984",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.everyday.by-the-numbers.literacy",
+          "kind": "stat",
+          "title": "Who could read",
+          "summary": "At the 1981 census 36 to 44 percent of people could read and write, 47 to 56 percent of men and 25 to 30 percent of women.",
+          "sources": [
+            {
+              "label": "Wikipedia: Literacy in India",
+              "url": "https://en.wikipedia.org/wiki/Literacy_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2011 Census of India",
+              "url": "https://en.wikipedia.org/wiki/2011_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Literacy rate (census 1981)",
+          "value": "36.2 to 43.6",
+          "unit": "percent",
+          "asOf": "1981",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and village",
+          "summary": "About 24 percent of Indians lived in towns and cities.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Urban population (% of total)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Urban share of the population",
+          "value": "24.5",
+          "unit": "percent",
+          "asOf": "1984",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 98 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns the deaths of infants."
+          },
+          "metric": "Infant mortality",
+          "value": "97.5",
+          "unit": "per 1,000 live births",
+          "asOf": "1984",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.by-the-numbers.fertility",
+          "kind": "stat",
+          "title": "Births per woman",
+          "summary": "The fertility rate was 4.5 births per woman.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Fertility rate, total (births per woman)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Total fertility rate",
+          "value": "4.52",
+          "unit": "births per woman",
+          "asOf": "1984",
+          "todo": true
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Nestlé launched Maggi noodles in India in 1983, as a quick snack for working mothers and children.",
+      "items": [
+        {
+          "id": "in.1984.everyday.food-and-kitchen.maggi-1983",
+          "kind": "fact",
+          "title": "Maggi noodles",
+          "summary": "Nestlé launched Maggi noodles in India in 1983, as a quick snack for working mothers and children.",
+          "sources": [
+            {
+              "label": "Wikipedia: Maggi",
+              "url": "https://en.wikipedia.org/wiki/Maggi",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.food-and-kitchen.thums-up",
+          "kind": "fact",
+          "title": "Thums Up",
+          "summary": "After Coca-Cola left India in 1977, local colas such as Thums Up and Campa Cola filled the gap.",
+          "sources": [
+            {
+              "label": "Wikipedia: Thums Up",
+              "url": "https://en.wikipedia.org/wiki/Thums_Up",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.food-and-kitchen.lpg-wait",
+          "kind": "fact",
+          "title": "Waiting for a gas connection",
+          "summary": "LPG cylinders were rationed and new connections took months or years.",
+          "sources": [
+            {
+              "label": "Wikipedia: Liquefied petroleum gas",
+              "url": "https://en.wikipedia.org/wiki/Liquefied_petroleum_gas",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.food-and-kitchen.amul-butter",
+          "kind": "fact",
+          "title": "The Amul girl",
+          "summary": "Amul's butter hoardings, with the cartoon girl, were a fixture in cities.",
+          "sources": [
+            {
+              "label": "Wikipedia: Amul",
+              "url": "https://en.wikipedia.org/wiki/Amul",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Terry-cotton and polyester shirts and sarees were widely worn because they were cheap and long-lasting.",
+      "items": [
+        {
+          "id": "in.1984.everyday.clothing-and-style.terry-cotton",
+          "kind": "fact",
+          "title": "Terry-cotton shirts",
+          "summary": "Terry-cotton and polyester shirts and sarees were widely worn because they were cheap and long-lasting.",
+          "sources": [
+            {
+              "label": "Wikipedia: Clothing in India",
+              "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.clothing-and-style.school-uniform",
+          "kind": "fact",
+          "title": "The school uniform",
+          "summary": "School uniforms with ties and badges were standard for children in cities.",
+          "sources": [
+            {
+              "label": "Wikipedia: School uniform",
+              "url": "https://en.wikipedia.org/wiki/School_uniform",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.clothing-and-style.film-fashion",
+          "kind": "fact",
+          "title": "Fashion from films",
+          "summary": "Film stars set the style for hairstyles, sunglasses and tailors' copies of film costumes.",
+          "sources": [
+            {
+              "label": "Wikipedia: Fashion in India",
+              "url": "https://en.wikipedia.org/wiki/Fashion_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A long textile strike led by Datta Samant began in January 1982 and left tens of thousands of mill workers jobless.",
+      "items": [
+        {
+          "id": "in.1984.everyday.work-and-wages.mill-strike-1982",
+          "kind": "fact",
+          "title": "The Bombay mill strike",
+          "summary": "A long textile strike led by Datta Samant began in January 1982 and left tens of thousands of mill workers jobless.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1982 Bombay textile strike",
+              "url": "https://en.wikipedia.org/wiki/1982_Bombay_textile_strike",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.work-and-wages.maruti-factory",
+          "kind": "fact",
+          "title": "Jobs at Maruti",
+          "summary": "Maruti Udyog's factory at Gurgaon began making cars in 1983 with Suzuki's help.",
+          "sources": [
+            {
+              "label": "Wikipedia: Maruti Suzuki",
+              "url": "https://en.wikipedia.org/wiki/Maruti_Suzuki",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.work-and-wages.govt-job",
+          "kind": "fact",
+          "title": "The secure government job",
+          "summary": "Public sector and government jobs were prized for their security and pension.",
+          "sources": [
+            {
+              "label": "Wikipedia: Public sector in India",
+              "url": "https://en.wikipedia.org/wiki/Public_sector_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "The University Grants Commission began a countrywide classroom telecast on Doordarshan in 1984.",
+      "items": [
+        {
+          "id": "in.1984.everyday.school-and-childhood.ugc-telecast",
+          "kind": "fact",
+          "title": "Lessons on television",
+          "summary": "The University Grants Commission began a countrywide classroom telecast on Doordarshan in 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: Doordarshan",
+              "url": "https://en.wikipedia.org/wiki/Doordarshan",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.school-and-childhood.navodaya",
+          "kind": "fact",
+          "title": "Navodaya Vidyalayas",
+          "summary": "The government prepared the Navodaya residential schools for talented rural children, launched in 1985.",
+          "sources": [
+            {
+              "label": "Wikipedia: Jawahar Navodaya Vidyalaya",
+              "url": "https://en.wikipedia.org/wiki/Jawahar_Navodaya_Vidyalaya",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.school-and-childhood.board-exams",
+          "kind": "fact",
+          "title": "Board exams",
+          "summary": "The class 10 and class 12 board exams decided a child's later options.",
+          "sources": [
+            {
+              "label": "Wikipedia: Central Board of Secondary Education",
+              "url": "https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The 'people's car' had a waiting list of almost three years.",
+      "items": [
+        {
+          "id": "in.1984.everyday.getting-around.maruti-wait",
+          "kind": "fact",
+          "title": "Waiting for a Maruti",
+          "summary": "Buyers booked a Maruti 800 directly with Maruti Udyog and often waited almost three years for delivery, which led to black-market resale premiums of as much as 40 percent; the first car was handed over by Indira Gandhi on 14 December 1983.",
+          "sources": [
+            {
+              "label": "Wikipedia: Maruti 800",
+              "url": "https://en.wikipedia.org/wiki/Maruti_800",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "relatedIds": [
+            "in.1984.dd.technology-science.maruti-800"
+          ],
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1984 railway or bus fares, or journey times."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "A telephone was something to wait for.",
+      "items": [
+        {
+          "id": "in.1984.everyday.keeping-in-touch.bhopal-phones",
+          "kind": "fact",
+          "title": "A waiting list for a line",
+          "summary": "In Bhopal 4,085 people were waiting for a telephone on 31 December 1984, and the Government said the list would be cleared in three years.",
+          "sources": [
+            {
+              "label": "Lok Sabha: written answer on telephone waiting lists, 23 April 1985",
+              "url": "https://eparlib.nic.in/bitstream/123456789/2241832/1/08_II_23-04-1985_p123_p124_u4142.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "place": "Bhopal",
+          "regionTag": "central",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find a sourced national count of telephones, trunk-call charges or postal rates for 1984."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "In December 1984 a gas leak at the Union Carbide plant in Bhopal killed thousands and injured many more.",
+      "items": [
+        {
+          "id": "in.1984.everyday.health-and-medicine.bhopal-gas",
+          "kind": "fact",
+          "title": "Bhopal gas leak",
+          "summary": "In December 1984 a gas leak at the Union Carbide plant in Bhopal killed thousands and injured many more.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bhopal disaster",
+              "url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "central",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1984.everyday.health-and-medicine.uip",
+          "kind": "fact",
+          "title": "Universal immunisation",
+          "summary": "India's Universal Immunization Programme started in 1985 to reach all children with vaccines.",
+          "sources": [
+            {
+              "label": "Wikipedia: Universal Immunisation Programme",
+              "url": "https://en.wikipedia.org/wiki/Universal_Immunisation_Programme",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.health-and-medicine.ors",
+          "kind": "fact",
+          "title": "Oral rehydration",
+          "summary": "Oral rehydration salts were promoted to treat diarrhoea in children.",
+          "sources": [
+            {
+              "label": "Wikipedia: Oral rehydration therapy",
+              "url": "https://en.wikipedia.org/wiki/Oral_rehydration_therapy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Video cassette recorders and video parlours let families watch films at home.",
+      "items": [
+        {
+          "id": "in.1984.everyday.leisure-and-fun.vcr",
+          "kind": "fact",
+          "title": "The VCR",
+          "summary": "Video cassette recorders and video parlours let families watch films at home.",
+          "sources": [
+            {
+              "label": "Wikipedia: Videocassette recorder",
+              "url": "https://en.wikipedia.org/wiki/Videocassette_recorder",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.leisure-and-fun.asia-cup-84",
+          "kind": "fact",
+          "title": "Asia Cup",
+          "summary": "India won the first Asia Cup in Sharjah in 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 Asia Cup",
+              "url": "https://en.wikipedia.org/wiki/1984_Asia_Cup",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.leisure-and-fun.usha-la",
+          "kind": "fact",
+          "title": "P.T. Usha at Los Angeles",
+          "summary": "P.T. Usha finished fourth in the 400 m hurdles at the 1984 Olympics, missing a medal by a hundredth of a second.",
+          "sources": [
+            {
+              "label": "Wikipedia: P. T. Usha",
+              "url": "https://en.wikipedia.org/wiki/P._T._Usha",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1984.everyday.leisure-and-fun.worlds-cup-memory",
+          "kind": "fact",
+          "title": "The 1983 World Cup",
+          "summary": "India's win at the 1983 cricket World Cup was still fresh in people's minds and filled playgrounds with young cricketers.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1983 Cricket World Cup",
+              "url": "https://en.wikipedia.org/wiki/1983_Cricket_World_Cup",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Television arrives in the living room",
+      "standfirst": "Colour came in 1982, the network split in two in 1984, and in July a family serial gave 50 million viewers an evening ritual.",
+      "items": [
+        {
+          "id": "in.1984.everyday.spotlight.colour-1982",
+          "kind": "fact",
+          "title": "Colour in 1982",
+          "summary": "Doordarshan introduced a national channel in 1982, and colour television began with the live telecast of Indira Gandhi's Independence Day speech on 15 August 1982, followed by the colour broadcast of the Asian Games in Delhi.",
+          "sources": [
+            {
+              "label": "Wikipedia: Doordarshan",
+              "url": "https://en.wikipedia.org/wiki/Doordarshan",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1982-08-15",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.everyday.spotlight.two-channels",
+          "kind": "fact",
+          "title": "Two channels",
+          "summary": "Two years later, in 1984, Doordarshan became a structured network: its sole channel was split into DD-1, broadcast nationally, and DD-2, aimed at the cities.",
+          "sources": [
+            {
+              "label": "Wikipedia: Doordarshan",
+              "url": "https://en.wikipedia.org/wiki/Doordarshan",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.everyday.spotlight.hum-log",
+          "kind": "fact",
+          "title": "A serial for fifty million",
+          "summary": "Hum Log, scripted by Manohar Shyam Joshi, ran on Doordarshan from 7 July 1984 to 17 December 1985, 65 episodes with each viewed by more than 50 million people; it dealt with family planning, dowry, caste harmony and women's empowerment.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hum Log (TV series)",
+              "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-07-07",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.1984.dd.achievements.hum-log-first"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.everyday.spotlight.epilogue-letters",
+          "kind": "fact",
+          "title": "Letters to Ashok Kumar",
+          "summary": "Actor Ashok Kumar closed each episode of Hum Log in conversation with the audience, in Hindi couplets and limericks, and received over 400,000 letters from young viewers asking him to help them persuade their parents to accept their chosen marriage partners.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hum Log (TV series)",
+              "url": "https://en.wikipedia.org/wiki/Hum_Log_(TV_series)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.everyday.spotlight.sets-made",
+          "kind": "fact",
+          "title": "A million sets a year",
+          "summary": "A 1984 parliamentary answer estimated television receiver production in 1984 at between 10 lakh and 12 lakh (1 to 1.2 million) sets, colour and black-and-white together, and an industry note says colour television grew by 140.3 percent in 1984-85.",
+          "sources": [
+            {
+              "label": "Lok Sabha: written answer on television receiver production, 21 March 1984",
+              "url": "https://eparlib.nic.in/bitstream/123456789/2779543/1/07_XIV_21-03-1984_p148_p149_u4135.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "ICMR: A note on the colour television industry in India",
+              "url": "https://icmrindia.org/Casestudies/catalogue/Business%20Reports/A%20Note%20on%20the%20Colour%20Television%20Industry%20in%20India.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find a sourced count of television sets in India in 1984, or set prices."
+    }
+  }
+}

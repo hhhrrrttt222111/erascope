@@ -2,7 +2,11 @@ import type SvgIcon from "@mui/material/SvgIcon";
 type SvgIconComponent = typeof SvgIcon;
 import type { ReactNode } from "react";
 
-export type SectionId = "morning" | "headlines" | "places" | "prices" | "tech" | "futures";
+/** Original six ids plus the everyday sections (see data/pageLayout.ts). */
+export type SectionId = string;
+
+/** The six sections every chrome was designed around; the rest are the everyday sections. */
+export const CORE_SECTIONS = ["morning", "headlines", "places", "prices", "tech", "futures"];
 
 export interface ShellSection {
   id: SectionId;

@@ -53,9 +53,10 @@ export default function MilestoneWall(props: InteractiveProps) {
       )}
       <label>
         <Typography component="span" variant="body2">Through month</Typography>{" "}
-        <input type="range" min={0} max={12} value={month} onChange={(e) => setMonth(Number(e.target.value))} aria-label="Month of the year" aria-valuetext={month === 0 ? "Start of year" : `Through month ${month} of 12`} style={{ accentColor: accent, width: "min(360px, 100%)" }} />
+        <input type="range" min={0} max={12} value={month} onChange={(e) => setMonth(Number(e.target.value))} list="ms-months" aria-label="Month of the year" aria-valuetext={month === 0 ? "Start of year" : `Through month ${month} of 12`} style={{ accentColor: accent, width: "min(360px, 100%)" }} />
       </label>
-      <Box component="ul" sx={{ m: 0, mt: 2, p: 0, display: "grid", gap: 1.5, gridTemplateColumns: { xs: "1fr 1fr", md: "repeat(3, 1fr)" } }}>
+      <datalist id="ms-months">{Array.from({ length: 13 }, (_, m) => <option key={m} value={m} />)}</datalist>
+      <Box component="ul" sx={{ m: 0, mt: 2, p: 0, display: "grid", gap: 1.5, gridTemplateColumns: { xs: "1fr 1fr", md: "repeat(4, 1fr)" } }}>
         {items.map((it) => {
           const m = monthOf(it.date);
           const lit = m === null ? month === 12 : m <= month;

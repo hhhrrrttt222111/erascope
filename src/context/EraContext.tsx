@@ -3,6 +3,7 @@ import { useMotionValue, type MotionValue } from "framer-motion";
 import { ERA_YEARS, eraByYear, eraIndex, getEra, hasDeepDive, nearestEra, type CountryId, type Era, type EraId } from "../data";
 import type { DeepDiveSectionId, OverlayEra } from "../data/types";
 import { isSectionId } from "../data/deepdive";
+import { sectionFromSlug } from "../data/pageLayout";
 import { DEFAULT_COUNTRY, countryById, selectableCountries } from "../data/countries/registry";
 
 interface EraContextValue {
@@ -29,6 +30,8 @@ interface EraContextValue {
   overlayFor: (year: EraId) => OverlayEra | undefined;
   /** The India Deep Dive view: null when closed, otherwise the open section (null = hub). */
   deepDive: { section: DeepDiveSectionId | null } | null;
+  /** Section slug from a deep link like #/in/1945/food-and-kitchen, or null. */
+  anchor: string | null;
   openDeepDive: (section?: DeepDiveSectionId | null) => void;
   closeDeepDive: () => void;
 }
@@ -44,6 +47,7 @@ interface ParsedHash {
   explicitCountry: boolean;
   /** "#/in/1984/deep-dive/sports" → { section: "sports" }; "/deep-dive" → { section: null } (the hub). */
   deepDive: { section: DeepDiveSectionId | null } | null;
+  anchor: string | null;
 }
 
 /**
@@ -52,8 +56,8 @@ interface ParsedHash {
  * An unknown country falls back to World.
  */
 function parseHash(hash: string): ParsedHash {
-  const match = hash.match(/^#\/(?:([a-z]{2,8})(?:\/|$))?(\d{3,4})?(?:\/deep-dive(?:\/([a-z-]+))?)?$/);
-  if (!match) return { country: DEFAULT_COUNTRY, year: null, explicitCountry: false, deepDive: null };
+  const match = hash.match(/^#\/(?:([a-z]{2,8})(?:\/|$))?(\d{3,4})?(?:\/deep-dive(?:\/([a-z-]+))?|\/(?!deep-dive)([a-z-]+))?$/);
+  if (!match) return { country: DEFAULT_COUNTRY, year: null, explicitCountry: false, deepDive: null, anchor: null };
   const named = match[1];
   const entry = named ? countryById(named) : undefined;
   const country = entry?.enabled ? entry.id : DEFAULT_COUNTRY;
@@ -61,15 +65,16 @@ function parseHash(hash: string): ParsedHash {
   // Only countries that have a deep dive can open one; for World the link falls back to the era page.
   const wantsDeep = hash.includes("/deep-dive") && year !== null && hasDeepDive(country);
   const deepDive = wantsDeep ? { section: isSectionId(match[3]) ? match[3] : null } : null;
-  return { country, year, explicitCountry: Boolean(entry?.enabled), deepDive };
+  const anchor = year !== null && match[4] && sectionFromSlug(match[4]) ? match[4] : null;
+  return { country, year, explicitCountry: Boolean(entry?.enabled), deepDive, anchor };
 }
 
-const hashFor = (country: CountryId, year: EraId | null, deep?: { section: DeepDiveSectionId | null } | null) =>
-  `#/${country === DEFAULT_COUNTRY ? "" : `${country}/`}${year ?? ""}${year !== null && deep ? `/deep-dive${deep.section ? `/${deep.section}` : ""}` : ""}`;
+const hashFor = (country: CountryId, year: EraId | null, deep?: { section: DeepDiveSectionId | null } | null, anchor?: string | null) =>
+  `#/${country === DEFAULT_COUNTRY ? "" : `${country}/`}${year ?? ""}${year !== null && deep ? `/deep-dive${deep.section ? `/${deep.section}` : ""}` : year !== null && anchor ? `/${anchor}` : ""}`;
 
 /** Rewrites a non-canonical URL (e.g. #/1987) to what is actually shown, without a history entry. */
-function canonicalizeHash(country: CountryId, year: EraId, deep?: { section: DeepDiveSectionId | null } | null) {
-  const want = hashFor(country, year, deep);
+function canonicalizeHash(country: CountryId, year: EraId, deep?: { section: DeepDiveSectionId | null } | null, anchor?: string | null) {
+  const want = hashFor(country, year, deep, anchor);
   if (window.location.hash !== want) window.history.replaceState(null, "", want);
 }
 
@@ -108,7 +113,7 @@ export function EraProvider({ children }: { children: ReactNode }) {
   // Read once; canonicalizing on every render would keep restoring the first URL.
   const [initial] = useState(() => {
     const parsed = parseHash(window.location.hash);
-    if (parsed.year !== null) canonicalizeHash(parsed.country, parsed.year, parsed.deepDive);
+    if (parsed.year !== null) canonicalizeHash(parsed.country, parsed.year, parsed.deepDive, parsed.anchor);
     return parsed;
   });
   // A year in the URL decides the country; the stored choice only preselects one on the landing screen.
@@ -119,6 +124,7 @@ export function EraProvider({ children }: { children: ReactNode }) {
   const [year, setYearState] = useState<EraId>(initial.year ?? ERA_YEARS[0]);
   const [showLanding, setShowLanding] = useState(initial.year === null);
   const [deepDive, setDeepDive] = useState<{ section: DeepDiveSectionId | null } | null>(initial.deepDive);
+  const [anchor, setAnchor] = useState<string | null>(initial.anchor);
   const [isDragging, setDragging] = useState(false);
   const [muted, setMuted] = useState(readMuted);
   const position = useMotionValue(positionOf(year));
@@ -158,7 +164,8 @@ export function EraProvider({ children }: { children: ReactNode }) {
         setCountryState(next.country);
         setYearState(next.year);
         setDeepDive(next.deepDive);
-        canonicalizeHash(next.country, next.year, next.deepDive);
+        canonicalizeHash(next.country, next.year, next.deepDive, next.anchor);
+        setAnchor(next.anchor);
       }
     };
     window.addEventListener("hashchange", onHashChange);
@@ -170,6 +177,7 @@ export function EraProvider({ children }: { children: ReactNode }) {
       setYearState(next);
       setShowLanding(false);
       setDeepDive(null); // changing year always returns to that year's era page
+      setAnchor(null);
       const want = hashFor(country, next);
       if (window.location.hash !== want) window.location.hash = want.slice(1);
     },
@@ -183,10 +191,10 @@ export function EraProvider({ children }: { children: ReactNode }) {
       storeCountry(next);
       const stillDeep = deepDive !== null && hasDeepDive(next);
       if (!stillDeep) setDeepDive(null);
-      const want = hashFor(next, showLanding ? null : year, stillDeep ? deepDive : null);
+      const want = hashFor(next, showLanding ? null : year, stillDeep ? deepDive : null, anchor);
       if (window.location.hash !== want) window.history.replaceState(null, "", want);
     },
-    [showLanding, year, deepDive],
+    [showLanding, year, deepDive, anchor],
   );
 
   const openDeepDive = useCallback(
@@ -227,9 +235,9 @@ export function EraProvider({ children }: { children: ReactNode }) {
   const value = useMemo(
     () => ({
       year, setYear, position, isDragging, setDragging, showLanding, openLanding, muted, toggleMuted,
-      country, setCountry, displayCountry, countryLoading: country !== displayCountry, eraFor, overlayFor, deepDive, openDeepDive, closeDeepDive,
+      country, setCountry, displayCountry, countryLoading: country !== displayCountry, eraFor, overlayFor, deepDive, anchor, openDeepDive, closeDeepDive,
     }),
-    [year, setYear, position, isDragging, showLanding, openLanding, muted, toggleMuted, country, setCountry, displayCountry, eraFor, overlayFor, deepDive, openDeepDive, closeDeepDive],
+    [year, setYear, position, isDragging, showLanding, openLanding, muted, toggleMuted, country, setCountry, displayCountry, eraFor, overlayFor, deepDive, anchor, openDeepDive, closeDeepDive],
   );
 
   return <EraContext.Provider value={value}>{children}</EraContext.Provider>;

@@ -1,0 +1,500 @@
+{
+  "country": "world",
+  "year": 1930,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "The 1930 census counted a nation of 123 million, and about four in ten homes had a radio, as the Depression began.",
+      "items": [
+        {
+          "id": "world.1930.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 1930 census counted 123.2 million people, 16.2 percent more than in 1920 and 34.7 to the square mile.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 1930",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1930.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 1930 United States census",
+              "url": "https://en.wikipedia.org/wiki/1930_United_States_census",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "U.S. resident population",
+          "value": "123,202,624",
+          "unit": "people",
+          "asOf": "1930",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.by-the-numbers.radio-homes",
+          "kind": "stat",
+          "title": "Radio in the home",
+          "summary": "About 40 percent of households had at least one radio in April 1930, ranging from 63 percent of homes in New Jersey to 5 percent in Mississippi.",
+          "sources": [
+            {
+              "label": "National Archives, Prologue: The 1930 census",
+              "url": "https://www.archives.gov/publications/prologue/2002/spring/1930-census-1",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Museum of Broadcast Communications: Radio audience",
+              "url": "https://museum.tv/radio-encyclopedia/audience",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Households with a radio",
+          "value": "about 40",
+          "unit": "percent",
+          "asOf": "1930-04",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.by-the-numbers.motor-vehicles",
+          "kind": "stat",
+          "title": "Motor vehicles",
+          "summary": "Registrations reached 26.7 million: 23.0 million cars, 3.7 million trucks and 40,500 buses.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations",
+              "url": "https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Registered motor vehicles",
+          "value": "26,749,900",
+          "unit": "vehicles",
+          "asOf": "1930",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.by-the-numbers.unemployment",
+          "kind": "stat",
+          "title": "Out of work",
+          "summary": "Unemployment averaged 8.9 percent in 1930; one source counts 3.2 million jobless and another 4.3 million.",
+          "sources": [
+            {
+              "label": "Shmoop: The Great Depression timeline",
+              "url": "https://www.shmoop.com/study-guides/great-depression/timeline.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "University of M'sila (Algeria) e-learning: The Great Depression",
+              "url": "https://elearning.univ-msila.dz/moodle/mod/resource/view.php?id=51667",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Unemployment rate",
+          "value": "8.9",
+          "unit": "percent of the labour force",
+          "asOf": "1930 (annual average)",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Life expectancy, literacy, urban share and household size could not be confirmed for 1930 from a source we opened."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Bread came sliced from the store, and a year of hard times was beginning.",
+      "items": [
+        {
+          "id": "world.1930.everyday.food-and-kitchen.sliced-bread",
+          "kind": "fact",
+          "title": "Sliced bread goes national",
+          "summary": "Wonder Bread was marketing sliced bread nationwide by 1930, two years after a Missouri bakery first sold it on 7 July 1928.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sliced bread",
+              "url": "https://en.wikipedia.org/wiki/Sliced_bread",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Smithsonian National Museum of American History: sliced bread object record",
+              "url": "https://www.si.edu/object/nmah_1317263",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1930",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.food-and-kitchen.soup-kitchens",
+          "kind": "fact",
+          "title": "Soup kitchens",
+          "summary": "Cities fell back on the cheapest relief, soup kitchens giving free meals to anyone who turned up, and unemployed men queued outside them in Chicago in 1931.",
+          "sources": [
+            {
+              "label": "Wikipedia: Great Depression in the United States",
+              "url": "https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Chicago",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1930 grocery prices, relief meals or kitchen appliances, so only the one food change we could confirm is shown."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "In hard times women turned feed sacks into dresses, and patches and darning kept clothes going.",
+      "items": [
+        {
+          "id": "world.1930.everyday.clothing-and-style.feed-sacks",
+          "kind": "fact",
+          "title": "Dresses from feed sacks",
+          "summary": "Cotton feed sacks became free fabric for poor families, and women traded them; by the 1920s and 1930s manufacturers printed patterned and coloured sacks for home seamstresses.",
+          "sources": [
+            {
+              "label": "Wikipedia: Feed sack dress",
+              "url": "https://en.wikipedia.org/wiki/Feed_sack_dress",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "The Saturday Evening Post: Common threads, how Depression-era women turned feed sacks into fashion",
+              "url": "https://www.saturdayeveningpost.com/2024/07/common-threads-how-depression-era-women-turned-feed-sacks-into-fashion/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Piecework Magazine: Make do, feed sack fashion in the first half of the twentieth century",
+              "url": "https://pieceworkmagazine.com/make-do-feed-sack-fashion-in-the-first-half-of-the-twentieth-century/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "relatedIds": [
+            "world.1930.everyday.spotlight.clothes-spending"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.clothing-and-style.mending",
+          "kind": "fact",
+          "title": "Patching and darning",
+          "summary": "Patches, darning and other mending extended the life of clothes, and households focused on durable, practical wardrobes.",
+          "sources": [
+            {
+              "label": "The Saturday Evening Post: Common threads, how Depression-era women turned feed sacks into fashion",
+              "url": "https://www.saturdayeveningpost.com/2024/07/common-threads-how-depression-era-women-turned-feed-sacks-into-fashion/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Piecework Magazine: Make do, feed sack fashion in the first half of the twentieth century",
+              "url": "https://pieceworkmagazine.com/make-do-feed-sack-fashion-in-the-first-half-of-the-twentieth-century/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.clothing-and-style.white-for-black",
+          "kind": "fact",
+          "title": "White for black",
+          "summary": "In June 1931 Vogue observed that white had replaced black as the favoured shade for evening and formal day wear.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1930s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1930s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1931-06",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.clothing-and-style.garbo-hat",
+          "kind": "fact",
+          "title": "The year of the hat",
+          "summary": "A hat Adrian designed for Greta Garbo in the 1930 film Romance set off a nationwide buying craze, and Vogue called 1931 the Great Hat Year as tight cloches gave way to other shapes.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1930s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1930s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1930",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.clothing-and-style.catalogue-accessories",
+          "kind": "fact",
+          "title": "Glamour on a budget",
+          "summary": "Cheap but glamorous accessories such as diamanté clips, bracelets and brooches were sold to budget-conscious women through catalogues, and hemlines stayed long despite the Depression.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1930s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1930s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced descriptions of 1930 fashion or ready-made prices."
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A manufacturing week was about 44 hours.",
+      "items": [
+        {
+          "id": "world.1930.everyday.work-and-wages.factory-hours",
+          "kind": "stat",
+          "title": "A factory week",
+          "summary": "A manufacturing worker averaged 43.6 hours a week, a railroad worker 42.9 and a coal miner 33.3.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4589-4591: Average weekly hours in manufacturing, 1900-1957",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4589-4591.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average weekly hours, manufacturing",
+          "value": "43.6",
+          "unit": "hours",
+          "asOf": "1930",
+          "todo": true
+        },
+        {
+          "id": "world.1930.everyday.work-and-wages.wage-cuts",
+          "kind": "fact",
+          "title": "Wages hold, then fall",
+          "summary": "President Hoover urged businesses to keep wage rates high, and it was not until 1931 that owners began cutting wages to stay afloat.",
+          "sources": [
+            {
+              "label": "Wikipedia: Great Depression in the United States",
+              "url": "https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1931",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find a sourced 1930 wage figure: the Historical Statistics earnings table we opened ends in 1929."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "The school year had grown to about 173 days.",
+      "items": [
+        {
+          "id": "world.1930.everyday.school-and-childhood.school-year",
+          "kind": "stat",
+          "title": "The school year",
+          "summary": "The average school term was 172.7 days and a pupil attended 143.0 of them; 82.8 percent of enrolled pupils were present on a given day.",
+          "sources": [
+            {
+              "label": "NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000",
+              "url": "https://nces.ed.gov/programs/digest/d03/tables/dt036.asp",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average length of school term",
+          "value": "172.7",
+          "unit": "days",
+          "asOf": "1929-30",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures on enrolment, school costs or toys for 1930."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "More than 26 million motor vehicles were registered, 3.7 million of them trucks.",
+      "items": [
+        {
+          "id": "world.1930.everyday.getting-around.trucks-buses",
+          "kind": "stat",
+          "title": "Trucks and buses",
+          "summary": "Besides 23 million cars, the roads carried 3.67 million trucks and 40,500 buses.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "relatedIds": [
+            "world.1930.everyday.by-the-numbers.motor-vehicles"
+          ],
+          "metric": "Registered trucks",
+          "value": "3,674,600",
+          "unit": "trucks",
+          "asOf": "1930",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1930 fares or journey times; the vehicle count is under The year in numbers."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "The family gathered in the evening to listen.",
+      "items": [
+        {
+          "id": "world.1930.everyday.keeping-in-touch.amos-andy",
+          "kind": "fact",
+          "title": "Amos 'n' Andy",
+          "summary": "The fifteen-minute radio serial Amos 'n' Andy topped the national ratings in 1930-31 and 1931-32.",
+          "sources": [
+            {
+              "label": "Encyclopedia.com: 1930s TV and radio",
+              "url": "https://encyclopedia.com/history/culture-magazines/1930s-tv-and-radio",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1930.everyday.keeping-in-touch.painted-dreams",
+          "kind": "fact",
+          "title": "The first daytime serial",
+          "summary": "Painted Dreams, which premiered on WGN on 20 October 1930, is generally considered the first daytime serial drama on radio.",
+          "sources": [
+            {
+              "label": "Wikipedia: Golden Age of Radio",
+              "url": "https://en.wikipedia.org/wiki/Golden_Age_of_Radio",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1930-10-20",
+          "place": "Chicago",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.keeping-in-touch.evening-listening",
+          "kind": "fact",
+          "title": "A family affair",
+          "summary": "Radio listening was largely a family affair, mostly in the evening.",
+          "sources": [
+            {
+              "label": "Museum of Broadcast Communications: Radio audience",
+              "url": "https://museum.tv/radio-encyclopedia/audience",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1930 postage, telephone or telegraph details."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced material on health, doctors or hospitals for 1930."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced material on films, sport or holidays for 1930; radio is under Keeping in touch."
+    },
+    "spotlight": {
+      "title": "Making do in the Depression",
+      "standfirst": "Hard times in 1930 meant fewer jobs, tighter budgets and a radio that families kept when they gave up other things.",
+      "items": [
+        {
+          "id": "world.1930.everyday.spotlight.jobless",
+          "kind": "fact",
+          "title": "The jobless",
+          "summary": "Unemployment averaged about 8.9 percent in 1930, and sources count between 3.2 and 4.3 million people out of work.",
+          "sources": [
+            {
+              "label": "Shmoop: The Great Depression timeline",
+              "url": "https://www.shmoop.com/study-guides/great-depression/timeline.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "relatedIds": [
+            "world.1930.everyday.by-the-numbers.unemployment"
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1930.everyday.spotlight.radio-lifeline",
+          "kind": "fact",
+          "title": "Radio before the icebox",
+          "summary": "Social workers observed that some poor families would give up their iceboxes before they gave up their radios.",
+          "sources": [
+            {
+              "label": "Encyclopedia.com: 1930s TV and radio",
+              "url": "https://encyclopedia.com/history/culture-magazines/1930s-tv-and-radio",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1930.everyday.spotlight.bank-crisis",
+          "kind": "fact",
+          "title": "The first banking crisis",
+          "summary": "Rural banks began failing in October 1930 after farmers defaulted on loans, and over 800 banks had closed by January 1931.",
+          "sources": [
+            {
+              "label": "Wikipedia: Great Depression in the United States",
+              "url": "https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1930-10",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1930.everyday.spotlight.clothes-spending",
+          "kind": "fact",
+          "title": "Spending on clothes halves",
+          "summary": "National spending on clothing, accessories and jewellery fell from $11.2 billion in 1929 to $5.4 billion in 1933.",
+          "sources": [
+            {
+              "label": "The Saturday Evening Post: Common threads, how Depression-era women turned feed sacks into fashion",
+              "url": "https://www.saturdayeveningpost.com/2024/07/common-threads-how-depression-era-women-turned-feed-sacks-into-fashion/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1933",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Soup kitchens, bread lines and relief figures could not be sourced from pages we opened."
+    }
+  }
+}

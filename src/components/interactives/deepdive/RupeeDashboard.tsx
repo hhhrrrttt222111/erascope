@@ -26,11 +26,11 @@ export default function RupeeDashboard(props: InteractiveProps) {
       {rows.length === 0 ? (
         <Empty>Figures for this year are still being researched.</Empty>
       ) : (
-        <Box component="ul" sx={{ m: 0, p: 0 }}>
-          {rows.map(({ i, v, n }) => {
+        <Box component="ul" sx={{ m: 0, p: 0, display: "grid", gap: 2, gridTemplateColumns: { xs: "1fr", md: "repeat(2, 1fr)", lg: "repeat(3, 1fr)" } }}>
+          {rows.slice(0, 6).map(({ i, v, n }) => {
             const max = Math.max(v!, n ?? 0, 1e-9);
             return (
-              <li key={i.id} style={{ listStyle: "none", marginBottom: 14 }}>
+              <li key={i.id} style={{ listStyle: "none", minWidth: 0 }}>
                 <Typography sx={{ fontWeight: 700 }}>{i.metric}</Typography>
                 <svg role="img" aria-label={`${i.metric}: ${i.value} ${i.unit} in ${i.asOf}${n !== undefined ? `, ${n} ${i.unit} in 2026` : ""}`} viewBox="0 0 400 54" width="100%" style={{ maxWidth: 520 }}>
                   <rect x="70" y="4" width={Math.max((v! / max) * 320, 2)} height="20" fill={accent} />

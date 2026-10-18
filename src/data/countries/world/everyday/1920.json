@@ -1,0 +1,623 @@
+{
+  "country": "world",
+  "year": 1920,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "For the first time more than half of Americans lived in towns and cities, and the country had more than nine million motor vehicles.",
+      "items": [
+        {
+          "id": "world.1920.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 1920 census counted just over 106 million people, up 15 percent from 1910.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1920 United States census",
+              "url": "https://en.wikipedia.org/wiki/1920_United_States_census",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 1920",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1920.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Population of the United States",
+          "value": "106,021,537",
+          "unit": "people",
+          "asOf": "1920",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.by-the-numbers.urban-majority",
+          "kind": "stat",
+          "title": "A nation of towns",
+          "summary": "The 1920 census was the first in which more than half the population lived in places classed as urban, meaning 2,500 or more residents.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1920 United States census",
+              "url": "https://en.wikipedia.org/wiki/1920_United_States_census",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Share of the population in urban places",
+          "value": "over 50",
+          "unit": "percent",
+          "asOf": "1920",
+          "todo": true
+        },
+        {
+          "id": "world.1920.everyday.by-the-numbers.motor-vehicles",
+          "kind": "stat",
+          "title": "Motor vehicles",
+          "summary": "Registrations reached 9.24 million, of which 8.13 million were cars and 1.11 million trucks; in 1900 the figure was 8,000.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations",
+              "url": "https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Registered motor vehicles",
+          "value": "9,239,200",
+          "unit": "vehicles",
+          "asOf": "1920",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.by-the-numbers.telephone-households",
+          "kind": "stat",
+          "title": "Telephone in the house",
+          "summary": "More than a third of households had a telephone by the 1920s.",
+          "sources": [
+            {
+              "label": "UBC ETEC 540: Multi-frequency signalling (paper on the telephone, 1920)",
+              "url": "https://blogs.ubc.ca/etec540sept13/files/2013/10/Multi-frequency.pdf",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Households with a telephone",
+          "value": "more than a third",
+          "unit": "of households",
+          "asOf": "1920s",
+          "todo": true
+        },
+        {
+          "id": "world.1920.everyday.by-the-numbers.cinema-attendance",
+          "kind": "stat",
+          "title": "A weekly trip to the pictures",
+          "summary": "About 38 million tickets a week were sold in 1920, against a population of 106 million.",
+          "sources": [
+            {
+              "label": "Erik Lundegaard: Average weekly movie attendance for the last 100 years (citing George Lucas, Blockbusting)",
+              "url": "https://eriklundegaard.com/item/box-office-stat-of-the-day-average-weekly-movie-attendance-for-the-last-100-years",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Average weekly movie attendance",
+          "value": "about 38 million",
+          "unit": "admissions a week",
+          "asOf": "1920",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Life expectancy, literacy and household size could not be confirmed for 1920 from a source we opened, so they are left out."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Prohibition moved drinking into homes and speakeasies and brought finger food with it; ready-made foods were starting to shorten the kitchen day.",
+      "items": [
+        {
+          "id": "world.1920.everyday.food-and-kitchen.speakeasy-snacks",
+          "kind": "fact",
+          "title": "Snacks at the speakeasy",
+          "summary": "After Prohibition began, speakeasies served bite-sized snacks such as canapés, crab cakes and deviled eggs instead of heavy meals; by 1925 tens of thousands had opened in New York City alone.",
+          "sources": [
+            {
+              "label": "History.com: Prohibition, speakeasies and finger foods",
+              "url": "https://history.com/news/prohibition-speakeasies-and-finger-foods",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "The Saturday Evening Post: What We Ate 100 Years Ago",
+              "url": "https://www.saturdayeveningpost.com/2024/09/what-we-ate-100-years-ago/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "place": "New York City",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.food-and-kitchen.cocktail-party",
+          "kind": "fact",
+          "title": "The cocktail party at home",
+          "summary": "Cocktail parties at home became fashionable and popularised finger foods: lobster canapés, caviar rolls, crabmeat cocktails, oyster toast, devilled eggs and savory cheese balls.",
+          "sources": [
+            {
+              "label": "History.com: Prohibition, speakeasies and finger foods",
+              "url": "https://history.com/news/prohibition-speakeasies-and-finger-foods",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.food-and-kitchen.chicken-a-la-king",
+          "kind": "meal",
+          "title": "Dinner at home",
+          "summary": "A typical home dinner of the 1920s was chicken a la king with vegetables and a salad, finished with icebox cake, devil's food cake or pineapple upside-down cake.",
+          "sources": [
+            {
+              "label": "The Saturday Evening Post: What We Ate 100 Years Ago",
+              "url": "https://www.saturdayeveningpost.com/2024/09/what-we-ate-100-years-ago/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "mealTime": "evening",
+          "dishes": [
+            "chicken a la king",
+            "vegetables",
+            "salad",
+            "icebox cake or devil's food cake or pineapple upside-down cake"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.food-and-kitchen.light-breakfast",
+          "kind": "meal",
+          "title": "A lighter breakfast",
+          "summary": "Breakfast shifted from heavy meat and potatoes to an egg, toast and a processed cereal such as Corn Flakes, on sale since 1898.",
+          "sources": [
+            {
+              "label": "The Saturday Evening Post: What We Ate 100 Years Ago",
+              "url": "https://www.saturdayeveningpost.com/2024/09/what-we-ate-100-years-ago/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "mealTime": "morning",
+          "dishes": [
+            "an egg",
+            "toast",
+            "processed cereal"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.food-and-kitchen.jello-salad",
+          "kind": "meal",
+          "title": "Lunch with a jellied salad",
+          "summary": "Lunch was salads, sandwiches and soup, and creative cooks served Jell-O salads on lettuce, with celery, cabbage, cottage cheese or fruit cocktail set in the lime gelatin.",
+          "sources": [
+            {
+              "label": "The Saturday Evening Post: What We Ate 100 Years Ago",
+              "url": "https://www.saturdayeveningpost.com/2024/09/what-we-ate-100-years-ago/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "mealTime": "midday",
+          "dishes": [
+            "salad",
+            "sandwich",
+            "soup",
+            "Jell-O salad on lettuce"
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "Most 1920s food sources describe the whole decade, not 1920. We could not find sourced 1920 grocery prices or kitchen appliance counts, so no price cards are shown."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Women's hair got shorter and waistlines lower; men gave up starched collars, and cheaper fabrics let ordinary women copy fashionable styles.",
+      "items": [
+        {
+          "id": "world.1920.everyday.clothing-and-style.bob-cloche",
+          "kind": "fact",
+          "title": "The bob and the cloche",
+          "summary": "Many women wore a bob, a haircut that appeared early in the decade, and the close-fitting cloche hat suited the short styles.",
+          "sources": [
+            {
+              "label": "Fashion History Timeline (FIT): 1920-1929",
+              "url": "https://fashionhistory.fitnyc.edu/1920-1929/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.clothing-and-style.dresses",
+          "kind": "fact",
+          "title": "Lower waists",
+          "summary": "Waistlines dropped until 1923 and hemlines rose until 1926, before both turned.",
+          "sources": [
+            {
+              "label": "Fashion History Timeline (FIT): 1920-1929",
+              "url": "https://fashionhistory.fitnyc.edu/1920-1929/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Vogue Philippines: 1920s fashion history lesson",
+              "url": "https://vogue.ph/fashion/1920s-fashion-history-lesson/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.clothing-and-style.artificial-silk",
+          "kind": "fact",
+          "title": "Jersey and artificial silk",
+          "summary": "Jersey and artificial silk made fashionable styles cheaper, and cotton and linen were common in girls' dresses.",
+          "sources": [
+            {
+              "label": "Fashion History Timeline (FIT): 1920-1929",
+              "url": "https://fashionhistory.fitnyc.edu/1920-1929/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.clothing-and-style.home-sewing",
+          "kind": "fact",
+          "title": "Copying fashion at home",
+          "summary": "Simple styles could be copied at home with patterns and cheaper materials, and department stores supplied both, so fashion reached women of all means.",
+          "sources": [
+            {
+              "label": "Fashion History Timeline (FIT): 1920-1929",
+              "url": "https://fashionhistory.fitnyc.edu/1920-1929/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.clothing-and-style.soft-collars",
+          "kind": "fact",
+          "title": "Soft collars for men",
+          "summary": "Men's day wear moved away from starched collars and three-piece suits to soft collars and one- or two-button jackets, and sportswear became acceptable for everyday.",
+          "sources": [
+            {
+              "label": "Fashion History Timeline (FIT): 1920-1929",
+              "url": "https://fashionhistory.fitnyc.edu/1920-1929/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A manufacturing week was about 48 hours, a dozen fewer than in 1900, and a year's pay had more than tripled in dollars.",
+      "items": [
+        {
+          "id": "world.1920.everyday.work-and-wages.factory-hours",
+          "kind": "stat",
+          "title": "A factory week",
+          "summary": "A manufacturing worker averaged 48.1 hours a week, a railroad worker 48.0 and a coal miner 39.3.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4589-4591: Average weekly hours in manufacturing, 1900-1957",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4589-4591.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average weekly hours, manufacturing",
+          "value": "48.1",
+          "unit": "hours",
+          "asOf": "1920",
+          "todo": true
+        },
+        {
+          "id": "world.1920.everyday.work-and-wages.average-earnings",
+          "kind": "wage",
+          "title": "Average annual earnings",
+          "summary": "Across all non-farm employees a year's earnings averaged $1,426; across all employees, farm workers included, $1,342.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4280-4282: Daily and annual earnings of employees, 1860-1929",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4280-4282.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "job": "Non-farm employee, average",
+          "amount": "$1,426",
+          "per": "year",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1920 figures for women's work, child labour or typical household chores, so none are shown."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "A pupil attended school about 121 days of a 162-day term.",
+      "items": [
+        {
+          "id": "world.1920.everyday.school-and-childhood.school-year",
+          "kind": "stat",
+          "title": "The school year",
+          "summary": "The average school term was 161.9 days, and a pupil attended 121.2 of them; three in four enrolled pupils were in school on a given day.",
+          "sources": [
+            {
+              "label": "NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000",
+              "url": "https://nces.ed.gov/programs/digest/d03/tables/dt036.asp",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average length of school term",
+          "value": "161.9",
+          "unit": "days",
+          "asOf": "1919-20",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures for enrolment, school costs or toys for 1920."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The car was becoming ordinary: more than nine million were registered, and the Model T alone took up to 40 percent of new car sales.",
+      "items": [
+        {
+          "id": "world.1920.everyday.getting-around.model-t",
+          "kind": "fact",
+          "title": "The Model T",
+          "summary": "At its low prices the Model T at times made up as much as 40 percent of all cars sold in the United States.",
+          "sources": [
+            {
+              "label": "Encyclopaedia Britannica: Model T",
+              "url": "https://britannica.com/print/article/387041",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "relatedIds": [
+            "world.1920.everyday.by-the-numbers.motor-vehicles"
+          ],
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1920 fares or journey times for streetcars, trains or intercity trips, so there are no journey cards."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "From November 1920 the news could come into the house by radio, though a letter still cost two cents.",
+      "items": [
+        {
+          "id": "world.1920.everyday.keeping-in-touch.kdka",
+          "kind": "fact",
+          "title": "The first scheduled broadcast",
+          "summary": "KDKA in Pittsburgh began regular broadcasting on 2 November 1920 with the Harding-Cox election returns, on the air from 6 p.m. until noon the next day.",
+          "sources": [
+            {
+              "label": "ETHW: Milestones, Westinghouse Radio Station KDKA, 1920",
+              "url": "https://ethw.org/Milestones:Westinghouse_Radio_Station_KDKA,_1920",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 1920",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1920.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1920-11-02",
+          "place": "Pittsburgh",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.keeping-in-touch.letter-rate",
+          "kind": "fact",
+          "title": "Two cents again",
+          "summary": "The first-class letter rate, raised to 3 cents on 2 November 1917 as a temporary tax, went back to 2 cents on 30 June 1919.",
+          "sources": [
+            {
+              "label": "Wikipedia: War tax stamp",
+              "url": "https://en.wikipedia.org/wiki/War_tax_stamp",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Mystic Stamp Company: Mail during World War I",
+              "url": "https://info.mysticstamp.com/this-day-in-history-november-2-1917/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1919-06-30",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1920 delivery times or telegram and long-distance telephone rates."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Pneumonia, influenza and tuberculosis still topped the list of killers, and the 1918 pandemic was a recent memory.",
+      "items": [
+        {
+          "id": "world.1920.everyday.health-and-medicine.death-rates",
+          "kind": "stat",
+          "title": "Influenza, pneumonia and tuberculosis",
+          "summary": "Influenza and pneumonia together killed 207.3 people per 100,000 and tuberculosis 113.1 in 1920, according to a table of Public Health Service series.",
+          "sources": [
+            {
+              "label": "VCU: Death rates by cause of death, 1900-2001",
+              "url": "https://commed.vcu.edu/IntroPH/Introduction/deathrates_us.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes deaths from disease."
+          },
+          "metric": "Death rate, influenza and pneumonia",
+          "value": "207.3",
+          "unit": "per 100,000",
+          "asOf": "1920",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced doctor fees, hospital costs or vaccination figures for 1920."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Prohibition made the speakeasy a new kind of evening out, and the cinema drew about a third of the population every week.",
+      "items": [
+        {
+          "id": "world.1920.everyday.leisure-and-fun.speakeasies",
+          "kind": "fact",
+          "title": "Drinking underground",
+          "summary": "Prohibition drove drinking into illegal speakeasies in small towns and cities, from drab basements to upscale restaurants such as the 21 Club.",
+          "sources": [
+            {
+              "label": "History.com: Prohibition, speakeasies and finger foods",
+              "url": "https://history.com/news/prohibition-speakeasies-and-finger-foods",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "relatedIds": [
+            "world.1920.everyday.food-and-kitchen.speakeasy-snacks"
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced material for sport, holidays or music in 1920."
+    },
+    "spotlight": {
+      "title": "Prohibition and the vote for women",
+      "standfirst": "Within a year two amendments changed everyday life: one closed the bars, the other opened the polling place to women.",
+      "items": [
+        {
+          "id": "world.1920.everyday.spotlight.eighteenth",
+          "kind": "fact",
+          "title": "Prohibition takes effect",
+          "summary": "The Eighteenth Amendment was ratified on 16 January 1919 when Nebraska became the 36th state, and took effect on 17 January 1920.",
+          "sources": [
+            {
+              "label": "Wikipedia: Eighteenth Amendment to the United States Constitution",
+              "url": "https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Smithsonian Institution: 1920, a year in the collections",
+              "url": "https://www.si.edu/spotlight/1920",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1920-01-17",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.spotlight.volstead",
+          "kind": "fact",
+          "title": "The Volstead Act",
+          "summary": "Congress passed the Volstead Act on 28 October 1919, overriding President Wilson's veto; it defined an intoxicating drink as one with 0.5 percent alcohol or more.",
+          "sources": [
+            {
+              "label": "TribLive: Timeline of events important to Prohibition",
+              "url": "https://naviga.triblive.com/local/regional/timeline-of-events-important-to-prohibition",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "History.com: Prohibition, speakeasies and finger foods",
+              "url": "https://history.com/news/prohibition-speakeasies-and-finger-foods",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1919-10-28",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.spotlight.nineteenth",
+          "kind": "fact",
+          "title": "The vote for women",
+          "summary": "The Nineteenth Amendment was ratified on 18 August 1920 when Tennessee became the 36th state, and proclaimed by the Secretary of State on 26 August.",
+          "sources": [
+            {
+              "label": "Wikipedia: Nineteenth Amendment to the United States Constitution",
+              "url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "National Archives: Constitutional Amendments series, Amendment XIX",
+              "url": "https://reagan.blogs.archives.gov/category/constitutional-amendments/page/2",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1920-08-18",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1920.everyday.spotlight.suffrage-before",
+          "kind": "fact",
+          "title": "Women voters before 1920",
+          "summary": "Fifteen states had given women equal voting rights by 1918, so the amendment extended to the rest of the country a right many women already held.",
+          "sources": [
+            {
+              "label": "Wikipedia: Nineteenth Amendment to the United States Constitution",
+              "url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1920.everyday.spotlight.election-1920",
+          "kind": "fact",
+          "title": "The first national vote with women",
+          "summary": "The presidential election of 2 November 1920 was the first in which women could vote in all 48 states; the popular vote rose from 18.5 million in 1916 to 26.8 million.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1920 United States presidential election",
+              "url": "https://en.wikipedia.org/wiki/1920_United_States_presidential_election",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1920-11-02",
+          "todo": true
+        }
+      ]
+    }
+  }
+}

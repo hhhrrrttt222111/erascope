@@ -1,0 +1,652 @@
+{
+  "country": "world",
+  "year": 1945,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "Four years of rationing, a wartime labour force with nearly 19.3 million women in it, and the first penicillin on sale to the public.",
+      "items": [
+        {
+          "id": "world.1945.everyday.by-the-numbers.motor-vehicles",
+          "kind": "stat",
+          "title": "Motor vehicles",
+          "summary": "Registrations stood at 31.0 million (25.8 million cars, 5.1 million trucks), only 4.3 million more than in 1930 as new cars were not built for civilians.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations",
+              "url": "https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Registered motor vehicles",
+          "value": "31,035,400",
+          "unit": "vehicles",
+          "asOf": "1945",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.by-the-numbers.women-labour",
+          "kind": "stat",
+          "title": "Women in the labour force",
+          "summary": "The female labour force grew from 14.2 million in 1940 to 19.3 million in 1945, 29.2 percent of the total.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Women in the labour force",
+          "value": "19,304,000",
+          "unit": "women",
+          "asOf": "1945",
+          "todo": true
+        },
+        {
+          "id": "world.1945.everyday.by-the-numbers.victory-gardens",
+          "kind": "stat",
+          "title": "Victory gardens",
+          "summary": "By May 1943 there were 18 million victory gardens, 12 million in cities and suburbs and 6 million on farms.",
+          "sources": [
+            {
+              "label": "Wikipedia: Victory garden",
+              "url": "https://en.wikipedia.org/wiki/Victory_garden",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Victory gardens",
+          "value": "18 million",
+          "unit": "gardens",
+          "asOf": "1943-05",
+          "todo": true
+        },
+        {
+          "id": "world.1945.everyday.by-the-numbers.real-wages",
+          "kind": "stat",
+          "title": "Wages over the war years",
+          "summary": "Real wages rose 44 percent and average weekly earnings about 70 percent over the four war years.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Rise in real wages over the war years",
+          "value": "44",
+          "unit": "percent",
+          "asOf": "1941-45",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "todo": true
+        },
+        {
+          "id": "world.1945.everyday.by-the-numbers.penicillin-output",
+          "kind": "stat",
+          "title": "Penicillin output",
+          "summary": "By June 1945 over 646 billion units of penicillin a year were being produced.",
+          "sources": [
+            {
+              "label": "Wikipedia: Penicillin",
+              "url": "https://en.wikipedia.org/wiki/Penicillin",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Annual penicillin production",
+          "value": "over 646 billion",
+          "unit": "units a year",
+          "asOf": "1945-06",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Population, life expectancy and household figures for 1945 could not be confirmed from a source we opened."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Sugar, coffee, meat and butter came by the stamp, and a third of the vegetables eaten came from victory gardens.",
+      "items": [
+        {
+          "id": "world.1945.everyday.food-and-kitchen.sugar-book",
+          "kind": "fact",
+          "title": "Sugar by the book",
+          "summary": "Sugar sales stopped on 27 April 1942 and restarted on 5 May at half a pound per person per week, about half of normal use, against War Ration Book One, the 'Sugar Book', issued from 4 May.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1942-05",
+          "relatedIds": [
+            "world.1945.everyday.spotlight.ration-books"
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.food-and-kitchen.coffee",
+          "kind": "fact",
+          "title": "Coffee rationed",
+          "summary": "From 29 November 1942 coffee was rationed to one pound every five weeks, about half of normal consumption.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1942-11-29",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.food-and-kitchen.points-foods",
+          "kind": "fact",
+          "title": "Red stamps and blue stamps",
+          "summary": "Red stamps rationed meat and butter and blue stamps processed foods; by November 1943 meat, lard, cheese, butter, margarine, canned goods, dried fruit, jams and canned milk were all rationed.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.food-and-kitchen.victory-gardens-third",
+          "kind": "fact",
+          "title": "Grow your own, can your own",
+          "summary": "About one third of the vegetables produced in the United States came from victory gardens, and a poll found 54 percent of Americans gardened for economic reasons and 20 percent out of patriotism.",
+          "sources": [
+            {
+              "label": "Wikipedia: Victory garden",
+              "url": "https://en.wikipedia.org/wiki/Victory_garden",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.food-and-kitchen.cooking-fat",
+          "kind": "fact",
+          "title": "Saving cooking fat",
+          "summary": "Families saved used cooking fat to be made into soap, one of the household's contributions to scrap and salvage drives.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Fabric rules shortened skirts, nylons vanished and the Victory suit lost its cuffs.",
+      "items": [
+        {
+          "id": "world.1945.everyday.clothing-and-style.l85",
+          "kind": "fact",
+          "title": "Order L-85",
+          "summary": "From 8 April 1942 General Limitation Order L-85 limited fabric: wool jackets could be no longer than 25 inches, skirts no longer than 28 inches with 2-inch hems.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1940s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1940s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1942-04-08",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.clothing-and-style.nylon-gone",
+          "kind": "fact",
+          "title": "No stockings, so leg makeup",
+          "summary": "Nylon was short by October 1942 and virtually unobtainable by 1943, so women wore wool, cotton or rayon stockings or painted on leg makeup, drawing seams with eye pencil.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1940s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1940s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.clothing-and-style.victory-suit",
+          "kind": "fact",
+          "title": "The Victory suit",
+          "summary": "Men's Victory suits had no patch pockets, trouser cuffs or pleats, double-breasted suits lost their vests, and jackets had a maximum length.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1940s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1940s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.clothing-and-style.headscarves",
+          "kind": "fact",
+          "title": "Turbans and snoods in the factory",
+          "summary": "Snoods, turbans and headscarves were popular partly for safety at the factory, where long hair could catch in machinery.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1940s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1940s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.clothing-and-style.fighting-red",
+          "kind": "fact",
+          "title": "Lipstick as morale",
+          "summary": "Lipstick was promoted as a morale builder, in shades such as 'Fighting Red' and 'Jeep Red'.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1940s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1940s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1944",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.clothing-and-style.american-look",
+          "kind": "fact",
+          "title": "The American Look",
+          "summary": "Dorothy Shaver trademarked 'The American Look' in 1945, and designer Claire McCardell predicted rounder shoulders and fuller skirts to come.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1940s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1940s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1945",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "More women than ever were in paid work, overtime paid time and a half, and workers were urged to put a tenth of every pay packet into bonds.",
+      "items": [
+        {
+          "id": "world.1945.everyday.work-and-wages.factory-hours",
+          "kind": "stat",
+          "title": "A factory week",
+          "summary": "A manufacturing worker averaged 42.4 hours a week, a railroad worker 46.4 and a coal miner 38.4.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4589-4591: Average weekly hours in manufacturing, 1900-1957",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4589-4591.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average weekly hours, manufacturing",
+          "value": "42.4",
+          "unit": "hours",
+          "asOf": "1945",
+          "todo": true
+        },
+        {
+          "id": "world.1945.everyday.work-and-wages.rosie",
+          "kind": "fact",
+          "title": "Women's jobs open and close",
+          "summary": "Manufacturing employed more than 2.5 million additional women by 1944, a 140 percent rise; by 1946 women's employment was about 87 percent of the 1944 level as returning veterans took back jobs.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.work-and-wages.overtime",
+          "kind": "fact",
+          "title": "Overtime and untaxed benefits",
+          "summary": "Overtime paid time and a half, wages were controlled, and employers offered untaxed benefits such as vacation, pensions and health insurance.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.work-and-wages.ten-percent",
+          "kind": "fact",
+          "title": "The Ten Percent Club",
+          "summary": "Workers were urged to put at least 10 percent of every pay packet into war bonds, which cost three quarters of face value; factories with more than 90 percent taking part flew a 'Minuteman' flag.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.work-and-wages.median-income",
+          "kind": "fact",
+          "title": "Pay before the war",
+          "summary": "In 1941 the median income was $2,000 a year and 8 million workers earned less than the legal minimum.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1941",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "Children collected scrap for the war effort.",
+      "items": [
+        {
+          "id": "world.1945.everyday.school-and-childhood.scrap-drives",
+          "kind": "fact",
+          "title": "Children's scrap drives",
+          "summary": "Children peeled aluminium foil from gum wrappers into balls, collected rubber bands and gathered milkweed, said to be for life jackets.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.school-and-childhood.emic",
+          "kind": "fact",
+          "title": "Care for newborns",
+          "summary": "The EMIC programme gave free maternity and infant care to about 1.2 million wives and children of enlisted men in the four lowest pay grades, and home births fell sharply as more mothers had paid hospital care.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced school figures for 1945: the NCES table we opened has no entry between 1939-40 and 1949-50."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "A thirty-five mile an hour limit and a ration of three gallons a week put the bicycle back on the road.",
+      "items": [
+        {
+          "id": "world.1945.everyday.getting-around.gas-stickers",
+          "kind": "fact",
+          "title": "A, B and X",
+          "summary": "Gasoline stickers ranked drivers by priority: an A sticker meant 3 to 4 gallons a week, a B up to 8, and an X unlimited.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.getting-around.speed-limit",
+          "kind": "fact",
+          "title": "Thirty-five miles an hour",
+          "summary": "A national 35 mph limit saved fuel and rubber; a January 1942 Public Roads study found tires lasted four times as long at 35 mph as at 65.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1942",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.getting-around.no-new-cars",
+          "kind": "fact",
+          "title": "No new cars",
+          "summary": "Civilian car sales were halted on 1 January 1942 and sightseeing and pleasure driving were banned, so many Americans rode bicycles.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1942-01-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.getting-around.home-delivery",
+          "kind": "fact",
+          "title": "Deliveries stop",
+          "summary": "Stores that had delivered goods to the door mostly stopped, because of labour shortages and gasoline and tire rationing.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1945 postal rates, telephone figures or radio audiences."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Penicillin reached ordinary patients in March 1945.",
+      "items": [
+        {
+          "id": "world.1945.everyday.health-and-medicine.penicillin-public",
+          "kind": "fact",
+          "title": "Penicillin for everyone",
+          "summary": "Penicillin was made available to the general public in the United States on 15 March 1945.",
+          "sources": [
+            {
+              "label": "Wikipedia: Penicillin",
+              "url": "https://en.wikipedia.org/wiki/Penicillin",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1945-03-15",
+          "todo": true
+        },
+        {
+          "id": "world.1945.everyday.health-and-medicine.penicillin-1944",
+          "kind": "fact",
+          "title": "Millions of doses by 1944",
+          "summary": "Research on fermentation let the United States produce 2.3 million doses of penicillin by spring 1944, and a mouldy cantaloupe from a Peoria market yielded the strain used.",
+          "sources": [
+            {
+              "label": "Wikipedia: Penicillin",
+              "url": "https://en.wikipedia.org/wiki/Penicillin",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced material on films, radio, sport or holidays for 1945."
+    },
+    "spotlight": {
+      "title": "Rationing and the home front",
+      "standfirst": "Every man, woman and child had a ration book, and a stamp could buy shoes or sugar, until most rationing ended in August 1945.",
+      "items": [
+        {
+          "id": "world.1945.everyday.spotlight.ration-books",
+          "kind": "fact",
+          "title": "A book for every person",
+          "summary": "Each member of a household, babies included, received a ration book, issued through some 5,500 mostly volunteer local ration boards.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.spotlight.stamps-tokens",
+          "kind": "fact",
+          "title": "Stamps and wooden tokens",
+          "summary": "Most stamps did not name the goods or amount, which local newspapers announced; red and blue tokens made of compressed wood fibre were given as change because metal was scarce.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.spotlight.coupons-end-1942",
+          "kind": "fact",
+          "title": "What took coupons",
+          "summary": "By the end of 1942 coupons covered typewriters, gasoline, bicycles, shoes, rubber footwear, silk, nylon, fuel oil and stoves.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1942-12",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.spotlight.housing",
+          "kind": "fact",
+          "title": "Doubling up",
+          "summary": "In industrial areas families doubled up in cramped quarters, and the shortage of housing, because non-military building had stopped, lasted until about 1949.",
+          "sources": [
+            {
+              "label": "Wikipedia: American home front during World War II",
+              "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1945.everyday.spotlight.rationing-ends",
+          "kind": "fact",
+          "title": "Rationing ends",
+          "summary": "The OPA stopped printing 1946 ration books on 13 August 1945; most rationing ended that August, though sugar continued in some areas into 1946.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rationing in the United States",
+              "url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1945-08-13",
+          "checked": "2026-10-18"
+        }
+      ]
+    }
+  }
+}

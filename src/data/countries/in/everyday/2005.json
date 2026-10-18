@@ -1,0 +1,564 @@
+{
+  "country": "in",
+  "year": 2005,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "1.15 billion people, two in three with electricity at home, and fewer than eight in a hundred with a mobile phone.",
+      "items": [
+        {
+          "id": "in.2005.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "India's population was about 1.15 billion in 2005.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "1,154,676,322",
+          "unit": "people",
+          "asOf": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2005.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A newborn in 2005 could expect to live about 65 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "64.9",
+          "unit": "years",
+          "asOf": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2005.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 2.4 percent of Indians used the internet in 2005.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Share of individuals using the internet",
+              "url": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "2.39",
+          "unit": "percent of the population",
+          "asOf": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2005.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 7.8 mobile subscriptions for every 100 people, up from 0.34 in 2000.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "7.8",
+          "unit": "per 100 people",
+          "asOf": "2005",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.by-the-numbers.electricity",
+          "kind": "stat",
+          "title": "Electricity at home",
+          "summary": "About 69 percent of the population had access to electricity.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Access to electricity (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/EG.ELC.ACCS.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Access to electricity",
+          "value": "68.8",
+          "unit": "percent of the population",
+          "asOf": "2005",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 57 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns the deaths of infants."
+          },
+          "metric": "Infant mortality",
+          "value": "56.5",
+          "unit": "per 1,000 live births",
+          "asOf": "2005",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy and household size are not given for 2005: the census fell in 2001 and 2011. Rupee prices are on the era page."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Big Bazaar opened in 2001 and made hypermarket shopping familiar.",
+      "items": [
+        {
+          "id": "in.2005.everyday.food-and-kitchen.big-bazaar",
+          "kind": "fact",
+          "title": "Supermarkets",
+          "summary": "Big Bazaar opened in 2001 and made hypermarket shopping familiar.",
+          "sources": [
+            {
+              "label": "Wikipedia: Big Bazaar",
+              "url": "https://en.wikipedia.org/wiki/Big_Bazaar",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.food-and-kitchen.cola-pesticide",
+          "kind": "fact",
+          "title": "The cola controversy",
+          "summary": "The Centre for Science and Environment reported pesticide residues in cola drinks in 2003 and again in 2006.",
+          "sources": [
+            {
+              "label": "Wikipedia: Centre for Science and Environment",
+              "url": "https://en.wikipedia.org/wiki/Centre_for_Science_and_Environment",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.food-and-kitchen.cafe-culture",
+          "kind": "fact",
+          "title": "Cafés",
+          "summary": "Café Coffee Day and Barista made cafés a place for young people to meet.",
+          "sources": [
+            {
+              "label": "Wikipedia: Café Coffee Day",
+              "url": "https://en.wikipedia.org/wiki/Café_Coffee_Day",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Lakmé Fashion Week began in 2000, bringing designers and runway shows to Mumbai.",
+      "items": [
+        {
+          "id": "in.2005.everyday.clothing-and-style.lakme-week",
+          "kind": "fact",
+          "title": "Fashion week",
+          "summary": "Lakmé Fashion Week began in 2000, bringing designers and runway shows to Mumbai.",
+          "sources": [
+            {
+              "label": "Wikipedia: Lakmé Fashion Week",
+              "url": "https://en.wikipedia.org/wiki/Lakmé_Fashion_Week",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.clothing-and-style.low-rise-jeans",
+          "kind": "fact",
+          "title": "Low-rise jeans",
+          "summary": "Low-rise jeans and tops were the style among young city dwellers.",
+          "sources": [
+            {
+              "label": "Wikipedia: Low-rise jeans",
+              "url": "https://en.wikipedia.org/wiki/Low-rise_jeans",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.clothing-and-style.mall-shopping",
+          "kind": "fact",
+          "title": "Mall shopping",
+          "summary": "Malls opened in cities and brought branded clothes and multiplexes.",
+          "sources": [
+            {
+              "label": "Wikipedia: Shopping mall",
+              "url": "https://en.wikipedia.org/wiki/Shopping_mall",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A law gave every rural household the right to 100 days of paid work, and from February 2006 the first districts began to offer it.",
+      "items": [
+        {
+          "id": "in.2005.everyday.work-and-wages.nrega-passed",
+          "kind": "fact",
+          "title": "What the Act promised",
+          "summary": "The Mahatma Gandhi National Rural Employment Guarantee Act passed the Lok Sabha on 23 August and the Rajya Sabha on 25 August 2005, received assent on 5 September, and began on 2 February 2006, promising at least 100 days of paid unskilled work a year to rural households that volunteer for it.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-08-23",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.2005.dd.government-politics.nrega"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2005.everyday.work-and-wages.nrega-allowance",
+          "kind": "fact",
+          "title": "An allowance if no work comes",
+          "summary": "Applicants are entitled to an unemployment allowance if work is not provided within 15 days of applying.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2005.everyday.work-and-wages.nrega-scale",
+          "kind": "fact",
+          "title": "How far it reached",
+          "summary": "The programme began in a pilot of 625 districts and covered all districts from 1 April 2008, on average giving work to about 5 crore (50 million) households a year since then; 12 crore (120 million) job cards had been issued by 2012, and wages ranged from Rs 122 in Bihar and Jharkhand to Rs 191 in Haryana.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2005 wage rates; the Act's wage figures are from later years."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "",
+      "items": [
+        {
+          "id": "in.2005.everyday.school-and-childhood.child-labour-rescue",
+          "kind": "fact",
+          "title": "Children rescued from factories",
+          "summary": "On 21 November 2005 the NGO Pratham, with Delhi Police and the Labour Department, rescued 487 trafficked child labourers from illegal factories in North Shahdara, East Delhi.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-11-21",
+          "place": "Delhi",
+          "regionTag": "north",
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns child labour and trafficking."
+          },
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced school enrolment or fees for 2005."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "A new low-cost airline began flying between Delhi and Mumbai.",
+      "items": [
+        {
+          "id": "in.2005.everyday.getting-around.spicejet",
+          "kind": "fact",
+          "title": "SpiceJet takes off",
+          "summary": "SpiceJet began domestic operations on its New Delhi-Mumbai route on 24 May 2005.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-05-24",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.2005.dd.technology-science.spicejet"
+          ],
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2005 railway fares or journey times."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "Phone calls abroad got cheaper, and when the rains came to Mumbai millions lost their connection.",
+      "items": [
+        {
+          "id": "in.2005.everyday.keeping-in-touch.bandwidth-cut",
+          "kind": "fact",
+          "title": "Cheaper bandwidth",
+          "summary": "On 10 March 2005 TRAI cut international bandwidth tariffs by up to 70 percent, effective 1 April.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-03-10",
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.keeping-in-touch.idd-rates",
+          "kind": "price",
+          "title": "Calls to the Gulf and abroad",
+          "summary": "From 21 May 2005 International Direct Dialling rates to the Gulf, SAARC countries, Saudi Arabia, Africa, Australia and New Zealand fell 33 percent to Rs 12 a minute.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-05-21",
+          "regionTag": "national",
+          "price": "Rs 12 a minute",
+          "originalUnits": "Rs 12 per minute (down 33 percent)",
+          "decimalINR": "₹12",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.keeping-in-touch.flood-outage",
+          "kind": "fact",
+          "title": "Cut off in the flood",
+          "summary": "When Mumbai flooded on 26 July 2005, about 5 million mobile users and 2.3 million MTNL landline users were affected for over four hours.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 Maharashtra floods",
+              "url": "https://en.wikipedia.org/wiki/2005_Maharashtra_floods",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-07-26",
+          "place": "Mumbai",
+          "regionTag": "west",
+          "relatedIds": [
+            "in.2005.dd.freedom-history.mumbai-floods"
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "The flood killed about 1,094 people."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2005 mobile tariffs, SMS volumes or subscriber counts beyond the World Bank figure."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "A commission ruled that hospitals must treat emergencies before asking for money.",
+      "items": [
+        {
+          "id": "in.2005.everyday.health-and-medicine.emergency-treatment",
+          "kind": "fact",
+          "title": "Treat first",
+          "summary": "On 25 April 2005 the National Consumer Disputes Redressal Commission ruled that hospitals must accept accident victims and critically ill patients, that doctors cannot demand fees before treating, and that relatives' consent is not needed when no family member is present.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-04-25",
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2005 doctor fees, hospital costs or disease figures beyond infant mortality."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "The multiplex had been in India since 1997, and in 2005 a leading chain was opening one in a mall every few months.",
+      "items": [
+        {
+          "id": "in.2005.everyday.leisure-and-fun.first-multiplex",
+          "kind": "fact",
+          "title": "The first multiplex",
+          "summary": "PVR's company history says it opened India's first multiplex cinema, PVR Anupam in Saket, New Delhi, in June 1997 and by 2003 to 2005 was adding screens in malls in Gurgaon, Bangalore, Faridabad and East Delhi (March 2005).",
+          "sources": [
+            {
+              "label": "PVR company history (PVR Ltd, Pocketful)",
+              "url": "https://www.pocketful.in/stocks/pvr-inox-ltd/history",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "ICMR: PVR Ltd.'s growth and future prospects",
+              "url": "https://icmrindia.org/Casestudies/catalogue/Marketing/Growth%20and%20Future%20Prospects.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "place": "Delhi",
+          "regionTag": "north",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2005.everyday.leisure-and-fun.largest-chain",
+          "kind": "fact",
+          "title": "Fifty-one screens",
+          "summary": "With 51 screens as of February 2006, PVR was the largest multiplex operator in India.",
+          "sources": [
+            {
+              "label": "PVR company history (PVR Ltd, Pocketful)",
+              "url": "https://www.pocketful.in/stocks/pvr-inox-ltd/history",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "2006-02",
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2005 ticket prices, mall counts or festival material."
+    },
+    "spotlight": {
+      "title": "The mobile phone and SMS boom",
+      "standfirst": "Mobile phones went from rarity to a necessity for urban India within the decade, as calls became cheaper and networks multiplied.",
+      "items": [
+        {
+          "id": "in.2005.everyday.spotlight.subscribers",
+          "kind": "stat",
+          "title": "From 0.3 to 7.8 per hundred",
+          "summary": "Mobile subscriptions rose from 0.34 per 100 people in 2000 to 7.8 in 2005 and 60.5 in 2010.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Mobile cellular subscriptions per 100 people",
+          "value": "7.8 (2005)",
+          "unit": "per 100 people",
+          "asOf": "2005",
+          "todo": true
+        },
+        {
+          "id": "in.2005.everyday.spotlight.operators",
+          "kind": "fact",
+          "title": "New operators",
+          "summary": "Reliance Communications began operating in 2004, and Escotel, which started in 1996, ceased in 2004 and was merged into Idea Cellular.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mobile phone industry in India",
+              "url": "https://en.wikipedia.org/wiki/Mobile_phone_industry_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2004",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2005 subscriber counts, prepaid shares, SMS volumes or handset prices, so the section shows only what could be traced."
+    }
+  }
+}

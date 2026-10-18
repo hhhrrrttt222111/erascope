@@ -1,5 +1,5 @@
 import { Box, Button, Typography } from "@mui/material";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useReducedMotion } from "../../../hooks/useReducedMotion";
 import { useDeepDiveStyle } from "../../deepdive/useDeepDiveStyle";
 import { Empty, InteractiveShell } from "./Shell";
@@ -31,14 +31,21 @@ export default function Bookshelf3D(props: InteractiveProps) {
   const [open, setOpen] = useState<string | null>(null);
   const chosen = works.find((w) => w.id === open);
 
+  const shelf = useRef<HTMLUListElement>(null);
   useEffect(() => {
-    works.forEach((w) => w.originalTitle && loadScriptFont(w.originalTitle.lang));
+    const el = shelf.current;
+    if (!el) return;
+    const load = () => works.forEach((w) => w.originalTitle && loadScriptFont(w.originalTitle.lang));
+    if (!("IntersectionObserver" in window)) return load();
+    const io = new IntersectionObserver(([e]) => { if (e.isIntersecting) { load(); io.disconnect(); } });
+    io.observe(el);
+    return () => io.disconnect();
   }, [works]);
 
   if (works.length === 0) return <InteractiveShell title="Bookshelf"><Empty>No works listed for this year yet.</Empty></InteractiveShell>;
   return (
     <InteractiveShell title="Bookshelf" hint="Select a spine to pull the book out. Titles appear in their own script where verified.">
-      <Box component="ul" sx={{ m: 0, p: 0, display: "flex", gap: 1, alignItems: "flex-end", flexWrap: "wrap", perspective: "800px", borderBottom: `8px solid ${accent2}`, pb: 0.5 }}>
+      <Box component="ul" ref={shelf} sx={{ m: 0, p: 0, display: "flex", gap: 1, alignItems: "flex-end", flexWrap: "wrap", perspective: "800px", borderBottom: `8px solid ${accent2}`, pb: 0.5 }}>
         {works.map((w, i) => {
           const pulled = w.id === open;
           const lang = w.originalTitle?.lang;

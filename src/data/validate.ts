@@ -3,7 +3,7 @@
  * scripts/validate-eras.ts (`npm run validate`, also run by `npm run build`).
  * Plain TypeScript with no bundler or DOM dependencies so Node can run it directly.
  */
-import type { Claim, DeepDive, DeepDiveItem, DeepDiveThread, Era, EraBase, EraId, FactCheckRow, Source } from "./types.ts";
+import type { Claim, DeepDive, Everyday, EverydayItem, DeepDiveItem, DeepDiveThread, Era, EraBase, EraId, FactCheckRow, Source } from "./types.ts";
 import { DEEP_DIVE_SECTIONS, isSectionId } from "./deepdive.ts";
 
 export const ERA_YEARS: readonly EraId[] = [1900, 1920, 1930, 1945, 1960, 1970, 1984, 1995, 1999, 2005, 2010, 2020, 2050];
@@ -462,6 +462,49 @@ export function validateThreads(threads: DeepDiveThread[], knownIds: Set<string>
     ids.add(t.id);
     if (t.section && !isSectionId(t.section)) errors.push(`threads.json: "${t.id}" has unknown section "${t.section}"`);
     for (const id of t.itemIds) if (!knownIds.has(id)) errors.push(`threads.json: "${t.id}" points at missing id "${id}"`);
+  }
+  return errors;
+}
+
+// ---------------------------------------------------------------- Everyday sections (year page)
+
+export interface EverydayContext {
+  base: EraBase | undefined;
+  reportIds: Set<string>;
+  knownIds: Set<string>; // every id relatedIds may point at
+}
+
+const SENSITIVE = /\b(famine|epidemic|plague|pandemic|cholera|influenza|war|wartime|disaster|cyclone|floods?|massacre)\b/i;
+const SPECULATIVE_WORDS = /\b(speculative|scenario)\b/i;
+const kebab = (id: string) => id.replace(/[A-Z]/g, (c) => `-${c.toLowerCase()}`);
+
+/** Rules for one country-year of everyday content. Counts are checked separately by scripts/check-counts.ts. */
+export function validateEveryday(file: string, ev: Everyday, ctx: EverydayContext, ids = new Set<string>()): string[] {
+  const errors: string[] = [];
+  const err = (m: string) => errors.push(`${file}: ${m}`);
+  if (!ctx.base) err(`has no eraBase/${ev.year}.json`);
+  else if (ev.speculative !== ctx.base.speculative) err(`speculative (${ev.speculative}) must match eraBase (${ctx.base.speculative})`);
+  const spec = Boolean(ctx.base?.speculative);
+  for (const [sec, section] of Object.entries(ev.sections ?? {})) {
+    for (const it of section.items as EverydayItem[]) {
+      const where = `${it.id ?? "(no id)"}`;
+      const e = (m: string) => err(`${where}: ${m}`);
+      if (!new RegExp(`^${ev.country}\\.${ev.year}\\.everyday\\.${kebab(sec)}\\.[a-z0-9-]+$`).test(it.id ?? "")) e(`id must be ${ev.country}.${ev.year}.everyday.${kebab(sec)}.<slug>`);
+      if (ids.has(it.id)) e("duplicate id");
+      ids.add(it.id);
+      if (!ctx.reportIds.has(it.id)) e("has no row in docs/fact-check.json");
+      if (!spec && (it.sources?.length ?? 0) === 0 && !it.todo) e("needs sources or todo: true");
+      if (["stat", "price", "wage", "journey", "message"].includes(it.kind) && (it.sources?.length ?? 0) < 2 && !it.todo) e(`a ${it.kind} item needs two sources (or todo: true)`);
+      if (it.kind === "stat" && !it.asOf) e("stat needs asOf");
+      if (ev.country === "in" && ev.year < 1957 && (it.kind === "price" || it.kind === "wage") && !it.originalUnits) e("pre-1957 India price or wage needs originalUnits");
+      if (it.kind === "price" && it.adjusted2026 && !it.adjustedMethod) e("adjusted2026 needs adjustedMethod");
+      if (SENSITIVE.test(`${it.title} ${it.summary}`) && it.sensitivity?.level !== "content-note") e('mentions famine, epidemic, war or disaster: needs sensitivity.level "content-note"');
+      const text = JSON.stringify(it);
+      if (ev.country === "world" && /₹|\bannas?\b|\bpies?\b/i.test(text)) e("World item uses India-specific currency");
+      if (ev.country === "in" && /\$|\bUSD\b/.test(text)) e("India item uses USD prices");
+      if (!spec && SPECULATIVE_WORDS.test(`${it.title} ${it.summary}`)) e("historical item uses speculative wording");
+      for (const r of it.relatedIds ?? []) if (!ctx.knownIds.has(r)) e(`relatedIds points at unknown id "${r}"`);
+    }
   }
   return errors;
 }

@@ -112,7 +112,7 @@
       "interactive": {
         "component": "TechThenNow"
       },
-      "scarcityNote": "Only 3 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -262,7 +262,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "freedom-history": {
       "title": "Independence & history",
@@ -329,7 +330,7 @@
       "interactive": {
         "component": "ChronicleScroll"
       },
-      "scarcityNote": "Only 2 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "personalities": {
       "title": "Famous personalities",
@@ -343,7 +344,7 @@
           "field": "Politics",
           "born": "1934",
           "whyThisYear": "She was President of India throughout 2010.",
-          "regionTag": "national",
+          "regionTag": "west",
           "sources": [
             {
               "label": "Wikipedia: Pratibha Patil",
@@ -358,7 +359,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.2010.dd.personalities.manmohan-singh",
@@ -368,7 +370,7 @@
           "field": "Politics and economics",
           "born": "1932",
           "whyThisYear": "His government brought the Right to Education Act into force on 1 April.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "2024",
           "sources": [
             {
@@ -384,7 +386,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2010.dd.personalities.viswanathan-anand",
@@ -394,7 +397,7 @@
           "field": "Chess",
           "born": "1969",
           "whyThisYear": "He retained his world title by beating Veselin Topalov in Sofia, 6.5 to 5.5.",
-          "regionTag": "national",
+          "regionTag": "south",
           "sources": [
             {
               "label": "Wikipedia: Viswanathan Anand",
@@ -409,7 +412,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2010.dd.personalities.sachin-tendulkar",
@@ -419,7 +423,7 @@
           "field": "Cricket",
           "born": "1973",
           "whyThisYear": "He scored 200 not out against South Africa, the first double century in One Day Internationals.",
-          "regionTag": "national",
+          "regionTag": "west",
           "sources": [
             {
               "label": "Wikipedia: Sachin Tendulkar",
@@ -428,7 +432,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2010.dd.personalities.rajinikanth",
@@ -438,7 +443,7 @@
           "field": "Cinema",
           "born": "1950",
           "whyThisYear": "He starred in Enthiran, released on 1 October 2010.",
-          "regionTag": "national",
+          "regionTag": "south",
           "sources": [
             {
               "label": "Wikipedia: Rajinikanth",
@@ -453,7 +458,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2010.dd.personalities.salman-khan",
@@ -463,7 +469,7 @@
           "field": "Cinema",
           "born": "1965",
           "whyThisYear": "He starred in Dabangg, the year's highest-grossing Hindi film.",
-          "regionTag": "national",
+          "regionTag": "central",
           "sources": [
             {
               "label": "Wikipedia: Salman Khan",
@@ -478,7 +484,63 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
+        },
+        {
+          "id": "in.2010.dd.personalities.saina-nehwal",
+          "kind": "person",
+          "title": "Saina Nehwal",
+          "summary": "Badminton player from Hisar, Haryana, who reached a world ranking of 2 in 2010.",
+          "field": "Badminton",
+          "born": "1990-03-17",
+          "gender": "female",
+          "regionTag": "north",
+          "place": "Hisar, Haryana",
+          "whyThisYear": "She won the women's singles gold at the Commonwealth Games in New Delhi, beating Wong Mew Choo 19-21, 23-21, 21-13, won the India Open Grand Prix Gold and the Singapore Open Super Series, and reached world number 2 on 15 July 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: Saina Nehwal",
+              "url": "https://en.wikipedia.org/wiki/Saina_Nehwal",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "in.2010.dd.personalities.jyoti-basu",
+          "kind": "person",
+          "title": "Jyoti Basu",
+          "summary": "Communist leader and the longest-serving Chief Minister of West Bengal, from 1977 to 2000.",
+          "field": "Politics",
+          "born": "1914-07-08",
+          "died": "2010-01-17",
+          "gender": "male",
+          "regionTag": "east",
+          "place": "Kolkata",
+          "whyThisYear": "He died of pneumonia in Kolkata on 17 January 2010, aged 95.",
+          "sources": [
+            {
+              "label": "Wikipedia: Jyoti Basu",
+              "url": "https://en.wikipedia.org/wiki/Jyoti_Basu",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -573,7 +635,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 2 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -636,6 +698,63 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2010.dd.sports.kabaddi-world-cup",
+          "kind": "sport",
+          "title": "The Kabaddi World Cup",
+          "summary": "India won its first circle-style Kabaddi World Cup in Punjab, beating Pakistan 58-24 in the final in Ludhiana on 12 April 2010.",
+          "sport": "Kabaddi",
+          "competition": "Kabaddi World Cup (circle style), Punjab",
+          "result": "Champions",
+          "scoreline": "India 58, Pakistan 24",
+          "athletes": [],
+          "date": "2010-04-12",
+          "place": "Ludhiana",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 Kabaddi World Cup",
+              "url": "https://en.wikipedia.org/wiki/2010_Kabaddi_World_Cup",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2010.dd.sports.hockey-world-cup",
+          "kind": "sport",
+          "title": "The Hockey World Cup in Delhi",
+          "summary": "India hosted the Men's Hockey World Cup at the Dhyan Chand National Stadium from 28 February to 13 March 2010; Australia beat Germany 2-1 in the final.",
+          "sport": "Hockey",
+          "competition": "Men's Hockey World Cup, New Delhi",
+          "result": "Hosts; Australia champions",
+          "athletes": [],
+          "date": "2010-03-13",
+          "place": "New Delhi",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 Men's Hockey World Cup",
+              "url": "https://en.wikipedia.org/wiki/2010_Men%27s_Hockey_World_Cup",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -666,7 +785,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 2 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -703,7 +822,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 1 item for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -734,7 +853,7 @@
       "interactive": {
         "component": "ReadingRoom"
       },
-      "scarcityNote": "Only 1 item for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -815,7 +934,7 @@
       "interactive": {
         "component": "ProjectorReel"
       },
-      "scarcityNote": "Only 3 items for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -843,7 +962,7 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "Only 1 item for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
@@ -911,7 +1030,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 1 item for 2010 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

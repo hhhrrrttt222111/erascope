@@ -90,7 +90,7 @@
       "interactive": {
         "component": "TechThenNow"
       },
-      "scarcityNote": "Only 2 items for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -230,7 +230,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 3 items for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "freedom-history": {
       "title": "Independence & history",
@@ -341,6 +341,60 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2020.dd.freedom-history.delhi-election",
+          "kind": "event",
+          "title": "The Delhi election of 2020",
+          "summary": "Delhi voted on 8 February 2020 and the Aam Aadmi Party won 62 of the 70 seats on 11 February, the BJP eight and Congress none, on a turnout of 62.82 percent.",
+          "eventType": "election",
+          "date": "2020-02-11",
+          "place": "Delhi",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 Delhi Legislative Assembly election",
+              "url": "https://en.wikipedia.org/wiki/2020_Delhi_Legislative_Assembly_election",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.dd.freedom-history.delhi-riots",
+          "kind": "event",
+          "title": "The Delhi riots",
+          "summary": "Riots in North East Delhi between 23 and 29 February 2020, after protests against the Citizenship (Amendment) Act, killed 53 people and injured over 200; the article says the violence was brought about chiefly by Hindu mobs attacking Muslims.",
+          "eventType": "other",
+          "date": "2020-02-23",
+          "place": "North East Delhi",
+          "regionTag": "north",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes communal violence and loss of life."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 Delhi riots",
+              "url": "https://en.wikipedia.org/wiki/2020_Delhi_riots",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -359,7 +413,7 @@
           "field": "Politics",
           "born": "1950",
           "whyThisYear": "He announced the 21-day lockdown on 24 March and the Atmanirbhar Bharat Abhiyan on 12 May.",
-          "regionTag": "national",
+          "regionTag": "west",
           "sources": [
             {
               "label": "Wikipedia: Narendra Modi",
@@ -374,32 +428,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.2020.dd.personalities.ram-nath-kovind",
-          "kind": "person",
-          "title": "Ram Nath Kovind",
-          "summary": "President, born in 1945.",
-          "field": "Politics",
-          "born": "1945",
-          "whyThisYear": "He was President throughout 2020.",
-          "regionTag": "national",
-          "sources": [
-            {
-              "label": "Wikipedia: Ram Nath Kovind",
-              "url": "https://en.wikipedia.org/wiki/Ram_Nath_Kovind",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: 2020 in India",
-              "url": "https://en.wikipedia.org/wiki/2020_in_India",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2020.dd.personalities.irrfan-khan",
@@ -409,7 +439,7 @@
           "field": "Cinema",
           "born": "1967",
           "whyThisYear": "He died on 29 April 2020.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "2020",
           "sources": [
             {
@@ -425,33 +455,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.2020.dd.personalities.rishi-kapoor",
-          "kind": "person",
-          "title": "Rishi Kapoor",
-          "summary": "Actor, born in 1952.",
-          "field": "Cinema",
-          "born": "1952",
-          "whyThisYear": "He died on 30 April 2020.",
-          "regionTag": "national",
-          "died": "2020",
-          "sources": [
-            {
-              "label": "Wikipedia: Rishi Kapoor",
-              "url": "https://en.wikipedia.org/wiki/Rishi_Kapoor",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: 2020 in India",
-              "url": "https://en.wikipedia.org/wiki/2020_in_India",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2020.dd.personalities.sushant-singh-rajput",
@@ -461,7 +466,7 @@
           "field": "Cinema",
           "born": "1986",
           "whyThisYear": "He died on 14 June 2020; his last film, Dil Bechara, was released after his death.",
-          "regionTag": "national",
+          "regionTag": "east",
           "died": "2020",
           "sources": [
             {
@@ -477,7 +482,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2020.dd.personalities.arvind-kejriwal",
@@ -487,7 +493,7 @@
           "field": "Politics",
           "born": "1968",
           "whyThisYear": "His Aam Aadmi Party won 62 of 70 seats in the Delhi election in February.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Arvind Kejriwal",
@@ -502,7 +508,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2020.dd.personalities.chuni-goswami",
@@ -512,7 +519,7 @@
           "field": "Football",
           "born": "1938",
           "whyThisYear": "The footballer died on 30 April 2020.",
-          "regionTag": "national",
+          "regionTag": "east",
           "died": "2020",
           "sources": [
             {
@@ -528,7 +535,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2020.dd.personalities.nihal-sarin",
@@ -538,7 +546,7 @@
           "field": "Chess",
           "born": "2004",
           "whyThisYear": "He was in the Indian team that shared gold at the online chess Olympiad.",
-          "regionTag": "national",
+          "regionTag": "south",
           "sources": [
             {
               "label": "Wikipedia: Nihal Sarin",
@@ -553,7 +561,68 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
+        },
+        {
+          "id": "in.2020.dd.personalities.saroj-khan",
+          "kind": "person",
+          "title": "Saroj Khan",
+          "summary": "Choreographer of Hindi cinema, known for Hawa Hawai in Mr. India and Ek Do Teen in Tezaab.",
+          "field": "Choreography",
+          "born": "1948-11-22",
+          "died": "2020-07-03",
+          "gender": "female",
+          "regionTag": "west",
+          "place": "Bombay (now Mumbai)",
+          "whyThisYear": "She died of cardiac arrest in Mumbai on 3 July 2020, aged 71.",
+          "sources": [
+            {
+              "label": "Wikipedia: Saroj Khan",
+              "url": "https://en.wikipedia.org/wiki/Saroj_Khan",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.dd.personalities.sugathakumari",
+          "kind": "person",
+          "title": "Sugathakumari",
+          "summary": "Malayalam poet and activist in Kerala's environmental and feminist movements, author of Raathrimazha.",
+          "field": "Poetry and activism",
+          "born": "1934-01-22",
+          "died": "2020-12-23",
+          "gender": "female",
+          "regionTag": "south",
+          "place": "Thiruvananthapuram",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item mentions a death from COVID-19."
+          },
+          "whyThisYear": "She died of COVID-19 complications in Thiruvananthapuram on 23 December 2020, aged 86; in the late 1970s she had led the campaign to save Silent Valley.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sugathakumari",
+              "url": "https://en.wikipedia.org/wiki/Sugathakumari",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -635,7 +704,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 2 items for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -677,7 +746,7 @@
       "interactive": {
         "component": "ScorecardReplay"
       },
-      "scarcityNote": "Only 1 item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -708,7 +777,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 1 item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -740,7 +809,7 @@
       "interactive": {
         "component": "ReadingRoom"
       },
-      "scarcityNote": "Only 1 item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -841,7 +910,8 @@
       ],
       "interactive": {
         "component": "ProjectorReel"
-      }
+      },
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -850,7 +920,7 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "No item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
@@ -880,12 +950,32 @@
             }
           ],
           "checked": "2026-10-14"
+        },
+        {
+          "id": "in.2020.dd.economy-business.gdp-contraction",
+          "kind": "indicator",
+          "title": "GDP in the first lockdown quarter",
+          "summary": "India's GDP contracted 23.9 percent in the first quarter of the 2020-21 financial year, reported on 31 August 2020.",
+          "metric": "GDP growth, April-June 2020",
+          "value": "-23.9",
+          "unit": "percent",
+          "asOf": "2020-Q2",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
         "component": "RupeeDashboard"
       },
-      "scarcityNote": "Only 1 item for 2020 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

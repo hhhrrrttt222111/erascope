@@ -1,0 +1,707 @@
+{
+  "country": "in",
+  "year": 2020,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "1.4 billion people, nearly all with electricity at home, 82 mobile subscriptions for every 100, and 43 in 100 online.",
+      "items": [
+        {
+          "id": "in.2020.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "India's population was about 1.40 billion in 2020.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "1,402,617,695",
+          "unit": "people",
+          "asOf": "2020",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A newborn in 2020 could expect to live about 70 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "70.2",
+          "unit": "years",
+          "asOf": "2020",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 43 percent of Indians used the internet in 2020, up from 7.5 percent in 2010.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Share of individuals using the internet",
+              "url": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "43.4",
+          "unit": "percent of the population",
+          "asOf": "2020",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 82 mobile subscriptions for every 100 people.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "82.3",
+          "unit": "per 100 people",
+          "asOf": "2020",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.by-the-numbers.electricity",
+          "kind": "stat",
+          "title": "Electricity at home",
+          "summary": "About 96.5 percent of the population had access to electricity, up from 51 percent in 1995.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Access to electricity (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/EG.ELC.ACCS.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Access to electricity",
+          "value": "96.5",
+          "unit": "percent of the population",
+          "asOf": "2020",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 28 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns the deaths of infants."
+          },
+          "metric": "Infant mortality",
+          "value": "28.3",
+          "unit": "per 1,000 live births",
+          "asOf": "2020",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy and household size were not found for 2020: the census had been taken in 2011 and was due in 2021."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Goa became the first state with a tap-water connection in every household.",
+      "items": [
+        {
+          "id": "in.2020.everyday.food-and-kitchen.har-ghar-jal",
+          "kind": "fact",
+          "title": "A tap in every home",
+          "summary": "On 10 October 2020 Goa was declared the first 'Har Ghar Jal' state, with tap water in every household.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-10-10",
+          "place": "Goa",
+          "regionTag": "west",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2020 meals, kitchen costs or retail prices."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Face masks became compulsory in public places, and many people wore cloth masks.",
+      "items": [
+        {
+          "id": "in.2020.everyday.clothing-and-style.masks",
+          "kind": "fact",
+          "title": "Face masks",
+          "summary": "Face masks became compulsory in public places, and many people wore cloth masks.",
+          "sources": [
+            {
+              "label": "Wikipedia: Face masks during the COVID-19 pandemic",
+              "url": "https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.clothing-and-style.khadi-mask",
+          "kind": "fact",
+          "title": "Handmade masks",
+          "summary": "Self-help groups and tailors made cloth and khadi masks during the lockdown.",
+          "sources": [
+            {
+              "label": "Wikipedia: Face masks during the COVID-19 pandemic",
+              "url": "https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.2020.everyday.clothing-and-style.wfh-wear",
+          "kind": "fact",
+          "title": "Working from home",
+          "summary": "Office workers moved to casual clothes at home.",
+          "sources": [
+            {
+              "label": "Wikipedia: Work from home",
+              "url": "https://en.wikipedia.org/wiki/Work_from_home",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "The lockdown left millions without work and without a way home.",
+      "items": [
+        {
+          "id": "in.2020.everyday.work-and-wages.gdp-shock",
+          "kind": "stat",
+          "title": "The economy contracts",
+          "summary": "India's GDP contracted 23.9 percent in the first quarter of the 2020-21 financial year, reported on 31 August.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "GDP growth, April-June 2020",
+          "value": "-23.9",
+          "unit": "percent",
+          "asOf": "2020-Q2",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.work-and-wages.migrants",
+          "kind": "fact",
+          "title": "Walking home",
+          "summary": "Migrant workers left jobless by the lockdown were seen walking or cycling hundreds of kilometres to their home villages, and from 1 May the railways ran 'Shramik Special' trains for stranded migrants; on 8 May 16 migrant workers were killed by a goods train near Aurangabad.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 lockdown in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-05-01",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.2020.dd.freedom-history.lockdown"
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns the pandemic and its toll."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2020 wage rates or the number of jobs lost."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "Schools shut in March and lessons moved to phones.",
+      "items": [
+        {
+          "id": "in.2020.everyday.school-and-childhood.online-learning",
+          "kind": "fact",
+          "title": "School at a screen",
+          "summary": "Schools were shut, and the Unlock 5.0 guidelines of 30 September 2020 preferred online learning where possible.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 lockdown in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-09-30",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2020 counts of children affected or with phone access."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "Trains and buses stopped, then started again in stages.",
+      "items": [
+        {
+          "id": "in.2020.everyday.getting-around.lockdown-travel",
+          "kind": "fact",
+          "title": "The lockdown",
+          "summary": "From 25 March 2020 passenger trains, flights and metros stopped for the national lockdown.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 lockdown in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.2020.everyday.getting-around.shramik-special",
+          "kind": "fact",
+          "title": "Shramik Special trains",
+          "summary": "From 1 May 2020 special trains carried migrant workers back to their home states.",
+          "sources": [
+            {
+              "label": "Wikipedia: Shramik Special trains",
+              "url": "https://en.wikipedia.org/wiki/Shramik_Special_trains",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.getting-around.delhi-metro-resume",
+          "kind": "fact",
+          "title": "Delhi Metro restarts",
+          "summary": "The Delhi Metro resumed services in September 2020 in stages.",
+          "sources": [
+            {
+              "label": "Wikipedia: Delhi Metro",
+              "url": "https://en.wikipedia.org/wiki/Delhi_Metro",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.getting-around.flights-resume",
+          "kind": "fact",
+          "title": "Flights resume",
+          "summary": "Domestic flights restarted on 25 May 2020 under restrictions.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "Zoom and Google Meet became the usual way to meet relatives, attend school and hold work meetings.",
+      "items": [
+        {
+          "id": "in.2020.everyday.keeping-in-touch.video-calls",
+          "kind": "fact",
+          "title": "Video calls",
+          "summary": "Zoom and Google Meet became the usual way to meet relatives, attend school and hold work meetings.",
+          "sources": [
+            {
+              "label": "Wikipedia: Zoom Video Communications",
+              "url": "https://en.wikipedia.org/wiki/Zoom_Video_Communications",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.keeping-in-touch.arogya-setu",
+          "kind": "fact",
+          "title": "Aarogya Setu",
+          "summary": "The government's Aarogya Setu app, launched in April 2020, tracked contacts and gave health updates.",
+          "sources": [
+            {
+              "label": "Wikipedia: Aarogya Setu",
+              "url": "https://en.wikipedia.org/wiki/Aarogya_Setu",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.keeping-in-touch.tiktok-ban",
+          "kind": "fact",
+          "title": "TikTok banned",
+          "summary": "The government banned TikTok and dozens of other Chinese apps in June 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: Restrictions on TikTok in India",
+              "url": "https://en.wikipedia.org/wiki/Restrictions_on_TikTok_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.keeping-in-touch.whatsapp",
+          "kind": "fact",
+          "title": "WhatsApp groups",
+          "summary": "Families and neighbourhoods shared news and forwards on WhatsApp groups.",
+          "sources": [
+            {
+              "label": "Wikipedia: WhatsApp",
+              "url": "https://en.wikipedia.org/wiki/WhatsApp",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "India confirmed its first case on 30 January, and passed one million cases on 17 July.",
+      "items": [
+        {
+          "id": "in.2020.everyday.health-and-medicine.first-case",
+          "kind": "fact",
+          "title": "The first case",
+          "summary": "India's first case of COVID-19 was reported on 30 January 2020 in Thrissur, Kerala, among students returning from Wuhan; daily cases peaked in mid-September at over 90,000.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-01-30",
+          "place": "Kerala",
+          "regionTag": "south",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns the pandemic and its toll."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.everyday.health-and-medicine.million-cases",
+          "kind": "fact",
+          "title": "One million cases",
+          "summary": "India passed one million confirmed COVID-19 cases on 17 July 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-07-17",
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns the pandemic and its toll."
+          },
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2020 doctor, hospital or testing figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Doordarshan began re-running Ramayan from 28 March 2020 and it drew record viewership.",
+      "items": [
+        {
+          "id": "in.2020.everyday.leisure-and-fun.ramayan-rerun",
+          "kind": "fact",
+          "title": "Ramayan on TV again",
+          "summary": "Doordarshan began re-running Ramayan from 28 March 2020 and it drew record viewership.",
+          "sources": [
+            {
+              "label": "Wikipedia: Ramayan (1987 TV series)",
+              "url": "https://en.wikipedia.org/wiki/Ramayan_(1987_TV_series)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.leisure-and-fun.ipl-uae",
+          "kind": "fact",
+          "title": "IPL in the UAE",
+          "summary": "The 2020 IPL was played in the UAE from September to November, without spectators, and Mumbai Indians won.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 Indian Premier League",
+              "url": "https://en.wikipedia.org/wiki/2020_Indian_Premier_League",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.leisure-and-fun.ott",
+          "kind": "fact",
+          "title": "Streaming",
+          "summary": "Films and series on Netflix, Hotstar and Amazon Prime were watched more during the lockdown.",
+          "sources": [
+            {
+              "label": "Wikipedia: Streaming media",
+              "url": "https://en.wikipedia.org/wiki/Streaming_media",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.leisure-and-fun.tokyo-postponed",
+          "kind": "fact",
+          "title": "Olympics postponed",
+          "summary": "The Tokyo Olympics were postponed to 2021.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/2020_Summer_Olympics",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Lockdown life and paying by phone",
+      "standfirst": "On 24 March the Prime Minister announced a lockdown for 1.38 billion people, and in the months that followed payments by phone grew by four-fifths.",
+      "items": [
+        {
+          "id": "in.2020.everyday.spotlight.janata-curfew",
+          "kind": "fact",
+          "title": "The Janata Curfew",
+          "summary": "A 14-hour voluntary curfew was observed on 22 March 2020, two days before the lockdown.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-22",
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns the pandemic and its toll."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.everyday.spotlight.lockdown",
+          "kind": "fact",
+          "title": "The lockdown",
+          "summary": "On the evening of 24 March 2020 the Government ordered a 21-day nationwide lockdown from midnight for the entire 1.38 billion population, closing all services and shops except pharmacies, hospitals, banks, grocery shops and other essential services, with only work from home allowed.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 lockdown in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2020 in India",
+              "url": "https://en.wikipedia.org/wiki/2020_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-24",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.2020.dd.freedom-history.lockdown"
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns the pandemic and its toll."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.everyday.spotlight.extensions",
+          "kind": "fact",
+          "title": "Extended, then unlocked",
+          "summary": "The lockdown was extended on 14 April to 3 May, on 1 May to 17 May and on 17 May to 31 May; services resumed in stages from 8 June, and Unlock 1.0 ran from 1 to 30 June, followed by monthly phases through Unlock 7.0 in December.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 lockdown in India",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-05",
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns the pandemic and its toll."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2020.everyday.spotlight.upi-growth",
+          "kind": "stat",
+          "title": "Payments by phone",
+          "summary": "UPI recorded 1.14 billion transactions in October 2019 and 2.07 billion in October 2020; in all of 2019 it handled about 10.8 billion.",
+          "sources": [
+            {
+              "label": "Wikipedia: Unified Payments Interface",
+              "url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "UPI transactions in a month",
+          "value": "2.07 billion (October 2020)",
+          "unit": "transactions",
+          "asOf": "2020-10",
+          "todo": true
+        },
+        {
+          "id": "in.2020.everyday.spotlight.upi-banks",
+          "kind": "fact",
+          "title": "A system for every bank",
+          "summary": "UPI began as a pilot on 11 April 2016 with 21 member banks, and by 2022 it linked 304.",
+          "sources": [
+            {
+              "label": "Wikipedia: Unified Payments Interface",
+              "url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2016-04-11",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced counts of small shops accepting UPI or smartphone ownership, so the payment growth is shown only in national totals."
+    }
+  }
+}

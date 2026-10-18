@@ -17,7 +17,7 @@ export default function RiyaazRoom(props: InteractiveProps) {
   const { accent, theme } = useDeepDiveStyle();
   const arts = itemsOfKind(props, "art");
   const forms = useMemo(() => [...new Set(arts.map((a) => a.form))], [arts]);
-  const [form, setForm] = useState(forms[0] ?? "music");
+  const [form, setForm] = useState("All");
   const [cycle, setCycle] = useState(Object.keys(CYCLES)[0]);
   const [tonic, setTonic] = useState(Object.keys(TONICS)[0]);
   const [playing, setPlaying] = useState(false);
@@ -79,7 +79,7 @@ export default function RiyaazRoom(props: InteractiveProps) {
     setPlaying(true);
   };
 
-  const shown = arts.filter((a) => a.form === form);
+  const shown = form === "All" ? arts : arts.filter((a) => a.form === form);
   return (
     <InteractiveShell title="Riyaaz room" hint="Browse the year's arts by form. For music, try a synthesised drone or rhythm cycle.">
       {arts.length === 0 ? (
@@ -87,11 +87,11 @@ export default function RiyaazRoom(props: InteractiveProps) {
       ) : (
         <>
           <Tabs value={form} onChange={(_, v) => setForm(v)} variant="scrollable" aria-label="Art forms">
-            {forms.map((f) => (
+            {["All", ...forms].map((f) => (
               <Tab key={f} value={f} label={f} />
             ))}
           </Tabs>
-          <Box component="ul" sx={{ m: 0, mt: 2, p: 0, display: "grid", gap: 1.5, gridTemplateColumns: { xs: "1fr", md: "1fr 1fr" } }}>
+          <Box component="ul" sx={{ m: 0, mt: 2, p: 0, display: "grid", gap: 1.5, gridTemplateColumns: { xs: "1fr", sm: "1fr 1fr", md: "repeat(3, 1fr)" } }}>
             {shown.map((a) => (
               <li key={a.id} style={{ listStyle: "none" }}>
                 <Box sx={{ p: 1.5, border: `1px solid ${theme.palette.divider}`, borderTop: `4px solid ${accent}` }}>

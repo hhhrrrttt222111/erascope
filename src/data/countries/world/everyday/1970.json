@@ -1,0 +1,580 @@
+{
+  "country": "world",
+  "year": 1970,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "203 million people, 108 million motor vehicles, and a fertility rate that had fallen from 3.7 births per woman to 2.5 in a decade.",
+      "items": [
+        {
+          "id": "world.1970.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 1970 census counted 203.3 million people, 57.5 to the square mile.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 1970",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1970.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "U.S. resident population",
+          "value": "203,302,031",
+          "unit": "people",
+          "asOf": "1970",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A baby born in 1970 could expect to live nearly 71 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "70.8",
+          "unit": "years",
+          "asOf": "1970",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and city",
+          "summary": "About 73.5 percent of Americans lived in urban areas.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Urban population (% of total)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Urban share of the population",
+          "value": "73.5",
+          "unit": "percent",
+          "asOf": "1970",
+          "todo": true
+        },
+        {
+          "id": "world.1970.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 20 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Infant mortality",
+          "value": "19.9",
+          "unit": "per 1,000 live births",
+          "asOf": "1970",
+          "todo": true
+        },
+        {
+          "id": "world.1970.everyday.by-the-numbers.fertility",
+          "kind": "stat",
+          "title": "Births per woman",
+          "summary": "The fertility rate was 2.48 births per woman, down from 3.65 in 1960.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Fertility rate, total (births per woman)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Total fertility rate",
+          "value": "2.48",
+          "unit": "births per woman",
+          "asOf": "1970",
+          "todo": true
+        },
+        {
+          "id": "world.1970.everyday.by-the-numbers.motor-vehicles",
+          "kind": "stat",
+          "title": "Motor vehicles",
+          "summary": "Registrations reached 108.4 million: 89.2 million cars, 18.8 million trucks and 378,000 buses.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations",
+              "url": "https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Registered motor vehicles",
+          "value": "108,418,200",
+          "unit": "vehicles",
+          "asOf": "1970",
+          "checked": "2026-10-18"
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1970 prices, appliance counts or meals: the pages we opened on fast food and groceries had no figures for 1970."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "The long midi skirt that stores stocked in 1970 mostly stayed on the racks, while women moved to trousers and jeans.",
+      "items": [
+        {
+          "id": "world.1970.everyday.clothing-and-style.midi-debacle",
+          "kind": "fact",
+          "title": "The midi that did not sell",
+          "summary": "In 1970 the industry tried to move women from miniskirts to calf-length midi skirts; women, especially in the United States, refused to buy them, which the article says almost ruined the American fashion industry.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1970s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.clothing-and-style.mini-lingers",
+          "kind": "fact",
+          "title": "Minis through 1972",
+          "summary": "Many women kept wearing miniskirts through 1972; more switched to trousers and jeans than to the longer skirts.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1970s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.clothing-and-style.trousers",
+          "kind": "fact",
+          "title": "Trousers everywhere",
+          "summary": "By the early 1970s women wore pants in every setting, jeans included, making it the first decade in Western fashion when they wore more trousers than skirts.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1970s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.clothing-and-style.bell-bottoms",
+          "kind": "fact",
+          "title": "Bell-bottoms, hot pants and sideburns",
+          "summary": "Bell-bottoms were popular for women and men, hot pants and long sideburns were popular in 1971, and platform shoes were widespread among women and young people.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1970s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1971",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.clothing-and-style.synthetics",
+          "kind": "fact",
+          "title": "A flood of synthetics",
+          "summary": "Overproduction flooded the market with affordable synthetic clothing; Vogue noted in the early 1970s that 'there are no rules in the fashion game now'.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1970s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A production worker in manufacturing earned about $133 a week, and a new law set federal workplace safety rules.",
+      "items": [
+        {
+          "id": "world.1970.everyday.work-and-wages.factory-weekly",
+          "kind": "wage",
+          "title": "A manufacturing paycheque",
+          "summary": "A production worker in manufacturing earned $3.35 an hour, or $133.33 a week, on average; in durable goods $143.07 and in non-durable goods $120.43.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4361-4366: Hourly and weekly earnings of production workers in manufacturing, 1909-1995",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4361-4366.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "job": "Production worker, manufacturing, average",
+          "amount": "$133.33",
+          "per": "week",
+          "todo": true
+        },
+        {
+          "id": "world.1970.everyday.work-and-wages.osha",
+          "kind": "fact",
+          "title": "A law for safety at work",
+          "summary": "President Nixon signed the Occupational Safety and Health Act on 29 December 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-12-29",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures for 1970 hours, women's work or the minimum wage."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "The school year was 179 days, and children took part in the first Earth Day.",
+      "items": [
+        {
+          "id": "world.1970.everyday.school-and-childhood.school-year",
+          "kind": "stat",
+          "title": "The school year",
+          "summary": "The average school term was 178.9 days, a pupil attended 161.7 of them, and 90.4 percent of enrolled pupils were present on a given day.",
+          "sources": [
+            {
+              "label": "NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000",
+              "url": "https://nces.ed.gov/programs/digest/d03/tables/dt036.asp",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average length of school term",
+          "value": "178.9",
+          "unit": "days",
+          "asOf": "1969-70",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced enrolment figures, costs or toy sales for 1970."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The jumbo jet entered service in January, and three new small American cars went on sale.",
+      "items": [
+        {
+          "id": "world.1970.everyday.getting-around.boeing-747",
+          "kind": "fact",
+          "title": "The jumbo jet",
+          "summary": "Pan Am began the first Boeing 747 service, New York to London, on 22 January 1970; the aircraft typically seats 366 passengers in three classes and 92 were delivered during 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: Boeing 747",
+              "url": "https://en.wikipedia.org/wiki/Boeing_747",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-01-22",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.getting-around.small-cars",
+          "kind": "fact",
+          "title": "Three small cars",
+          "summary": "AMC introduced the Gremlin on 1 April, Chevrolet the Vega on 10 September and Ford the Pinto on 11 September 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "A postal strike stopped the mail in New York in March.",
+      "items": [
+        {
+          "id": "world.1970.everyday.keeping-in-touch.postal-strike",
+          "kind": "fact",
+          "title": "The postal strike",
+          "summary": "A U.S. Postal Service strike began in New York City on 18 March 1970, spread to other cities and lasted about two weeks.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-03-18",
+          "place": "New York City",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1970 postage rates, telephone counts or television households."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Cigarette advertisements were ordered off television.",
+      "items": [
+        {
+          "id": "world.1970.everyday.health-and-medicine.cigarette-ads",
+          "kind": "fact",
+          "title": "Cigarettes off the screen",
+          "summary": "The Public Health Cigarette Smoking Act, signed on 1 April 1970, banned cigarette advertising on television from 1 January 1971.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-04-01",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1970 doctor fees, hospital costs or disease figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "New on the television that year: soap operas, football on Monday nights, a public network and a comedy about two roommates.",
+      "items": [
+        {
+          "id": "world.1970.everyday.leisure-and-fun.all-my-children",
+          "kind": "fact",
+          "title": "All My Children",
+          "summary": "The soap opera All My Children premiered on ABC on 5 January 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-01-05",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.leisure-and-fun.monday-night-football",
+          "kind": "fact",
+          "title": "Monday Night Football",
+          "summary": "Monday Night Football debuted on ABC on 21 September 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-09-21",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.leisure-and-fun.odd-couple",
+          "kind": "fact",
+          "title": "The Odd Couple",
+          "summary": "The Odd Couple premiered on ABC on 24 September 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-09-24",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.leisure-and-fun.pbs",
+          "kind": "fact",
+          "title": "PBS",
+          "summary": "National Educational Television closed and was succeeded by PBS, which began broadcasting on 5 October 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-10-05",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.leisure-and-fun.nyc-marathon",
+          "kind": "fact",
+          "title": "The first New York City Marathon",
+          "summary": "The first New York City Marathon was run on 13 September 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-09-13",
+          "place": "New York City",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "The first Earth Day and everyday environment",
+      "standfirst": "On 22 April 1970 an estimated 20 million Americans took part in rallies and teach-ins, and by December there was an Environmental Protection Agency.",
+      "items": [
+        {
+          "id": "world.1970.everyday.spotlight.earth-day",
+          "kind": "fact",
+          "title": "Twenty million on 22 April",
+          "summary": "An estimated 20 million Americans took part in rallies, marches and teach-ins on the first Earth Day, 22 April 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: Earth Day",
+              "url": "https://en.wikipedia.org/wiki/Earth_Day",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-04-22",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.spotlight.nelson-hayes",
+          "kind": "fact",
+          "title": "A teach-in for campuses",
+          "summary": "Senator Gaylord Nelson proposed the nationwide teach-in and hired Harvard graduate student Denis Hayes as national coordinator, choosing the date to draw college students.",
+          "sources": [
+            {
+              "label": "Wikipedia: Earth Day",
+              "url": "https://en.wikipedia.org/wiki/Earth_Day",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.spotlight.schools",
+          "kind": "fact",
+          "title": "Schools join in",
+          "summary": "More than 10,000 primary and secondary schools took part, mostly in beach clean-ups, tree planting and recycling.",
+          "sources": [
+            {
+              "label": "Wikipedia: Earth Day",
+              "url": "https://en.wikipedia.org/wiki/Earth_Day",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1970.everyday.spotlight.epa",
+          "kind": "fact",
+          "title": "The EPA begins",
+          "summary": "The Environmental Protection Agency began operating on 2 December 1970, after Nixon proposed it on 9 July; in its first year it had a budget of $1.4 billion and 5,800 employees.",
+          "sources": [
+            {
+              "label": "Wikipedia: Environmental Protection Agency",
+              "url": "https://en.wikipedia.org/wiki/Environmental_Protection_Agency",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1970 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1970-12-02",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1970.everyday.spotlight.legislation",
+          "kind": "fact",
+          "title": "A wave of laws",
+          "summary": "After a campaign against a 'Dirty Dozen' of legislators, seven of whom lost, a wave of laws followed, including the Clean Air Act, the Clean Water Act and the Endangered Species Act; a major expansion of the Clean Air Act was approved in December 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: Earth Day",
+              "url": "https://en.wikipedia.org/wiki/Earth_Day",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Environmental Protection Agency",
+              "url": "https://en.wikipedia.org/wiki/Environmental_Protection_Agency",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ]
+    }
+  }
+}

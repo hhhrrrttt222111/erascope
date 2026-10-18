@@ -548,3 +548,361 @@ Rule from the project owner: anything unverifiable is removed. All 86 `todo` ite
 - **Removed:** Toffler 1970, Negroponte 1995 and Kurzweil 1999 (no source confirmed the wording), and every general-description morning step,
   price and technology with no source (clock radios, percolators, e-readers, 1999 CD price, 1984 DynaTAC price, ticket prices for
   1920, 1930, 1960, 1999, gasoline 1930 and 1945, and so on). Sections now shorter than usual carry `notes`.
+
+
+## Everyday sections (year page)
+
+Status (18 October 2026): sourced content exists for 1900, 1920, 1930, 1945, 1960, 1970, 1984, 1995, 1999, 2005, 2010 and 2020, for World and India. It is thin: most sections are below their minimum and carry a `scarcityNote`; `docs/COVERAGE.md` has the counts. 2050 has no everyday content yet.
+
+### How it was researched
+- Pages were opened with a fetch tool wherever possible, and the claim was written from what the page said, not from memory. Where a search summary was the only evidence, the item is `todo: true` (shown as Unverified) and the fact-check row says so.
+- Numbers (`stat`, `price`, `wage`) need two sources or `todo`. Wikipedia counts as a reference source; the second source is a statistical office, a government page or a second Wikipedia article on a different subject. Where sources disagree, both figures are in the item's fact-check note.
+- Population, life expectancy, urban share, infant mortality, fertility, electricity, mobile and internet figures for 1960-2020 come from the World Bank's World Development Indicators API, cross-checked against Our World in Data where it would give the series (population, life expectancy, internet). The two draw on the same UN estimates, so agreement is not independent confirmation; single-source World Bank items are `todo`.
+- US wages, hours, vehicles and school terms come from Historical Statistics of the United States (tables Ba4280, Ba4361, Ba4589, Df339, Bc94) and NCES Digest table 36, FHWA MV-200 and the Census Bureau's decennial facts pages. HSUS ends in 1995, so later US wages and hours were not found.
+- Several facts differ between Wikipedia pages (for example the founding date of the Delhi Metro Rail Corporation, the first US COVID case, the Silent Valley date); the items say which was used, or the claim was left out.
+- Corrections made while checking: Hum Log ran for 65 episodes, not 156; the Pimpri-Chinchwad corporation dates from 1982 (the council from 1970); a US census population of 203,302,031 for 1970 (one Wikipedia list misprints 203,392,031).
+
+### Spotlights
+All 24 use the default topic from the brief except where noted. World: gaslight to electric light (1900); Prohibition and the vote for women (1920); making do in the Depression (1930); rationing and the home front (1945); suburbs, TV dinners and the family car (1960); the first Earth Day (1970); computers come home (1984); getting online (1995); Y2K (1999); sharing online (2005, video only, no camera-phone figures found); smartphones and apps (2010); lockdown life (2020). India: swadeshi, khadi and the cloth boycott (1920); salt and khadi (1930); ration cards (1945); steel and project towns (1960); the Green Revolution (1970); television arrives (1984); cable TV and the PCO booth (1995); cyber cafés and IT jobs (1999); the mobile phone and SMS (2005); recharge culture (2010, no items); lockdown life and paying by phone (2020). The 1900 India spotlight (rail, post and telegraph) has only a telegraph item.
+
+### Not done
+2050 everyday and deep-dive items beyond the existing ones; most `byTheNumbers` stats for years before 1960 beyond the census and a few indicators; wages and prices for India after 1920; school figures for India; anything on food, kitchens and dress for India after 1900.
+
+<!-- scarcity:start -->
+### Scarcity (generated from the data files by the research build; edit the data, not this list)
+
+Deep dive (year, section, count, reason):
+
+- 1900 technology-science: 5 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice.
+- 1900 freedom-history: 4 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice.
+- 1900 achievements: 4 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice.
+- 1900 sports: 5 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice.
+- 1900 literature: 4 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice.
+- 1900 books-reading: 4 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice.
+- 1900 cinema: 4 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice.
+- 1900 music-arts: 4 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice.
+- 1900 economy-business: 3 items. For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice. Only one indicator is not already on the year page or in the Prices board.
+- 1920 technology-science: 5 items. For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1920 achievements: 4 items. For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1920 sports: 5 items. For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1920 literature: 4 items. For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1920 books-reading: 4 items. For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1920 cinema: 4 items. For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1920 music-arts: 4 items. For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1920 economy-business: 1 items. For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 technology-science: 4 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 government-politics: 5 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 achievements: 3 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 sports: 3 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 literature: 4 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 books-reading: 4 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 cinema: 4 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 music-arts: 3 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1930 economy-business: 1 items. For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 technology-science: 3 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 government-politics: 5 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 freedom-history: 3 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 achievements: 3 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 sports: 4 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 literature: 3 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 books-reading: 3 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 cinema: 4 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 music-arts: 2 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1945 economy-business: 1 items. For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 technology-science: 4 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 freedom-history: 4 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 achievements: 3 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 sports: 4 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 literature: 1 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 books-reading: 3 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 cinema: 4 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 music-arts: 3 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1960 economy-business: 2 items. For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 technology-science: 3 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 government-politics: 4 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 freedom-history: 4 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 achievements: 3 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 sports: 2 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 literature: 3 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 books-reading: 4 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 cinema: 4 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 music-arts: 2 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1970 economy-business: 2 items. For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 technology-science: 3 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 government-politics: 4 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 achievements: 4 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 sports: 4 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 literature: 3 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 books-reading: 2 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 cinema: 5 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 music-arts: 2 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1984 economy-business: 1 items. For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 technology-science: 4 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 government-politics: 3 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 freedom-history: 3 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 achievements: 3 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 sports: 2 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 literature: 3 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 books-reading: 1 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 cinema: 4 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 music-arts: 1 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1995 economy-business: 1 items. For 1995 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 technology-science: 2 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 government-politics: 3 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 freedom-history: 4 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 achievements: 3 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 sports: 2 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 literature: 3 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 books-reading: 2 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 cinema: 4 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 music-arts: 1 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1999 economy-business: 1 items. For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 technology-science: 3 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 government-politics: 4 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 freedom-history: 4 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 achievements: 4 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 sports: 1 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 literature: 3 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 books-reading: 2 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 cinema: 3 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 music-arts: 1 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2005 economy-business: 1 items. For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 technology-science: 3 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 government-politics: 4 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 freedom-history: 2 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 achievements: 2 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 sports: 4 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 literature: 1 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 books-reading: 1 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 cinema: 3 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 music-arts: 1 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2010 economy-business: 1 items. For 2010 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 technology-science: 2 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 government-politics: 3 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 achievements: 2 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 sports: 1 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 literature: 1 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 books-reading: 1 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 cinema: 4 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 music-arts: 0 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 2020 economy-business: 2 items. For 2020 only items that could be checked against two sources were kept; the section is short by the sources, not by choice.
+- 1900 personalities: Only one woman (Pandita Ramabai) could be documented for 1900 against two sources; Sister Nivedita and Cornelia Sorabji were considered but their 1900 activity could not be confirmed. Three regions are covered (east, west, overseas).
+
+Everyday sections (country, year, section, count, reason):
+
+- world 1900 schoolAndChildhood: 3 items. We could not verify national figures for the share of children enrolled in 1900, or for school fees and the school day. This section holds what was checked.
+- world 1900 gettingAround: 5 items. We found no sourced 1900 door-to-door journey times or fares, so there are no journey cards for this year.
+- world 1900 keepingInTouch: 4 items. We found no sourced delivery times for letters or telegrams in 1900, so there are no message cards that can race.
+- world 1900 leisureAndFun: 4 items. We could not verify baseball attendance or Fourth of July customs for 1900, so those are left out.
+- world 1920 byTheNumbers: 5 items. Life expectancy, literacy and household size could not be confirmed for 1920 from a source we opened, so they are left out.
+- world 1920 foodAndKitchen: 5 items. Most 1920s food sources describe the whole decade, not 1920. We could not find sourced 1920 grocery prices or kitchen appliance counts, so no price cards are shown.
+- world 1920 workAndWages: 2 items. We could not find sourced 1920 figures for women's work, child labour or typical household chores, so none are shown.
+- world 1920 schoolAndChildhood: 1 items. We could not find sourced figures for enrolment, school costs or toys for 1920.
+- world 1920 gettingAround: 1 items. We could not find sourced 1920 fares or journey times for streetcars, trains or intercity trips, so there are no journey cards.
+- world 1920 keepingInTouch: 2 items. We could not find sourced 1920 delivery times or telegram and long-distance telephone rates.
+- world 1920 healthAndMedicine: 1 items. We could not find sourced doctor fees, hospital costs or vaccination figures for 1920.
+- world 1920 leisureAndFun: 1 items. We could not find sourced material for sport, holidays or music in 1920.
+- world 1930 byTheNumbers: 4 items. Life expectancy, literacy, urban share and household size could not be confirmed for 1930 from a source we opened.
+- world 1930 foodAndKitchen: 2 items. We could not find sourced 1930 grocery prices, relief meals or kitchen appliances, so only the one food change we could confirm is shown.
+- world 1930 clothingAndStyle: 5 items. We could not find sourced descriptions of 1930 fashion or ready-made prices.
+- world 1930 workAndWages: 2 items. We could not find a sourced 1930 wage figure: the Historical Statistics earnings table we opened ends in 1929.
+- world 1930 schoolAndChildhood: 1 items. We could not find sourced figures on enrolment, school costs or toys for 1930.
+- world 1930 gettingAround: 1 items. We could not find sourced 1930 fares or journey times; the vehicle count is under The year in numbers.
+- world 1930 keepingInTouch: 3 items. We could not find sourced 1930 postage, telephone or telegraph details.
+- world 1930 healthAndMedicine: 0 items. We could not find sourced material on health, doctors or hospitals for 1930.
+- world 1930 leisureAndFun: 0 items. We could not find sourced material on films, sport or holidays for 1930; radio is under Keeping in touch.
+- world 1930 spotlight: 4 items. Soup kitchens, bread lines and relief figures could not be sourced from pages we opened.
+- world 1945 byTheNumbers: 5 items. Population, life expectancy and household figures for 1945 could not be confirmed from a source we opened.
+- world 1945 schoolAndChildhood: 2 items. We could not find sourced school figures for 1945: the NCES table we opened has no entry between 1939-40 and 1949-50.
+- world 1945 keepingInTouch: 0 items. We could not find sourced 1945 postal rates, telephone figures or radio audiences.
+- world 1945 leisureAndFun: 0 items. We could not find sourced material on films, radio, sport or holidays for 1945.
+- world 1960 foodAndKitchen: 2 items. We could not find sourced 1960 grocery prices, appliance counts or typical meals.
+- world 1960 workAndWages: 1 items. We could not find sourced figures for 1960 working hours, women's work or the minimum wage.
+- world 1960 schoolAndChildhood: 2 items. We could not find sourced figures on 1960 enrolment, school costs or toys.
+- world 1960 gettingAround: 1 items. We could not find sourced 1960 fares, journey times or air travel figures; the vehicle count is under The year in numbers.
+- world 1960 keepingInTouch: 0 items. We could not find sourced 1960 postage, telephone or television figures.
+- world 1960 healthAndMedicine: 1 items. We could not find sourced 1960 doctor fees, hospital costs or vaccination figures.
+- world 1970 foodAndKitchen: 0 items. We could not find sourced 1970 prices, appliance counts or meals: the pages we opened on fast food and groceries had no figures for 1970.
+- world 1970 workAndWages: 2 items. We could not find sourced figures for 1970 hours, women's work or the minimum wage.
+- world 1970 schoolAndChildhood: 1 items. We could not find sourced enrolment figures, costs or toy sales for 1970.
+- world 1970 keepingInTouch: 1 items. We could not find sourced 1970 postage rates, telephone counts or television households.
+- world 1970 healthAndMedicine: 1 items. We could not find sourced 1970 doctor fees, hospital costs or disease figures.
+- world 1984 byTheNumbers: 6 items. Literacy and household size were not found for 1984. There was no census; population figures are mid-year estimates.
+- world 1984 foodAndKitchen: 1 items. We could not find sourced 1984 food prices, appliance counts or meals; the pages we opened on fast food had no 1984 figures.
+- world 1984 workAndWages: 1 items. We could not find sourced figures for 1984 hours, women's work or the minimum wage.
+- world 1984 schoolAndChildhood: 0 items. We could not find sourced school-year, enrolment or toy figures for 1984: the NCES table we opened has an estimate only to 1979-80.
+- world 1984 gettingAround: 1 items. We could not find sourced 1984 fares or journey times; the vehicle count is under The year in numbers.
+- world 1984 keepingInTouch: 1 items. We could not find sourced 1984 postage rates or telephone and modem counts.
+- world 1984 healthAndMedicine: 2 items. We could not find sourced 1984 doctor fees, hospital costs or vaccination figures.
+- world 1995 byTheNumbers: 6 items. Literacy and household size were not found for 1995. There was no census; population figures are mid-year estimates.
+- world 1995 foodAndKitchen: 0 items. We could not find sourced 1995 food prices, appliance counts or meals.
+- world 1995 workAndWages: 1 items. We could not find sourced figures for 1995 hours, women's work or the minimum wage.
+- world 1995 schoolAndChildhood: 0 items. We could not find sourced school-year, enrolment or toy figures for 1995: the NCES term table we opened ends before 1989-90. School internet access is in the spotlight.
+- world 1995 gettingAround: 0 items. We could not find sourced 1995 fares or journey times; the vehicle count is under The year in numbers.
+- world 1995 keepingInTouch: 0 items. We could not find sourced 1995 postage, long-distance rates or answering-machine figures; mobile phones are under The year in numbers and the internet in the spotlight.
+- world 1995 healthAndMedicine: 0 items. We could not find sourced 1995 doctor fees, hospital costs or vaccination figures.
+- world 1995 leisureAndFun: 0 items. We could not find sourced 1995 film, television or sport material from pages we opened in full.
+- world 1999 byTheNumbers: 6 items. Literacy, household size and vehicle counts were not found for 1999 from a source we opened. There was no census; population figures are mid-year estimates.
+- world 1999 foodAndKitchen: 0 items. We could not find sourced 1999 food prices, appliance counts or meals.
+- world 1999 clothingAndStyle: 3 items. The fashion pages we opened date most late-1990s trends only to the mid-to-late decade.
+- world 1999 workAndWages: 0 items. We could not find sourced 1999 wage, hours or minimum-wage figures: the earnings table we opened ends in 1995.
+- world 1999 schoolAndChildhood: 1 items. We could not find sourced 1999 school-year or enrolment figures.
+- world 1999 gettingAround: 1 items. We could not find sourced 1999 fares, journey times or vehicle counts.
+- world 1999 keepingInTouch: 2 items. We could not find sourced 1999 postage, long-distance or answering-machine figures.
+- world 1999 healthAndMedicine: 0 items. We could not find sourced 1999 doctor fees, hospital costs or vaccination figures.
+- world 2005 byTheNumbers: 6 items. Literacy, household size, vehicle counts and wages were not found for 2005 from a source we opened. There was no census; population figures are mid-year estimates.
+- world 2005 foodAndKitchen: 0 items. We could not find sourced 2005 food prices, appliance counts or meals.
+- world 2005 workAndWages: 0 items. We could not find sourced 2005 wage, hours or minimum-wage figures.
+- world 2005 schoolAndChildhood: 0 items. We could not find sourced 2005 school-year or enrolment figures.
+- world 2005 gettingAround: 1 items. We could not find sourced 2005 fares, journey times or vehicle counts.
+- world 2005 keepingInTouch: 0 items. We could not find sourced 2005 postage, text-message or call-rate figures; the sharing sites are in the spotlight.
+- world 2005 healthAndMedicine: 0 items. We could not find sourced 2005 health figures.
+- world 2005 spotlight: 5 items. We could not find sourced figures for camera-phone ownership or photo sharing in 2005, so the section is about video.
+- world 2010 byTheNumbers: 6 items. Literacy, household size, vehicle counts and wages were not found for 2010 from a source we opened.
+- world 2010 foodAndKitchen: 1 items. We could not find sourced 2010 food prices or meals beyond a tomato shortage.
+- world 2010 workAndWages: 0 items. We could not find sourced 2010 wage, hours or minimum-wage figures; the jobs count is under The year in numbers.
+- world 2010 schoolAndChildhood: 0 items. We could not find sourced 2010 school-year or enrolment figures.
+- world 2010 gettingAround: 2 items. We could not find sourced 2010 fares, journey times or vehicle counts.
+- world 2010 keepingInTouch: 0 items. We could not find sourced 2010 postage, text-message or call-rate figures; the new devices and apps are in the spotlight.
+- world 2010 healthAndMedicine: 2 items. We could not find sourced 2010 doctor fees, hospital costs or vaccination figures.
+- world 2020 byTheNumbers: 6 items. Literacy, household size and vehicle counts were not found for 2020 from a source we opened.
+- world 2020 foodAndKitchen: 0 items. We could not find sourced 2020 food prices or home-baking figures from a page we opened.
+- world 2020 workAndWages: 4 items. We could not find sourced 2020 wages, hours or the share working from home.
+- world 2020 schoolAndChildhood: 2 items. We could not find a sourced count of students affected or of school-year length for 2020.
+- world 2020 gettingAround: 1 items. We could not find sourced 2020 traffic, fare or vehicle figures.
+- world 2020 keepingInTouch: 3 items. We could not find sourced 2020 postage, call or text figures.
+- world 2020 healthAndMedicine: 3 items. We could not find sourced 2020 doctor fees, telehealth counts or hospital capacity figures.
+- in 1900 byTheNumbers: 5 items. Household electricity, telephones and household size are not available for 1900. The figures below are those we could trace to a source.
+- in 1900 foodAndKitchen: 3 items. We could not find sourced 1900 meal patterns, kitchen tools or food storage practice, so this section is short.
+- in 1900 clothingAndStyle: 2 items. We could not find sourced descriptions of everyday garments, fabrics bought or fashions of 1900.
+- in 1900 workAndWages: 3 items. Wage rates are hard to trace for 1900. The one sourced figure is the agricultural labourer's average; we did not estimate others.
+- in 1900 schoolAndChildhood: 3 items. We could not find all-India school counts or school fees for 1900; the figures here are for the Bombay Presidency.
+- in 1900 gettingAround: 2 items. We could not find sourced 1900 fares or journey times for named routes, so there are no journey cards.
+- in 1900 keepingInTouch: 2 items. We could not find 1900 letter rates, post-office counts or telegram rates, and no delivery times; there are no message cards.
+- in 1900 healthAndMedicine: 2 items. We could not find sourced 1900 doctor fees, hospital costs or common remedies for India; the famine itself is in the history section.
+- in 1900 leisureAndFun: 1 items. We could not find sourced material on cinema shows, wrestling, cricket outings or other festivals as people practised them in 1900.
+- in 1900 spotlight: 1 items. Rail and post are covered under Getting around and Keeping in touch; we could not find a sourced 1900 count of post offices, letters carried or telegraph mileage.
+- in 1920 byTheNumbers: 2 items. Literacy, life expectancy and household electricity could not be traced to a source we opened for 1920-21. The two figures below are for the 1921 census.
+- in 1920 foodAndKitchen: 0 items. We could not find sourced material on meals, kitchens or food storage for 1920. The era page's Prices board has sourced grain prices.
+- in 1920 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday garments in 1920 beyond the khadi campaign, which is in the spotlight.
+- in 1920 workAndWages: 4 items. We could not find sourced wage rates outside the Bombay mills, nor figures for women's or child labour.
+- in 1920 schoolAndChildhood: 0 items. We could not find sourced figures on school attendance, fees or children's play for 1920.
+- in 1920 gettingAround: 2 items. We could not find sourced 1920 railway fares or journey times.
+- in 1920 keepingInTouch: 0 items. We could not find sourced 1920 postal rates, telegram charges or delivery times.
+- in 1920 healthAndMedicine: 3 items. We could not find sourced doctor fees, hospital provision or vaccination figures for 1920.
+- in 1920 leisureAndFun: 0 items. We could not find sourced material on leisure, festivals or sport as ordinary people took part in 1920.
+- in 1920 spotlight: 5 items. We could not find sourced figures for khadi output or prices in 1920, so the section describes the campaign, not its economics.
+- in 1930 byTheNumbers: 3 items. Urban share, life expectancy and household figures are not in the sources we could open for 1930-31.
+- in 1930 foodAndKitchen: 0 items. We could not find sourced 1930 meals, kitchens or food prices. The era page's Prices board has sourced grain prices.
+- in 1930 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1930 beyond the cloth boycott.
+- in 1930 workAndWages: 0 items. We could not find sourced 1930 wages, hours or prices: the Bombay cost-of-living and wage series we searched did not return 1930 figures.
+- in 1930 schoolAndChildhood: 1 items. We could not find sourced 1930 school enrolment or fees.
+- in 1930 gettingAround: 0 items. We could not find sourced 1930 fares or journey times; the Deccan Queen is on the era page.
+- in 1930 keepingInTouch: 0 items. We could not find sourced 1930 postal or telegram rates; state broadcasting is on the era page.
+- in 1930 healthAndMedicine: 0 items. We could not find sourced material on health or medicine for 1930.
+- in 1930 leisureAndFun: 2 items. We could not find sourced material on festivals or sport as ordinary people took part in 1930.
+- in 1945 byTheNumbers: 0 items. The census of 1941 is the nearest count; we could not source 1945 population, literacy or price figures from pages we opened.
+- in 1945 foodAndKitchen: 1 items. We could not find sourced 1945 meals, kitchens or prices; wartime controls are in the spotlight.
+- in 1945 clothingAndStyle: 0 items. We could not find sourced descriptions of dress in 1945 beyond the cloth shortage, which is in the spotlight.
+- in 1945 workAndWages: 0 items. We could not find sourced 1945 wages or hours.
+- in 1945 schoolAndChildhood: 0 items. We could not find sourced 1945 school figures.
+- in 1945 gettingAround: 0 items. We could not find sourced 1945 fares or journey times; railways were requisitioned for the war effort.
+- in 1945 keepingInTouch: 0 items. We could not find sourced 1945 postal or telegram figures.
+- in 1945 healthAndMedicine: 0 items. We could not find sourced health figures for 1945; the famine of 1943 is in the history section.
+- in 1945 leisureAndFun: 0 items. We could not find sourced material on leisure in 1945.
+- in 1945 spotlight: 5 items. We could not find sourced allowances for sugar, cloth or kerosene, or prices, so the section describes the system rather than the quantities.
+- in 1960 foodAndKitchen: 0 items. We could not find sourced 1960 meals, kitchens or retail prices. The era page's Prices board has wholesale grain and sugar prices.
+- in 1960 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1960.
+- in 1960 workAndWages: 0 items. We could not find sourced 1960 wage rates or working hours.
+- in 1960 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1960; literacy is under The year in numbers.
+- in 1960 gettingAround: 1 items. We could not find sourced 1960 railway or bus fares, or journey times.
+- in 1960 keepingInTouch: 2 items. We could not find sourced 1960 postal, telegram or telephone figures.
+- in 1960 healthAndMedicine: 2 items. We could not find sourced figures on doctors, hospitals or other diseases for 1960.
+- in 1960 leisureAndFun: 0 items. We could not find sourced material on leisure or festivals in 1960; the film and radio of the year are on the era page.
+- in 1960 spotlight: 5 items. We could not find sourced wages, housing allotments or population for the steel towns in 1960.
+- in 1970 foodAndKitchen: 0 items. We could not find sourced 1970 meals, kitchens or retail prices. Milk and grain prices are on the era page's Prices board, and Operation Flood is in the history section.
+- in 1970 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1970.
+- in 1970 workAndWages: 0 items. We could not find sourced wage rates or working hours for 1970.
+- in 1970 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1970; literacy is under The year in numbers.
+- in 1970 gettingAround: 2 items. We could not find sourced 1970 railway or bus fares or journey times.
+- in 1970 keepingInTouch: 0 items. We could not find sourced 1970 postal, telephone or television figures.
+- in 1970 healthAndMedicine: 0 items. We could not find sourced 1970 health figures beyond infant mortality.
+- in 1970 leisureAndFun: 0 items. We could not find sourced material on cinema outings, festivals or sport for 1970; ticket prices were not found.
+- in 1970 spotlight: 6 items. We could not find sourced fertiliser use, seed prices or the area under new varieties in 1970.
+- in 1984 foodAndKitchen: 0 items. We could not find sourced 1984 meals, kitchens or retail prices. Grain and milk prices are on the era page's Prices board.
+- in 1984 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1984.
+- in 1984 workAndWages: 0 items. We could not find sourced wage rates or working hours for 1984.
+- in 1984 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1984; literacy is under The year in numbers.
+- in 1984 gettingAround: 1 items. We could not find sourced 1984 railway or bus fares, or journey times.
+- in 1984 keepingInTouch: 1 items. We could not find a sourced national count of telephones, trunk-call charges or postal rates for 1984.
+- in 1984 healthAndMedicine: 0 items. We could not find sourced 1984 health figures beyond infant mortality; the Bhopal gas leak is in the history section.
+- in 1984 leisureAndFun: 0 items. We could not find sourced material on cinema outings or festivals for 1984, beyond what is in the spotlight.
+- in 1984 spotlight: 5 items. We could not find a sourced count of television sets in India in 1984, or set prices.
+- in 1995 foodAndKitchen: 0 items. We could not find sourced 1995 meals, kitchens or retail prices. The era page's Prices board has sourced prices.
+- in 1995 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1995.
+- in 1995 workAndWages: 0 items. We could not find sourced wage rates or working hours for 1995.
+- in 1995 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1995; literacy is under The year in numbers.
+- in 1995 gettingAround: 0 items. We could not find sourced 1995 fares or journey times.
+- in 1995 keepingInTouch: 4 items. We could not find sourced 1995 letter rates, call charges or waiting lists beyond what is shown.
+- in 1995 healthAndMedicine: 2 items. We could not find sourced 1995 doctor fees, hospital costs or other health figures.
+- in 1995 leisureAndFun: 1 items. We could not find sourced 1995 ticket prices, festival or sport material beyond the cinema item.
+- in 1995 spotlight: 4 items. We could not find a sourced count of cable homes, monthly cable fees or STD booths for 1995, so the section describes the system rather than the numbers.
+- in 1999 byTheNumbers: 6 items. Literacy, urban share and household size are not given for 1999: the censuses fell in 1991 and 2001.
+- in 1999 foodAndKitchen: 0 items. We could not find sourced 1999 meals, kitchens or retail prices.
+- in 1999 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 1999.
+- in 1999 workAndWages: 0 items. We could not find sourced wages or hours for 1999, including software salaries.
+- in 1999 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 1999.
+- in 1999 gettingAround: 0 items. We could not find sourced 1999 fares or journey times; the Delhi-Lahore bus is in the history section.
+- in 1999 keepingInTouch: 0 items. We could not find sourced 1999 postal, call or mobile tariff figures; internet access is in the spotlight.
+- in 1999 healthAndMedicine: 0 items. We could not find sourced 1999 health figures beyond infant mortality.
+- in 1999 leisureAndFun: 0 items. We could not find sourced 1999 ticket prices or festival material.
+- in 1999 spotlight: 7 items. We could not find a sourced count of cyber cafés or software professionals across India for 1999.
+- in 2005 byTheNumbers: 6 items. Literacy and household size are not given for 2005: the census fell in 2001 and 2011. Rupee prices are on the era page.
+- in 2005 foodAndKitchen: 0 items. We could not find sourced 2005 meals, kitchens or retail prices.
+- in 2005 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 2005.
+- in 2005 workAndWages: 3 items. We could not find sourced 2005 wage rates; the Act's wage figures are from later years.
+- in 2005 schoolAndChildhood: 1 items. We could not find sourced school enrolment or fees for 2005.
+- in 2005 gettingAround: 1 items. We could not find sourced 2005 railway fares or journey times.
+- in 2005 keepingInTouch: 3 items. We could not find sourced 2005 mobile tariffs, SMS volumes or subscriber counts beyond the World Bank figure.
+- in 2005 healthAndMedicine: 1 items. We could not find sourced 2005 doctor fees, hospital costs or disease figures beyond infant mortality.
+- in 2005 leisureAndFun: 2 items. We could not find sourced 2005 ticket prices, mall counts or festival material.
+- in 2005 spotlight: 2 items. We could not find sourced 2005 subscriber counts, prepaid shares, SMS volumes or handset prices, so the section shows only what could be traced.
+- in 2010 foodAndKitchen: 0 items. We could not find sourced 2010 meals or retail prices; the onion price rise of December is political, not household, in the sources we opened.
+- in 2010 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 2010.
+- in 2010 workAndWages: 0 items. We could not find sourced wage rates or working hours for 2010.
+- in 2010 schoolAndChildhood: 0 items. We could not find sourced school enrolment or fees for 2010; the Act is in the government section.
+- in 2010 gettingAround: 2 items. We could not find sourced 2010 fares or journey times.
+- in 2010 keepingInTouch: 2 items. We could not find sourced 2010 recharge, SMS, data-pack or call tariffs, or smartphone ownership.
+- in 2010 healthAndMedicine: 0 items. We could not find sourced 2010 health figures beyond life expectancy.
+- in 2010 spotlight: 0 items. We could not find sourced prepaid shares, recharge denominations, smartphone sales or data prices for 2010, so only the broad figures are shown.
+- in 2020 byTheNumbers: 6 items. Literacy and household size were not found for 2020: the census had been taken in 2011 and was due in 2021.
+- in 2020 foodAndKitchen: 1 items. We could not find sourced 2020 meals, kitchen costs or retail prices.
+- in 2020 clothingAndStyle: 0 items. We could not find sourced descriptions of everyday dress in 2020.
+- in 2020 workAndWages: 2 items. We could not find sourced 2020 wage rates or the number of jobs lost.
+- in 2020 schoolAndChildhood: 1 items. We could not find sourced 2020 counts of children affected or with phone access.
+- in 2020 gettingAround: 0 items. We could not find sourced 2020 fares or traffic figures.
+- in 2020 keepingInTouch: 0 items. We could not find sourced 2020 data-use, call or video-calling figures.
+- in 2020 healthAndMedicine: 2 items. We could not find sourced 2020 doctor, hospital or testing figures.
+- in 2020 leisureAndFun: 0 items. We could not find sourced 2020 material on cinema, festivals or sport as people took part in it during the lockdown.
+- in 2020 spotlight: 5 items. We could not find sourced counts of small shops accepting UPI or smartphone ownership, so the payment growth is shown only in national totals.
+
+Deep-dive curation (items removed to make room for women or a wider spread of regions; their facts stay in other sections):
+
+- 1900 personalities.ranjitsinhji: Curated out to make room for a woman and a third region; his 1900 season stays in the sports section.
+- 1920 personalities.meghnad-saha: Curated out to make room for two women; his ionisation equation stays in the technology and achievements sections.
+- 1920 personalities.purma-bannerjee: Curated out to make room for a woman; his races stay in the sports section.
+- 1930 personalities.duleepsinhji: Curated out to make room for two women; his 1930 season stays in the sports section.
+- 1930 personalities.s-chandrasekhar: Curated out to make room for two women; his 1930 calculations stay in the technology section.
+- 1960 personalities.rajendra-prasad: Curated out to make room for a second woman; the President's office stays in the government section.
+- 1970 personalities.v-v-giri: Curated out to make room for two women; the presidency stays in the government section.
+- 1970 personalities.sunil-gavaskar: Curated out to make room for two women; his first Test came in 1971.
+- 1984 personalities.zail-singh: Curated out to add a third region; the presidency stays in the government section.
+- 1995 personalities.pv-narasimha-rao: Curated out to make room for two women; the Prime Minister's office stays in the government section.
+- 1995 personalities.shankar-dayal-sharma: Curated out to make room for two women; the presidency stays in the government section.
+- 1999 personalities.kr-narayanan: Curated out to make room for a second woman; the presidency stays in the government section.
+- 2020 personalities.ram-nath-kovind: Curated out to make room for two women; the presidency stays in the government section.
+- 2020 personalities.rishi-kapoor: Curated out to make room for a second woman; the item on Irrfan Khan covers the same weekend.
+
+People whose regionTag was 'national' in earlier batches were re-tagged by birthplace region (north, south, east, west, central, overseas) so the region filter and the three-region check work.
+
+<!-- scarcity:end -->

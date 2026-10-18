@@ -1,0 +1,407 @@
+{
+  "country": "world",
+  "year": 1995,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "Nine in every hundred Americans were online and one in eight had a mobile phone, as the web went commercial.",
+      "items": [
+        {
+          "id": "world.1995.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The United States had about 266 to 268 million people in 1995.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "U.S. population (mid-year estimate)",
+          "value": "about 267 million",
+          "unit": "people",
+          "asOf": "1995",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A baby born in 1995 could expect to live about 75.6 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "75.6",
+          "unit": "years",
+          "asOf": "1995",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 9 percent of Americans used the internet in 1995.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "9.2",
+          "unit": "percent of the population",
+          "asOf": "1995",
+          "todo": true
+        },
+        {
+          "id": "world.1995.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 13 mobile subscriptions for every 100 people.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "12.7",
+          "unit": "per 100 people",
+          "asOf": "1995",
+          "todo": true
+        },
+        {
+          "id": "world.1995.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 8 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Infant mortality",
+          "value": "7.9",
+          "unit": "per 1,000 live births",
+          "asOf": "1995",
+          "todo": true
+        },
+        {
+          "id": "world.1995.everyday.by-the-numbers.motor-vehicles",
+          "kind": "stat",
+          "title": "Motor vehicles",
+          "summary": "Registrations reached 201.5 million: 128.4 million cars, 72.5 million trucks (including pickups and vans) and 686,000 buses.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations",
+              "url": "https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Registered motor vehicles",
+          "value": "201,530,000",
+          "unit": "vehicles",
+          "asOf": "1995",
+          "checked": "2026-10-18"
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy and household size were not found for 1995. There was no census; population figures are mid-year estimates."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1995 food prices, appliance counts or meals."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Flannel shirts and baggy jeans gave way to slip dresses and baby tees, and sportswear went out in public.",
+      "items": [
+        {
+          "id": "world.1995.everyday.clothing-and-style.grunge-fades",
+          "kind": "fact",
+          "title": "Grunge fades",
+          "summary": "Grunge dress, which peaked in late 1993 and early 1994, rapidly declined in 1994 as fashion became more feminine and form-fitting; flannel shirts stayed popular from 1991 to 1997.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1994",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.clothing-and-style.slip-dress",
+          "kind": "fact",
+          "title": "The slip dress",
+          "summary": "Slip dresses first became widely worn in the mid-1990s, and in 1994 the commonest young women's look was a short black slip dress over a tight white T-shirt.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1994",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.clothing-and-style.baby-tees",
+          "kind": "fact",
+          "title": "Baby tees and tartan",
+          "summary": "In 1994-95 the 'school girl' look included baby doll tees, tartan minikilts and knee-high socks.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1994",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.clothing-and-style.athletic",
+          "kind": "fact",
+          "title": "Leggings and sneakers",
+          "summary": "In 1994 loungewear for young women was typically black Lycra leggings or bike shorts, large T-shirts, sweatshirts and athletic sneakers, and sportswear became acceptable in public over the mid- to late 1990s.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1994",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.clothing-and-style.mens-1995",
+          "kind": "fact",
+          "title": "Men's clothes",
+          "summary": "From 1995 men wore overalls, straight-leg jeans, plaid pants and flat-front chinos, and black or neon high-top sneakers replaced combat boots in a mid-1990s trend list.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1995",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.clothing-and-style.piercing",
+          "kind": "fact",
+          "title": "Navel piercing",
+          "summary": "Tattoos and body piercing beyond the ears became mainstream in the 1990s, and navel piercings were gaining popularity around the mid-1990s.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A production worker in manufacturing earned about $514 a week.",
+      "items": [
+        {
+          "id": "world.1995.everyday.work-and-wages.factory-weekly",
+          "kind": "wage",
+          "title": "A manufacturing paycheque",
+          "summary": "A production worker in manufacturing earned $12.37 an hour, or $514.49 a week, on average; in durable goods $548.23 and in non-durable goods $468.99.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4361-4366: Hourly and weekly earnings of production workers in manufacturing, 1909-1995",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4361-4366.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "job": "Production worker, manufacturing, average",
+          "amount": "$514.49",
+          "per": "week",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures for 1995 hours, women's work or the minimum wage."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "A third of public schools were connected to the internet, and half within a year.",
+      "items": [],
+      "scarcityNote": "We could not find sourced school-year, enrolment or toy figures for 1995: the NCES term table we opened ends before 1989-90. School internet access is in the spotlight."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1995 fares or journey times; the vehicle count is under The year in numbers."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1995 postage, long-distance rates or answering-machine figures; mobile phones are under The year in numbers and the internet in the spotlight."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1995 doctor fees, hospital costs or vaccination figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1995 film, television or sport material from pages we opened in full."
+    },
+    "spotlight": {
+      "title": "Getting online",
+      "standfirst": "In 1995 the internet's backbone went commercial, Windows 95 put a dial-up connection in the box, and about 9 percent of Americans were online.",
+      "items": [
+        {
+          "id": "world.1995.everyday.spotlight.nsfnet",
+          "kind": "fact",
+          "title": "The backbone goes commercial",
+          "summary": "The optical backbone of the NSFNET was decommissioned in 1995, removing the last restrictions on commercial traffic, and its traffic was handed to commercial providers including MCI, PSINet and Sprint.",
+          "sources": [
+            {
+              "label": "Wikipedia: History of the Internet",
+              "url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1995",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.spotlight.windows-95",
+          "kind": "fact",
+          "title": "Windows 95",
+          "summary": "Windows 95 went on sale on 24 August 1995; it shipped with Dial-Up Networking and the Microsoft Network but without Internet Explorer, which came in the Plus! pack, and one million copies shipped worldwide in four days.",
+          "sources": [
+            {
+              "label": "Wikipedia: Windows 95",
+              "url": "https://en.wikipedia.org/wiki/Windows_95",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1995-08-24",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.spotlight.amazon",
+          "kind": "fact",
+          "title": "Amazon opens its shop",
+          "summary": "Amazon's website launched on 16 July 1995, initially selling books sourced from wholesalers and publishers.",
+          "sources": [
+            {
+              "label": "Wikipedia: Amazon (company)",
+              "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1995-07-16",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.spotlight.school-internet",
+          "kind": "stat",
+          "title": "Schools online",
+          "summary": "Internet access in public schools rose from 35 percent in fall 1994 to 50 percent in 1995, but only 8 percent of instructional rooms were connected in 1995, up from 3 percent.",
+          "sources": [
+            {
+              "label": "NCES: Internet Access in Public Schools and Classrooms, 1994-98",
+              "url": "https://nces.ed.gov/surveys/frss/publications/1999017/index.asp",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "NCES: Indicator of the Month, Internet Access in Public and Private Schools",
+              "url": "https://nces.ed.gov/surveys/frss/publications/1999005/",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Public schools with internet access",
+          "value": "50",
+          "unit": "percent",
+          "asOf": "1995",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1995.everyday.spotlight.home-computers",
+          "kind": "stat",
+          "title": "Computers at home",
+          "summary": "22.8 percent of households had a computer in 1993 and 36.6 percent in October 1997; the Census Bureau did not ask in 1995.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: Computer use and ownership (Current Population Survey, 1993 and 1997)",
+              "url": "https://census.gov/library/publications/1999/demo/p20-522.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Households with a computer",
+          "value": "22.8 (1993); 36.6 (1997)",
+          "unit": "percent",
+          "asOf": "1993-1997",
+          "todo": true
+        }
+      ]
+    }
+  }
+}

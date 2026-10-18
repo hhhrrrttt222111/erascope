@@ -1,0 +1,57 @@
+{
+  "country": "in",
+  "year": 2050,
+  "speculative": true,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "",
+      "items": []
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "",
+      "items": []
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "",
+      "items": []
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "",
+      "items": []
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "",
+      "items": []
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "",
+      "items": []
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "",
+      "items": []
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "",
+      "items": []
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "",
+      "items": []
+    },
+    "spotlight": {
+      "title": "Spotlight",
+      "standfirst": "",
+      "items": []
+    }
+  }
+}

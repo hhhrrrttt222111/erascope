@@ -89,7 +89,7 @@
       "interactive": {
         "component": "TechThenNow"
       },
-      "scarcityNote": "Only 2 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -226,7 +226,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 3 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "freedom-history": {
       "title": "Independence & history",
@@ -305,12 +305,37 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1999.dd.freedom-history.lahore-declaration",
+          "kind": "event",
+          "title": "The Lahore Declaration",
+          "summary": "On 21 February 1999 Prime Ministers Vajpayee and Nawaz Sharif signed the Lahore Declaration, acknowledging their nuclear responsibilities and pledging to resolve the Kashmir dispute, after Vajpayee travelled on the first Delhi-Lahore bus.",
+          "eventType": "treaty",
+          "date": "1999-02-21",
+          "place": "Lahore",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Lahore Declaration",
+              "url": "https://en.wikipedia.org/wiki/Lahore_Declaration",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in India",
+              "url": "https://en.wikipedia.org/wiki/1999_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
         "component": "ChronicleScroll"
       },
-      "scarcityNote": "Only 3 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "personalities": {
       "title": "Famous personalities",
@@ -324,7 +349,7 @@
           "field": "Politics",
           "born": "1924",
           "whyThisYear": "His government lost a confidence vote by one vote in April, and he took the Delhi-Lahore bus in February.",
-          "regionTag": "national",
+          "regionTag": "central",
           "died": "2018",
           "sources": [
             {
@@ -340,33 +365,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.1999.dd.personalities.kr-narayanan",
-          "kind": "person",
-          "title": "K. R. Narayanan",
-          "summary": "President, born in 1920.",
-          "field": "Politics",
-          "born": "1920",
-          "whyThisYear": "He asked the government to seek a confidence vote in April.",
-          "regionTag": "national",
-          "died": "2005",
-          "sources": [
-            {
-              "label": "Wikipedia: K. R. Narayanan",
-              "url": "https://en.wikipedia.org/wiki/K._R._Narayanan",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: 1999 in India",
-              "url": "https://en.wikipedia.org/wiki/1999_in_India",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1999.dd.personalities.sonia-gandhi",
@@ -376,7 +376,7 @@
           "field": "Politics",
           "born": "1946",
           "whyThisYear": "She resigned as Congress president on 17 May and withdrew the resignation on 24 May.",
-          "regionTag": "national",
+          "regionTag": "overseas",
           "sources": [
             {
               "label": "Wikipedia: Sonia Gandhi",
@@ -391,7 +391,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.1999.dd.personalities.leander-paes",
@@ -401,7 +402,7 @@
           "field": "Tennis",
           "born": "1973",
           "whyThisYear": "With Mahesh Bhupathi he won the French Open and Wimbledon men's doubles.",
-          "regionTag": "national",
+          "regionTag": "east",
           "sources": [
             {
               "label": "Wikipedia: Leander Paes",
@@ -416,7 +417,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1999.dd.personalities.mahesh-bhupathi",
@@ -426,7 +428,7 @@
           "field": "Tennis",
           "born": "1974",
           "whyThisYear": "He won two Grand Slam doubles titles with Leander Paes.",
-          "regionTag": "national",
+          "regionTag": "south",
           "sources": [
             {
               "label": "Wikipedia: Mahesh Bhupathi",
@@ -441,7 +443,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1999.dd.personalities.anil-kumble",
@@ -451,7 +454,7 @@
           "field": "Cricket",
           "born": "1970",
           "whyThisYear": "He took all ten wickets in a Test innings against Pakistan, 10 for 74.",
-          "regionTag": "national",
+          "regionTag": "south",
           "sources": [
             {
               "label": "Wikipedia: Anil Kumble",
@@ -466,7 +469,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1999.dd.personalities.nirmal-verma",
@@ -476,7 +480,7 @@
           "field": "Literature",
           "born": "1929",
           "whyThisYear": "He shared the 35th Jnanpith Award, for 1999, with Gurdial Singh.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "2005",
           "sources": [
             {
@@ -492,7 +496,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1999.dd.personalities.gurdial-singh",
@@ -502,7 +507,7 @@
           "field": "Literature",
           "born": "1933",
           "whyThisYear": "He shared the 35th Jnanpith Award, for 1999, with Nirmal Verma.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "2016",
           "sources": [
             {
@@ -518,7 +523,29 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
+        },
+        {
+          "id": "in.1999.dd.personalities.jhumpa-lahiri",
+          "kind": "person",
+          "title": "Jhumpa Lahiri",
+          "summary": "Writer, born in London to Bengali Hindu immigrants, whose first book won the Pulitzer Prize for Fiction.",
+          "field": "Fiction",
+          "born": "1967-07-11",
+          "gender": "female",
+          "regionTag": "overseas",
+          "place": "London",
+          "whyThisYear": "Her debut story collection Interpreter of Maladies was published in 1999 and won the Pulitzer Prize for Fiction in 2000.",
+          "sources": [
+            {
+              "label": "Wikipedia: Jhumpa Lahiri",
+              "url": "https://en.wikipedia.org/wiki/Jhumpa_Lahiri",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -647,7 +674,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -758,7 +786,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 2 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -842,7 +870,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 3 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -894,7 +922,7 @@
       "interactive": {
         "component": "ReadingRoom"
       },
-      "scarcityNote": "Only 2 items for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -994,7 +1022,8 @@
       ],
       "interactive": {
         "component": "ProjectorReel"
-      }
+      },
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -1022,7 +1051,7 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "Only 1 item for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
@@ -1090,7 +1119,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 1 item for 1999 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1999 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

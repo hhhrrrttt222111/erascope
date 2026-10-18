@@ -3,7 +3,7 @@ import { Suspense, useEffect } from "react";
 import { INTERACTIVES } from "../interactives/deepdive/registry";
 import { DEEP_DIVE_SECTIONS } from "../../data/deepdive";
 import type { DeepDive, DeepDiveSection, DeepDiveSectionId } from "../../data/types";
-import { ItemCard } from "./ItemCard";
+import { ItemList } from "./ItemList";
 import { Motif } from "./motifs";
 import { useDeepDiveStyle } from "./useDeepDiveStyle";
 
@@ -54,11 +54,7 @@ export function SectionPage({ dd, id, section, headingRef }: { dd: DeepDive; id:
       <Typography component="h2" variant="h5" sx={{ mb: 1.5 }}>
         Items
       </Typography>
-      <Box component="ul" sx={{ m: 0, p: 0, display: "grid", gap: 2, gridTemplateColumns: { xs: "1fr", md: "repeat(2, minmax(0, 1fr))" } }}>
-        {section.items.map((item, i) => (
-          <ItemCard key={item.id} item={item} index={i} />
-        ))}
-      </Box>
+      <ItemList items={section.items} />
     </>
   );
 }

@@ -125,7 +125,8 @@
       ],
       "interactive": {
         "component": "TechThenNow"
-      }
+      },
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -210,6 +211,50 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.government-politics.bro",
+          "kind": "governance",
+          "title": "The Border Roads Organisation",
+          "summary": "The Border Roads Organisation was formed on 7 May 1960 to secure India's borders and develop roads in remote northern and north-eastern areas; its first projects were raised that May.",
+          "office": "Border Roads Organisation",
+          "instrument": "Formed 7 May 1960",
+          "date": "1960-05-07",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Border Roads Organisation",
+              "url": "https://en.wikipedia.org/wiki/Border_Roads_Organisation",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1960 in India",
+              "url": "https://en.wikipedia.org/wiki/1960_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.dd.government-politics.ninth-amendment",
+          "kind": "governance",
+          "title": "The Ninth Amendment",
+          "summary": "The Constitution (Ninth Amendment), in force from 28 December 1960, made minor adjustments to the territory of the Union after an agreement with Pakistan to settle disputes by demarcating border villages.",
+          "office": "Parliament of India",
+          "instrument": "Constitution (Ninth Amendment)",
+          "date": "1960-12-28",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Ninth Amendment of the Constitution of India",
+              "url": "https://en.wikipedia.org/wiki/Ninth_Amendment_of_the_Constitution_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -357,12 +402,37 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1960.dd.freedom-history.nanavati",
+          "kind": "event",
+          "title": "The Nanavati case",
+          "summary": "The Bombay High Court overturned a jury's not-guilty verdict on 11 March 1960 in the trial of Commander K. M. Nanavati for shooting his wife's lover, and sentenced him to life; the case drew unprecedented press coverage and the Supreme Court upheld it on 24 November 1961.",
+          "eventType": "other",
+          "date": "1960-03-11",
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "sources": [
+            {
+              "label": "Wikipedia: K. M. Nanavati v. State of Maharashtra",
+              "url": "https://en.wikipedia.org/wiki/K._M._Nanavati_v._State_of_Maharashtra",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1960 in India",
+              "url": "https://en.wikipedia.org/wiki/1960_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
         "component": "ChronicleScroll"
       },
-      "scarcityNote": "Only 3 items for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "personalities": {
       "title": "Famous personalities",
@@ -377,7 +447,7 @@
           "born": "1889",
           "died": "1964",
           "whyThisYear": "He agreed with Zhou Enlai to hold official-level talks on the boundary and named TIFRAC.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Jawaharlal Nehru",
@@ -392,33 +462,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.1960.dd.personalities.rajendra-prasad",
-          "kind": "person",
-          "title": "Rajendra Prasad",
-          "summary": "President of India, born in 1884.",
-          "field": "Politics",
-          "born": "1884",
-          "died": "1963",
-          "whyThisYear": "He was in the last two years of his term as the first President.",
-          "regionTag": "national",
-          "sources": [
-            {
-              "label": "Wikipedia: Rajendra Prasad",
-              "url": "https://en.wikipedia.org/wiki/Rajendra_Prasad",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: 1960 in India",
-              "url": "https://en.wikipedia.org/wiki/1960_in_India",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1960.dd.personalities.milkha-singh",
@@ -429,7 +474,7 @@
           "born": "1929",
           "died": "2021",
           "whyThisYear": "He finished fourth in the 400 metres at the Rome Olympics.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Milkha Singh",
@@ -444,7 +489,8 @@
               "quality": "primary"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1960.dd.personalities.satyajit-ray",
@@ -455,7 +501,7 @@
           "born": "1921",
           "died": "1992",
           "whyThisYear": "His film Devi, with Sharmila Tagore, was released in 1960.",
-          "regionTag": "national",
+          "regionTag": "east",
           "sources": [
             {
               "label": "Wikipedia: Satyajit Ray",
@@ -470,7 +516,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1960.dd.personalities.k-asif",
@@ -481,7 +528,7 @@
           "born": "1922",
           "died": "1971",
           "whyThisYear": "Mughal-e-Azam, which he produced and directed, was released on 5 August 1960; its development began in 1944.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: K. Asif",
@@ -496,7 +543,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1960.dd.personalities.dilip-kumar",
@@ -507,7 +555,7 @@
           "born": "1922",
           "died": "2021",
           "whyThisYear": "He played Prince Salim in Mughal-e-Azam.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Dilip Kumar",
@@ -522,7 +570,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1960.dd.personalities.madhubala",
@@ -533,7 +582,7 @@
           "born": "1933",
           "died": "1969",
           "whyThisYear": "She played Anarkali in Mughal-e-Azam.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Madhubala",
@@ -548,7 +597,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.1960.dd.personalities.homi-bhabha",
@@ -559,7 +609,7 @@
           "born": "1909",
           "died": "1966",
           "whyThisYear": "The CIRUS reactor at his Trombay establishment went critical in July 1960.",
-          "regionTag": "national",
+          "regionTag": "west",
           "sources": [
             {
               "label": "Wikipedia: Homi J. Bhabha",
@@ -574,7 +624,36 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
+        },
+        {
+          "id": "in.1960.dd.personalities.lata-mangeshkar",
+          "kind": "person",
+          "title": "Lata Mangeshkar",
+          "summary": "Playback singer whose voice carried Hindi film songs for decades, later one of the most recorded artists in history.",
+          "field": "Playback singing",
+          "born": "1929-09-28",
+          "died": "2022-02-06",
+          "gender": "female",
+          "regionTag": "central",
+          "place": "Indore",
+          "whyThisYear": "She sang 'Pyar Kiya To Darna Kya' for Madhubala in Mughal-e-Azam (composed by Naushad), and 'Ajeeb Dastaan Hai Yeh' and 'O Sajna' for 1960 films.",
+          "sources": [
+            {
+              "label": "Wikipedia: Lata Mangeshkar",
+              "url": "https://en.wikipedia.org/wiki/Lata_Mangeshkar",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Mughal-e-Azam",
+              "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -684,7 +763,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -851,7 +931,8 @@
             "quality": "primary"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -888,7 +969,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 1 item for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -964,7 +1045,7 @@
       "interactive": {
         "component": "ReadingRoom"
       },
-      "scarcityNote": "Only 3 items for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -1065,7 +1146,8 @@
       ],
       "interactive": {
         "component": "ProjectorReel"
-      }
+      },
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -1128,7 +1210,7 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "Only 3 items for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
@@ -1164,6 +1246,26 @@
             }
           ],
           "checked": "2026-10-14"
+        },
+        {
+          "id": "in.1960.dd.economy-business.national-income",
+          "kind": "indicator",
+          "title": "National income",
+          "summary": "National income was ₹176,333 million in 1960.",
+          "metric": "National income",
+          "value": "176,333",
+          "unit": "million rupees",
+          "asOf": "1960",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in India",
+              "url": "https://en.wikipedia.org/wiki/1960_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -1218,7 +1320,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 1 item for 1960 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1960 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

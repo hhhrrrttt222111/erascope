@@ -30,9 +30,9 @@ export function FutureOSChrome({ sections }: ChromeProps) {
             CHRONO<Box component="span" sx={{ color: primary.main }}>//</Box>OS
           </Typography>
           <SpeculativeBadge size="large" />
-          <Box component="nav" aria-label="Sections" sx={{ display: { xs: "none", md: "flex" }, gap: 0.5, ml: "auto" }}>
+          <Box component="nav" aria-label="Sections" sx={{ display: "flex", flexWrap: "wrap", gap: 0.5, order: 3, flexBasis: "100%" }}>
             {sections.map((s, i) => (
-              <Button key={s.id} size="small" onClick={() => scrollToSection(s.id)} sx={{ color: "text.secondary", fontSize: "0.65rem" }}>
+              <Button key={s.id} size="small" onClick={() => scrollToSection(s.id)} sx={{ color: "text.secondary", fontSize: "0.65rem", whiteSpace: "nowrap", lineHeight: 1.4 }}>
                 {String(i + 1).padStart(2, "0")} {s.title}
               </Button>
             ))}

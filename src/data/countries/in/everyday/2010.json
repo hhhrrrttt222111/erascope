@@ -1,0 +1,692 @@
+{
+  "country": "in",
+  "year": 2010,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "The 2011 census counted 1.21 billion people, three in four of whom could read, and three in five Indians held a mobile phone subscription.",
+      "items": [
+        {
+          "id": "in.2010.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "India's population was about 1.24 billion in 2010; the census of 2011 counted 1,210,854,977.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: Demographics of India",
+              "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "1,243,481,564",
+          "unit": "people",
+          "asOf": "2010",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2010.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A newborn in 2010 could expect to live about 67 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "67.2",
+          "unit": "years",
+          "asOf": "2010",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2010.everyday.by-the-numbers.literacy",
+          "kind": "stat",
+          "title": "Who could read",
+          "summary": "At the 2011 census 74 percent of people could read and write, 82 percent of men and 65 percent of women.",
+          "sources": [
+            {
+              "label": "Wikipedia: Literacy in India",
+              "url": "https://en.wikipedia.org/wiki/Literacy_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2011 Census of India",
+              "url": "https://en.wikipedia.org/wiki/2011_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Literacy rate (census 2011)",
+          "value": "74.04",
+          "unit": "percent",
+          "asOf": "2011",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2010.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and village",
+          "summary": "The 2011 census found 31.16 percent of Indians living in towns and cities and 68.84 percent in rural areas.",
+          "sources": [
+            {
+              "label": "Wikipedia: Demographics of India",
+              "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "World Bank, World Development Indicators: Urban population (% of total)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Urban share of the population",
+          "value": "31.16",
+          "unit": "percent",
+          "asOf": "2011",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2010.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 7.5 percent of Indians used the internet in 2010.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Share of individuals using the internet",
+              "url": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "7.5",
+          "unit": "percent of the population",
+          "asOf": "2010",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2010.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 60 mobile subscriptions for every 100 people, up from 7.8 in 2005.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "60.5",
+          "unit": "per 100 people",
+          "asOf": "2010",
+          "todo": true
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Zomato, which began as Foodiebay in 2008, took that name in 2010 and listed restaurants with menus online.",
+      "items": [
+        {
+          "id": "in.2010.everyday.food-and-kitchen.zomato",
+          "kind": "fact",
+          "title": "Zomato",
+          "summary": "Zomato, which began as Foodiebay in 2008, took that name in 2010 and listed restaurants with menus online.",
+          "sources": [
+            {
+              "label": "Wikipedia: Zomato",
+              "url": "https://en.wikipedia.org/wiki/Zomato",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.food-and-kitchen.dominos-30min",
+          "kind": "fact",
+          "title": "Home delivery",
+          "summary": "Pizza chains promised home delivery in 30 minutes.",
+          "sources": [
+            {
+              "label": "Wikipedia: Domino's",
+              "url": "https://en.wikipedia.org/wiki/Domino's",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.food-and-kitchen.amul-milk",
+          "kind": "fact",
+          "title": "Packet milk",
+          "summary": "Packet milk from Amul and Mother Dairy was delivered each morning.",
+          "sources": [
+            {
+              "label": "Wikipedia: Amul",
+              "url": "https://en.wikipedia.org/wiki/Amul",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.food-and-kitchen.street-food",
+          "kind": "fact",
+          "title": "Street food",
+          "summary": "Chaat, vada pav and dosa stalls stayed everywhere, from small towns to metro stations.",
+          "sources": [
+            {
+              "label": "Wikipedia: Street food of India",
+              "url": "https://en.wikipedia.org/wiki/Street_food_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Myntra, begun in 2007, sold branded clothing online.",
+      "items": [
+        {
+          "id": "in.2010.everyday.clothing-and-style.myntra",
+          "kind": "fact",
+          "title": "Buying clothes online",
+          "summary": "Myntra, begun in 2007, sold branded clothing online.",
+          "sources": [
+            {
+              "label": "Wikipedia: Myntra",
+              "url": "https://en.wikipedia.org/wiki/Myntra",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.clothing-and-style.flipkart",
+          "kind": "fact",
+          "title": "Flipkart",
+          "summary": "Flipkart started in 2007 as a bookshop and added clothes and electronics.",
+          "sources": [
+            {
+              "label": "Wikipedia: Flipkart",
+              "url": "https://en.wikipedia.org/wiki/Flipkart",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.clothing-and-style.tshirts",
+          "kind": "fact",
+          "title": "T-shirts and jeans",
+          "summary": "T-shirts, jeans and kurtas were common wear for students.",
+          "sources": [
+            {
+              "label": "Wikipedia: Clothing in India",
+              "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "MGNREGA guaranteed 100 days of paid work a year to rural households, and was extended to all districts in 2008.",
+      "items": [
+        {
+          "id": "in.2010.everyday.work-and-wages.mgnrega",
+          "kind": "fact",
+          "title": "Rural jobs guarantee",
+          "summary": "MGNREGA guaranteed 100 days of paid work a year to rural households, and was extended to all districts in 2008.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+              "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.work-and-wages.bpo",
+          "kind": "fact",
+          "title": "Call-centre jobs",
+          "summary": "Call centres and BPOs in Bangalore, Gurgaon and Hyderabad hired young graduates.",
+          "sources": [
+            {
+              "label": "Wikipedia: Business process outsourcing in India",
+              "url": "https://en.wikipedia.org/wiki/Business_process_outsourcing_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.work-and-wages.aadhaar-2010",
+          "kind": "fact",
+          "title": "Aadhaar",
+          "summary": "The first Aadhaar numbers were issued in September 2010 at Tembhli in Maharashtra.",
+          "sources": [
+            {
+              "label": "Wikipedia: Aadhaar",
+              "url": "https://en.wikipedia.org/wiki/Aadhaar",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "The Right to Education Act came into force on 1 April.",
+      "items": [
+        {
+          "id": "in.2010.everyday.school-and-childhood.rte-2010",
+          "kind": "fact",
+          "title": "Right to Education",
+          "summary": "The Right to Education Act came into force on 1 April 2010, making schooling for ages 6 to 14 a legal right.",
+          "sources": [
+            {
+              "label": "Wikipedia: Right to Education Act",
+              "url": "https://en.wikipedia.org/wiki/Right_to_Education_Act",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.school-and-childhood.cce",
+          "kind": "fact",
+          "title": "Grades in class 10",
+          "summary": "CBSE introduced grading and continuous evaluation for class 10 around 2009-10.",
+          "sources": [
+            {
+              "label": "Wikipedia: Central Board of Secondary Education",
+              "url": "https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.school-and-childhood.coaching-2010",
+          "kind": "fact",
+          "title": "Tuition",
+          "summary": "Private tuition and coaching classes grew along with school.",
+          "sources": [
+            {
+              "label": "Wikipedia: Coaching centre",
+              "url": "https://en.wikipedia.org/wiki/Coaching_centre",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The Delhi Metro's Violet Line opened.",
+      "items": [
+        {
+          "id": "in.2010.everyday.getting-around.violet-line",
+          "kind": "fact",
+          "title": "The Violet Line",
+          "summary": "The Violet Line of the Delhi Metro opened on 3 October 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-10-03",
+          "place": "Delhi",
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.getting-around.mangalore-crash",
+          "kind": "fact",
+          "title": "A crash at Mangalore",
+          "summary": "On 22 May 2010 an Air India Express flight from Dubai overran the runway at Mangalore's table-top airport and burned, killing 158 of the 166 on board; the inquiry blamed the captain's failure to abort an unstabilised approach.",
+          "sources": [
+            {
+              "label": "Wikipedia: Air India Express Flight 812",
+              "url": "https://en.wikipedia.org/wiki/Air_India_Express_Flight_812",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-05-22",
+          "place": "Mangalore",
+          "regionTag": "south",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes an air crash that killed 158 people."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2010 fares or journey times."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "Phones could now move money, and a government demanded access to a smartphone's mail.",
+      "items": [
+        {
+          "id": "in.2010.everyday.keeping-in-touch.imps",
+          "kind": "fact",
+          "title": "Money by mobile",
+          "summary": "The Immediate Payment Service, letting money move between bank accounts by mobile, was launched on 22 November 2010 with four banks.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-11-22",
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.keeping-in-touch.blackberry",
+          "kind": "fact",
+          "title": "The BlackBerry deadline",
+          "summary": "On 12 August 2010 India gave BlackBerry until 31 August to provide access to its services to the authorities.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-08-12",
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2010 recharge, SMS, data-pack or call tariffs, or smartphone ownership."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "The H1N1 flu outbreak of 2009-10 led to many cases and deaths in India.",
+      "items": [
+        {
+          "id": "in.2010.everyday.health-and-medicine.swine-flu",
+          "kind": "fact",
+          "title": "Swine flu",
+          "summary": "The H1N1 flu outbreak of 2009-10 led to many cases and deaths in India.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2009 swine flu pandemic in India",
+              "url": "https://en.wikipedia.org/wiki/2009_swine_flu_pandemic_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.2010.everyday.health-and-medicine.nrhm",
+          "kind": "fact",
+          "title": "National Rural Health Mission",
+          "summary": "The NRHM, started in 2005, trained ASHA workers in villages and funded health centres.",
+          "sources": [
+            {
+              "label": "Wikipedia: National Rural Health Mission",
+              "url": "https://en.wikipedia.org/wiki/National_Rural_Health_Mission",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.health-and-medicine.polio-last",
+          "kind": "fact",
+          "title": "Last polio case",
+          "summary": "India's last case of wild polio was in January 2011, after 42 cases in 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: Polio in India",
+              "url": "https://en.wikipedia.org/wiki/Polio_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "The IPL's third season, played in March and April, was streamed live on YouTube; a kabaddi world cup ended with India beating Pakistan.",
+      "items": [
+        {
+          "id": "in.2010.everyday.leisure-and-fun.ipl-2010",
+          "kind": "fact",
+          "title": "The IPL final",
+          "summary": "Chennai Super Kings beat Mumbai Indians by 22 runs at the DY Patil Stadium in Navi Mumbai to win the 2010 Indian Premier League, played between 12 March and 25 April.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian Premier League",
+              "url": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-04-25",
+          "place": "Navi Mumbai",
+          "regionTag": "west",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.2010.everyday.leisure-and-fun.ipl-youtube",
+          "kind": "fact",
+          "title": "Live on YouTube",
+          "summary": "In 2010 the IPL became the first sporting event broadcast live on YouTube.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian Premier League",
+              "url": "https://en.wikipedia.org/wiki/Indian_Premier_League",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010",
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.leisure-and-fun.indian-idol",
+          "kind": "fact",
+          "title": "Indian Idol",
+          "summary": "Sreeram Chandra won Indian Idol Season 5 on 15 August 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in India",
+              "url": "https://en.wikipedia.org/wiki/2010_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-08-15",
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Recharge culture and the first smartphones",
+      "standfirst": "By 2010 six in ten Indians had a mobile subscription, mostly prepaid and mostly for calls and text, with a smartphone still out of most hands.",
+      "items": [
+        {
+          "id": "in.2010.everyday.spotlight.nokia",
+          "kind": "fact",
+          "title": "The Nokia era",
+          "summary": "Nokia handsets were the best-known phones in India, with Micromax and others selling cheap dual-SIM models.",
+          "sources": [
+            {
+              "label": "Wikipedia: Nokia",
+              "url": "https://en.wikipedia.org/wiki/Nokia",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.spotlight.per-second",
+          "kind": "fact",
+          "title": "Per-second billing",
+          "summary": "Tata DoCoMo introduced per-second billing in 2009, pushing other firms to cut rates.",
+          "sources": [
+            {
+              "label": "Wikipedia: Tata Teleservices",
+              "url": "https://en.wikipedia.org/wiki/Tata_Teleservices",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.spotlight.3g-auction",
+          "kind": "fact",
+          "title": "3G auction",
+          "summary": "The government auctioned 3G spectrum in 2010 and the first 3G services began later that year.",
+          "sources": [
+            {
+              "label": "Wikipedia: 3G spectrum auction in India",
+              "url": "https://en.wikipedia.org/wiki/3G_spectrum_auction_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.spotlight.mnp",
+          "kind": "fact",
+          "title": "Keeping your number",
+          "summary": "Mobile number portability began in 2011 and let users change operators.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mobile number portability",
+              "url": "https://en.wikipedia.org/wiki/Mobile_number_portability",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.2010.everyday.spotlight.prepaid-recharge",
+          "kind": "fact",
+          "title": "Recharge culture",
+          "summary": "Most users bought prepaid top-ups from the corner shop in small amounts.",
+          "sources": [
+            {
+              "label": "Wikipedia: Telecommunications in India",
+              "url": "https://en.wikipedia.org/wiki/Telecommunications_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    }
+  }
+}

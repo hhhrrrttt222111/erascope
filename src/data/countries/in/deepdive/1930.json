@@ -153,7 +153,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -232,6 +233,25 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.government-politics.sale-of-goods",
+          "kind": "governance",
+          "title": "The Sale of Goods Act, 1930",
+          "summary": "The Act, enacted on 1 July 1930 and modelled closely on Britain's Sale of Goods Act 1893, set the law on contracts for the sale of goods across British India.",
+          "office": "Governor-General in Council",
+          "instrument": "Sale of Goods Act, 1930",
+          "date": "1930-07-01",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Sale of Goods Act, 1930",
+              "url": "https://en.wikipedia.org/wiki/Sale_of_Goods_Act,_1930",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -315,7 +335,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "freedom-history": {
       "title": "Independence & history",
@@ -441,6 +462,31 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.freedom-history.vedaranyam",
+          "kind": "event",
+          "title": "The Vedaranyam Salt Satyagraha",
+          "summary": "C. Rajagopalachari led about a hundred volunteers some 240 km from Trichinopoly to Vedaranyam, arriving on 28 April and breaking the salt law on 30 April 1930.",
+          "eventType": "movement",
+          "date": "1930-04-30",
+          "place": "Vedaranyam, Madras Presidency",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: Vedaranyam Salt Satyagraha",
+              "url": "https://en.wikipedia.org/wiki/Vedaranyam_Salt_Satyagraha",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1930 in India",
+              "url": "https://en.wikipedia.org/wiki/1930_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -474,7 +520,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1930.dd.personalities.jawaharlal-nehru",
@@ -499,7 +546,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1930.dd.personalities.cv-raman",
@@ -524,32 +572,8 @@
               "quality": "primary"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.1930.dd.personalities.s-chandrasekhar",
-          "kind": "person",
-          "title": "Subrahmanyan Chandrasekhar",
-          "summary": "Born in 1910.",
-          "field": "Astrophysics",
-          "born": "1910",
-          "whyThisYear": "He made the calculations behind the Chandrasekhar limit on a voyage to England.",
-          "regionTag": "national",
-          "sources": [
-            {
-              "label": "Wikipedia: Subrahmanyan Chandrasekhar",
-              "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: Chandrasekhar limit",
-              "url": "https://en.wikipedia.org/wiki/Chandrasekhar_limit",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1930.dd.personalities.surya-sen",
@@ -575,7 +599,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1930.dd.personalities.muhammad-iqbal",
@@ -601,32 +626,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.1930.dd.personalities.duleepsinhji",
-          "kind": "person",
-          "title": "K. S. Duleepsinhji",
-          "summary": "Cricketer, born in Nawanagar in 1905.",
-          "field": "Cricket",
-          "born": "1905",
-          "whyThisYear": "He scored 2,562 runs in the 1930 English season, with a highest score of 333.",
-          "regionTag": "national",
-          "sources": [
-            {
-              "label": "Wikipedia: Duleepsinhji",
-              "url": "https://en.wikipedia.org/wiki/Duleepsinhji",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: 1930 English cricket season",
-              "url": "https://en.wikipedia.org/wiki/1930_English_cricket_season",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1930.dd.personalities.br-ambedkar",
@@ -651,7 +652,64 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
+        },
+        {
+          "id": "in.1930.dd.personalities.kamaladevi-chattopadhyay",
+          "kind": "person",
+          "title": "Kamaladevi Chattopadhyay",
+          "summary": "Freedom fighter, organiser and later a champion of Indian handicrafts and theatre.",
+          "field": "Politics and the arts",
+          "born": "1903-04-03",
+          "died": "1988-10-29",
+          "gender": "female",
+          "regionTag": "west",
+          "place": "Bombay (now Mumbai)",
+          "whyThisYear": "Gandhi named her one of seven to lead the Salt Satyagraha; she prepared salt on the Bombay beachfront and asked a magistrate whether he would buy her 'Freedom Salt'.",
+          "sources": [
+            {
+              "label": "Wikipedia: Kamaladevi Chattopadhyay",
+              "url": "https://en.wikipedia.org/wiki/Kamaladevi_Chattopadhyay",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Scroll.in: How Mumbai suburban women contributed to the freedom struggle",
+              "url": "https://scroll.in/article/1087616/from-the-photo-book-how-mumbai-suburban-women-contributed-to-the-freedom-struggle",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1930.dd.personalities.sarojini-naidu",
+          "kind": "person",
+          "title": "Sarojini Naidu",
+          "summary": "Poet and political leader, later the first Indian woman to preside over the Indian National Congress.",
+          "field": "Poetry and politics",
+          "born": "1879-02-13",
+          "died": "1949-03-02",
+          "gender": "female",
+          "regionTag": "south",
+          "place": "Hyderabad",
+          "whyThisYear": "After Gandhi's arrest on 4 May 1930 she led the continuing protest at the Dharasana Salt Works on 21 May.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sarojini Naidu",
+              "url": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Dharasana Satyagraha",
+              "url": "https://en.wikipedia.org/wiki/Dharasana_Satyagraha",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -756,7 +814,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -817,12 +876,36 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1930.dd.sports.lords-173",
+          "kind": "sport",
+          "title": "Duleepsinhji's 173 at Lord's",
+          "summary": "In June 1930 K. S. Duleepsinhji scored 173, his highest Test score, for England against Australia at Lord's.",
+          "sport": "Cricket",
+          "competition": "England v Australia, Lord's (Test)",
+          "result": "173 runs",
+          "athletes": [
+            "K. S. Duleepsinhji"
+          ],
+          "regionTag": "overseas",
+          "place": "Lord's, London",
+          "date": "1930-06",
+          "sources": [
+            {
+              "label": "Wikipedia: Duleepsinhji",
+              "url": "https://en.wikipedia.org/wiki/Duleepsinhji",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
         "component": "ScorecardReplay"
       },
-      "scarcityNote": "Only 2 items for 1930 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -939,7 +1022,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Few works dated exactly to 1930 were verified; these were published in 1929 and read in 1930."
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -1041,7 +1124,8 @@
       ],
       "interactive": {
         "component": "ReadingRoom"
-      }
+      },
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -1139,7 +1223,8 @@
       ],
       "interactive": {
         "component": "ProjectorReel"
-      }
+      },
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -1206,16 +1291,37 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "Only 3 items for 1930 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
       "standfirst": "No item for this section could be checked against sources.",
-      "items": [],
+      "items": [
+        {
+          "id": "in.1930.dd.economy-business.national-income",
+          "kind": "indicator",
+          "title": "National income",
+          "summary": "National income was ₹31,435 million in 1930.",
+          "metric": "National income",
+          "value": "31,435",
+          "unit": "million rupees",
+          "asOf": "1930",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1930 in India",
+              "url": "https://en.wikipedia.org/wiki/1930_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        }
+      ],
       "interactive": {
         "component": "RupeeDashboard"
       },
-      "scarcityNote": "No item for 1930 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1930 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

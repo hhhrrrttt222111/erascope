@@ -119,7 +119,7 @@
       "interactive": {
         "component": "TechThenNow"
       },
-      "scarcityNote": "Only 3 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -204,6 +204,25 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1945.dd.government-politics.imf-act",
+          "kind": "governance",
+          "title": "The International Monetary Fund and Bank Act, 1945",
+          "summary": "The International Monetary Fund and Bank Act was one of the laws passed by the Government of India in 1945.",
+          "office": "Governor-General in Council",
+          "instrument": "International Monetary Fund and Bank Act, 1945",
+          "date": "1945",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1945 in India",
+              "url": "https://en.wikipedia.org/wiki/1945_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -287,7 +306,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "freedom-history": {
       "title": "Independence & history",
@@ -367,7 +387,7 @@
       "interactive": {
         "component": "ChronicleScroll"
       },
-      "scarcityNote": "Only 3 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "personalities": {
       "title": "Famous personalities",
@@ -381,7 +401,7 @@
           "field": "Government",
           "born": "1883",
           "whyThisYear": "He proposed the plan for an Executive Council of Indians and convened the Simla Conference.",
-          "regionTag": "national",
+          "regionTag": "overseas",
           "sources": [
             {
               "label": "Wikipedia: Archibald Wavell, 1st Earl Wavell",
@@ -390,7 +410,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1945.dd.personalities.jawaharlal-nehru",
@@ -400,7 +421,7 @@
           "field": "Politics and writing",
           "born": "1889",
           "whyThisYear": "He finished The Discovery of India, written in Ahmednagar Fort jail between 1942 and 1945, and sat on Congress's committee for the defence of the INA prisoners.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Jawaharlal Nehru",
@@ -415,7 +436,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1945.dd.personalities.muhammad-ali-jinnah",
@@ -425,7 +447,7 @@
           "field": "Politics",
           "born": "1876",
           "whyThisYear": "At Simla he refused any plan in which Congress appointed Muslim members, and the League won every Muslim seat in the December elections.",
-          "regionTag": "national",
+          "regionTag": "west",
           "died": "1948",
           "sources": [
             {
@@ -441,7 +463,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1945.dd.personalities.subhas-chandra-bose",
@@ -451,7 +474,7 @@
           "field": "Politics and the Indian National Army",
           "born": "1897",
           "whyThisYear": "He is presumed to have died in a plane crash in Taiwan on 18 August 1945.",
-          "regionTag": "national",
+          "regionTag": "east",
           "died": "1945",
           "sensitivity": {
             "level": "care",
@@ -471,7 +494,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1945.dd.personalities.homi-bhabha",
@@ -481,7 +505,7 @@
           "field": "Physics",
           "born": "1909",
           "whyThisYear": "He founded the Tata Institute of Fundamental Research on 1 June 1945.",
-          "regionTag": "national",
+          "regionTag": "west",
           "died": "1966",
           "sources": [
             {
@@ -497,7 +521,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1945.dd.personalities.rusi-modi",
@@ -507,7 +532,7 @@
           "field": "Cricket",
           "born": "1924",
           "whyThisYear": "He scored 1,008 runs at 201.60 in the 1944-45 Ranji Trophy, then a record for a season.",
-          "regionTag": "national",
+          "regionTag": "west",
           "died": "1996",
           "sources": [
             {
@@ -523,7 +548,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1945.dd.personalities.noor-jehan",
@@ -533,7 +559,7 @@
           "field": "Film and music",
           "born": "1926",
           "whyThisYear": "She starred in Zeenat, the highest-grossing Indian film of 1945.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "2000",
           "sources": [
             {
@@ -549,7 +575,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.1945.dd.personalities.ismat-chughtai",
@@ -559,7 +586,7 @@
           "field": "Literature",
           "born": "1911",
           "whyThisYear": "Her obscenity trial over the story Lihaaf took place in 1945 and she won.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Ismat Chughtai",
@@ -574,7 +601,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         }
       ],
       "interactive": {
@@ -686,7 +714,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -848,7 +877,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -939,7 +969,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 3 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -1012,7 +1042,7 @@
       "interactive": {
         "component": "ReadingRoom"
       },
-      "scarcityNote": "Only 3 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -1117,7 +1147,8 @@
       ],
       "interactive": {
         "component": "ProjectorReel"
-      }
+      },
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -1163,16 +1194,37 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "Only 2 items for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
       "standfirst": "No item for this section could be checked against sources.",
-      "items": [],
+      "items": [
+        {
+          "id": "in.1945.dd.economy-business.national-income",
+          "kind": "indicator",
+          "title": "National income",
+          "summary": "National income was ₹77,736 million for 1945.",
+          "metric": "National income",
+          "value": "77,736",
+          "unit": "million rupees",
+          "asOf": "1945",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1945 in India",
+              "url": "https://en.wikipedia.org/wiki/1945_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        }
+      ],
       "interactive": {
         "component": "RupeeDashboard"
       },
-      "scarcityNote": "No item for 1945 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1945 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

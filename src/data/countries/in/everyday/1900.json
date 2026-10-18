@@ -1,0 +1,592 @@
+{
+  "country": "in",
+  "year": 1900,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "Nine in ten Indians lived in villages in a year when famine and plague both ran their course; the population count is in the history and economy section.",
+      "items": [
+        {
+          "id": "in.1900.everyday.by-the-numbers.village-share",
+          "kind": "stat",
+          "title": "Town and village",
+          "summary": "Roughly nine in ten people lived in villages and about one in ten in towns.",
+          "sources": [
+            {
+              "label": "People's Archive of Rural India: Report on the Census of India, 1901 (summary of the Risley and Gait report)",
+              "url": "https://ruralindiaonline.org/en/library/resource/report-on-the-census-of-india-1901/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Share of people living in towns",
+          "value": "about 10",
+          "unit": "percent",
+          "asOf": "1901",
+          "todo": true
+        },
+        {
+          "id": "in.1900.everyday.by-the-numbers.english-literacy",
+          "kind": "stat",
+          "title": "Literate in English",
+          "summary": "Only 68 of every 10,000 men and 7 of every 10,000 women could read English; the summary gives no figure for literacy in all languages.",
+          "sources": [
+            {
+              "label": "People's Archive of Rural India: Report on the Census of India, 1901 (summary of the Risley and Gait report)",
+              "url": "https://ruralindiaonline.org/en/library/resource/report-on-the-census-of-india-1901/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Literate in English, per 10,000 (men; women)",
+          "value": "68; 7",
+          "unit": "per 10,000",
+          "asOf": "1901",
+          "todo": true
+        },
+        {
+          "id": "in.1900.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "At the start of the century a newborn in India could expect to live only about 24 years.",
+          "sources": [
+            {
+              "label": "MoSPI: Table 2.9, Life expectancy at birth, India",
+              "url": "https://mospi.gov.in/sites/default/files/reports_and_publication/cso_research_and_publication_unit/COSIOIESIOTSDVOL-2/health-2-9.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Factodata: Life expectancy in India, growth over the years",
+              "url": "https://factodata.com/life-expectancy-in-india-growth-over-the-years/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "23.6 (men), 24.0 (women)",
+          "unit": "years",
+          "asOf": "1901",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1900.everyday.by-the-numbers.rail-passengers",
+          "kind": "stat",
+          "title": "Rail passengers",
+          "summary": "More than 175 million passenger journeys were made on about 25,000 miles of track in 1900.",
+          "sources": [
+            {
+              "label": "ThePrint: West sees overcrowded trains as a classic Indian trope, but they are a colonial relic",
+              "url": "https://theprint.in/feature/west-sees-overcrowded-trains-as-a-classic-indian-trope-but-they-are-a-colonial-relic/1623167/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Brewminate: Overcrowded trains, a relic of colonialism and capitalism in India",
+              "url": "https://brewminate.com/overcrowded-trains-a-relic-of-colonialism-and-capitalism-in-india/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "relatedIds": [
+            "in.1900.technology.railways"
+          ],
+          "metric": "Passenger journeys on Indian railways",
+          "value": "over 175 million",
+          "unit": "journeys",
+          "asOf": "1900",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1900.everyday.by-the-numbers.bombay-city",
+          "kind": "stat",
+          "title": "Bombay's shrinking count",
+          "summary": "Bombay city's census population fell from 820,000 in 1891 to 780,000 in 1901 as plague drove people away.",
+          "sources": [
+            {
+              "label": "TIFR: The Plague Epidemics of the 1890s (Bombay history)",
+              "url": "https://theory.tifr.res.in/bombay/history/plague.html",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes famine, epidemic disease or loss of life."
+          },
+          "metric": "Population of Bombay city (now Mumbai)",
+          "value": "780,000 (820,000 in 1891)",
+          "unit": "people",
+          "asOf": "1901",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Household electricity, telephones and household size are not available for 1900. The figures below are those we could trace to a source."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "The staple depended on the region: rice in the east, millets and pulses for the poor across much of the north and west, with wheat and white rice on richer tables.",
+      "items": [
+        {
+          "id": "in.1900.everyday.food-and-kitchen.staples-by-region",
+          "kind": "fact",
+          "title": "A staple for every region",
+          "summary": "Bengal and Orissa ate rice, mostly coarse early rice among the poor; in the Punjab, the North-Western Provinces, Oudh, Bihar and Gujarat the poor lived on millets and pulses, and wheat and rice were for the better off.",
+          "sources": [
+            {
+              "label": "National Library of Scotland: Sanitation, Diet, Disease (early-twentieth-century India)",
+              "url": "https://deriv.nls.uk/dcn9/7444/74443878.9.htm",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "relatedIds": [
+            "in.1900.morning.staple"
+          ],
+          "todo": true
+        },
+        {
+          "id": "in.1900.everyday.food-and-kitchen.delhi-grains",
+          "kind": "fact",
+          "title": "Barley, bajra and husked millets",
+          "summary": "In the Delhi region barley, bajra and husked millets were eaten across castes and classes, while elite households ate wheat and white rice.",
+          "sources": [
+            {
+              "label": "IIT Delhi: Avadh food cultures",
+              "url": "https://avadh-foodcultures.iitd.ac.in/all",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Delhi region",
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1900.everyday.food-and-kitchen.rice-price",
+          "kind": "fact",
+          "title": "What rice cost",
+          "summary": "The price of rice is on the Prices board as 11.7 seers to the rupee (1896-1900 average).",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "national",
+          "relatedIds": [
+            "in.1900.prices.rice"
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1900 meal patterns, kitchen tools or food storage practice, so this section is short."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Cloth came from two worlds: the hand loom, which held its place, and the new Bombay mills.",
+      "items": [
+        {
+          "id": "in.1900.everyday.clothing-and-style.bombay-mills",
+          "kind": "fact",
+          "title": "Bombay's mills",
+          "summary": "Bombay's first cotton mill opened in 1854, and by 1900 more than 84 had been set up in the city, mostly by Parsi and Gujarati entrepreneurs.",
+          "sources": [
+            {
+              "label": "GKToday: Cotton textile industry in colonial India",
+              "url": "https://www.gktoday.in/cotton-textile-industry-in-colonial-india/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1900.everyday.clothing-and-style.handloom-holds",
+          "kind": "fact",
+          "title": "The hand loom survives",
+          "summary": "Hand-loom weaving did not die out; its share of the cloth market stayed roughly stable between the 1890s and the 1930s, because machines could not make some kinds of cloth.",
+          "sources": [
+            {
+              "label": "Cambridge University Press: Traditional Industry in the Economy of Colonial India, chapter on handloom weaving",
+              "url": "https://www.cambridge.org/core/books/traditional-industry-in-the-economy-of-colonial-india/handloom-weaving/406BAAA6612B27FC39855330FF8A55F2",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced descriptions of everyday garments, fabrics bought or fashions of 1900."
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "Most people worked the land; in the famine year the state paid relief wages below market rates.",
+      "items": [
+        {
+          "id": "in.1900.everyday.work-and-wages.farm-labourer",
+          "kind": "wage",
+          "title": "An agricultural labourer",
+          "summary": "An able-bodied agricultural labourer earned on average Rs 6.5 to 7.0 a month across India in 1896-1900.",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive",
+              "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1896-1900",
+          "regionTag": "national",
+          "job": "Agricultural labourer (able-bodied), India average",
+          "amount": "Rs 6.5 to 7.0",
+          "per": "month",
+          "originalUnits": "Rs 6.5 to 7.0 per month (rupees, annas and pies; 16 annas = 1 rupee)",
+          "todo": true
+        },
+        {
+          "id": "in.1900.everyday.work-and-wages.famine-wages",
+          "kind": "fact",
+          "title": "Relief work and its pay",
+          "summary": "Famine relief followed the Famine Code of 1883, but relief wages were set below market rates, and a new famine commission produced a revised code in 1901.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian famine of 1899-1900",
+              "url": "https://en.wikipedia.org/wiki/Indian_famine_of_1899%E2%80%931900",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "central",
+          "relatedIds": [
+            "in.1900.dd.freedom-history.famine-1899-1900"
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes famine, epidemic disease or loss of life."
+          },
+          "todo": true
+        },
+        {
+          "id": "in.1900.everyday.work-and-wages.famine-relief-share",
+          "kind": "fact",
+          "title": "A fifth on relief",
+          "summary": "By July 1900 about one-fifth of the Central Provinces' population was on some form of famine relief.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian famine of 1899-1900",
+              "url": "https://en.wikipedia.org/wiki/Indian_famine_of_1899%E2%80%931900",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Central Provinces",
+          "regionTag": "central",
+          "relatedIds": [
+            "in.1900.dd.freedom-history.famine-1899-1900"
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes famine, epidemic disease or loss of life."
+          },
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Wage rates are hard to trace for 1900. The one sourced figure is the agricultural labourer's average; we did not estimate others."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "Village pathshalas and madrasas coexisted with government and mission schools, and few children reached any school.",
+      "items": [
+        {
+          "id": "in.1900.everyday.school-and-childhood.bombay-schools",
+          "kind": "stat",
+          "title": "Schools in the Bombay Presidency",
+          "summary": "In 1902-03 the Presidency had 12,218 educational institutions with 599,708 pupils, down from 12,251 institutions and 639,868 pupils a year earlier.",
+          "sources": [
+            {
+              "label": "Report on the Administration of the Bombay Presidency for 1902-03 (Qatar Digital Library)",
+              "url": "https://www.qdl.qa/archive/81055/vdc_100145400422.0x000071",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1902-03",
+          "regionTag": "west",
+          "metric": "Pupils in Bombay Presidency educational institutions",
+          "value": "599,708 (12,218 institutions)",
+          "unit": "pupils",
+          "asOf": "1902-03",
+          "todo": true
+        },
+        {
+          "id": "in.1900.everyday.school-and-childhood.bombay-share",
+          "kind": "fact",
+          "title": "A few in a hundred",
+          "summary": "In the Bombay Presidency the share of the population under instruction rose from 2.3 to 2.6 percent in 1904-05, and reached 3.3 percent by 1909-10.",
+          "sources": [
+            {
+              "label": "Report on the Administration of the Bombay Presidency for 1904-05 (Qatar Digital Library)",
+              "url": "https://www.qdl.qa/en/archive/81055/vdc_100145400423.0x00008d",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Annual Report of the Administration of the Bombay Presidency, 1909-10 (Qatar Digital Library)",
+              "url": "https://www.qdl.qa/archive/81055/vdc_100146764804.0x000012",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "west",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1900.everyday.school-and-childhood.pathshalas",
+          "kind": "fact",
+          "title": "The village pathshala",
+          "summary": "Village pathshalas met under a tree, in a shop, a temple or the teacher's house with no fixed timetable and paused for the harvest; after 1854 government pandits introduced textbooks, timetables and annual exams.",
+          "sources": [
+            {
+              "label": "PW: CBSE Class 8 History notes, Civilising the Native, Educating the Nation",
+              "url": "https://store.pw.live/blogs/school-exams/cbse-class-8-history-chapter-7-notes",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find all-India school counts or school fees for 1900; the figures here are for the Bombay Presidency."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "Most journeys by rail were third class, crowded and cheap per mile; roads still belonged to the bullock cart.",
+      "items": [
+        {
+          "id": "in.1900.everyday.getting-around.third-class",
+          "kind": "fact",
+          "title": "Nine in ten rode third class",
+          "summary": "Third-class passengers made up almost nine in ten of rail travellers, in overcrowded and unsanitary carriages.",
+          "sources": [
+            {
+              "label": "ThePrint: West sees overcrowded trains as a classic Indian trope, but they are a colonial relic",
+              "url": "https://theprint.in/feature/west-sees-overcrowded-trains-as-a-classic-indian-trope-but-they-are-a-colonial-relic/1623167/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Brewminate: Overcrowded trains, a relic of colonialism and capitalism in India",
+              "url": "https://brewminate.com/overcrowded-trains-a-relic-of-colonialism-and-capitalism-in-india/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1900.everyday.getting-around.eir-fare",
+          "kind": "fact",
+          "title": "Pies per mile",
+          "summary": "On the East Indian Railway the third-class fare was about 2.5 pies per mile for the first 100 miles, falling further beyond.",
+          "sources": [
+            {
+              "label": "Roger Farnworth: Railways and Tramways Blog (EIR), quoting Huddleston",
+              "url": "https://rogerfarnworth.com/tag/eir/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1900 fares or journey times for named routes, so there are no journey cards."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "A quarter-anna postcard had opened letter-writing to millions since 1879.",
+      "items": [
+        {
+          "id": "in.1900.everyday.keeping-in-touch.quarter-anna-card",
+          "kind": "fact",
+          "title": "The quarter-anna postcard",
+          "summary": "The Indian post introduced a quarter-anna postcard in July 1879 for use within British India; a card for countries of the Universal Postal Union cost one and a half annas.",
+          "sources": [
+            {
+              "label": "India TV News: India book traces history of picture postcards",
+              "url": "https://www.indiatvnews.com/news/india-book-traces-history-picture-postcards-india-531696",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "iStampGallery: India on Post Card",
+              "url": "https://istampgallery.com/centenary-of-post-card/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1879-07",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1900.everyday.keeping-in-touch.postcard-sales",
+          "kind": "fact",
+          "title": "Twenty-six million cards",
+          "summary": "By 1883 about 26 million postcards a year were being sold in India, and reply cards followed in 1890.",
+          "sources": [
+            {
+              "label": "India TV News: India book traces history of picture postcards",
+              "url": "https://www.indiatvnews.com/news/india-book-traces-history-picture-postcards-india-531696",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Outlook Traveller: In pictures, India through postcards",
+              "url": "https://www.outlooktraveller.com/celebrating-people/in-pictures-india-through-postcards",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1883",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find 1900 letter rates, post-office counts or telegram rates, and no delivery times; there are no message cards."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Plague and famine marked the year, and the plague laboratory at Parel was a young institution.",
+      "items": [
+        {
+          "id": "in.1900.everyday.health-and-medicine.plague-bombay",
+          "kind": "fact",
+          "title": "Plague in Bombay",
+          "summary": "Plague was first detected in Bombay in September 1896; the city answered with house searches, isolation of the sick, camps for travellers and forced evacuation of residents, and the plague death rate in 1900 was about 22 per thousand.",
+          "sources": [
+            {
+              "label": "TIFR: The Plague Epidemics of the 1890s (Bombay history)",
+              "url": "https://theory.tifr.res.in/bombay/history/plague.html",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Bombay plague epidemic",
+              "url": "https://en.wikipedia.org/wiki/Bombay_plague_epidemic",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes famine, epidemic disease or loss of life."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1900.everyday.health-and-medicine.plague-lab",
+          "kind": "fact",
+          "title": "The plague laboratory",
+          "summary": "A plague research laboratory set up at J. J. Hospital moved in 1899 to Government House in Parel under Dr W. M. Haffkine, the start of the Haffkine Institute.",
+          "sources": [
+            {
+              "label": "TIFR: The Plague Epidemics of the 1890s (Bombay history)",
+              "url": "https://theory.tifr.res.in/bombay/history/plague.html",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "PubMed Central: Plague in Bombay, Haffkine Serum",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9595858/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1899",
+          "place": "Parel, Bombay",
+          "regionTag": "west",
+          "relatedIds": [
+            "in.1900.dd.technology-science.plague-vaccine"
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes famine, epidemic disease or loss of life."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1900 doctor fees, hospital costs or common remedies for India; the famine itself is in the history section."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "The public Ganesh festival of Pune, begun in the early 1890s, was one of the new ways of celebrating together.",
+      "items": [
+        {
+          "id": "in.1900.everyday.leisure-and-fun.ganeshotsav",
+          "kind": "fact",
+          "title": "The public Ganesh festival",
+          "summary": "Ganesh Chaturthi, once mostly kept at home, became a large public festival in Pune in the 1890s; sources date the first public idol to 1892 or 1893, and Lokmanya Tilak promoted it through his paper Kesari.",
+          "sources": [
+            {
+              "label": "Wikipedia: Ganesh Chaturthi",
+              "url": "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Brut India: Ganesh Chaturthi was once mostly a private celebration",
+              "url": "https://www.brut.media/in/articles/ganesh-chaturthi-was-once-mostly-a-private-celebration-who-took-it-to-the-streets-in-the-1890s",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1893",
+          "place": "Pune",
+          "regionTag": "west",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced material on cinema shows, wrestling, cricket outings or other festivals as people practised them in 1900."
+    },
+    "spotlight": {
+      "title": "Rail, post and telegraph in daily life",
+      "standfirst": "By 1900 the railway, the quarter-anna postcard and the telegraph had tied the country together for those who could afford them.",
+      "items": [
+        {
+          "id": "in.1900.everyday.spotlight.telegraph",
+          "kind": "fact",
+          "title": "The telegraph",
+          "summary": "The telegraph network grew from a first line of 82 miles in 1851 to 78,862 miles of line by the end of 1913.",
+          "sources": [
+            {
+              "label": "The Sunday-school Times / Signs of the Times, 17 November 1914 (Adventist Archives)",
+              "url": "https://documents.adventistarchives.org/Periodicals/ST/ST19141117-V41-45.pdf",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1913",
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "Rail and post are covered under Getting around and Keeping in touch; we could not find a sourced 1900 count of post offices, letters carried or telegraph mileage."
+    }
+  }
+}

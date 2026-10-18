@@ -1,0 +1,684 @@
+{
+  "country": "in",
+  "year": 1920,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "The census of 1921, taken the spring after this year, counted 318 million people, about nine in ten of them in villages.",
+      "items": [
+        {
+          "id": "in.1920.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 1921 census counted more than 318 million people at a density of 177 per square mile.",
+          "sources": [
+            {
+              "label": "People's Archive of Rural India: Census of India 1921, Volume I, Part I, Report (summary)",
+              "url": "https://ruralindiaonline.org/library/resource/census-of-india-1921-volume-i-part-i---report/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Population of India (census, 1921)",
+          "value": "over 318 million",
+          "unit": "people",
+          "asOf": "1921",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and village",
+          "summary": "About 10.2 percent of people lived in towns and 89.8 percent in villages.",
+          "sources": [
+            {
+              "label": "People's Archive of Rural India: Census of India 1921, Volume I, Part I, Report (summary)",
+              "url": "https://ruralindiaonline.org/library/resource/census-of-india-1921-volume-i-part-i---report/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Share of people living in urban places",
+          "value": "10.2",
+          "unit": "percent",
+          "asOf": "1921",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy, life expectancy and household electricity could not be traced to a source we opened for 1920-21. The two figures below are for the 1921 census."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "The staples' prices are on the Prices board.",
+      "items": [
+        {
+          "id": "in.1920.everyday.food-and-kitchen.grain-by-region",
+          "kind": "fact",
+          "title": "Rice, wheat or millet",
+          "summary": "What filled the plate depended on the region: rice in the east and south, wheat and millet in much of the north and west.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian cuisine",
+              "url": "https://en.wikipedia.org/wiki/Indian_cuisine",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.food-and-kitchen.clay-chulha",
+          "kind": "fact",
+          "title": "The clay stove",
+          "summary": "Most kitchens cooked on a clay chulha fed with wood, dung cakes or charcoal, and smoke was part of the day.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian cuisine",
+              "url": "https://en.wikipedia.org/wiki/Indian_cuisine",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.food-and-kitchen.thali-hand",
+          "kind": "fact",
+          "title": "Eating with the right hand",
+          "summary": "Meals were commonly served on a metal plate or a banana leaf and eaten by hand, with water in a brass vessel beside it.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian cuisine",
+              "url": "https://en.wikipedia.org/wiki/Indian_cuisine",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "The cloth people wore was itself the year's political question; see the spotlight.",
+      "items": [
+        {
+          "id": "in.1920.everyday.clothing-and-style.dhoti-kurta",
+          "kind": "fact",
+          "title": "Dhoti, kurta and turban",
+          "summary": "Men in towns and villages wore the dhoti or lungi with a kurta or angarkha, and a turban or cap whose style told region and community.",
+          "sources": [
+            {
+              "label": "Wikipedia: Clothing in India",
+              "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.clothing-and-style.sari-blouse",
+          "kind": "fact",
+          "title": "The sari with a blouse",
+          "summary": "Women wore the sari, draped in regional ways; the blouse and petticoat worn under it had spread through well-off households since the late 1800s.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sari",
+              "url": "https://en.wikipedia.org/wiki/Sari",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.clothing-and-style.footwear",
+          "kind": "fact",
+          "title": "Chappals, jootis and bare feet",
+          "summary": "Leather chappals and jootis were common among those who could afford them, and many villagers went barefoot.",
+          "sources": [
+            {
+              "label": "Wikipedia: Clothing in India",
+              "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "Bombay's mill hands worked a ten-hour day after the strikes of early 1920, and workers began to organise.",
+      "items": [
+        {
+          "id": "in.1920.everyday.work-and-wages.mill-men",
+          "kind": "wage",
+          "title": "A mill hand, Bombay Presidency (men)",
+          "summary": "Men in the cotton mills earned on average about Rs 33 a month in 1921, the first year the Labour Office measured it.",
+          "sources": [
+            {
+              "label": "Clemens Dutt, Labour in India (1923), Marxists Internet Archive",
+              "url": "https://www.marxists.org/archive/dutt-clemens/1923/10/x01.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Report on an enquiry into wages and hours of labour in the cotton mill industry, 1926 (Labour Office, Bombay), via EconBiz",
+              "url": "https://digi.econbiz.de/viewer/fulltext/1827868163/9",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1921-05",
+          "regionTag": "west",
+          "job": "Cotton-mill worker, men, Bombay Presidency average",
+          "amount": "Rs 33",
+          "per": "month",
+          "originalUnits": "Rs 33 a month (about 44 shillings at the time); 16 annas = 1 rupee",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.everyday.work-and-wages.mill-women",
+          "kind": "wage",
+          "title": "A mill hand, Bombay Presidency (women)",
+          "summary": "Women in the cotton mills earned on average about Rs 16 a month in 1921, half the men's figure.",
+          "sources": [
+            {
+              "label": "Clemens Dutt, Labour in India (1923), Marxists Internet Archive",
+              "url": "https://www.marxists.org/archive/dutt-clemens/1923/10/x01.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Report on an enquiry into wages and hours of labour in the cotton mill industry, 1926 (Labour Office, Bombay), via EconBiz",
+              "url": "https://digi.econbiz.de/viewer/fulltext/1827868163/9",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1921-05",
+          "regionTag": "west",
+          "job": "Cotton-mill worker, women, Bombay Presidency average",
+          "amount": "Rs 16",
+          "per": "month",
+          "originalUnits": "Rs 16 a month; 16 annas = 1 rupee",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.everyday.work-and-wages.strike-hours",
+          "kind": "fact",
+          "title": "Twelve hours down to ten",
+          "summary": "After the strike of 1920 mill basic wages rose in April 1920 and hours were cut from 12 to 10; the source describes the Sholapur mills.",
+          "sources": [
+            {
+              "label": "Report on an enquiry into wages and hours of labour in the cotton mill industry, 1926 (Labour Office, Bombay), via EconBiz",
+              "url": "https://digi.econbiz.de/viewer/fulltext/1827868163/9",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "place": "Sholapur",
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.work-and-wages.tram-union",
+          "kind": "fact",
+          "title": "Tram workers organise",
+          "summary": "Calcutta's tramway employees formed their first association in 1920.",
+          "sources": [
+            {
+              "label": "Banglapedia: Calcutta Tramways",
+              "url": "https://en.banglapedia.org/index.php/Calcutta_Tramways",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Calcutta (now Kolkata)",
+          "regionTag": "east",
+          "relatedIds": [
+            "in.1920.dd.freedom-history.aituc-founded"
+          ],
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced wage rates outside the Bombay mills, nor figures for women's or child labour."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "National schools were opened during the year; see the history section.",
+      "items": [
+        {
+          "id": "in.1920.everyday.school-and-childhood.dyarchy-education",
+          "kind": "fact",
+          "title": "Education passes to the provinces",
+          "summary": "Under the Government of India Act 1919, education became a provincial subject handled by Indian ministers.",
+          "sources": [
+            {
+              "label": "Wikipedia: Government of India Act 1919",
+              "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1919",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.school-and-childhood.national-universities",
+          "kind": "fact",
+          "title": "Universities of the non-cooperation years",
+          "summary": "Jamia Millia Islamia and Gujarat Vidyapith were founded in 1920 as national institutions outside the government system.",
+          "sources": [
+            {
+              "label": "Wikipedia: Jamia Millia Islamia",
+              "url": "https://en.wikipedia.org/wiki/Jamia_Millia_Islamia",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.school-and-childhood.low-literacy",
+          "kind": "fact",
+          "title": "Few could read",
+          "summary": "Literacy was below ten percent of the population, and far lower for girls.",
+          "sources": [
+            {
+              "label": "Wikipedia: Education in India",
+              "url": "https://en.wikipedia.org/wiki/Education_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "Bombay's double-decker electric trams entered service in September 1920 at a fare of about one and a half annas.",
+      "items": [
+        {
+          "id": "in.1920.everyday.getting-around.double-decker",
+          "kind": "fact",
+          "title": "Double-decker trams",
+          "summary": "Bombay's electric trams, running since 1907, were joined by double-decker cars in September 1920.",
+          "sources": [
+            {
+              "label": "Wikipedia: Trams in Mumbai",
+              "url": "https://en.wikipedia.org/wiki/Trams_in_Mumbai",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Live History India: Bombay's Tryst with Trams",
+              "url": "https://livehistoryindia.com/story/religious-places/bombays-tryst-with-trams",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1920-09",
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "relatedIds": [
+            "in.1920.dd.technology-science.best-double-decker"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.everyday.getting-around.tram-fare",
+          "kind": "price",
+          "title": "The Bombay tram fare",
+          "summary": "The fare rose from 1 anna in 1901 to 1½ annas in 1921, and to 2 annas by 1935.",
+          "sources": [
+            {
+              "label": "Live History India: Bombay's Tryst with Trams",
+              "url": "https://livehistoryindia.com/story/religious-places/bombays-tryst-with-trams",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1921",
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "price": "1½ annas",
+          "originalUnits": "1½ annas a ride (16 annas = 1 rupee)",
+          "decimalINR": "₹0.09",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1920 railway fares or journey times."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "The weekly press carried the news of the movement.",
+      "items": [
+        {
+          "id": "in.1920.everyday.keeping-in-touch.postcard-letter-writer",
+          "kind": "fact",
+          "title": "The letter writer outside the post office",
+          "summary": "Many people could not write, so scribes sat outside post offices and wrote postcards and letters for a few coins.",
+          "sources": [
+            {
+              "label": "Wikipedia: India Post",
+              "url": "https://en.wikipedia.org/wiki/India_Post",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.keeping-in-touch.telegram-urgent",
+          "kind": "fact",
+          "title": "The telegram means bad news",
+          "summary": "Telegrams were for emergencies and were costly, so a telegram at the door often meant a death or an illness.",
+          "sources": [
+            {
+              "label": "Wikipedia: Telegraphy",
+              "url": "https://en.wikipedia.org/wiki/Telegraphy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.keeping-in-touch.young-india",
+          "kind": "fact",
+          "title": "Newspapers as political voice",
+          "summary": "Gandhi began editing the weekly Young India in 1919, and papers like it carried the non-cooperation campaign to towns and readers' groups.",
+          "sources": [
+            {
+              "label": "Wikipedia: Young India",
+              "url": "https://en.wikipedia.org/wiki/Young_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "India was still counting the cost of the influenza of 1918, and cholera and plague had not gone away.",
+      "items": [
+        {
+          "id": "in.1920.everyday.health-and-medicine.influenza-toll",
+          "kind": "fact",
+          "title": "The influenza of 1918",
+          "summary": "The influenza pandemic killed at least 12 million people in India, about 5 percent of the population, almost all of them between September and December 1918; estimates run as high as 17-18 million.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1918 flu pandemic in India",
+              "url": "https://en.wikipedia.org/wiki/1918_flu_pandemic_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Gateway House: The 1918 flu in India",
+              "url": "https://www.gatewayhouse.in/1918-flu-india/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes epidemic disease and loss of life."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.everyday.health-and-medicine.influenza-bombay",
+          "kind": "fact",
+          "title": "Influenza in the Bombay Presidency",
+          "summary": "A Bombay review estimated 1,041,481 influenza deaths in the Presidency in 1918; by 1923 fewer than 1,000 deaths were returned to the disease.",
+          "sources": [
+            {
+              "label": "Bombay 1923-24: A review of the administration of the Presidency (Qatar Digital Library)",
+              "url": "https://www.qdl.qa/archive/81055/vdc_100152998489.0x0000c5",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "west",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes epidemic disease and loss of life."
+          },
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.health-and-medicine.cholera",
+          "kind": "fact",
+          "title": "Cholera",
+          "summary": "Cholera epidemics were severe in Bombay in 1900, 1906, 1912 and 1919, and in several provinces outbreaks accompanied or followed the influenza.",
+          "sources": [
+            {
+              "label": "Bombay 1923-24: A review of the administration of the Presidency (Qatar Digital Library)",
+              "url": "https://www.qdl.qa/archive/81055/vdc_100152998489.0x0000c5",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "west",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes epidemic disease and loss of life."
+          },
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced doctor fees, hospital provision or vaccination figures for 1920."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Indian cinema was silent; Raja Harishchandra (1913) had started it and films were shown with live music in theatres in the big cities.",
+      "items": [
+        {
+          "id": "in.1920.everyday.leisure-and-fun.silent-films",
+          "kind": "fact",
+          "title": "Silent films",
+          "summary": "Indian cinema was silent; Raja Harishchandra (1913) had started it and films were shown with live music in theatres in the big cities.",
+          "sources": [
+            {
+              "label": "Wikipedia: Cinema of India",
+              "url": "https://en.wikipedia.org/wiki/Cinema_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.leisure-and-fun.parsi-theatre",
+          "kind": "fact",
+          "title": "Parsi theatre",
+          "summary": "Travelling Parsi theatre companies staged musical dramas in Urdu, Gujarati and Hindi in Bombay and beyond.",
+          "sources": [
+            {
+              "label": "Wikipedia: Parsi theatre",
+              "url": "https://en.wikipedia.org/wiki/Parsi_theatre",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.leisure-and-fun.gramophone",
+          "kind": "fact",
+          "title": "The gramophone",
+          "summary": "Gramophone records of classical singers and stage songs were sold in towns from the early 1900s, and the gramophone was a prized possession.",
+          "sources": [
+            {
+              "label": "Wikipedia: Gramophone record",
+              "url": "https://en.wikipedia.org/wiki/Gramophone_record",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.leisure-and-fun.football-mohun-bagan",
+          "kind": "fact",
+          "title": "Football in Calcutta",
+          "summary": "Mohun Bagan won the IFA Shield in 1911, and football matches drew big crowds in Calcutta's maidans.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mohun Bagan AC",
+              "url": "https://en.wikipedia.org/wiki/Mohun_Bagan_AC",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Swadeshi at home: khadi and the boycott of foreign cloth",
+      "standfirst": "From 1919 Gandhi spun in public, and in 1920 the call to wear hand-spun, hand-woven khadi became the daily face of the non-cooperation movement.",
+      "items": [
+        {
+          "id": "in.1920.everyday.spotlight.spinning-1919",
+          "kind": "fact",
+          "title": "Gandhi takes up the spinning wheel",
+          "summary": "Gandhi began spinning at Mani Bhavan in Bombay in 1919 and encouraged others to do so; Wikipedia dates the khadi movement itself to 1918.",
+          "sources": [
+            {
+              "label": "Wikipedia: Khadi",
+              "url": "https://en.wikipedia.org/wiki/Khadi",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "MKGandhi.org: Relevance of Gandhi (article)",
+              "url": "https://mkgandhi.org/articles/relevance1.php",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1919",
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.everyday.spotlight.khadi-thesis",
+          "kind": "fact",
+          "title": "Khadi instead of foreign cloth",
+          "summary": "A central idea of non-cooperation was to replace foreign cloth with hand-spun, hand-woven khadi.",
+          "sources": [
+            {
+              "label": "Wikipedia: Khadi",
+              "url": "https://en.wikipedia.org/wiki/Khadi",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "MKGandhi.org: Relevance of Gandhi (article)",
+              "url": "https://mkgandhi.org/articles/relevance1.php",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "relatedIds": [
+            "in.1920.dd.freedom-history.non-cooperation"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.everyday.spotlight.women-boycott",
+          "kind": "fact",
+          "title": "A part for women",
+          "summary": "When the movement began in 1920 Gandhi first gave women a limited part, boycott and swadeshi, but women claimed a larger role.",
+          "sources": [
+            {
+              "label": "RAU's IAS: Women in the freedom struggle",
+              "url": "https://compass.rauias.com/modern-history/women-freedom-struggle/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1920.everyday.spotlight.jamiat-fatwa",
+          "kind": "fact",
+          "title": "A fatwa on boycott",
+          "summary": "On 8 September 1920 the Jamiat Ulama-i-Hind issued the Fatwa Tark-e-Mawalat urging a boycott of British goods, signed by 500 scholars.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Jamiat Ulama-i-Hind",
+              "url": "https://en.wikipedia.org/wiki/Jamiat_Ulama-i-Hind",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1920-09-08",
+          "regionTag": "north",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.everyday.spotlight.elphinstone-bonfire",
+          "kind": "fact",
+          "title": "The first bonfire",
+          "summary": "On 31 July 1921, a year on, Gandhi lit a pile of foreign cloth at the Elphinstone Mill in Bombay before ten to twelve thousand people.",
+          "sources": [
+            {
+              "label": "The Wire: When a peaceful non-cooperation meeting in Bombay turned violent",
+              "url": "https://thewire.in/history/when-a-peaceful-non-cooperation-meeting-in-bombay-turned-violent-leaving-gandhi-distraught",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "GandhiServe: Life of Gandhi, 1921-1928",
+              "url": "https://gandhiserve.net/about-mahatma-gandhi/mahatma-life-of-gandhi-1869-1948/chapter-04-1921-1928",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1921-07-31",
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures for khadi output or prices in 1920, so the section describes the campaign, not its economics."
+    }
+  }
+}

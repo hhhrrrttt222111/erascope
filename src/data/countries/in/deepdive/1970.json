@@ -108,7 +108,7 @@
       "interactive": {
         "component": "TechThenNow"
       },
-      "scarcityNote": "Only 3 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -266,7 +266,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "freedom-history": {
       "title": "Independence & history",
@@ -332,12 +333,37 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1970.dd.freedom-history.kerala-election",
+          "kind": "event",
+          "title": "The Kerala election of 1970",
+          "summary": "On 17 September 1970 Kerala voted for its fourth assembly; no party won a majority of the 133 seats (Congress 30, CPI(M) 29, CPI 16, Muslim League 11), and C. Achutha Menon of the CPI became chief minister at the head of a United Front with Congress support.",
+          "eventType": "election",
+          "date": "1970-09-17",
+          "place": "Kerala",
+          "regionTag": "south",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 Kerala Legislative Assembly election",
+              "url": "https://en.wikipedia.org/wiki/1970_Kerala_Legislative_Assembly_election",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
         "component": "ChronicleScroll"
       },
-      "scarcityNote": "Only 3 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "personalities": {
       "title": "Famous personalities",
@@ -351,7 +377,7 @@
           "field": "Politics",
           "born": "1917",
           "whyThisYear": "Her government's privy-purse motion failed in the Rajya Sabha and the President's order followed in September.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "1984",
           "sources": [
             {
@@ -367,33 +393,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.1970.dd.personalities.v-v-giri",
-          "kind": "person",
-          "title": "V. V. Giri",
-          "summary": "President, born in 1894.",
-          "field": "Politics",
-          "born": "1894",
-          "whyThisYear": "He opened the Vivekananda Rock Memorial on 2 September 1970 and signed the order on the princes.",
-          "regionTag": "national",
-          "died": "1980",
-          "sources": [
-            {
-              "label": "Wikipedia: V. V. Giri",
-              "url": "https://en.wikipedia.org/wiki/V._V._Giri",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: Vivekananda Rock Memorial",
-              "url": "https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.1970.dd.personalities.cv-raman",
@@ -403,7 +404,7 @@
           "field": "Physics",
           "born": "1888",
           "whyThisYear": "He died on 21 November 1970, forty years after his Nobel Prize.",
-          "regionTag": "national",
+          "regionTag": "south",
           "died": "1970",
           "sources": [
             {
@@ -419,7 +420,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1970.dd.personalities.verghese-kurien",
@@ -429,7 +431,7 @@
           "field": "Dairy development",
           "born": "1921",
           "whyThisYear": "Operation Flood, run by the board he founded, was launched in January 1970.",
-          "regionTag": "national",
+          "regionTag": "south",
           "died": "2012",
           "sources": [
             {
@@ -445,7 +447,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1970.dd.personalities.vikram-sarabhai",
@@ -455,7 +458,7 @@
           "field": "Space science",
           "born": "1919",
           "whyThisYear": "INCOSPAR, set up on his recommendation, had become ISRO the previous August.",
-          "regionTag": "national",
+          "regionTag": "west",
           "died": "1971",
           "sources": [
             {
@@ -471,7 +474,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1970.dd.personalities.satyajit-ray",
@@ -481,7 +485,7 @@
           "field": "Cinema",
           "born": "1921",
           "whyThisYear": "He released Aranyer Din Ratri in January and Pratidwandi in October.",
-          "regionTag": "national",
+          "regionTag": "east",
           "died": "1992",
           "sources": [
             {
@@ -503,32 +507,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.1970.dd.personalities.sunil-gavaskar",
-          "kind": "person",
-          "title": "Sunil Gavaskar",
-          "summary": "Opening batsman, born in 1949.",
-          "field": "Cricket",
-          "born": "1949",
-          "whyThisYear": "He made 114 for Bombay in the 1969-70 Ranji Trophy final in April.",
-          "regionTag": "national",
-          "sources": [
-            {
-              "label": "Wikipedia: Sunil Gavaskar",
-              "url": "https://en.wikipedia.org/wiki/Sunil_Gavaskar",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: 1969–70 Ranji Trophy",
-              "url": "https://en.wikipedia.org/wiki/1969–70_Ranji_Trophy",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1970.dd.personalities.viswanatha-satyanarayana",
@@ -538,7 +518,7 @@
           "field": "Literature",
           "born": "1895",
           "whyThisYear": "He received the sixth Jnanpith Award in 1970 for Ramayana Kalpavruksham.",
-          "regionTag": "national",
+          "regionTag": "south",
           "died": "1976",
           "sources": [
             {
@@ -554,7 +534,56 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
+        },
+        {
+          "id": "in.1970.dd.personalities.sharmila-tagore",
+          "kind": "person",
+          "title": "Sharmila Tagore",
+          "summary": "Actress in Hindi and Bengali films since Satyajit Ray's Apur Sansar (1959).",
+          "field": "Cinema",
+          "born": "1944-12-08",
+          "gender": "female",
+          "regionTag": "east",
+          "place": "Calcutta (now Kolkata)",
+          "whyThisYear": "She played Aparna in Satyajit Ray's Aranyer Din Ratri (16 January 1970) and starred in Safar and Mere Humsafar that year.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sharmila Tagore",
+              "url": "https://en.wikipedia.org/wiki/Sharmila_Tagore",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Aranyer Din Ratri",
+              "url": "https://en.wikipedia.org/wiki/Aranyer_Din_Ratri",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1970.dd.personalities.hema-malini",
+          "kind": "person",
+          "title": "Hema Malini",
+          "summary": "Actress, later a director, producer and politician, promoted from 1968 as the 'Dream Girl'.",
+          "field": "Cinema",
+          "born": "1948-10-16",
+          "gender": "female",
+          "regionTag": "south",
+          "place": "Ammankudi, Madras Province",
+          "whyThisYear": "She played the lead in Johny Mera Naam, and her first film with Dharmendra, Tum Haseen Main Jawaan, also released in 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hema Malini",
+              "url": "https://en.wikipedia.org/wiki/Hema_Malini",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -659,7 +688,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -756,7 +786,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 2 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -858,7 +888,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 3 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -954,7 +984,8 @@
       ],
       "interactive": {
         "component": "ReadingRoom"
-      }
+      },
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -1064,7 +1095,8 @@
       ],
       "interactive": {
         "component": "ProjectorReel"
-      }
+      },
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -1109,7 +1141,7 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "Only 2 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
@@ -1228,7 +1260,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 2 items for 1970 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1970 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

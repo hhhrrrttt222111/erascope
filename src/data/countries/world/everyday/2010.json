@@ -1,0 +1,548 @@
+{
+  "country": "world",
+  "year": 2010,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "309 million people, nearly 72 in 100 online and more mobile subscriptions than people, a baby born in 2010 could expect to live to 78.",
+      "items": [
+        {
+          "id": "world.2010.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 2010 census counted 308.7 million people, 87.4 to the square mile.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 2010",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.2010.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "U.S. resident population",
+          "value": "308,745,538",
+          "unit": "people",
+          "asOf": "2010",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A baby born in 2010 could expect to live about 78.5 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "78.5",
+          "unit": "years",
+          "asOf": "2010",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 72 percent of Americans used the internet in 2010.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "71.7",
+          "unit": "percent of the population",
+          "asOf": "2010",
+          "todo": true
+        },
+        {
+          "id": "world.2010.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 92 mobile subscriptions for every 100 people.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "91.7",
+          "unit": "per 100 people",
+          "asOf": "2010",
+          "todo": true
+        },
+        {
+          "id": "world.2010.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 6 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Infant mortality",
+          "value": "6.2",
+          "unit": "per 1,000 live births",
+          "asOf": "2010",
+          "todo": true
+        },
+        {
+          "id": "world.2010.everyday.by-the-numbers.payrolls",
+          "kind": "stat",
+          "title": "Jobs",
+          "summary": "In February 2010 payroll employment hit a post-recession low of 129,655,000.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Payroll employees",
+          "value": "129,655,000",
+          "unit": "employees",
+          "asOf": "2010-02",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy, household size, vehicle counts and wages were not found for 2010 from a source we opened."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "",
+      "items": [
+        {
+          "id": "world.2010.everyday.food-and-kitchen.tomato-shortage",
+          "kind": "fact",
+          "title": "A tomato shortage",
+          "summary": "A U.S. tomato shortage began in March 2010 and lasted until April.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-03",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2010 food prices or meals beyond a tomato shortage."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Skinny jeans and hoodies, slim suits and plaid shirts, with fast fashion supplying vintage-inspired styles.",
+      "items": [
+        {
+          "id": "world.2010.everyday.clothing-and-style.skinny-jeans",
+          "kind": "fact",
+          "title": "Skinny jeans",
+          "summary": "Low-rise skinny jeans, often in acid wash or bright denim, stayed a dominant women's silhouette in the early 2010s, and men's skinny jeans rose in popularity.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2010s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.clothing-and-style.hoodies",
+          "kind": "fact",
+          "title": "Hoodies",
+          "summary": "Slim-fitting men's hoodies, often V-necked, and women's zip-up hoodies were popular, and American teens wore logo hoodies from Abercrombie & Fitch, Hollister and Aéropostale.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2010s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.clothing-and-style.plaid",
+          "kind": "fact",
+          "title": "Plaid shirts and cutoffs",
+          "summary": "Teens in 2010 wore plaid shirts, cutoff shorts and studded accessories.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2010s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.clothing-and-style.slim-suits",
+          "kind": "fact",
+          "title": "The Mad Men suit",
+          "summary": "Mad Men-inspired slim grey two-piece suits made a comeback in the workplace in the early 2010s.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2010s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.clothing-and-style.fast-fashion",
+          "kind": "fact",
+          "title": "Vintage by the rack",
+          "summary": "Fast-fashion retailers such as Topshop, Forever 21 and H&M popularised vintage-inspired styles in the early 2010s.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2010s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.clothing-and-style.hipster",
+          "kind": "fact",
+          "title": "Indie and hipster",
+          "summary": "By the early 2010s indie clothing in the United States and elsewhere had moved to a more grown-up look in earth tones, with leggings and beanies; Ugg boots were among the early-to-mid 2010s accessories.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2010s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2010 wage, hours or minimum-wage figures; the jobs count is under The year in numbers."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2010 school-year or enrolment figures."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "Several states banned texting at the wheel, and a carmaker fixed its accelerators.",
+      "items": [
+        {
+          "id": "world.2010.everyday.getting-around.texting-bans",
+          "kind": "fact",
+          "title": "No texting at the wheel",
+          "summary": "Illinois' texting-while-driving ban took effect on 1 January 2010 and bans began on 1 July in several states, including Iowa and Wyoming.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-01-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.getting-around.toyota",
+          "kind": "fact",
+          "title": "The Toyota recall",
+          "summary": "On 1 February 2010 Toyota announced a fix for accelerator problems and recalled cars in the United States.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-02-01",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2010 fares, journey times or vehicle counts."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2010 postage, text-message or call-rate figures; the new devices and apps are in the spotlight."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "A health-care law was signed, and North Carolina banned smoking in bars and restaurants.",
+      "items": [
+        {
+          "id": "world.2010.everyday.health-and-medicine.aca",
+          "kind": "fact",
+          "title": "The Affordable Care Act",
+          "summary": "President Obama signed the Patient Protection and Affordable Care Act on 23 March 2010; from 23 September 2010 young adults could stay on a parent's plan until age 26.",
+          "sources": [
+            {
+              "label": "Wikipedia: Patient Protection and Affordable Care Act",
+              "url": "https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-03-23",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.health-and-medicine.nc-smoking",
+          "kind": "fact",
+          "title": "Smoke-free bars",
+          "summary": "North Carolina banned smoking in bars, restaurants and other public places on 2 January 2010, with exemptions for cigar bars, private clubs and some hotels.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-01-02",
+          "place": "North Carolina",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2010 doctor fees, hospital costs or vaccination figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "A war film swept the Oscars, an animated sequel became Pixar's biggest hit, and the Saints won the Super Bowl.",
+      "items": [
+        {
+          "id": "world.2010.everyday.leisure-and-fun.oscars",
+          "kind": "fact",
+          "title": "The Hurt Locker",
+          "summary": "The Hurt Locker won six Academy Awards, including Best Picture and Best Director, on 7 March 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-03-07",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.leisure-and-fun.films-2010",
+          "kind": "fact",
+          "title": "At the cinema",
+          "summary": "How to Train Your Dragon opened on 26 March, Iron Man 2 on 7 May and Toy Story 3 on 18 June 2010, becoming Pixar's biggest financial success to that point.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.leisure-and-fun.adventure-time",
+          "kind": "fact",
+          "title": "Adventure Time",
+          "summary": "Adventure Time premiered on Cartoon Network on 5 April 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-04-05",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.leisure-and-fun.super-bowl",
+          "kind": "fact",
+          "title": "Super Bowl XLIV",
+          "summary": "The New Orleans Saints beat the Indianapolis Colts 31-17 in Super Bowl XLIV on 7 February 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-02-07",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.leisure-and-fun.olympics",
+          "kind": "fact",
+          "title": "Vancouver Winter Olympics",
+          "summary": "The Winter Olympics were held in Vancouver from 12 to 28 February 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-02-12",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Smartphones and apps",
+      "standfirst": "A tablet and a photo-sharing app arrived in 2010, in a year when there were more mobile subscriptions than people.",
+      "items": [
+        {
+          "id": "world.2010.everyday.spotlight.ipad",
+          "kind": "stat",
+          "title": "The iPad",
+          "summary": "Apple's first iPad, announced on 27 January 2010, went on sale on 3 April for $499 with a 9.7-inch touchscreen; 300,000 were sold on the first day.",
+          "sources": [
+            {
+              "label": "Wikipedia: iPad (1st generation)",
+              "url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Price of the first iPad (Wi-Fi, base model)",
+          "value": "$499",
+          "unit": "US dollars",
+          "asOf": "2010-04-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.spotlight.ipad-sales",
+          "kind": "stat",
+          "title": "A million in a month",
+          "summary": "Apple had sold a million iPads by 3 May 2010 and 3 million after 80 days.",
+          "sources": [
+            {
+              "label": "Wikipedia: iPad (1st generation)",
+              "url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "iPads sold",
+          "value": "1 million by 3 May 2010",
+          "unit": "iPads",
+          "asOf": "2010-05-03",
+          "todo": true
+        },
+        {
+          "id": "world.2010.everyday.spotlight.instagram",
+          "kind": "fact",
+          "title": "Instagram",
+          "summary": "Kevin Systrom and Mike Krieger launched Instagram for iOS on 6 October 2010, after refocusing a check-in app called Burbn on photo sharing.",
+          "sources": [
+            {
+              "label": "Wikipedia: Instagram",
+              "url": "https://en.wikipedia.org/wiki/Instagram",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-10-06",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.spotlight.instagram-growth",
+          "kind": "fact",
+          "title": "A million in two months",
+          "summary": "Instagram reached 1 million registered users in two months and 10 million in a year; its first post, from South Beach Harbor, was on 16 July 2010.",
+          "sources": [
+            {
+              "label": "Wikipedia: Instagram",
+              "url": "https://en.wikipedia.org/wiki/Instagram",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2010.everyday.spotlight.google-china",
+          "kind": "fact",
+          "title": "Google and the cyber attack",
+          "summary": "On 13 January 2010 Google said it had been the target of a cyber attack from China, which led it to consider leaving China.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2010 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2010_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2010-01-13",
+          "checked": "2026-10-18"
+        }
+      ]
+    }
+  }
+}

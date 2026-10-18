@@ -1,0 +1,996 @@
+{
+  "country": "world",
+  "year": 1900,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "The 1900 census counted a nation of about 76 million people, mostly on farms and in small towns, where a baby born that year could expect a short life by today's standard.",
+      "items": [
+        {
+          "id": "world.1900.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 1900 census, taken on 1 June, counted the people of the United States.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: 1900 Census, Volume I, Population, Part 1",
+              "url": "https://census.gov/library/publications/1901/dec/vol-01-population.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 1900 United States census",
+              "url": "https://en.wikipedia.org/wiki/1900_United_States_census",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of the United States",
+          "value": "76,212,168",
+          "unit": "people",
+          "asOf": "1900-06-01",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A baby born in 1900 could expect to live about 47 years; a three-year average for 1900 to 1902 is higher, about 49.",
+          "sources": [
+            {
+              "label": "CDC NCHS: Life Expectancy in the U.S., 1900-2018",
+              "url": "https://cdc.gov/nchs/blog/posts/2020/11/life-expectancy-in-the-u-s-1900-2018.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "CDC NCHS: United States Life Tables, 2018 (National Vital Statistics Reports)",
+              "url": "https://stacks.cdc.gov/view/cdc/84451",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "47.3",
+          "unit": "years",
+          "asOf": "1900",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and country",
+          "summary": "About two in five Americans lived in places the census counted as urban.",
+          "sources": [
+            {
+              "label": "Harvard CSCI E-12: United States Urban and Rural Populations (Census Bureau data)",
+              "url": "https://cscie12.dce.harvard.edu/lecture_notes/2017-fall/20170912/example25.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Share of the population living in urban places",
+          "value": "39.6",
+          "unit": "percent",
+          "asOf": "1900",
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.by-the-numbers.illiteracy",
+          "kind": "stat",
+          "title": "Reading and writing",
+          "summary": "About one person in ten could not read or write; the rate was far higher among foreign-born and Black Americans.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Bc793-797: Illiteracy rate, by race and nativity, 1870-1979",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBc793-797.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Transylvania County Library: The illiteracy (cites Census Bureau, 11.3 percent)",
+              "url": "https://library.transylvaniacounty.org/moonlight-schools/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Illiteracy rate, all persons",
+          "value": "10.7",
+          "unit": "percent",
+          "asOf": "1900",
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.by-the-numbers.motor-vehicles",
+          "kind": "stat",
+          "title": "Cars on the road",
+          "summary": "Only a few thousand motor vehicles were registered in the whole country, all of them cars.",
+          "sources": [
+            {
+              "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations",
+              "url": "https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Registered motor vehicles",
+          "value": "8,000",
+          "unit": "vehicles",
+          "asOf": "1900",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.by-the-numbers.household-size",
+          "kind": "stat",
+          "title": "People per household",
+          "summary": "A typical household held between four and five people.",
+          "sources": [
+            {
+              "label": "Population Reference Bureau: average household size 1900-2010",
+              "url": "https://scorecard.prb.org/?p=19314",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Census chart book: Households, Relationship to Householder, and Home Ownership",
+              "url": "https://demographicchartbook.com/index.php/chapter-6-households-relationship-to-householder-and-home-ownership/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "metric": "Average household size",
+          "value": "about 4.6",
+          "unit": "people",
+          "asOf": "1900",
+          "todo": true
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Food took the biggest share of a working family's money, and cooking meant a wood or coal range and an icebox filled by the iceman.",
+      "items": [
+        {
+          "id": "world.1900.everyday.food-and-kitchen.food-budget",
+          "kind": "fact",
+          "title": "Half of every dollar",
+          "summary": "For a working-class family around the turn of the century, food was the largest item in the budget, roughly fifty cents of each dollar.",
+          "sources": [
+            {
+              "label": "Katherine Leonard Turner, How the Other Half Ate: A History of Working-Class Meals at the Turn of the Century (University of California Press, 2014)",
+              "url": "https://www.ucpress.edu/books/how-the-other-half-ate/hardcover",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.food-and-kitchen.mill-breakfast",
+          "kind": "meal",
+          "title": "A mill worker's breakfast",
+          "summary": "Textile workers in the Southern Piedmont ate fried pork with wheat biscuits or cornbread and molasses; in Massachusetts a mill hand might have the day before's beans and bread with coffee.",
+          "sources": [
+            {
+              "label": "Katherine Leonard Turner, How the Other Half Ate (University of California Press, 2014)",
+              "url": "https://www.ucpress.edu/books/how-the-other-half-ate/hardcover",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "mealTime": "morning",
+          "dishes": [
+            "fried pork",
+            "biscuits or cornbread",
+            "molasses",
+            "leftover beans and bread",
+            "coffee"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.food-and-kitchen.farm-dinner",
+          "kind": "meal",
+          "title": "The midday dinner on a farm",
+          "summary": "On farms the largest meal was often at midday, and a one-pot dish could simmer while other chores were done.",
+          "sources": [
+            {
+              "label": "Chowhound: What the average American ate during the Industrial Revolution",
+              "url": "https://www.chowhound.com/2178716/what-food-average-american-ate-industrial-revolution/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "mealTime": "midday",
+          "dishes": [
+            "a one-pot dish that simmered for hours"
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.food-and-kitchen.icebox",
+          "kind": "fact",
+          "title": "The icebox and the iceman",
+          "summary": "Foods were kept cool in a wooden icebox filled with a block of ice delivered to the door.",
+          "sources": [
+            {
+              "label": "National Park Service: The Icebox, the Predecessor of Modern Refrigeration",
+              "url": "https://home.nps.gov/articles/000/the-icebox-the-predecessor-of-modern-refrigeration.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.food-and-kitchen.level-measures",
+          "kind": "fact",
+          "title": "Recipes with exact measures",
+          "summary": "Fannie Farmer's 1896 Boston Cooking-School Cook Book popularised level cups and spoons, replacing a pinch or a teacup of this and that.",
+          "sources": [
+            {
+              "label": "Encyclopaedia Britannica: Fannie Farmer",
+              "url": "https://www.britannica.com/print/article/201948",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Encyclopedia.com: Farmer, Fannie Merritt",
+              "url": "https://www.encyclopedia.com/people/food-and-drink/food-and-cooking-biographies/fannie-merritt-farmer",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1896",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Women's clothes were fitted and floor-length; many farm clothes were made at home, while men bought much of theirs ready-made.",
+      "items": [
+        {
+          "id": "world.1900.everyday.clothing-and-style.shirtwaist",
+          "kind": "fact",
+          "title": "The shirtwaist",
+          "summary": "The tailored blouse called the shirtwaist, linked with the Gibson Girl look, could be bought ready-made for as little as 25 cents or as much as $7 in late-nineteenth-century catalogues.",
+          "sources": [
+            {
+              "label": "ASU FIDM Museum: 1890s Shirtwaist",
+              "url": "https://asufidmmuseum.asu.edu/index.php/learn/articles/1890s-shirtwaist",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Maine Memory Network: Historic clothing",
+              "url": "https://historicclothing.mainememory.net/page/4834/print.html",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.clothing-and-style.corset-skirts",
+          "kind": "fact",
+          "title": "The S-bend silhouette",
+          "summary": "A corset gave day dress its S-curve shape, and skirts reached the floor.",
+          "sources": [
+            {
+              "label": "FamilySearch: 1900s Fashion, Clothing Styles in the Edwardian Era",
+              "url": "https://www.familysearch.org/en/blog/1900s-fashion-edwardian-era",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.clothing-and-style.farm-homemade",
+          "kind": "fact",
+          "title": "Home-made on the farm",
+          "summary": "Most farm women and children wore clothes made at home, while men bought most of theirs ready-made from store racks.",
+          "sources": [
+            {
+              "label": "University of Northern Colorado, Hewit Center: Clothing (Colorado farmers and ranchers)",
+              "url": "https://unco.edu/hewit/doing-history/colorado-farmers-ranchers/food-clothing-shelter/clothing.aspx",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Colorado",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.clothing-and-style.bib-overalls",
+          "kind": "fact",
+          "title": "Bib overalls",
+          "summary": "By the early 1900s many companies made bib overalls, and catalogues and photographs show farm men as the main wearers.",
+          "sources": [
+            {
+              "label": "Ann Hemken, The development and use of bib overalls in the United States, 1856-1945 (Iowa State University thesis, 1993)",
+              "url": "https://dr.lib.iastate.edu/handle/20.500.12876/75885",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.clothing-and-style.sack-suit",
+          "kind": "fact",
+          "title": "The sack suit",
+          "summary": "Men's day wear centred on the sack suit, ancestor of the modern business suit, and mass production was putting ready-made clothes within reach of more people.",
+          "sources": [
+            {
+              "label": "FamilySearch: 1900s Fashion, Clothing Styles in the Edwardian Era",
+              "url": "https://www.familysearch.org/en/blog/1900s-fashion-edwardian-era",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "Factory weeks ran close to sixty hours, children as young as ten were counted among the workers, and the household had its own unpaid week, starting with wash day.",
+      "items": [
+        {
+          "id": "world.1900.everyday.work-and-wages.factory-hours",
+          "kind": "stat",
+          "title": "A factory week",
+          "summary": "A manufacturing wage earner worked well over fifty hours a week; estimates run from 55 to nearly 60.",
+          "sources": [
+            {
+              "label": "Robert Whaples, Hours of Work in U.S. History (EH.Net Encyclopedia)",
+              "url": "https://eh.net/encyclopedia/hours-of-work-in-u-s-history/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Historical Statistics of the United States, Table Ba4589-4591: Average weekly hours in manufacturing, 1900-1957",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4589-4591.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average weekly hours, manufacturing",
+          "value": "55 to 59.6",
+          "unit": "hours",
+          "asOf": "1900",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.work-and-wages.child-workers",
+          "kind": "stat",
+          "title": "Children at work",
+          "summary": "The census recorded more than 1.75 million children aged 10 to 15 as gainfully employed, about 18 percent of that age group.",
+          "sources": [
+            {
+              "label": "University of Maryland, Gompers Papers: Children aged 10 to 15 engaged in gainful occupations (census data)",
+              "url": "https://gompers.umd.edu/Census%20data.htm",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Carleton College Library: Census exhibit, Occupations and industry",
+              "url": "https://www.carleton.edu/library-exhibitions/census/work/occupations-industry/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Children aged 10 to 15 recorded as gainfully employed",
+          "value": "1,750,178",
+          "unit": "children (about 18% of the age group)",
+          "asOf": "1900",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.work-and-wages.women-workers",
+          "kind": "stat",
+          "title": "Women in paid work",
+          "summary": "Roughly one working-age woman in five was in the paid labour force.",
+          "sources": [
+            {
+              "label": "U.S. Bureau of Labor Statistics: American labor in the 20th century",
+              "url": "https://www.bls.gov/opub/mlr/cwc/american-labor-in-the-20th-century.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Women's labour-force participation",
+          "value": "about 19",
+          "unit": "percent",
+          "asOf": "1900",
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.work-and-wages.average-earnings",
+          "kind": "wage",
+          "title": "Average annual earnings",
+          "summary": "Across all non-farm employees, a year's earnings averaged $483; across all employees, farm workers included, $418.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4280-4282: Daily and annual earnings of employees, 1860-1929",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4280-4282.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "job": "Non-farm employee, average",
+          "amount": "$483",
+          "per": "year",
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.work-and-wages.wash-day",
+          "kind": "fact",
+          "title": "Monday was wash day",
+          "summary": "Household laundry was an all-day job, usually on Monday, with ironing on Tuesday; the day could shift with the weather.",
+          "sources": [
+            {
+              "label": "Living History Farms: Blue Monday, wash day",
+              "url": "https://www.lhf.org/2013/08/blue-monday-wash-day/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "University of Iowa DIY History: diary transcription, 1900",
+              "url": "https://diyhistory.lib.uiowa.edu/transcribe/167/13887",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "place": "Iowa",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "School was a term of about seven months, attended unevenly, and many children were already working.",
+      "items": [
+        {
+          "id": "world.1900.everyday.school-and-childhood.school-year",
+          "kind": "stat",
+          "title": "The school year",
+          "summary": "The average school term was about 144 days, and a pupil attended about 99 of them.",
+          "sources": [
+            {
+              "label": "NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000",
+              "url": "https://nces.ed.gov/programs/digest/d03/tables/dt036.asp",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Historical Statistics of the United States, Table Bc94-96: Public school attendance and term",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBc94-96.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "relatedIds": [
+            "world.1900.morning.walk-one-room-schoolhouse"
+          ],
+          "metric": "Average length of school term",
+          "value": "about 144",
+          "unit": "days",
+          "asOf": "1899-1900",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.school-and-childhood.compulsory",
+          "kind": "fact",
+          "title": "Compulsory school laws",
+          "summary": "Most states had a compulsory-attendance law by 1900, though sources count between 29 and 34 and enforcement varied.",
+          "sources": [
+            {
+              "label": "Reason: Compulsory Schooling (1971)",
+              "url": "https://reason.com/1971/04/01/compulsory-schooling/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "History of Education Quarterly: compulsory education and child labor laws and high school attendance in New York City, 1898-1917",
+              "url": "https://cambridge.org/core/journals/history-of-education-quarterly/article/abs/effect-of-compulsory-education-and-child-labor-laws-on-high-school-attendance-in-new-york-city-18981917/C7034827B54B1AAB458EAC4B34737FBE",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.school-and-childhood.toys",
+          "kind": "fact",
+          "title": "Toys",
+          "summary": "Children played with rag dolls, toy soldiers, doll furniture, tea sets and simple mechanical toys.",
+          "sources": [
+            {
+              "label": "Rosenberg Library Museum: Toys, 1890s-1940s",
+              "url": "https://www.rosenberg-library-museum.org/exhibits/toys-1890s-1940s",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not verify national figures for the share of children enrolled in 1900, or for school fees and the school day. This section holds what was checked."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "Cities ran on streetcars at a nickel a ride, horsecars were fading, and the fast long-distance trains came just after the year.",
+      "items": [
+        {
+          "id": "world.1900.everyday.getting-around.streetcar-nickel",
+          "kind": "fact",
+          "title": "The nickel streetcar",
+          "summary": "Five cents was the usual streetcar fare in cities such as Minneapolis-St. Paul and Cleveland.",
+          "sources": [
+            {
+              "label": "Star Tribune: A few facts about Twin Cities trolleys",
+              "url": "https://m.startribune.com/a-few-facts-about-twin-cities-trolleys/380828791/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Wikipedia: Streetcars in Cleveland",
+              "url": "https://en.wikipedia.org/wiki/Streetcars_in_Cleveland",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "relatedIds": [
+            "world.1900.prices.streetcar-fare-town"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.getting-around.nyc-track",
+          "kind": "fact",
+          "title": "Electric trolley, horse and el",
+          "summary": "In New York City in 1901 about 676 of 1,141 miles of track were electric surface trolley, 178 were elevated and 140 were still horse-drawn.",
+          "sources": [
+            {
+              "label": "Street Railway Journal, 5 October 1901 (LA Metro Library archive)",
+              "url": "https://libraryarchives.metro.net:443/DPGTL/ERJ/srj-street-railway-journal/1901-srj-volume-18-no-14-october-05.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1901",
+          "place": "New York City",
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.getting-around.horsecars",
+          "kind": "fact",
+          "title": "The end of the horsecar",
+          "summary": "Horsecars had been a fixture of American city streets from about 1860 to 1900, before electric trolleys replaced them.",
+          "sources": [
+            {
+              "label": "Miami University Libraries: Horsecars, City Transit Before the Age of Electricity",
+              "url": "https://spec.lib.miamioh.edu/wp-content/uploads/2013/02/Horse-Car-brochure-for-website.pdf",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.getting-around.twenty-hour",
+          "kind": "fact",
+          "title": "The 20-hour train comes in 1902",
+          "summary": "New York to Chicago in 20 hours was not yet available in 1900; the Pennsylvania Special and the 20th Century Limited began it in June 1902.",
+          "sources": [
+            {
+              "label": "American-Rails.com: Pennsylvania Railroad passenger trains",
+              "url": "https://www.american-rails.com/prrpassenger.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "American-Rails.com: Pennsylvania Railroad's Pennsylvania Limited",
+              "url": "https://www.american-rails.com/ptd.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1902-06",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.getting-around.pullman",
+          "kind": "fact",
+          "title": "Sleeping cars",
+          "summary": "Pullman sleeping cars ran on the Pennsylvania Railroad's overnight trains under a contract dating from 1870.",
+          "sources": [
+            {
+              "label": "American-Rails.com: Pennsylvania Railroad passenger trains",
+              "url": "https://www.american-rails.com/prrpassenger.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We found no sourced 1900 door-to-door journey times or fares, so there are no journey cards for this year."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "A letter cost two cents, a postcard one, and a telegram was priced by the word.",
+      "items": [
+        {
+          "id": "world.1900.everyday.keeping-in-touch.letter-rate",
+          "kind": "fact",
+          "title": "Two cents a letter",
+          "summary": "A letter cost two cents an ounce anywhere in the United States.",
+          "sources": [
+            {
+              "label": "New York postal guide, 1904 (University of Wisconsin digital collections)",
+              "url": "https://search.library.wisc.edu/digital/AKQ2ESFGDC6BPH9C/text/AXKSI7MGMT2Q7J9E",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "relatedIds": [
+            "world.1900.prices.first-class-postage-stamp"
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.keeping-in-touch.postcard",
+          "kind": "fact",
+          "title": "The one-cent postcard",
+          "summary": "Since 1898 a postcard could travel for one cent, half the letter rate.",
+          "sources": [
+            {
+              "label": "U.S. House of Representatives History: Postcards",
+              "url": "https://history.house.gov/Blog/2020/May/5-28_postcards/",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1898",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.keeping-in-touch.rural-delivery",
+          "kind": "fact",
+          "title": "Mail to the farm gate",
+          "summary": "Rural Free Delivery began as a trial in 1896, with $40,000 voted by Congress.",
+          "sources": [
+            {
+              "label": "Encyclopedia.com: Rural Free Delivery",
+              "url": "https://www.encyclopedia.com/history/news-wires-white-papers-and-books/rural-free-delivery",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1896",
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.keeping-in-touch.telegram",
+          "kind": "fact",
+          "title": "Telegrams by the word",
+          "summary": "A telegram was priced for a minimum of ten words, with extra words added; one example is 60 cents for ten words from New York to Georgia.",
+          "sources": [
+            {
+              "label": "University of Kansas Libraries: telegraph rate sources",
+              "url": "https://digital.lib.ku.edu/islandora/object/ku-phog%3A46937/datastream/OCR/download",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We found no sourced delivery times for letters or telegrams in 1900, so there are no message cards that can race."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Infection, not heart disease or cancer, filled the list of leading killers, and water filtration was just beginning.",
+      "items": [
+        {
+          "id": "world.1900.everyday.health-and-medicine.killers",
+          "kind": "fact",
+          "title": "What people died of",
+          "summary": "Pneumonia and influenza, tuberculosis and diarrhoeal disease were the leading causes of death; with diphtheria they caused about a third of all deaths.",
+          "sources": [
+            {
+              "label": "Univ. of Illinois: 10 leading causes of death in 1900",
+              "url": "https://cdn.citl.illinois.edu/courses/KIN122/week1/chapter1/web_data/file16.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "CDC Preventing Chronic Disease: mortality analysis",
+              "url": "https://cdc.gov/pcd/issues/2018/17_0284a.htm",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes deaths from disease."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.health-and-medicine.typhoid-philadelphia",
+          "kind": "fact",
+          "title": "Typhoid and the city water supply",
+          "summary": "Philadelphia lost more than 5,400 people to typhoid fever in the 1890s; a filtration system built from 1900 to 1910 largely ended it.",
+          "sources": [
+            {
+              "label": "Encyclopedia of Greater Philadelphia: Typhoid Fever and Filtered Water",
+              "url": "https://philadelphiaencyclopedia.org/?p=20268",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Population Reference Bureau: Clean Water's historic effect on U.S. mortality rates",
+              "url": "https://www.prb.org/resources/clean-waters-historic-effect-on-u-s-mortality-rates-provides-hope-for-developing-countries",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Philadelphia",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes deaths from disease."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.health-and-medicine.albany-filter",
+          "kind": "fact",
+          "title": "Albany filters its water",
+          "summary": "After Albany began filtering its water in 1899, typhoid deaths dropped from an average of 85 a year to 24 in the next eleven months.",
+          "sources": [
+            {
+              "label": "PubMed Central: Water Filtration in America",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195580/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1899",
+          "place": "Albany, New York",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes deaths from disease."
+          },
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.health-and-medicine.typhoid-rate",
+          "kind": "stat",
+          "title": "Typhoid cases",
+          "summary": "Typhoid struck roughly 100 people in every 100,000 in 1900, against about 34 in 1920.",
+          "sources": [
+            {
+              "label": "CDC: History of Drinking Water Treatment",
+              "url": "https://archive.cdc.gov/www_cdc_gov/healthywater/drinking/history.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes deaths from disease."
+          },
+          "metric": "Typhoid fever cases per 100,000 people",
+          "value": "about 100",
+          "unit": "per 100,000",
+          "asOf": "1900",
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.health-and-medicine.doctor-fee",
+          "kind": "fact",
+          "title": "What a doctor charged",
+          "summary": "Local records give $1 for a house call and 50 cents for an office visit; hospitals were few and most babies were born at home.",
+          "sources": [
+            {
+              "label": "Minnesota Academy of Medicine: The History of Medicine",
+              "url": "https://www.mnacademyofmedicine.com/?p=168",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "OU Medical Center: 100-year history excerpt",
+              "url": "https://www.slideshare.net/gumball2/ou-medical-center-100-year-history-10pg-excerpt",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "todo": true
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Free time meant vaudeville, the seaside crowds of Coney Island, the bicycle and a tree in the parlour at Christmas.",
+      "items": [
+        {
+          "id": "world.1900.everyday.leisure-and-fun.vaudeville",
+          "kind": "fact",
+          "title": "A night at the vaudeville",
+          "summary": "Vaudeville bills mixed musicians, dancers, comedians, trained animals and magicians, and had become the first modern big business in entertainment.",
+          "sources": [
+            {
+              "label": "New World Encyclopedia: Vaudeville",
+              "url": "https://www.newworldencyclopedia.org/entry/Vaudeville",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Cambridge History of American Theatre: Popular entertainment",
+              "url": "https://www.cambridge.org/core/books/cambridge-history-of-american-theatre/popular-entertainment/632DDAB52472028BDE9F497A74572BFF",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.leisure-and-fun.coney-island",
+          "kind": "fact",
+          "title": "Coney Island",
+          "summary": "Crowds took a day trip to Coney Island's amusement parks, nine miles from Manhattan, paying a dime for sights such as a diving horse.",
+          "sources": [
+            {
+              "label": "Lumen Learning (William & Mary U.S. History): Leisure and Entertainment",
+              "url": "https://courses.lumenlearning.com/wm-ushistory2/chapter/leisure-and-entertainment/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "place": "Brooklyn, New York",
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.leisure-and-fun.bicycling",
+          "kind": "fact",
+          "title": "The bicycle craze",
+          "summary": "After safer designs arrived, bicycling became a mass pastime for both men and women.",
+          "sources": [
+            {
+              "label": "Lumen Learning (William & Mary U.S. History): Leisure and Entertainment",
+              "url": "https://courses.lumenlearning.com/wm-ushistory2/chapter/leisure-and-entertainment/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "relatedIds": [
+            "world.1900.technology.safety-bicycle"
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.leisure-and-fun.christmas-tree",
+          "kind": "fact",
+          "title": "The Christmas tree",
+          "summary": "A freshly cut tree raised in the parlour on Christmas Eve and lit with candles had become a family custom, mostly with home-made ornaments.",
+          "sources": [
+            {
+              "label": "Living History Farms: Gathered around the tree",
+              "url": "https://www.lhf.org/2011/12/gathered-around-the-tree/",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Practical Preservation Services: History of the Holidays, Christmas trees",
+              "url": "https://practicalpreservationservices.com/history-of-the-holidays-christmas-trees/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not verify baseball attendance or Fourth of July customs for 1900, so those are left out."
+    },
+    "spotlight": {
+      "title": "Gaslight to electric light",
+      "standfirst": "In 1900 most American homes were lit by kerosene lamps; electric light was a city novelty that would take until 1940 to reach nearly four in five homes.",
+      "items": [
+        {
+          "id": "world.1900.everyday.spotlight.kerosene",
+          "kind": "fact",
+          "title": "The kerosene lamp",
+          "summary": "The kerosene lamp was the most important modern light source in 1900 and most widely used in the United States; electricity was comparatively unimportant for home lighting.",
+          "sources": [
+            {
+              "label": "Business History Conference: The Global Supply of Lighting in 1900 (Leslie Hannah)",
+              "url": "https://thebhc.org/node/939",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "relatedIds": [
+            "world.1900.morning.light-kerosene-lamp"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.spotlight.pearl-street",
+          "kind": "fact",
+          "title": "Pearl Street, 1882",
+          "summary": "Edison's Pearl Street Station in New York began supplying 59 customers in 1882.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: History and the Census, Electricity",
+              "url": "https://www.census.gov/about/history/stories/monthly/2026/september-2026.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1882",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.spotlight.electricians",
+          "kind": "fact",
+          "title": "A new trade",
+          "summary": "The 1900 census was the first to count electricians as a separate occupation.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: History and the Census, Electricity",
+              "url": "https://www.census.gov/about/history/stories/monthly/2026/september-2026.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1900",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1900.everyday.spotlight.factory-power",
+          "kind": "fact",
+          "title": "Power for factories",
+          "summary": "In 1900 barely 4 percent of the power used in American factories was electric, according to census statistics reported in 1903.",
+          "sources": [
+            {
+              "label": "Nebraska newspapers (Chronicling America): 17 January 1903",
+              "url": "https://nebnewspapers.unl.edu/lccn/sn99021999/1903-01-17/ed-1/seq-9",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1900.everyday.spotlight.benchmark-1940",
+          "kind": "fact",
+          "title": "Forty years on",
+          "summary": "The 1940 census was the first to ask about home lighting and found 78.7 percent of occupied homes had electric light.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: History and the Census, Electricity",
+              "url": "https://www.census.gov/about/history/stories/monthly/2026/september-2026.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1940",
+          "checked": "2026-10-18"
+        }
+      ]
+    }
+  }
+}

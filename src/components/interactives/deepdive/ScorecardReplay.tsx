@@ -24,7 +24,12 @@ export default function ScorecardReplay(props: InteractiveProps) {
   const reduced = useReducedMotion();
   const { theme, chrome } = useDeepDiveStyle();
   const sports = itemsOfKind(props, "sport");
-  const replay = dataOf(props).replay as { title?: string; steps?: unknown } | undefined;
+  type Replay = { title?: string; steps?: unknown };
+  const d = dataOf(props);
+  // `replays` holds several sourced matches; the older single `replay` still works.
+  const replays = asArray<Replay>(d.replays).length > 0 ? asArray<Replay>(d.replays) : d.replay ? [d.replay as Replay] : [];
+  const [match, setMatch] = useState(0);
+  const replay = replays[Math.min(match, replays.length - 1)];
   const steps = asArray<Step>(replay?.steps);
   const [i, setI] = useState(0);
   const [playing, setPlaying] = useState(false);
@@ -43,6 +48,15 @@ export default function ScorecardReplay(props: InteractiveProps) {
         <Empty>A replay for this year is still being researched.</Empty>
       ) : (
         <>
+          {replays.length > 1 && (
+            <Box role="tablist" aria-label="Match" sx={{ display: "flex", gap: 1, flexWrap: "wrap", mb: 1.5 }}>
+              {replays.map((r, n) => (
+                <Button key={n} role="tab" aria-selected={n === match} size="small" variant={n === match ? "contained" : "outlined"} onClick={() => { setMatch(n); setI(0); setPlaying(false); }}>
+                  {r.title ?? `Match ${n + 1}`}
+                </Button>
+              ))}
+            </Box>
+          )}
           <Box aria-live="polite" sx={{ background: board.bg, color: board.fg, fontFamily: board.font, border: board.border, p: 2, minHeight: 110 }}>
             <Typography sx={{ fontFamily: "inherit", opacity: 0.8 }}>{replay?.title}</Typography>
             <Typography sx={{ fontFamily: "inherit", fontSize: "1.4rem", fontWeight: 700 }}>{steps[i].score ?? steps[i].label}</Typography>

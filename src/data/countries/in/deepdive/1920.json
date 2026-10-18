@@ -109,11 +109,37 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.technology-science.best-double-decker",
+          "kind": "tech",
+          "title": "Double-decker electric trams",
+          "summary": "Bombay's electric trams, in service since 1907, were joined by double-decker cars in September 1920.",
+          "availability": "urban",
+          "regionTag": "west",
+          "place": "Bombay (now Mumbai)",
+          "date": "1920-09",
+          "sources": [
+            {
+              "label": "Wikipedia: Trams in Mumbai",
+              "url": "https://en.wikipedia.org/wiki/Trams_in_Mumbai",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Live History India: Bombay's Tryst with Trams",
+              "url": "https://livehistoryindia.com/story/religious-places/bombays-tryst-with-trams",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
         "component": "TechThenNow"
-      }
+      },
+      "scarcityNote": "For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -204,6 +230,50 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.government-politics.identification-prisoners",
+          "kind": "governance",
+          "title": "The Identification of Prisoners Act, 1920",
+          "summary": "Act No. 33 of 1920, dated 9 September 1920, authorised taking measurements and photographs, including finger and foot impressions, of convicts and others.",
+          "office": "Governor-General in Council",
+          "instrument": "Act No. 33 of 1920",
+          "date": "1920-09-09",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: Identification of Prisoners Act, 1920",
+              "url": "https://en.wikipedia.org/wiki/Identification_of_Prisoners_Act,_1920",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Identification of Prisoners Act, 1920 (Telangana High Court copy of the Act)",
+              "url": "https://www.thc.nic.in/Central%20Governmental%20Acts/Identification%20of%20Prisoners%20Act,%201920..pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.dd.government-politics.passport-act",
+          "kind": "governance",
+          "title": "The Passport (Entry into India) Act, 1920",
+          "summary": "Act No. 34 of 1920, enacted on 9 September 1920, took power to require passports of persons entering India.",
+          "office": "Governor-General in Council",
+          "instrument": "Act No. 34 of 1920",
+          "date": "1920-09-09",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "India Code: Passport (Entry into India) Act, 1920 (Act 34 of 1920)",
+              "url": "https://indiacode.nic.in/handle/123456789/6837?locale=en",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -413,6 +483,56 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.freedom-history.lucknow-university",
+          "kind": "event",
+          "title": "The University of Lucknow is founded",
+          "summary": "The University of Lucknow Act received the Lieutenant-Governor's assent on 1 November and the Governor-General's on 25 November 1920; teaching began on 17 July 1921.",
+          "eventType": "founding",
+          "date": "1920-11-25",
+          "place": "Lucknow",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "University of Lucknow: History",
+              "url": "https://www.lkouniv.ac.in/article/en/history",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: University of Lucknow",
+              "url": "https://en.wikipedia.org/wiki/University_of_Lucknow",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.dd.freedom-history.jamia-foundation",
+          "kind": "event",
+          "title": "Jamia Millia Islamia is founded at Aligarh",
+          "summary": "Maulana Mahmud Hasan laid the foundation stone of Jamia Millia Islamia at Aligarh in October 1920; Hakim Ajmal Khan became its first chancellor and Maulana Mohammad Ali Johar its first vice-chancellor.",
+          "eventType": "founding",
+          "date": "1920-10-29",
+          "place": "Aligarh",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Jamia Millia Islamia: Founders",
+              "url": "https://jmi.ac.in/About-Jamia/Profile/History/History/11521/Founder",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Ilmgate: The Aligarh speech of Shaykh al-Hind Maulana Mahmud Hasan",
+              "url": "https://www.ilmgate.org/the-aligarh-speech-of-shaykh-al-hind-maulana-mahmud-hasan/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -446,7 +566,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1920.dd.personalities.bal-gangadhar-tilak",
@@ -466,7 +587,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1920.dd.personalities.srinivasa-ramanujan",
@@ -492,26 +614,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.1920.dd.personalities.meghnad-saha",
-          "kind": "person",
-          "title": "Meghnad Saha",
-          "summary": "Astrophysicist, born in 1893.",
-          "field": "Astrophysics",
-          "born": "1893",
-          "whyThisYear": "His thermal-ionisation equation is dated to about 1920.",
-          "regionTag": "east",
-          "sources": [
-            {
-              "label": "Wikipedia: Meghnad Saha",
-              "url": "https://en.wikipedia.org/wiki/Meghnad_Saha",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1920.dd.personalities.cv-raman",
@@ -530,7 +634,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1920.dd.personalities.lala-lajpat-rai",
@@ -555,7 +660,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1920.dd.personalities.premchand",
@@ -574,31 +680,64 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
-          "id": "in.1920.dd.personalities.purma-bannerjee",
+          "id": "in.1920.dd.personalities.sarada-devi",
           "kind": "person",
-          "title": "Purma Bannerjee",
-          "summary": "Sprinter who carried the flag for India at the Antwerp Olympics.",
-          "field": "Athletics",
-          "whyThisYear": "He ran the 100 m and 400 m at the 1920 Olympics.",
-          "regionTag": "national",
+          "title": "Sarada Devi (the Holy Mother)",
+          "summary": "Spiritual guide of the Ramakrishna Order for about 34 years after her husband's death, known to followers as the Holy Mother.",
+          "field": "Spiritual leadership",
+          "born": "1853-12-22",
+          "died": "1920-07-20",
+          "gender": "female",
+          "regionTag": "east",
+          "place": "Calcutta (now Kolkata)",
+          "whyThisYear": "She died in Calcutta in July 1920 after a long illness, leaving advice to grieving devotees to look at their own faults rather than others'.",
           "sources": [
             {
-              "label": "Wikipedia: India at the 1920 Summer Olympics",
-              "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
-              "accessed": "2026-10-13",
+              "label": "Wikipedia: Sarada Devi",
+              "url": "https://en.wikipedia.org/wiki/Sarada_Devi",
+              "accessed": "2026-10-18",
               "quality": "reference"
             },
             {
-              "label": "Olympedia: India at the 1920 Summer Olympics",
-              "url": "https://www.olympedia.org/countries/IND/editions/7",
-              "accessed": "2026-10-13",
-              "quality": "primary"
+              "label": "Encyclopaedia Britannica: Sarada Devi",
+              "url": "https://www.britannica.com/biography/Sarada-Devi",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1920.dd.personalities.sarojini-naidu",
+          "kind": "person",
+          "title": "Sarojini Naidu",
+          "summary": "Poet and political leader, later the first Indian woman to preside over the Indian National Congress.",
+          "field": "Poetry and politics",
+          "born": "1879-02-13",
+          "died": "1949-03-02",
+          "gender": "female",
+          "regionTag": "south",
+          "place": "Hyderabad",
+          "whyThisYear": "She took part in the non-cooperation movement launched in 1920, travelling widely to address gatherings.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sarojini Naidu",
+              "url": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "RAU's IAS: Women in the freedom struggle",
+              "url": "https://compass.rauias.com/modern-history/women-freedom-struggle/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -726,7 +865,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -844,6 +984,39 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1920.dd.sports.antwerp-team",
+          "kind": "sport",
+          "title": "India's team at Antwerp",
+          "summary": "Five men, three in athletics and two in wrestling, represented India at the 1920 Games, training in London for six weeks; none won a medal, and Purma Bannerjee carried the flag.",
+          "sport": "Athletics and wrestling",
+          "competition": "1920 Summer Olympics, Antwerp",
+          "result": "No medals; five athletes",
+          "athletes": [
+            "Purma Bannerjee",
+            "Phadeppa Chaugule",
+            "Sadashiv Datar",
+            "Dinkarrao Shinde",
+            "Kumar Navale"
+          ],
+          "regionTag": "national",
+          "date": "1920",
+          "sources": [
+            {
+              "label": "Wikipedia: India at the 1920 Summer Olympics",
+              "url": "https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Olympedia: India",
+              "url": "https://www.olympedia.org/countries/IND",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -885,7 +1058,8 @@
             "quality": "primary"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -1002,7 +1176,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Few works securely dated to 1920 itself were verified; two are 1920 books by Tagore and two are from 1918-19 that were circulating in 1920."
+      "scarcityNote": "For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -1106,7 +1280,8 @@
       ],
       "interactive": {
         "component": "ReadingRoom"
-      }
+      },
+      "scarcityNote": "For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -1221,7 +1396,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -1311,16 +1487,38 @@
       ],
       "interactive": {
         "component": "RiyaazRoom"
-      }
+      },
+      "scarcityNote": "For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
       "standfirst": "No item for this section could be checked against sources.",
-      "items": [],
+      "items": [
+        {
+          "id": "in.1920.dd.economy-business.national-income",
+          "kind": "indicator",
+          "title": "National income",
+          "summary": "National income was ₹30,428 million in 1920.",
+          "metric": "National income",
+          "value": "30,428",
+          "unit": "million rupees",
+          "asOf": "1920",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "Wikipedia: 1920 in India",
+              "url": "https://en.wikipedia.org/wiki/1920_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        }
+      ],
       "interactive": {
         "component": "RupeeDashboard"
       },
-      "scarcityNote": "No item for 1920 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1920 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

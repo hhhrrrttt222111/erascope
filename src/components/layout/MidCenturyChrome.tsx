@@ -29,9 +29,9 @@ export function MidCenturyChrome({ sections }: ChromeProps) {
             <Box className="fx-starburst" sx={{ color: "#e3b23c", fontSize: 28 }} aria-hidden />
             Erascope Television
           </Box>
-          <Box component="nav" aria-label="Sections" sx={{ display: { xs: "none", md: "flex" }, gap: 0.5, ml: "auto" }}>
+          <Box component="nav" aria-label="Sections" sx={{ display: "flex", flexWrap: "wrap", justifyContent: { xs: "flex-start", md: "center" }, gap: 0.5, flexBasis: "100%" }}>
             {sections.map((s) => (
-              <Button key={s.id} size="small" onClick={() => scrollToSection(s.id)} sx={{ color: "#fffaf0", fontWeight: 600 }}>
+              <Button key={s.id} size="small" onClick={() => scrollToSection(s.id)} sx={{ color: "#fffaf0", fontWeight: 600, whiteSpace: "nowrap", lineHeight: 1.4, px: 1.25 }}>
                 {s.title}
               </Button>
             ))}

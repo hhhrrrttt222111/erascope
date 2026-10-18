@@ -1,0 +1,613 @@
+{
+  "country": "in",
+  "year": 1930,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "The census of 1931 counted 350 million people, of whom fewer than one in ten could read and write a postcard.",
+      "items": [
+        {
+          "id": "in.1930.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The census of 1931 counted 350.5 million people, up from 316.1 million in 1921.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1931 Census of India",
+              "url": "https://en.wikipedia.org/wiki/1931_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India (census, 1931)",
+          "value": "350,529,557",
+          "unit": "people",
+          "asOf": "1931",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.by-the-numbers.postcard-literacy",
+          "kind": "stat",
+          "title": "Who could write a postcard",
+          "summary": "By 1931, 9.5 percent of the population could read and write a postcard.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1931 Census of India",
+              "url": "https://en.wikipedia.org/wiki/1931_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Share who could read and write a postcard",
+          "value": "9.5",
+          "unit": "percent",
+          "asOf": "1931",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.by-the-numbers.languages",
+          "kind": "stat",
+          "title": "Languages counted",
+          "summary": "The 1931 census noted 225 languages; George Grierson's Linguistic Survey of India had recorded 179 languages and 544 dialects.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1931 Census of India",
+              "url": "https://en.wikipedia.org/wiki/1931_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Languages recorded in the census",
+          "value": "225",
+          "unit": "languages",
+          "asOf": "1931",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Urban share, life expectancy and household figures are not in the sources we could open for 1930-31."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Salt, a necessity at every meal, was the year's political question; see the spotlight.",
+      "items": [
+        {
+          "id": "in.1930.everyday.food-and-kitchen.tea-campaign",
+          "kind": "fact",
+          "title": "Selling tea to Indians",
+          "summary": "The Indian tea industry ran campaigns in the 1930s, with free samples and tea stalls at stations, to turn tea into a daily drink at home.",
+          "sources": [
+            {
+              "label": "Wikipedia: Tea in India",
+              "url": "https://en.wikipedia.org/wiki/Tea_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.food-and-kitchen.irani-cafe",
+          "kind": "fact",
+          "title": "Irani cafés",
+          "summary": "Irani cafés in Bombay and Pune served tea, bun maska and keema pav at low prices and became meeting places.",
+          "sources": [
+            {
+              "label": "Wikipedia: Irani café",
+              "url": "https://en.wikipedia.org/wiki/Irani_café",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.food-and-kitchen.rural-diet",
+          "kind": "fact",
+          "title": "Millets and pulses",
+          "summary": "Most villagers ate millet, rice or wheat with pulses, vegetables and chillies, and meat or milk were occasional.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian cuisine",
+              "url": "https://en.wikipedia.org/wiki/Indian_cuisine",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "The boycott of foreign cloth and khadi are covered in the spotlight.",
+      "items": [
+        {
+          "id": "in.1930.everyday.clothing-and-style.gandhi-cap",
+          "kind": "fact",
+          "title": "The Gandhi cap",
+          "summary": "The white khadi cap, worn by Congress supporters, became a political statement, and wearers were sometimes arrested for it.",
+          "sources": [
+            {
+              "label": "Wikipedia: Gandhi cap",
+              "url": "https://en.wikipedia.org/wiki/Gandhi_cap",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.clothing-and-style.nivi-sari",
+          "kind": "fact",
+          "title": "The Nivi drape spreads",
+          "summary": "The Nivi style of draping, with the pleats tucked at the waist and the end over the shoulder, spread across many regions.",
+          "sources": [
+            {
+              "label": "Wikipedia: Sari",
+              "url": "https://en.wikipedia.org/wiki/Sari",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.clothing-and-style.western-shirt",
+          "kind": "fact",
+          "title": "Western clothes in town",
+          "summary": "Lawyers, clerks and students in cities wore shirts, trousers or coats, often with a cap or turban.",
+          "sources": [
+            {
+              "label": "Wikipedia: Clothing in India",
+              "url": "https://en.wikipedia.org/wiki/Clothing_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "After 1929 world prices of crops such as jute, cotton and wheat fell, and many farmers had trouble paying rent and debts.",
+      "items": [
+        {
+          "id": "in.1930.everyday.work-and-wages.depression-prices",
+          "kind": "fact",
+          "title": "The Depression reaches the farm",
+          "summary": "After 1929 world prices of crops such as jute, cotton and wheat fell, and many farmers had trouble paying rent and debts.",
+          "sources": [
+            {
+              "label": "Wikipedia: Great Depression in India",
+              "url": "https://en.wikipedia.org/wiki/Great_Depression_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.work-and-wages.mill-strikes",
+          "kind": "fact",
+          "title": "Mill strikes in Bombay",
+          "summary": "Textile workers in Bombay struck in 1928 and 1929 over wages and work rules, and the government passed the Trade Disputes Act in 1929.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bombay textile strike of 1928",
+              "url": "https://en.wikipedia.org/wiki/Bombay_textile_strike_of_1928",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.work-and-wages.jamshedpur",
+          "kind": "fact",
+          "title": "Steel at Jamshedpur",
+          "summary": "Tata Steel's plant at Jamshedpur, begun in 1907, employed thousands and ran a company town with houses and schools.",
+          "sources": [
+            {
+              "label": "Wikipedia: Tata Steel",
+              "url": "https://en.wikipedia.org/wiki/Tata_Steel",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "Most children who started school left before they could read well.",
+      "items": [
+        {
+          "id": "in.1930.everyday.school-and-childhood.hartog-wastage",
+          "kind": "stat",
+          "title": "Starting school and leaving it",
+          "summary": "Of every 100 children who began Class I in 1922-23, only 18 were still reading in Class IV in 1925-26, the figure behind the Hartog Committee's report on wastage in 1929.",
+          "sources": [
+            {
+              "label": "GKToday: Hartog Committee on Education",
+              "url": "https://www.gktoday.in/hartog-committee-on-education/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Vajiram & Ravi: Hartog Committee",
+              "url": "https://vajiramandravi.com/current-affairs/hartog-committee/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Of 100 who began Class I (1922-23), number in Class IV (1925-26)",
+          "value": "18",
+          "unit": "of 100",
+          "asOf": "1925-26",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1930 school enrolment or fees."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The Frontier Mail began running between Bombay and Peshawar in 1928 and was one of the best-known trains.",
+      "items": [
+        {
+          "id": "in.1930.everyday.getting-around.frontier-mail",
+          "kind": "fact",
+          "title": "Frontier Mail",
+          "summary": "The Frontier Mail began running between Bombay and Peshawar in 1928 and was one of the best-known trains.",
+          "sources": [
+            {
+              "label": "Wikipedia: Frontier Mail",
+              "url": "https://en.wikipedia.org/wiki/Frontier_Mail",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.getting-around.tata-airmail",
+          "kind": "fact",
+          "title": "The first airmail service",
+          "summary": "In October 1932 J.R.D. Tata flew mail from Karachi to Bombay, the start of Tata Airlines.",
+          "sources": [
+            {
+              "label": "Wikipedia: Air India",
+              "url": "https://en.wikipedia.org/wiki/Air_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.getting-around.hand-rickshaw",
+          "kind": "fact",
+          "title": "Hand-pulled rickshaws",
+          "summary": "In Calcutta men pulled passengers in hand rickshaws, and trams ran on the main roads.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rickshaw",
+              "url": "https://en.wikipedia.org/wiki/Rickshaw",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.getting-around.bullock-tonga",
+          "kind": "fact",
+          "title": "Bullock carts and tongas",
+          "summary": "Away from rail lines, people went by bullock cart, horse tonga or on foot.",
+          "sources": [
+            {
+              "label": "Wikipedia: Tonga (carriage)",
+              "url": "https://en.wikipedia.org/wiki/Tonga_(carriage)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "The government took over broadcasting in 1930 as the Indian State Broadcasting Service, which became All India Radio in 1936.",
+      "items": [
+        {
+          "id": "in.1930.everyday.keeping-in-touch.radio-1930",
+          "kind": "fact",
+          "title": "Radio begins",
+          "summary": "The government took over broadcasting in 1930 as the Indian State Broadcasting Service, which became All India Radio in 1936.",
+          "sources": [
+            {
+              "label": "Wikipedia: All India Radio",
+              "url": "https://en.wikipedia.org/wiki/All_India_Radio",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.keeping-in-touch.airmail-letters",
+          "kind": "fact",
+          "title": "Letters by air",
+          "summary": "Airmail had started in 1911 with a demonstration flight at Allahabad, and regular air services shortened letter times in the 1930s.",
+          "sources": [
+            {
+              "label": "Wikipedia: Air mail",
+              "url": "https://en.wikipedia.org/wiki/Air_mail",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.keeping-in-touch.khadi-papers",
+          "kind": "fact",
+          "title": "Papers and pamphlets",
+          "summary": "Nationalist newspapers and pamphlets spread news of the Salt March, though some were banned or fined.",
+          "sources": [
+            {
+              "label": "Wikipedia: Salt March",
+              "url": "https://en.wikipedia.org/wiki/Salt_March",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ]
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Cholera, plague, smallpox and malaria were common, and vaccination and quinine were the main defences.",
+      "items": [
+        {
+          "id": "in.1930.everyday.health-and-medicine.epidemic-disease",
+          "kind": "fact",
+          "title": "Cholera, plague and malaria",
+          "summary": "Cholera, plague, smallpox and malaria were common, and vaccination and quinine were the main defences.",
+          "sources": [
+            {
+              "label": "Wikipedia: Healthcare in India",
+              "url": "https://en.wikipedia.org/wiki/Healthcare_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1930.everyday.health-and-medicine.hygiene-institute",
+          "kind": "fact",
+          "title": "All-India Institute of Hygiene",
+          "summary": "The All-India Institute of Hygiene and Public Health opened in Calcutta in 1932.",
+          "sources": [
+            {
+              "label": "Wikipedia: All India Institute of Hygiene and Public Health",
+              "url": "https://en.wikipedia.org/wiki/All_India_Institute_of_Hygiene_and_Public_Health",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        },
+        {
+          "id": "in.1930.everyday.health-and-medicine.medical-council",
+          "kind": "fact",
+          "title": "Medical Council Act",
+          "summary": "The Indian Medical Council Act of 1933 set up a body to register doctors.",
+          "sources": [
+            {
+              "label": "Wikipedia: Medical Council of India",
+              "url": "https://en.wikipedia.org/wiki/Medical_Council_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "The silent cinema was an outing for four annas, and the first talkies were a few months away.",
+      "items": [
+        {
+          "id": "in.1930.everyday.leisure-and-fun.cinema-ticket",
+          "kind": "price",
+          "title": "A cinema ticket",
+          "summary": "A regular cinema ticket cost four annas; at the opening of the first Indian talkie, Alam Ara, in Bombay in March 1931, such tickets reportedly changed hands at Rs 5.",
+          "sources": [
+            {
+              "label": "Outlook India: The Ghost Who Talked (Alam Ara)",
+              "url": "https://www.outlookindia.com/national/the-ghost-who-talked-news-281007",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Live History India: Alam Ara, Indian cinema finds its voice",
+              "url": "https://livehistoryindia.com/story/eras/alam-ara",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1931-03",
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "price": "4 annas",
+          "originalUnits": "4 annas (a quarter of a rupee; 16 annas = 1 rupee)",
+          "decimalINR": "₹0.25",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1930.everyday.leisure-and-fun.talkie-halls",
+          "kind": "fact",
+          "title": "Halls ready for sound",
+          "summary": "By the end of 1930 about 30 cinema halls in India could screen talkies, ahead of Alam Ara in March 1931.",
+          "sources": [
+            {
+              "label": "Outlook India: The Ghost Who Talked (Alam Ara)",
+              "url": "https://www.outlookindia.com/national/the-ghost-who-talked-news-281007",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced material on festivals or sport as ordinary people took part in 1930."
+    },
+    "spotlight": {
+      "title": "Salt and khadi in everyday life",
+      "standfirst": "Salt was something every household needed, and a government monopoly on it turned a pinch from the kitchen into the year's act of civil disobedience, with women at the front.",
+      "items": [
+        {
+          "id": "in.1930.everyday.spotlight.salt-monopoly",
+          "kind": "fact",
+          "title": "A monopoly on salt",
+          "summary": "Under the Salt Act of 1882 the government held a monopoly on salt, so people had to buy it from colonial depots even though coastal families could make it by boiling seawater.",
+          "sources": [
+            {
+              "label": "Wikipedia: Salt March",
+              "url": "https://en.wikipedia.org/wiki/Salt_March",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "HISTORY.com: Salt March",
+              "url": "https://www.history.com/topics/salt-march",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "relatedIds": [
+            "in.1930.dd.freedom-history.salt-march"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1930.everyday.spotlight.poor-burden",
+          "kind": "fact",
+          "title": "The poor's tax",
+          "summary": "Historians note that the salt tax weighed most heavily on India's poor, though every household needed salt; Gandhi called salt 'next to air and water, perhaps the greatest necessity of life'.",
+          "sources": [
+            {
+              "label": "Wikipedia: Salt March",
+              "url": "https://en.wikipedia.org/wiki/Salt_March",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "HISTORY.com: Salt March",
+              "url": "https://www.history.com/topics/salt-march",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1930.everyday.spotlight.women-picket",
+          "kind": "fact",
+          "title": "Women at the picket line",
+          "summary": "Gandhi suggested women were best suited to picketing liquor shops and sellers of foreign cloth and to spinning khadi yarn, a programme that led to an unprecedented number of women's arrests.",
+          "sources": [
+            {
+              "label": "South Asia (Taylor & Francis), 2023: article on women and civil disobedience",
+              "url": "https://www.tandfonline.com/doi/full/10.1080/00856401.2023.2239622",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Scroll.in: How Mumbai suburban women contributed to the freedom struggle",
+              "url": "https://scroll.in/article/1087616/from-the-photo-book-how-mumbai-suburban-women-contributed-to-the-freedom-struggle",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1930.everyday.spotlight.bombay-women",
+          "kind": "fact",
+          "title": "Bombay's women",
+          "summary": "Through 1930-31 women in Bombay's suburbs led processions, picketed foreign-cloth shops, hoisted Congress flags and broke the salt laws, and an unprecedented number of middle-class Hindu women took to the city's streets to promote swadeshi.",
+          "sources": [
+            {
+              "label": "Scroll.in: How Mumbai suburban women contributed to the freedom struggle",
+              "url": "https://scroll.in/article/1087616/from-the-photo-book-how-mumbai-suburban-women-contributed-to-the-freedom-struggle",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Duke University: Disobedient Women in a Consumer City, Picturing Swadeshi Culture in Interwar Bombay",
+              "url": "https://dukespace.lib.duke.edu/items/a9596541-cd29-41f9-b27d-1ad9fb3cd0eb",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1930.everyday.spotlight.freedom-salt",
+          "kind": "fact",
+          "title": "A pinch of salt for 1,600 rupees",
+          "summary": "A pinch of salt that Gandhi made himself reportedly sold for 1,600 rupees.",
+          "sources": [
+            {
+              "label": "Wikipedia: Salt March",
+              "url": "https://en.wikipedia.org/wiki/Salt_March",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ]
+    }
+  }
+}

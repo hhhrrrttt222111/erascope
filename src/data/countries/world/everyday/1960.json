@@ -1,0 +1,547 @@
+{
+  "country": "world",
+  "year": 1960,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "A nation of 179 million, seven in ten in towns and cities, with nearly 74 million motor vehicles and a baby boom still under way.",
+      "items": [
+        {
+          "id": "world.1960.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 1960 census counted 179.3 million people, 50.6 to the square mile.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 1960",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1960.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "U.S. resident population",
+          "value": "179,323,175",
+          "unit": "people",
+          "asOf": "1960",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A baby born in 1960 could expect to live nearly 70 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "69.8",
+          "unit": "years",
+          "asOf": "1960",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and city",
+          "summary": "About 70 percent of Americans lived in urban areas.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Urban population (% of total)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Urban share of the population",
+          "value": "70.0",
+          "unit": "percent",
+          "asOf": "1960",
+          "todo": true
+        },
+        {
+          "id": "world.1960.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 26 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Infant mortality",
+          "value": "25.9",
+          "unit": "per 1,000 live births",
+          "asOf": "1960",
+          "todo": true
+        },
+        {
+          "id": "world.1960.everyday.by-the-numbers.fertility",
+          "kind": "stat",
+          "title": "Births per woman",
+          "summary": "The fertility rate was 3.65 births per woman, near the peak of the baby boom.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Fertility rate, total (births per woman)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Total fertility rate",
+          "value": "3.65",
+          "unit": "births per woman",
+          "asOf": "1960",
+          "todo": true
+        },
+        {
+          "id": "world.1960.everyday.by-the-numbers.motor-vehicles",
+          "kind": "stat",
+          "title": "Motor vehicles",
+          "summary": "Registrations reached 73.9 million: 61.7 million cars, 11.9 million trucks and 272,000 buses.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations",
+              "url": "https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Registered motor vehicles",
+          "value": "73,857,800",
+          "unit": "vehicles",
+          "asOf": "1960",
+          "checked": "2026-10-18"
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "A frozen dinner in an aluminium tray was a new way to put supper on the table, and a pizza chain opened its first shop.",
+      "items": [
+        {
+          "id": "world.1960.everyday.food-and-kitchen.domino",
+          "kind": "fact",
+          "title": "The first Domino's",
+          "summary": "The first Domino's Pizza opened in Ypsilanti, Michigan, on 9 December 1960.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-12-09",
+          "place": "Ypsilanti, Michigan",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.food-and-kitchen.dessert-tray",
+          "kind": "fact",
+          "title": "A tray with dessert",
+          "summary": "In 1960 Swanson added desserts such as apple cobbler and brownies to a new four-compartment tray, and Banquet and Morton also began selling frozen dinners.",
+          "sources": [
+            {
+              "label": "Wikipedia: TV dinner",
+              "url": "https://en.wikipedia.org/wiki/TV_dinner",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960",
+          "relatedIds": [
+            "world.1960.everyday.spotlight.tv-dinner"
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1960 grocery prices, appliance counts or typical meals."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Women wore knee-length shift dresses, pillbox hats and bouffant hair; men wore slim, single-breasted suits with narrow ties.",
+      "items": [
+        {
+          "id": "world.1960.everyday.clothing-and-style.shift-dress",
+          "kind": "fact",
+          "title": "The shift dress",
+          "summary": "Simple knee-length shift dresses were in style, while André Courrèges began experimenting with hemlines in the early 1960s.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1960s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.clothing-and-style.pillbox",
+          "kind": "fact",
+          "title": "The pillbox hat",
+          "summary": "The pillbox hat was popularised largely through Jacqueline Kennedy, who favoured tailored suits and long gloves.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1960s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.clothing-and-style.bouffant",
+          "kind": "fact",
+          "title": "Bouffant and beehive",
+          "summary": "Bouffant hair dominated, with beehives early in the decade, and pumps with lower heels and squared toes were the usual shoe.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1960s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.clothing-and-style.slim-suits",
+          "kind": "fact",
+          "title": "Slim continental suits",
+          "summary": "By 1962 slim, single-breasted continental suits and skinny ties, often in grey flannel, mohair or sharkskin, were fashionable in the United States and Britain; Pierre Cardin showed collarless suits in 1960.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1960s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1962",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.clothing-and-style.casual",
+          "kind": "fact",
+          "title": "Plaid shirts and blue jeans",
+          "summary": "Teens and casual wearers favoured plaid button-down shirts with slim blue jeans, and capri pants and stretch ski pants appeared.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1960s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.clothing-and-style.synthetics",
+          "kind": "fact",
+          "title": "Wrinkle-free fabrics",
+          "summary": "Nylon, orlon and terylene were promoted as cheap and wrinkle-free.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1960s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A production worker in manufacturing earned about $90 a week.",
+      "items": [
+        {
+          "id": "world.1960.everyday.work-and-wages.factory-weekly",
+          "kind": "wage",
+          "title": "A manufacturing paycheque",
+          "summary": "A production worker in manufacturing earned $2.26 an hour, or $89.72 a week, on average; in durable goods $97.44 and in non-durable goods $80.36.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4361-4366: Hourly and weekly earnings of production workers in manufacturing, 1909-1995",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4361-4366.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "job": "Production worker, manufacturing, average",
+          "amount": "$89.72",
+          "per": "week",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures for 1960 working hours, women's work or the minimum wage."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "The school year was 178 days, and in November six-year-old Ruby Bridges began walking into a school that had been closed to her.",
+      "items": [
+        {
+          "id": "world.1960.everyday.school-and-childhood.school-year",
+          "kind": "stat",
+          "title": "The school year",
+          "summary": "The average school term was 178.0 days, a pupil attended 160.2 of them, and 90 percent of enrolled pupils were present on a given day.",
+          "sources": [
+            {
+              "label": "NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000",
+              "url": "https://nces.ed.gov/programs/digest/d03/tables/dt036.asp",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Average length of school term",
+          "value": "178.0",
+          "unit": "days",
+          "asOf": "1959-60",
+          "todo": true
+        },
+        {
+          "id": "world.1960.everyday.school-and-childhood.ruby-bridges",
+          "kind": "fact",
+          "title": "Desegregating the first grade",
+          "summary": "On 14 November 1960 Ruby Bridges and the three girls known as the McDonogh Three became the first Black children to attend an all-white elementary school in Louisiana.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-11-14",
+          "place": "New Orleans",
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns racial segregation and the hostility children faced."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures on 1960 enrolment, school costs or toys."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "In December the Supreme Court ruled segregation in interstate bus terminals illegal.",
+      "items": [
+        {
+          "id": "world.1960.everyday.getting-around.boynton",
+          "kind": "fact",
+          "title": "Boynton v. Virginia",
+          "summary": "On 5 December 1960 the Supreme Court ruled in Boynton v. Virginia that segregation in public transit was illegal.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-12-05",
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns racial segregation."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1960 fares, journey times or air travel figures; the vehicle count is under The year in numbers."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1960 postage, telephone or television figures."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "The first birth-control pill was approved in May.",
+      "items": [
+        {
+          "id": "world.1960.everyday.health-and-medicine.enovid",
+          "kind": "fact",
+          "title": "The pill is approved",
+          "summary": "On 9 May 1960 the FDA announced approval of Searle's Enovid for contraception, the first oral contraceptive pill.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-05-09",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1960 doctor fees, hospital costs or vaccination figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Evenings were for television, and for the debate that put two candidates in living rooms.",
+      "items": [
+        {
+          "id": "world.1960.everyday.leisure-and-fun.debate",
+          "kind": "fact",
+          "title": "The first televised debate",
+          "summary": "Richard Nixon and John F. Kennedy held the first televised presidential debate on 26 September 1960.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-09-26",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.leisure-and-fun.flintstones",
+          "kind": "fact",
+          "title": "The Flintstones",
+          "summary": "The Flintstones aired its first episode on ABC on 30 September 1960.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-09-30",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.leisure-and-fun.oz-rerun",
+          "kind": "fact",
+          "title": "The annual Wizard of Oz",
+          "summary": "CBS reran The Wizard of Oz on 11 December 1960, a year after its previous telecast, starting the tradition of annual showings.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-12-11",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.leisure-and-fun.psycho",
+          "kind": "fact",
+          "title": "A trip to see Psycho",
+          "summary": "Alfred Hitchcock's Psycho was released on 16 June 1960 and Ben-Hur won eleven Academy Awards that April.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-06-16",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.leisure-and-fun.world-series",
+          "kind": "fact",
+          "title": "A walk-off in the World Series",
+          "summary": "The Pittsburgh Pirates beat the New York Yankees in Game 7 of the World Series on 13 October 1960 on Bill Mazeroski's home run.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1960-10-13",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Suburbs, TV dinners and the family car",
+      "standfirst": "Americans were eating supper from foil trays in front of the television, driving 74 million vehicles, and leaving the big cities' centres.",
+      "items": [
+        {
+          "id": "world.1960.everyday.spotlight.tv-dinner",
+          "kind": "fact",
+          "title": "The TV dinner",
+          "summary": "Swanson's TV dinner, developed in 1953 and first sold for 98 cents, was a turkey, cornbread-stuffing, peas and sweet-potato meal with each food in its own compartment.",
+          "sources": [
+            {
+              "label": "Wikipedia: TV dinner",
+              "url": "https://en.wikipedia.org/wiki/TV_dinner",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1953",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1960.everyday.spotlight.cities-shrink",
+          "kind": "stat",
+          "title": "Big cities lose people",
+          "summary": "Between the 1960 and 1970 censuses Detroit fell from 1,670,144 to 1,511,482, Cleveland from 876,050 to 750,903, Chicago from 3,550,404 to 3,366,957 and New York from 8,175,133 to 7,894,862.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 1960",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1960.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 1970",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1970.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Population of Detroit",
+          "value": "1,670,144 (1960); 1,511,482 (1970)",
+          "unit": "people",
+          "asOf": "1960",
+          "checked": "2026-10-18"
+        }
+      ]
+    }
+  }
+}

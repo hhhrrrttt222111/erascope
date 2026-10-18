@@ -8,9 +8,9 @@
  */
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import { summarize, validateCollection, validateCountry, validateEra, validateDeepDive, validateIndiaPrices, validateOverlay, validateReport, validateThreads } from "../src/data/validate.ts";
+import { summarize, validateCollection, validateCountry, validateEra, validateDeepDive, validateEveryday, validateIndiaPrices, validateOverlay, validateReport, validateThreads } from "../src/data/validate.ts";
 import { resolveEra } from "../src/data/resolve.ts";
-import type { CountryEra, DeepDive, DeepDiveThread, Era, EraBase, FactCheckRow } from "../src/data/types.ts";
+import type { CountryEra, DeepDive, DeepDiveThread, Era, EraBase, Everyday, FactCheckRow } from "../src/data/types.ts";
 
 const dataDir = join(import.meta.dirname, "..", "src", "data");
 const errors: string[] = [];
@@ -123,6 +123,39 @@ for (const dir of countryIds) {
   if (existsSync(threadsPath)) errors.push(...validateThreads((readJson(threadsPath).threads ?? []) as DeepDiveThread[], knownIds));
 }
 
+// ---- Everyday sections: every enabled country needs one file per year
+const everydayByCountry = new Map<string, Everyday[]>();
+for (const dir of countryIds) {
+  const files = new Map<number, Everyday>();
+  const evDir = join(countriesDir, dir, "everyday");
+  for (const f of jsonFiles(evDir)) {
+    try {
+      const ev = readJson(join(evDir, f)) as Everyday;
+      if (String(ev.year) !== f.replace(".json", "")) errors.push(`${dir}/everyday/${f}: year does not match the file name`);
+      if (ev.country !== dir) errors.push(`${dir}/everyday/${f}: country must be "${dir}"`);
+      files.set(ev.year, ev);
+    } catch (e) {
+      errors.push(`${dir}/everyday/${f}: invalid JSON (${(e as Error).message})`);
+    }
+  }
+  if (!existsSync(evDir)) errors.push(`${dir}: everyday/ folder is missing`);
+  everydayByCountry.set(dir, [...files.values()]);
+  for (const y of bases.keys()) if (!files.has(y)) errors.push(`${dir}/everyday: missing ${y}.json`);
+}
+{
+  const reportIds = new Set(reportRows.map((r) => r.id));
+  for (const dir of countryIds) {
+    const evs = everydayByCountry.get(dir) ?? [];
+    // relatedIds may point at era items, deep-dive items or any everyday item of the same country.
+    const knownIds = new Set<string>();
+    for (const era of byCountry.get(dir) ?? []) for (const list of [era.morningRoutine, era.places, era.prices, era.technology, era.futureVisions, era.headlines]) for (const it of list) knownIds.add(it.id);
+    for (const ev of evs) for (const s of Object.values(ev.sections ?? {})) for (const it of s.items) knownIds.add(it.id);
+    const ddDir = join(countriesDir, dir, "deepdive");
+    for (const f of jsonFiles(ddDir).filter((f) => /^\d{4}\.json$/.test(f))) for (const sec of Object.values((readJson(join(ddDir, f)) as DeepDive).sections)) for (const it of sec.items) knownIds.add(it.id);
+    const ids = new Set<string>();
+    for (const ev of evs) errors.push(...validateEveryday(`${dir}/everyday/${ev.year}.json`, ev, { base: bases.get(ev.year), reportIds, knownIds }, ids));
+  }
+}
 // ---- fact-check report
 const reportPath = join(import.meta.dirname, "..", "docs", "fact-check.json");
 if (!existsSync(reportPath)) errors.push("docs/fact-check.json is missing (see docs/RESEARCH.md)");

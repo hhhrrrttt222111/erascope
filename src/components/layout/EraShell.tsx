@@ -6,7 +6,17 @@ import Sell from "@mui/icons-material/Sell";
 import Devices from "@mui/icons-material/Devices";
 import Visibility from "@mui/icons-material/Visibility";
 import Feed from "@mui/icons-material/Feed";
-import { lazy, Suspense, useMemo, type ComponentType, type CSSProperties, type LazyExoticComponent, type ReactNode } from "react";
+import Restaurant from "@mui/icons-material/Restaurant";
+import Checkroom from "@mui/icons-material/Checkroom";
+import Work from "@mui/icons-material/Work";
+import School from "@mui/icons-material/School";
+import MedicalServices from "@mui/icons-material/MedicalServices";
+import DirectionsTransit from "@mui/icons-material/DirectionsTransit";
+import Mail from "@mui/icons-material/Mail";
+import Celebration from "@mui/icons-material/Celebration";
+import BarChart from "@mui/icons-material/BarChart";
+import Star from "@mui/icons-material/Star";
+import { lazy, Suspense, useEffect, useMemo, type ComponentType, type CSSProperties, type LazyExoticComponent, type ReactNode } from "react";
 import { eraByYear, eras, hasDeepDive, type EraId } from "../../data";
 import { useEraContext, useShellEra } from "../../context/EraContext";
 import { useReducedMotion } from "../../hooks/useReducedMotion";
@@ -24,7 +34,11 @@ import { PlacesGallery } from "../sections/PlacesGallery";
 import { PriceBoard } from "../sections/PriceBoard";
 import { TechShelf } from "../sections/TechShelf";
 import { FutureVisions } from "../sections/FutureVisions";
-import type { ChromeProps, ShellSection } from "./shared";
+import { EverydaySection, SpotlightTeaser } from "../sections/EverydaySection";
+import { Defer } from "../common/Defer";
+import { EVERYDAY_SECTIONS, PAGE_GROUPS, sectionSlug } from "../../data/pageLayout";
+import type { EverydaySectionId } from "../../data/types";
+import { scrollToSection, type ChromeProps, type ShellSection } from "./shared";
 
 type ChromeModule = { default: ComponentType<ChromeProps> };
 
@@ -75,21 +89,49 @@ function Noted({ k, children }: { k: NoteKey; children: ReactNode }) {
   );
 }
 
-const SECTIONS: ShellSection[] = [
-  { id: "morning", title: "Morning Routine", Icon: WbSunny, node: <Noted k="morningRoutine"><MorningRoutine /></Noted> },
-  { id: "headlines", title: "Headlines", Icon: Feed, node: <Noted k="headlines"><Headlines /></Noted> },
-  { id: "places", title: "Places", Icon: Place, node: <Noted k="places"><PlacesGallery /></Noted> },
-  { id: "prices", title: "Prices", Icon: Sell, node: <Noted k="prices"><PriceBoard /></Noted> },
-  { id: "tech", title: "Technology", Icon: Devices, node: <Noted k="technology"><TechShelf /></Noted> },
-  { id: "futures", title: "Imagined Futures", Icon: Visibility, node: <Noted k="futureVisions"><FutureVisions /></Noted> },
-];
+const CORE: Record<string, Omit<ShellSection, "id" | "node"> & { node: ReactNode }> = {
+  morning: { title: "Morning Routine", Icon: WbSunny, node: <Noted k="morningRoutine"><MorningRoutine /></Noted> },
+  headlines: { title: "Headlines", Icon: Feed, node: <Noted k="headlines"><Headlines /></Noted> },
+  places: { title: "Places", Icon: Place, node: <Noted k="places"><PlacesGallery /></Noted> },
+  prices: { title: "Prices", Icon: Sell, node: <Noted k="prices"><PriceBoard /></Noted> },
+  tech: { title: "Technology", Icon: Devices, node: <Noted k="technology"><TechShelf /></Noted> },
+  futures: { title: "Imagined Futures", Icon: Visibility, node: <Noted k="futureVisions"><FutureVisions /></Noted> },
+};
+
+const EVERYDAY_ICONS: Record<EverydaySectionId, ShellSection["Icon"]> = {
+  byTheNumbers: BarChart, foodAndKitchen: Restaurant, clothingAndStyle: Checkroom, workAndWages: Work, schoolAndChildhood: School,
+  gettingAround: DirectionsTransit, keepingInTouch: Mail, healthAndMedicine: MedicalServices, leisureAndFun: Celebration, spotlight: Star,
+};
+
+/** Page order comes from data/pageLayout.ts. The first group of each group gets its heading; later groups load as they near the viewport. */
+function buildSections(anchor: string | null): ShellSection[] {
+  return PAGE_GROUPS.flatMap((group, gi) =>
+    group.sections.map((id, si) => {
+      const base = CORE[id] ?? { title: EVERYDAY_SECTIONS[id as EverydaySectionId].title, Icon: EVERYDAY_ICONS[id as EverydaySectionId], node: <EverydaySection id={id as EverydaySectionId} /> };
+      const node = (
+        <Defer eager={gi === 0 || anchor === sectionSlug(id)}>
+          {si === 0 && <Typography component="p" variant="overline" sx={{ display: "block", mb: 1, letterSpacing: "0.12em", fontWeight: 700 }}>{group.title}</Typography>}
+          {base.node}
+        </Defer>
+      );
+      return { id, title: base.title, Icon: base.Icon, node };
+    }),
+  );
+}
 
 /**
  * Renders one era: its theme, its chrome and the shared sections. The year is a
  * prop (not read from context) so a shell that is animating out keeps its own look.
  */
 export function EraShell({ year }: { year: EraId }) {
-  const { eraFor, displayCountry, overlayFor, deepDive } = useEraContext();
+  const { eraFor, displayCountry, overlayFor, deepDive, anchor } = useEraContext();
+  const sections = useMemo(() => buildSections(anchor), [anchor]);
+  // Deep link #/in/1945/food-and-kitchen: wait a moment for the chrome and the section to mount, then scroll.
+  useEffect(() => {
+    if (!anchor) return;
+    const t = window.setTimeout(() => scrollToSection(PAGE_GROUPS.flatMap((g) => g.sections).find((id) => sectionSlug(id) === anchor) ?? ""), 600);
+    return () => window.clearTimeout(t);
+  }, [anchor, year]);
   const reduced = useReducedMotion();
   // Looks come from the shared base (identical for every country); only the content differs.
   const era = eraFor(year);
@@ -113,7 +155,8 @@ export function EraShell({ year }: { year: EraId }) {
             <CountryBand />
             {/* The era page stays mounted underneath; make it unreachable by keyboard and screen readers while covered. */}
             <div {...(deepDive && hasDeepDive(displayCountry) ? ({ inert: "" } as Record<string, string>) : {})}>
-              <Chrome sections={SECTIONS} />
+              <SpotlightTeaser onJump={() => scrollToSection("spotlight")} />
+              <Chrome sections={sections} />
             </div>
             {deepDive && hasDeepDive(displayCountry) && (
               <Suspense fallback={null}>

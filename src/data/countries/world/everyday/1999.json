@@ -1,0 +1,495 @@
+{
+  "country": "world",
+  "year": 1999,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "More than a third of Americans were online, and three in ten had a mobile phone.",
+      "items": [
+        {
+          "id": "world.1999.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The United States had about 279 million people in 1999.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "U.S. population (mid-year estimate)",
+          "value": "about 279 million",
+          "unit": "people",
+          "asOf": "1999",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A baby born in 1999 could expect to live about 76.6 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "76.6",
+          "unit": "years",
+          "asOf": "1999",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 36 percent of Americans used the internet in 1999.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "35.8",
+          "unit": "percent of the population",
+          "asOf": "1999",
+          "todo": true
+        },
+        {
+          "id": "world.1999.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 31 mobile subscriptions for every 100 people.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "30.8",
+          "unit": "per 100 people",
+          "asOf": "1999",
+          "todo": true
+        },
+        {
+          "id": "world.1999.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 7 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Infant mortality",
+          "value": "7.2",
+          "unit": "per 1,000 live births",
+          "asOf": "1999",
+          "todo": true
+        },
+        {
+          "id": "world.1999.everyday.by-the-numbers.unemployment",
+          "kind": "stat",
+          "title": "Out of work",
+          "summary": "The unemployment rate fell to 4 percent in December 1999, its lowest since January 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Unemployment rate",
+          "value": "4",
+          "unit": "percent",
+          "asOf": "1999-12",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy, household size and vehicle counts were not found for 1999 from a source we opened. There was no census; population figures are mid-year estimates."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1999 food prices, appliance counts or meals."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Sportswear and cargo pants had gone from the gym and the street into everyday dress.",
+      "items": [
+        {
+          "id": "world.1999.everyday.clothing-and-style.sportswear",
+          "kind": "fact",
+          "title": "Sportswear in public",
+          "summary": "Sportswear became acceptable in public over the mid- to late 1990s, partly through its association with rappers.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.clothing-and-style.cargo",
+          "kind": "fact",
+          "title": "Cargo pants",
+          "summary": "Khaki cargo pants were among hip-hop-influenced sportswear of the mid- to late 1990s.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.clothing-and-style.relaxed-work",
+          "kind": "fact",
+          "title": "A relaxed office",
+          "summary": "By 1996 professional women in America wore more relaxed styles and muted colours.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1990s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1990s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1996",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "The fashion pages we opened date most late-1990s trends only to the mid-to-late decade."
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1999 wage, hours or minimum-wage figures: the earnings table we opened ends in 1995."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "",
+      "items": [
+        {
+          "id": "world.1999.everyday.school-and-childhood.columbine",
+          "kind": "fact",
+          "title": "Columbine",
+          "summary": "On 20 April 1999 two students killed 12 students and a teacher at Columbine High School in Littleton, Colorado, the deadliest high-school shooting in the United States at the time.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-04-20",
+          "place": "Littleton, Colorado",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes a school shooting and loss of life."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1999 school-year or enrolment figures."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The last Checker cab retired in New York.",
+      "items": [
+        {
+          "id": "world.1999.everyday.getting-around.checker",
+          "kind": "fact",
+          "title": "The last Checker taxi",
+          "summary": "The last Checker taxi was retired in New York City on 26 July 1999 and auctioned for about $135,000.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-07-26",
+          "place": "New York City",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1999 fares, journey times or vehicle counts."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "Music files and instant messages moved across the internet.",
+      "items": [
+        {
+          "id": "world.1999.everyday.keeping-in-touch.napster",
+          "kind": "fact",
+          "title": "Napster",
+          "summary": "Napster launched in June 1999 as a peer-to-peer service for sharing MP3 files, and the record industry sued it in December 1999.",
+          "sources": [
+            {
+              "label": "Wikipedia: Napster",
+              "url": "https://en.wikipedia.org/wiki/Napster",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-06",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.keeping-in-touch.msn-messenger",
+          "kind": "fact",
+          "title": "MSN Messenger",
+          "summary": "The first version of MSN Messenger was released on 22 July 1999.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-07-22",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1999 postage, long-distance or answering-machine figures."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 1999 doctor fees, hospital costs or vaccination figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "New cartoons on television, a film in which reality was a program, and a Women's World Cup final decided on penalties.",
+      "items": [
+        {
+          "id": "world.1999.everyday.leisure-and-fun.cartoons",
+          "kind": "fact",
+          "title": "New cartoons",
+          "summary": "Family Guy debuted on Fox on 31 January 1999, Futurama on 28 March and SpongeBob SquarePants on Nickelodeon on 1 May.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.leisure-and-fun.matrix",
+          "kind": "fact",
+          "title": "The Matrix",
+          "summary": "The Matrix was released on 31 March 1999, followed by Tarzan on 18 June and Toy Story 2 on 24 November.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-03-31",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.leisure-and-fun.world-cup",
+          "kind": "fact",
+          "title": "The Women's World Cup",
+          "summary": "Brandi Chastain scored the winning penalty kick for the United States in the Women's World Cup on 10 July 1999.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-07-10",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.leisure-and-fun.dreamcast",
+          "kind": "fact",
+          "title": "Dreamcast",
+          "summary": "Sega introduced the Dreamcast console in the United States on 9 September 1999.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-09-09",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.leisure-and-fun.yankees",
+          "kind": "fact",
+          "title": "A Yankees sweep",
+          "summary": "The New York Yankees swept the Atlanta Braves to win the World Series on 27 October 1999.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-10-27",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Y2K and the millennium",
+      "standfirst": "Programs that stored years as two digits might read 2000 as 1900, and by the end of 1999 governments, firms and some households were preparing for it.",
+      "items": [
+        {
+          "id": "world.1999.everyday.spotlight.the-problem",
+          "kind": "fact",
+          "title": "Two digits for the year",
+          "summary": "Many programs stored years as two digits to save memory, so 2000 risked being read as 1900 and machines might fail or give wrong results.",
+          "sources": [
+            {
+              "label": "Wikipedia: Year 2000 problem",
+              "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.spotlight.us-preparation",
+          "kind": "fact",
+          "title": "Preparing the country",
+          "summary": "President Clinton signed the Year 2000 Information and Readiness Disclosure Act on 19 October 1998, and the President's Council on Year 2000 Conversion, headed by John Koskinen, coordinated the federal effort.",
+          "sources": [
+            {
+              "label": "Wikipedia: Year 2000 problem",
+              "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1998-10-19",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.spotlight.cost",
+          "kind": "fact",
+          "title": "What it cost",
+          "summary": "IDC estimated about $134 billion for Y2K preparation in the United States and another $13 billion for fixes in 2000 and 2001; the page puts the worldwide cost at about $308 billion.",
+          "sources": [
+            {
+              "label": "Wikipedia: Year 2000 problem",
+              "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
+        },
+        {
+          "id": "world.1999.everyday.spotlight.stockpiling",
+          "kind": "fact",
+          "title": "Stockpiles and cash",
+          "summary": "Some people stockpiled food and water, bought generators and withdrew large sums of cash, and survivalist businesses expected more sales in late 1999, a trend called the Y2K scare.",
+          "sources": [
+            {
+              "label": "Wikipedia: Year 2000 problem",
+              "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.spotlight.belvoir",
+          "kind": "fact",
+          "title": "A last-minute glitch",
+          "summary": "On 31 December 1999 the Fort Belvoir ground station crashed after a patch, interrupting five spy satellites.",
+          "sources": [
+            {
+              "label": "Wikipedia: Year 2000 problem",
+              "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1999-12-31",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1999.everyday.spotlight.rollover",
+          "kind": "fact",
+          "title": "The rollover",
+          "summary": "On 1 January 2000 few major failures occurred and those reported were minor, such as taxi meters in Singapore and Sweden and 150 slot machines at the Delaware Lottery.",
+          "sources": [
+            {
+              "label": "Wikipedia: Year 2000 problem",
+              "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2000-01-01",
+          "checked": "2026-10-18"
+        }
+      ]
+    }
+  }
+}

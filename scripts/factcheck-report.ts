@@ -17,9 +17,10 @@ const show = (v: unknown) => (typeof v === "string" ? v : JSON.stringify(v));
 const esc = (s: string) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
 const src = (s: Source) => (s.url ? `[${esc(s.label)}](${s.url})` : esc(s.label)) + ` (${s.quality ?? "unrated"}, ${s.accessed ?? "undated"})`;
 
-const groupOf = (r: FactCheckRow) => String(r.country ?? "site");
+// Deep-dive and everyday claims get their own group under each country.
+const groupOf = (r: FactCheckRow) => String(r.country ?? "site") + (r.id.includes(".everyday.") ? "/everyday" : r.id.includes(".dd.") ? "/dd" : "");
 const groups = [...new Set(rows.map(groupOf))].sort((a, b) => (a === "site" ? 1 : b === "site" ? -1 : a.localeCompare(b)));
-const NAMES: Record<string, string> = { world: "World (original, US-centred)", in: "India", site: "Site-wide (components, credits)" };
+const NAMES: Record<string, string> = { "world/everyday": "World · Everyday", "in/everyday": "India · Everyday", "in/dd": "India · Deep dive", world: "World (original, US-centred)", in: "India", site: "Site-wide (components, credits)" };
 
 const out: string[] = [];
 out.push("# Fact-check report", "");

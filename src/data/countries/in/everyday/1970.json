@@ -1,0 +1,714 @@
+{
+  "country": "in",
+  "year": 1970,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "The census of 1971 counted 548 million people, and fewer than one in three of them could read.",
+      "items": [
+        {
+          "id": "in.1970.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "India's population was about 546 million in 1970; the census of March 1971 counted 547.9 million.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Wikipedia: 1971 Census of India",
+              "url": "https://en.wikipedia.org/wiki/1971_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "545,864,268",
+          "unit": "people",
+          "asOf": "1970",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1970.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A newborn in 1970 could expect to live about 49 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "48.6",
+          "unit": "years",
+          "asOf": "1970",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1970.everyday.by-the-numbers.literacy",
+          "kind": "stat",
+          "title": "Who could read",
+          "summary": "At the 1971 census 29 to 34 percent of people could read and write, 39 to 46 percent of men and 19 to 22 percent of women.",
+          "sources": [
+            {
+              "label": "Wikipedia: Literacy in India",
+              "url": "https://en.wikipedia.org/wiki/Literacy_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2011 Census of India",
+              "url": "https://en.wikipedia.org/wiki/2011_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Literacy rate (census 1971)",
+          "value": "29.5 to 34.5",
+          "unit": "percent",
+          "asOf": "1971",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1970.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and village",
+          "summary": "About 20 percent of Indians lived in towns and cities.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Urban population (% of total)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Urban share of the population",
+          "value": "19.7",
+          "unit": "percent",
+          "asOf": "1970",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 135 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns the deaths of infants."
+          },
+          "metric": "Infant mortality",
+          "value": "134.8",
+          "unit": "per 1,000 live births",
+          "asOf": "1970",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.by-the-numbers.fertility",
+          "kind": "stat",
+          "title": "Births per woman",
+          "summary": "The fertility rate was 5.6 births per woman.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Fertility rate, total (births per woman)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Total fertility rate",
+          "value": "5.62",
+          "unit": "births per woman",
+          "asOf": "1970",
+          "todo": true
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Operation Flood, launched in January 1970, set out to build a national milk grid based on village cooperatives like Amul.",
+      "items": [
+        {
+          "id": "in.1970.everyday.food-and-kitchen.operation-flood",
+          "kind": "fact",
+          "title": "The white revolution",
+          "summary": "A national dairy programme launched in January 1970 set out to build a milk grid based on village cooperatives like Amul.",
+          "sources": [
+            {
+              "label": "Wikipedia: Operation Flood",
+              "url": "https://en.wikipedia.org/wiki/Operation_Flood",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.food-and-kitchen.fair-price-shops",
+          "kind": "fact",
+          "title": "Fair price shops",
+          "summary": "Ration shops sold wheat, rice, sugar and kerosene at controlled prices to families with ration cards.",
+          "sources": [
+            {
+              "label": "Wikipedia: Public distribution system",
+              "url": "https://en.wikipedia.org/wiki/Public_distribution_system",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.food-and-kitchen.pressure-cooker",
+          "kind": "fact",
+          "title": "The pressure cooker",
+          "summary": "The pressure cooker, made in India since the late 1950s, was becoming a common kitchen item in cities.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hawkins Cookers",
+              "url": "https://en.wikipedia.org/wiki/Hawkins_Cookers",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.food-and-kitchen.hyv-wheat",
+          "kind": "fact",
+          "title": "New wheat",
+          "summary": "High-yielding wheat varieties from the Green Revolution made wheat more plentiful in Punjab and Haryana.",
+          "sources": [
+            {
+              "label": "Wikipedia: Green Revolution in India",
+              "url": "https://en.wikipedia.org/wiki/Green_Revolution_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Film stars popularised bell-bottom trousers and wide collars among young urban men.",
+      "items": [
+        {
+          "id": "in.1970.everyday.clothing-and-style.bell-bottoms",
+          "kind": "fact",
+          "title": "Bell-bottoms",
+          "summary": "Film stars popularised bell-bottom trousers and wide collars among young urban men.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bell-bottoms",
+              "url": "https://en.wikipedia.org/wiki/Bell-bottoms",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.clothing-and-style.polyester",
+          "kind": "fact",
+          "title": "Polyester",
+          "summary": "Polyester and terrycot fabrics were fashionable because they were crease-free and cheap to maintain.",
+          "sources": [
+            {
+              "label": "Wikipedia: Polyester",
+              "url": "https://en.wikipedia.org/wiki/Polyester",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.clothing-and-style.kolhapuri",
+          "kind": "fact",
+          "title": "Kolhapuri chappals",
+          "summary": "Kolhapuri leather chappals were the usual footwear for men and women.",
+          "sources": [
+            {
+              "label": "Wikipedia: Kolhapuri chappal",
+              "url": "https://en.wikipedia.org/wiki/Kolhapuri_chappal",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "The government nationalised 14 major banks in July 1969, and banks opened branches in smaller towns and hired in large numbers.",
+      "items": [
+        {
+          "id": "in.1970.everyday.work-and-wages.bank-nationalisation",
+          "kind": "fact",
+          "title": "Bank nationalisation",
+          "summary": "The government nationalised 14 major banks in July 1969, and banks opened branches in smaller towns and hired in large numbers.",
+          "sources": [
+            {
+              "label": "Wikipedia: Nationalisation of banks in India",
+              "url": "https://en.wikipedia.org/wiki/Nationalisation_of_banks_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.work-and-wages.hmt-watches",
+          "kind": "fact",
+          "title": "HMT watches",
+          "summary": "HMT, a public-sector company, started making wrist watches in 1961 and gave factory jobs to thousands.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hindustan Machine Tools",
+              "url": "https://en.wikipedia.org/wiki/Hindustan_Machine_Tools",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.work-and-wages.license-raj",
+          "kind": "fact",
+          "title": "The licence raj",
+          "summary": "Private firms needed government licences to expand or import, which made government and public-sector jobs prized.",
+          "sources": [
+            {
+              "label": "Wikipedia: License Raj",
+              "url": "https://en.wikipedia.org/wiki/License_Raj",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "The National Policy on Education 1968 backed the three-language formula and following the Kothari Commission's 10+2+3 pattern.",
+      "items": [
+        {
+          "id": "in.1970.everyday.school-and-childhood.npe-1968",
+          "kind": "fact",
+          "title": "The 1968 education policy",
+          "summary": "The National Policy on Education 1968 backed the three-language formula and following the Kothari Commission's 10+2+3 pattern.",
+          "sources": [
+            {
+              "label": "Wikipedia: National Policy on Education",
+              "url": "https://en.wikipedia.org/wiki/National_Policy_on_Education",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.school-and-childhood.literacy-1971",
+          "kind": "fact",
+          "title": "Literacy in 1971",
+          "summary": "The 1971 census recorded a literacy rate of about 34 percent.",
+          "sources": [
+            {
+              "label": "Wikipedia: Literacy in India",
+              "url": "https://en.wikipedia.org/wiki/Literacy_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.school-and-childhood.slate-chalk",
+          "kind": "fact",
+          "title": "Slate and chalk",
+          "summary": "In many village primary schools children sat on mats and wrote on slates.",
+          "sources": [
+            {
+              "label": "Wikipedia: Education in India",
+              "url": "https://en.wikipedia.org/wiki/Education_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "A scooter was something to wait years for.",
+      "items": [
+        {
+          "id": "in.1970.everyday.getting-around.scooter-waiting",
+          "kind": "fact",
+          "title": "Waiting for a scooter",
+          "summary": "Official estimates in Delhi put the wait for a Vespa at about 5 years in 1963 and 11 years in 1966; by March 1970 pending bookings were reported at 176,933 for Vespa and Bajaj scooters and 84,883 for Lambrettas, and Parliament was told in 1973 that the waiting period was still long.",
+          "sources": [
+            {
+              "label": "Lok Sabha: written answer on scooters, 8 March 1973",
+              "url": "https://eparlib.nic.in/bitstream/123456789/2140696/1/05_VII_08-03-1973_p60_p60_u2450.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Open Magazine: Rahul Bajaj (1938-2022), Scooter Man",
+              "url": "https://openthemagazine.com/feature/rahul-bajaj-1938-2022-scooter-man",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "place": "Delhi",
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.getting-around.bajaj-100k",
+          "kind": "fact",
+          "title": "Bajaj's 100,000th vehicle",
+          "summary": "Bajaj Auto rolled out its 100,000th vehicle in 1970.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1970 in India",
+              "url": "https://en.wikipedia.org/wiki/1970_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1970 railway or bus fares or journey times."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "Long-distance calls were booked through an operator, and callers waited for hours for a line.",
+      "items": [
+        {
+          "id": "in.1970.everyday.keeping-in-touch.trunk-call",
+          "kind": "fact",
+          "title": "Booking a trunk call",
+          "summary": "Long-distance calls were booked through an operator, and callers waited for hours for a line.",
+          "sources": [
+            {
+              "label": "Wikipedia: Telecommunications in India",
+              "url": "https://en.wikipedia.org/wiki/Telecommunications_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.keeping-in-touch.transistor",
+          "kind": "fact",
+          "title": "The transistor radio",
+          "summary": "Cheap transistor radios let villagers hear All India Radio and Vividh Bharati.",
+          "sources": [
+            {
+              "label": "Wikipedia: Vividh Bharati",
+              "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.keeping-in-touch.doordarshan-delhi",
+          "kind": "fact",
+          "title": "Television in Delhi",
+          "summary": "Doordarshan broadcast from Delhi, and few people outside the capital had seen a television.",
+          "sources": [
+            {
+              "label": "Wikipedia: Doordarshan",
+              "url": "https://en.wikipedia.org/wiki/Doordarshan",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        }
+      ]
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "India ran a national campaign against smallpox, and was declared free of it in 1977.",
+      "items": [
+        {
+          "id": "in.1970.everyday.health-and-medicine.smallpox-programme",
+          "kind": "fact",
+          "title": "The smallpox programme",
+          "summary": "India ran a national campaign against smallpox, and was declared free of it in 1977.",
+          "sources": [
+            {
+              "label": "Wikipedia: Smallpox eradication in India",
+              "url": "https://en.wikipedia.org/wiki/Smallpox_eradication_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.health-and-medicine.family-planning",
+          "kind": "fact",
+          "title": "Family planning",
+          "summary": "The red triangle became the symbol of the family planning programme, with the slogan 'Hum do, hamare do'.",
+          "sources": [
+            {
+              "label": "Wikipedia: Family planning in India",
+              "url": "https://en.wikipedia.org/wiki/Family_planning_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.health-and-medicine.malaria-programme",
+          "kind": "fact",
+          "title": "Malaria control",
+          "summary": "The National Malaria Eradication Programme, begun in 1958, sent spray teams into homes.",
+          "sources": [
+            {
+              "label": "Wikipedia: National Malaria Eradication Programme",
+              "url": "https://en.wikipedia.org/wiki/National_Malaria_Eradication_Programme",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Aradhana (1969) made Rajesh Khanna a star, and film songs by Kishore Kumar were on every radio.",
+      "items": [
+        {
+          "id": "in.1970.everyday.leisure-and-fun.aradhana",
+          "kind": "fact",
+          "title": "Rajesh Khanna's years",
+          "summary": "Aradhana (1969) made Rajesh Khanna a star, and film songs by Kishore Kumar were on every radio.",
+          "sources": [
+            {
+              "label": "Wikipedia: Aradhana (1969 film)",
+              "url": "https://en.wikipedia.org/wiki/Aradhana_(1969_film)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.leisure-and-fun.hockey-mexico",
+          "kind": "fact",
+          "title": "Hockey at Mexico",
+          "summary": "India won the bronze medal in hockey at the 1968 Olympics.",
+          "sources": [
+            {
+              "label": "Wikipedia: India men's national field hockey team",
+              "url": "https://en.wikipedia.org/wiki/India_men's_national_field_hockey_team",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.leisure-and-fun.durga-puja",
+          "kind": "fact",
+          "title": "Pujas and fairs",
+          "summary": "Festivals such as Durga Puja, Diwali and Eid filled the year with neighbourhood events.",
+          "sources": [
+            {
+              "label": "Wikipedia: Durga Puja",
+              "url": "https://en.wikipedia.org/wiki/Durga_Puja",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "The Green Revolution on the farm",
+      "standfirst": "After two droughts, new short-strawed wheat from Mexico and heavy use of fertiliser and irrigation raised India's foodgrain output by about a fifth between 1964-65 and 1970-71.",
+      "items": [
+        {
+          "id": "in.1970.everyday.spotlight.foodgrain-output",
+          "kind": "stat",
+          "title": "More grain",
+          "summary": "Foodgrain production rose from 89 million tonnes in 1964-65 to almost 108 million tonnes in 1970-71.",
+          "sources": [
+            {
+              "label": "CIA Reading Room: India's foodgrain situation, progress and problems",
+              "url": "https://www.cia.gov/readingroom/node/925903",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Foodgrain production",
+          "value": "almost 108 million",
+          "unit": "tonnes",
+          "asOf": "1970-71",
+          "todo": true
+        },
+        {
+          "id": "in.1970.everyday.spotlight.wheat-output",
+          "kind": "stat",
+          "title": "Wheat before and after",
+          "summary": "Wheat output was about 12.3 million tonnes in 1965 (11.4 million in 1966-67) and about 26.4 million tonnes by 1971-72, while yield per hectare rose to 1,380 kg from 663 in 1950-51.",
+          "sources": [
+            {
+              "label": "Review of Agrarian Studies (RAS): An eminent scientist and a great humanist",
+              "url": "https://ras.org.in/articles/319/text/article.html",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "The Wire: Green Revolution, Borlaug and food security",
+              "url": "https://thewire.in/agriculture/green-revolution-borlaug-food-security",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Wheat production",
+          "value": "about 12 million (1965-66) to 26 million (1971-72)",
+          "unit": "tonnes",
+          "asOf": "1965-1972",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1970.everyday.spotlight.droughts",
+          "kind": "fact",
+          "title": "Two failed monsoons",
+          "summary": "Droughts in 1964-65 and 1965-66 caused food shortages, which pushed the adoption of new seed and fertiliser.",
+          "sources": [
+            {
+              "label": "Wikipedia: Green Revolution in India",
+              "url": "https://en.wikipedia.org/wiki/Green_Revolution_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1970.everyday.spotlight.seeds",
+          "kind": "fact",
+          "title": "New wheat",
+          "summary": "High-yielding, rust-resistant wheat varieties such as Kalyan Sona and Sonalika, bred by cross-breeding, were at the centre of the change, with the main gains in Punjab, Haryana and western Uttar Pradesh.",
+          "sources": [
+            {
+              "label": "Wikipedia: Green Revolution in India",
+              "url": "https://en.wikipedia.org/wiki/Green_Revolution_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1970.everyday.spotlight.wheat-first",
+          "kind": "fact",
+          "title": "Mostly wheat",
+          "summary": "The Green Revolution first provided more wheat; rice gains followed separately, and it depended heavily on irrigation.",
+          "sources": [
+            {
+              "label": "The Wire: Green Revolution, Borlaug and food security",
+              "url": "https://thewire.in/agriculture/green-revolution-borlaug-food-security",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "CIA Reading Room: India's foodgrain situation, progress and problems",
+              "url": "https://www.cia.gov/readingroom/node/925903",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1970.everyday.spotlight.punjab-share",
+          "kind": "fact",
+          "title": "Punjab's share",
+          "summary": "By 1970 Punjab was producing 70 percent of the country's food grains and farmers' incomes were reported to be rising by over 70 percent.",
+          "sources": [
+            {
+              "label": "Wikipedia: Green Revolution in India",
+              "url": "https://en.wikipedia.org/wiki/Green_Revolution_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Punjab",
+          "regionTag": "north",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced fertiliser use, seed prices or the area under new varieties in 1970."
+    }
+  }
+}

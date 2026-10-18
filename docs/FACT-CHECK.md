@@ -11,22 +11,2098 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 
 | Era | Claims | Verified | Corrected | Unverifiable | Removed |
 |---|---:|---:|---:|---:|---:|
-| 1900 | 74 | 74 | 0 | 0 | 0 |
-| 1920 | 71 | 71 | 0 | 0 | 0 |
-| 1930 | 67 | 67 | 0 | 0 | 0 |
-| 1945 | 57 | 57 | 0 | 0 | 0 |
-| 1960 | 65 | 64 | 1 | 0 | 0 |
-| 1970 | 66 | 66 | 0 | 0 | 0 |
-| 1984 | 64 | 64 | 0 | 0 | 0 |
-| 1995 | 55 | 55 | 0 | 0 | 0 |
-| 1999 | 56 | 56 | 0 | 0 | 0 |
-| 2005 | 56 | 56 | 0 | 0 | 0 |
-| 2010 | 50 | 50 | 0 | 0 | 0 |
-| 2020 | 47 | 47 | 0 | 0 | 0 |
-| 2050 | 71 | 12 | 0 | 59 | 0 |
-| **Total** | **799** | **739** | **1** | **59** | **0** |
+| 1900 | 23 | 23 | 0 | 0 | 0 |
+| 1920 | 23 | 23 | 0 | 0 | 0 |
+| 1930 | 23 | 23 | 0 | 0 | 0 |
+| 1945 | 17 | 17 | 0 | 0 | 0 |
+| 1960 | 23 | 23 | 0 | 0 | 0 |
+| 1970 | 24 | 24 | 0 | 0 | 0 |
+| 1984 | 22 | 22 | 0 | 0 | 0 |
+| 1995 | 20 | 20 | 0 | 0 | 0 |
+| 1999 | 20 | 20 | 0 | 0 | 0 |
+| 2005 | 21 | 21 | 0 | 0 | 0 |
+| 2010 | 20 | 20 | 0 | 0 | 0 |
+| 2020 | 18 | 18 | 0 | 0 | 0 |
+| 2050 | 27 | 12 | 0 | 15 | 0 |
+| **Total** | **281** | **266** | **0** | **15** | **0** |
 
 ### in · 1900
+
+#### `in.1900.era.tagline` · tagline · verified
+
+> Famine relief, plague vaccine and a railway of 25,400 miles.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: List of presidents of the Indian National Congress](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress) (reference, 2026-10-13)
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
+- **Source:** [Wikipedia: Birsa Munda](https://en.wikipedia.org/wiki/Birsa_Munda) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Waldemar Haffkine](https://en.wikipedia.org/wiki/Waldemar_Haffkine) (reference, 2026-10-13)
+
+#### `in.1900.era.title` · title · verified
+
+> India, 1900
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: List of presidents of the Indian National Congress](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress) (reference, 2026-10-13)
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
+- **Source:** [Wikipedia: Birsa Munda](https://en.wikipedia.org/wiki/Birsa_Munda) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Waldemar Haffkine](https://en.wikipedia.org/wiki/Waldemar_Haffkine) (reference, 2026-10-13)
+
+#### `in.1900.headlines.birsa` · headline · verified
+
+> 1900-06: Birsa Munda led a millenarian movement among the Munda people of the Bengal Presidency (now Jharkhand).
+
+- **Note:** Reuses deep-dive item in.1900.dd.freedom-history.birsa-ulgulan; same source.
+- **Source:** [Wikipedia: Birsa Munda](https://en.wikipedia.org/wiki/Birsa_Munda) (reference, 2026-10-13)
+
+#### `in.1900.headlines.congress-lahore` · headline · verified
+
+> 1900-12: The sixteenth annual session of the Indian National Congress met at Lahore in December 1900 with N.
+
+- **Note:** Reuses deep-dive item in.1900.dd.freedom-history.congress-lahore; same source.
+- **Source:** [Wikipedia: List of presidents of the Indian National Congress](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress) (reference, 2026-10-13)
+
+#### `in.1900.headlines.famine` · headline · verified
+
+> 1900-07: The 1899 monsoon failed over the west and centre of India.
+
+- **Note:** Reuses deep-dive item in.1900.dd.freedom-history.famine-1899-1900; same source.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
+
+#### `in.1900.morning.fuel` · detail · verified
+
+> Cooking fires: For most working families fuel meant sticks and cow-dung; the Gazetteer notes a labourer's hut and scanty clothing cost him little and that food was by far his chief expense.
+
+- **Note:** Paraphrase of footnote on p. 470; one source.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.morning.grain-wages` · detail · verified
+
+> Wages in grain: Many farm labourers were paid wholly or partly in grain, with perhaps a free meal or a cash wage near towns; casual workers might be idle three or four months of the year.
+
+- **Note:** Paraphrase of pp. 467-468.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.morning.money-order` · detail · verified
+
+> A money order from the post office: The post office issued 12,922,465 inland money orders in 1900-01, worth about Rs 26 crore, up from 7.3 million ten years earlier.
+
+- **Note:** Reuses deep-dive item in.1900.dd.technology-science.money-orders.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
+
+#### `in.1900.morning.staple` · detail · verified
+
+> The day's grain: In Bengal and Assam the staple food was rice, the grain whose price the Gazetteer says had risen more than that of any other food-grain since 1873.
+
+- **Note:** Paraphrase of ch. IX pp. 469-470.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.places.bedroom` · description · verified
+
+> The home: The Gazetteer notes that a labouring family's hut and scanty clothing cost very little, and that food was by far the chief expense.
+
+- **Note:** Paraphrase of Imperial Gazetteer vol. III, p. 470 footnote; the illustration is generic.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.places.newspaper` · description · verified
+
+> The front page: The sixteenth annual session of the Indian National Congress met at Lahore in December 1900 with N. (1900-12).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: List of presidents of the Indian National Congress](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress) (reference, 2026-10-13)
+
+#### `in.1900.places.street` · description · verified
+
+> The street: Railways: about 25,400 miles open: The Gazetteer's table of railway mileage open for traffic gives a total of about 25,400 miles for 1901, mostly on the broad (5 ft 6 in) and metre gauges.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
+
+#### `in.1900.prices.grain-index` · price · verified
+
+> All food-grains, price index (1871-5 = 100): 164 (index number, 1896-1900 average)
+
+- **Note:** Same table, last column; 1891-5 was 135.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.prices.gram` · price · verified
+
+> Gram (average, 1896-1900): 13.5 seers per rupee (13.5 seers per rupee)
+
+- **Note:** Same table.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.prices.jowar` · price · verified
+
+> Jowar (average, 1896-1900): 16.5 seers per rupee (16.5 seers per rupee)
+
+- **Note:** Same table.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.prices.rice` · price · verified
+
+> Rice (average, 1896-1900): 11.7 seers per rupee (11.7 seers per rupee (a seer is about 0.93 kg))
+
+- **Note:** Table of quantities sold per rupee, 1896-1900 average; p. 456. The Gazetteer says these were the highest food-grain prices on record.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.prices.rupee-exchange` · price · verified
+
+> Value of a rupee in sterling: about 16 pence (1s 4d) (1s 4d = 16 pence; 15 rupees to the pound)
+
+- **Note:** Reuses deep-dive item in.1900.dd.economy-business.rupee-exchange (two sources there).
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/TheImperialGazetteerOfIndia-Volume04) (primary, 2026-10-13)
+
+#### `in.1900.prices.wheat` · price · verified
+
+> Wheat (average, 1896-1900): 12.1 seers per rupee (12.1 seers per rupee)
+
+- **Note:** Same table.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
+
+#### `in.1900.technology.money-orders` · description · verified
+
+> Inland money orders: The post office issued 12,922,465 inland money orders in 1900-01, worth about Rs 26 crore, up from 7.3 million orders ten years earlier.
+
+- **Note:** Reuses deep-dive item in.1900.dd.technology-science.money-orders; same source.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
+
+#### `in.1900.technology.plague-vaccine` · description · verified
+
+> Haffkine's plague vaccine: Waldemar Haffkine tested his plague vaccine on himself in Bombay in January 1897. By the turn of the century about four million people in India had received it.
+
+- **Note:** Reuses deep-dive item in.1900.dd.technology-science.plague-vaccine; same source.
+- **Source:** [Wikipedia: Waldemar Haffkine](https://en.wikipedia.org/wiki/Waldemar_Haffkine) (reference, 2026-10-13)
+
+#### `in.1900.technology.radio-waves` · description · verified
+
+> Bose's millimetre radio waves: In Calcutta in 1895 Jagadish Chandra Bose rang a bell and fired gunpowder from across a room with millimetre-wavelength waves. In 1900 he presented his research at the International Congress of Physics in Paris.
+
+- **Note:** Reuses deep-dive item in.1900.dd.technology-science.radio-waves; same source.
+- **Source:** [Wikipedia: Jagadish Chandra Bose](https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose) (reference, 2026-10-13)
+
+#### `in.1900.technology.railways` · description · verified
+
+> Railways: about 25,400 miles open: The Gazetteer's table of railway mileage open for traffic gives a total of about 25,400 miles for 1901, mostly on the broad (5 ft 6 in) and metre gauges.
+
+- **Note:** Reuses deep-dive item in.1900.dd.technology-science.railways; same source.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
+
+#### `in.1900.technology.saraswati` · description · verified
+
+> Saraswati, a Hindi monthly: Saraswati, founded in 1900 by Chintamani Ghosh at the Indian Press in Allahabad, is described as the first Hindi monthly magazine of India.
+
+- **Note:** Reuses deep-dive item in.1900.dd.achievements.saraswati-founded; same source.
+- **Source:** [Wikipedia: Saraswati (magazine)](https://en.wikipedia.org/wiki/Saraswati_(magazine)) (reference, 2026-10-13)
+
+### in · 1920
+
+#### `in.1920.era.tagline` · tagline · verified
+
+> Non-co-operation, new national universities and the first all-India labour federation.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Bal Gangadhar Tilak](https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak) (reference, 2026-10-13)
+- **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
+
+#### `in.1920.era.title` · title · verified
+
+> India, 1920
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Bal Gangadhar Tilak](https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak) (reference, 2026-10-13)
+- **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
+
+#### `in.1920.headlines.aituc` · headline · verified
+
+> 1920-10: All India Trade Union Congress founded at Bombay
+
+- **Note:** Reuses deep-dive item in.1920.dd.freedom-history.aituc-founded; same source.
+- **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
+
+#### `in.1920.headlines.non-cooperation` · headline · verified
+
+> 1920-09-01: Gandhi launches the non-co-operation movement
+
+- **Note:** Reuses deep-dive item in.1920.dd.freedom-history.non-cooperation; same source.
+- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
+
+#### `in.1920.headlines.tilak` · headline · verified
+
+> 1920-08-01: Bal Gangadhar Tilak dies
+
+- **Note:** Reuses deep-dive item in.1920.dd.freedom-history.tilak-dies; same source.
+- **Source:** [Wikipedia: Bal Gangadhar Tilak](https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak) (reference, 2026-10-13)
+
+#### `in.1920.morning.market` · detail · verified
+
+> At the grain shop: Common rice sold retail at about Rs 7.5 a maund in Bombay and Rs 12.5 in Delhi in 1920, near the top of a run of dear years after the war.
+
+- **Note:** Table 300 (p. 778), rows 1920; read from the scan. One maund is 82.286 lb.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1920.morning.school` · detail · verified
+
+> A national school: Within weeks in autumn 1920 Aligarh Muslim University, Gujarat Vidyapith and other national institutions were founded as part of the non-co-operation programme.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Aligarh Muslim University](https://en.wikipedia.org/wiki/Aligarh_Muslim_University) (reference, 2026-10-13)
+
+#### `in.1920.morning.union` · detail · verified
+
+> A trade union meeting: The All India Trade Union Congress was founded in Bombay in October 1920 with Lala Lajpat Rai as its first president.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
+
+#### `in.1920.morning.young-india` · detail · verified
+
+> A weekly to read: Gandhi edited the English weekly Young India, published from 1919 to 1931.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Young India](https://en.wikipedia.org/wiki/Young_India) (reference, 2026-10-13)
+
+#### `in.1920.places.bedroom` · description · verified
+
+> The reading corner: Gandhi edited the English weekly Young India, published from 1919 to 1931.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.1920.dd.books-reading.young-india); the illustration is generic.
+- **Source:** [Wikipedia: Young India](https://en.wikipedia.org/wiki/Young_India) (reference, 2026-10-13)
+
+#### `in.1920.places.newspaper` · description · verified
+
+> The front page: Gandhi launches the non-co-operation movement (1920-09-01).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
+
+#### `in.1920.places.street` · description · verified
+
+> The street: Tata hydroelectric power: The Tata hydroelectric company commissioned its Khopoli plant in 1915 and a second at Bhivpuri in 1919, bringing hydro power from the Western Ghats to Bombay.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
+
+#### `in.1920.prices.jute` · price · verified
+
+> Jute, wholesale at Calcutta: Rs 97-8-2 per 400-lb bale (Rs 97 annas 8 pies 2 per bale)
+
+- **Note:** Table 298, row 1920.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1920.prices.rice-bombay` · price · verified
+
+> Common rice, retail at Bombay: Rs 7.5 per maund (decimal rupees per maund)
+
+- **Note:** Table 300 (p. 778), row 1920, Bombay column.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1920.prices.rice-delhi` · price · verified
+
+> Common rice, retail at Delhi: Rs 12.5 per maund (decimal rupees per maund)
+
+- **Note:** Table 300, row 1920, Delhi column; a peak year, 1919 was 11.1.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1920.prices.rice-rangoon` · price · verified
+
+> Rice, wholesale at Rangoon (Ngasein): Rs 6-15-3 per cwt (Rs 6 annas 15 pies 3 per hundredweight)
+
+- **Note:** Table 298, row 1920.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1920.prices.tea` · price · verified
+
+> Tea, wholesale at Calcutta (Indian Pekoe): 5 annas 10 pies per lb (Rs 0 annas 5 pies 10 per lb)
+
+- **Note:** Table 298, row 1920.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1920.prices.wheat` · price · verified
+
+> Wheat, wholesale at Calcutta (Club No. 2): Rs 6-12-0 per maund (Rs 6 annas 12 pies 0 per bazaar maund (82.286 lb))
+
+- **Note:** Table 298, row 1920 (p. 774), read from the scan; the 1928 abstract table 295 shows the same figure.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1920.technology.gateway` · description · verified
+
+> Gateway of India (building): The arch at Bombay's waterfront was begun in 1913 and completed in 1924, to commemorate George V's landing in 1911.
+
+- **Note:** Reuses deep-dive item in.1920.dd.music-arts.gateway-of-india; same source.
+- **Source:** [Wikipedia: Gateway of India](https://en.wikipedia.org/wiki/Gateway_of_India) (reference, 2026-10-13)
+
+#### `in.1920.technology.jamshedpur` · description · verified
+
+> Steel at Jamshedpur: The Tata Iron and Steel Company began producing pig iron in 1911 and steel in 1912 at Jamshedpur, and kept working through the First World War.
+
+- **Note:** Reuses deep-dive item in.1920.dd.technology-science.jamshedpur-steel; same source.
+- **Source:** [Wikipedia: Tata Steel](https://en.wikipedia.org/wiki/Tata_Steel) (reference, 2026-10-13)
+
+#### `in.1920.technology.raman-lab` · description · verified
+
+> Raman and the Calcutta laboratories: C. V. Raman became the first Palit Professor of Physics at the University of Calcutta in 1917, and research scholars from several universities worked under him at the Indian Association for the Cultivation of Science.
+
+- **Note:** Reuses deep-dive item in.1920.dd.technology-science.raman-calcutta; same source.
+- **Source:** [Wikipedia: C. V. Raman](https://en.wikipedia.org/wiki/C._V._Raman) (reference, 2026-10-13)
+
+#### `in.1920.technology.saha` · description · verified
+
+> The Saha ionisation equation: Meghnad Saha's work on the thermal ionisation of elements produced the equation, dated about 1920, that lets astronomers relate a star's spectrum to its temperature.
+
+- **Note:** Reuses deep-dive item in.1920.dd.technology-science.saha-ionisation; same source.
+- **Source:** [Wikipedia: Meghnad Saha](https://en.wikipedia.org/wiki/Meghnad_Saha) (reference, 2026-10-13)
+
+#### `in.1920.technology.tata-hydro` · description · verified
+
+> Tata hydroelectric power: The Tata hydroelectric company commissioned its Khopoli plant in 1915 and a second at Bhivpuri in 1919, bringing hydro power from the Western Ghats to Bombay.
+
+- **Note:** Reuses deep-dive item in.1920.dd.technology-science.tata-hydro; same source.
+- **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
+
+### in · 1930
+
+#### `in.1930.era.tagline` · tagline · verified
+
+> The Salt March, a Nobel Prize for Raman and the Deccan Queen.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Chittagong armoury raid](https://en.wikipedia.org/wiki/Chittagong_armoury_raid) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
+
+#### `in.1930.era.title` · title · verified
+
+> India, 1930
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Chittagong armoury raid](https://en.wikipedia.org/wiki/Chittagong_armoury_raid) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
+
+#### `in.1930.headlines.chittagong` · headline · verified
+
+> 1930-04-18: Revolutionaries attempt to raid armouries at Chittagong
+
+- **Note:** Reuses deep-dive item in.1930.dd.freedom-history.chittagong-raid; same source.
+- **Source:** [Wikipedia: Chittagong armoury raid](https://en.wikipedia.org/wiki/Chittagong_armoury_raid) (reference, 2026-10-13)
+
+#### `in.1930.headlines.independence-day` · headline · verified
+
+> 1930-01-26: Congress asks the country to observe Independence Day
+
+- **Note:** Reuses deep-dive item in.1930.dd.freedom-history.purna-swaraj; same source.
+- **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
+
+#### `in.1930.headlines.salt-march` · headline · verified
+
+> 1930-03-12: Gandhi sets out from Sabarmati on the Salt March
+
+- **Note:** Reuses deep-dive item in.1930.dd.freedom-history.salt-march; same source.
+- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-13)
+
+#### `in.1930.morning.market` · detail · verified
+
+> At the grain shop: Common rice sold retail at about Rs 7.4 a maund in Bombay and Rs 10 in Delhi in 1930, as prices fell in the depression.
+
+- **Note:** Table 300 (p. 778), row 1930; read from the scan.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1930.morning.radio` · detail · verified
+
+> State broadcasting: After the private Indian Broadcasting Company went into liquidation on 1 March 1930, the government took over its stations and started the Indian State Broadcasting Service.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: All India Radio](https://en.wikipedia.org/wiki/All_India_Radio) (reference, 2026-10-13)
+
+#### `in.1930.morning.train` · detail · verified
+
+> The Deccan Queen: The Deccan Queen began running between Bombay and Poona on 1 June 1930, described as India's first superfast, electric-hauled long-distance train.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
+
+#### `in.1930.morning.young-india` · detail · verified
+
+> A weekly to read: Gandhi's English weekly Young India was in its twelfth year; it ran from 1919 to 1931.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Young India](https://en.wikipedia.org/wiki/Young_India) (reference, 2026-10-13)
+
+#### `in.1930.places.bedroom` · description · verified
+
+> The reading corner: Tagore's two-part Bengali primer Sahaj Path is dated 1930 in the list of his works.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.1930.dd.books-reading.sahaj-path); the illustration is generic.
+- **Source:** [Wikipedia: List of works by Rabindranath Tagore](https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore) (reference, 2026-10-13)
+
+#### `in.1930.places.newspaper` · description · verified
+
+> The front page: Congress asks the country to observe Independence Day (1930-01-26).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
+
+#### `in.1930.places.street` · description · verified
+
+> The street: The Deccan Queen: The Deccan Queen began running on 1 June 1930 between Bombay and Poona. It is described as India's first superfast, long-distance electric-hauled and vestibuled train, with a women-only car and a dining car.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
+
+#### `in.1930.prices.jute` · price · verified
+
+> Jute, wholesale at Calcutta: Rs 50-4-9 per 400-lb bale (Rs 50 annas 4 pies 9 per bale)
+
+- **Note:** Table 298, row 1930; 1920 was Rs 97-8-2.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1930.prices.rice-bombay` · price · verified
+
+> Common rice, retail at Bombay: Rs 7.4 per maund (decimal rupees per maund)
+
+- **Note:** Table 300, row 1930, Bombay column.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1930.prices.rice-delhi` · price · verified
+
+> Common rice, retail at Delhi: Rs 10.0 per maund (decimal rupees per maund)
+
+- **Note:** Table 300, row 1930, Delhi column.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1930.prices.rice-rangoon` · price · verified
+
+> Rice, wholesale at Rangoon (Ngasein): Rs 5-2-0 per cwt (Rs 5 annas 2 pies 0 per hundredweight)
+
+- **Note:** Table 298, row 1930.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1930.prices.tea` · price · verified
+
+> Tea, wholesale at Calcutta (Indian Pekoe): 9 annas 7 pies per lb (Rs 0 annas 9 pies 7 per lb)
+
+- **Note:** Table 298, row 1930.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1930.prices.wheat` · price · verified
+
+> Wheat, wholesale at Calcutta (Club No. 2): Rs 4-5-1 per maund (Rs 4 annas 5 pies 1 per bazaar maund (82.286 lb))
+
+- **Note:** Table 298, row 1930 (p. 774), read from the scan. In 1920 it was Rs 6-12-0.
+- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
+
+#### `in.1930.technology.broadcasting` · description · verified
+
+> State broadcasting begins: After the private Indian Broadcasting Company went into liquidation on 1 March 1930, the government took over its stations and launched the Indian State Broadcasting Service on 1 April 1930.
+
+- **Note:** Reuses deep-dive item in.1930.dd.technology-science.state-broadcasting; same source.
+- **Source:** [Wikipedia: All India Radio](https://en.wikipedia.org/wiki/All_India_Radio) (reference, 2026-10-13)
+
+#### `in.1930.technology.chandrasekhar` · description · verified
+
+> Chandrasekhar's voyage calculations: On a trip from India to England in 1930, the young physicist Subrahmanyan Chandrasekhar worked on the statistics of a degenerate Fermi gas, the start of papers that led to the Chandrasekhar limit for white dwarfs.
+
+- **Note:** Reuses deep-dive item in.1930.dd.technology-science.chandrasekhar-voyage; same source.
+- **Source:** [Wikipedia: Chandrasekhar limit](https://en.wikipedia.org/wiki/Chandrasekhar_limit) (reference, 2026-10-13)
+
+#### `in.1930.technology.deccan-queen` · description · verified
+
+> The Deccan Queen: The Deccan Queen began running on 1 June 1930 between Bombay and Poona. It is described as India's first superfast, long-distance electric-hauled and vestibuled train, with a women-only car and a dining car.
+
+- **Note:** Reuses deep-dive item in.1930.dd.technology-science.deccan-queen; same source.
+- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
+
+#### `in.1930.technology.raman-effect` · description · verified
+
+> The Raman effect: C. V. Raman won the 1930 Nobel Prize in Physics 'for his work on the scattering of light and for the discovery of the effect named after him'.
+
+- **Note:** Reuses deep-dive item in.1930.dd.technology-science.raman-effect; same source.
+- **Source:** [NobelPrize.org: C. V. Raman, facts (The Nobel Prize in Physics 1930)](https://www.nobelprize.org/prizes/physics/1930/raman/facts/) (primary, 2026-10-13)
+
+#### `in.1930.technology.silent-film` · description · verified
+
+> Cinema: Hamara Hindustan: A social film directed by R. S. Choudhary for the Imperial Film Company, with Sulochana (Ruby Myers).
+
+- **Note:** Reuses deep-dive item in.1930.dd.cinema.hamara-hindustan; same source.
+- **Source:** [Wikipedia: List of Hindi films of 1930](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1930) (reference, 2026-10-13)
+
+### in · 1945
+
+#### `in.1945.era.tagline` · tagline · verified
+
+> A war ends, a famine is reported and the Simla Conference fails.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Simla Conference](https://en.wikipedia.org/wiki/Simla_Conference) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Indian National Army trials](https://en.wikipedia.org/wiki/Indian_National_Army_trials) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
+- **Source:** [Wikipedia: All India Council for Technical Education](https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education) (reference, 2026-10-13)
+
+#### `in.1945.era.title` · title · verified
+
+> India, 1945
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Simla Conference](https://en.wikipedia.org/wiki/Simla_Conference) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Indian National Army trials](https://en.wikipedia.org/wiki/Indian_National_Army_trials) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
+- **Source:** [Wikipedia: All India Council for Technical Education](https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education) (reference, 2026-10-13)
+
+#### `in.1945.headlines.ina` · headline · verified
+
+> 1945-11: Officers of the Indian National Army tried at the Red Fort
+
+- **Note:** Reuses deep-dive item in.1945.dd.freedom-history.ina-trials; same source.
+- **Source:** [Wikipedia: Indian National Army trials](https://en.wikipedia.org/wiki/Indian_National_Army_trials) (reference, 2026-10-13)
+
+#### `in.1945.headlines.simla` · headline · verified
+
+> 1945-06: The Simla Conference meets
+
+- **Note:** Reuses deep-dive item in.1945.dd.freedom-history.simla-conference; same source.
+- **Source:** [Wikipedia: Simla Conference](https://en.wikipedia.org/wiki/Simla_Conference) (reference, 2026-10-13)
+
+#### `in.1945.headlines.tifr` · headline · verified
+
+> 1945-06-01: Tata Institute of Fundamental Research is established in Bombay
+
+- **Note:** Reuses deep-dive item in.1945.dd.technology-science.tifr-founded; same source.
+- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
+
+#### `in.1945.morning.cricket` · detail · verified
+
+> The Ranji final: Bombay beat Holkar by 374 runs in a timeless final played from 4 to 9 March 1945.
+
+- **Note:** Reuses deep-dive item; two sources there.
+- **Source:** [Wikipedia: 1944–45 Ranji Trophy](https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy) (reference, 2026-10-13)
+
+#### `in.1945.morning.film` · detail · verified
+
+> A night at the cinema: Zeenat, with its qawwali, was the highest-grossing Indian film of 1945.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Zeenat (1945 film)](https://en.wikipedia.org/wiki/Zeenat_(1945_film)) (reference, 2026-10-13)
+
+#### `in.1945.morning.novel` · detail · verified
+
+> A new novel: The first edition of R. K. Narayan's novel The English Teacher appeared in 1945.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: The English Teacher](https://en.wikipedia.org/wiki/The_English_Teacher) (reference, 2026-10-13)
+
+#### `in.1945.morning.theatre` · detail · verified
+
+> People's theatre: IPTA, formed in Bombay on 25 May 1943, took theatre to audiences with themes from the freedom struggle and, after the famine, the plight of Bengal.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Indian People's Theatre Association](https://en.wikipedia.org/wiki/Indian_People's_Theatre_Association) (reference, 2026-10-13)
+
+#### `in.1945.places.bedroom` · description · verified
+
+> The reading corner: The first edition of R. K. Narayan's novel The English Teacher appeared in 1945.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.1945.dd.books-reading.english-teacher-edition); the illustration is generic.
+- **Source:** [Wikipedia: The English Teacher](https://en.wikipedia.org/wiki/The_English_Teacher) (reference, 2026-10-13)
+
+#### `in.1945.places.newspaper` · description · verified
+
+> The front page: The Simla Conference meets (1945-06).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Simla Conference](https://en.wikipedia.org/wiki/Simla_Conference) (reference, 2026-10-13)
+
+#### `in.1945.places.street` · description · verified
+
+> The street: Tata Institute of Fundamental Research: The Tata Institute of Fundamental Research was established on 1 June 1945 in Bombay; its founder was the physicist Homi Bhabha.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
+
+#### `in.1945.technology.aicte` · description · verified
+
+> A council for technical education: The All India Council for Technical Education was established in November 1945 as an advisory body for engineering and technical schooling.
+
+- **Note:** Reuses deep-dive item in.1945.dd.technology-science.aicte; same source.
+- **Source:** [Wikipedia: All India Council for Technical Education](https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education) (reference, 2026-10-13)
+
+#### `in.1945.technology.bajaj` · description · verified
+
+> Bajaj Auto begins: Bajaj Auto was founded by Jamnalal Bajaj on 29 November 1945.
+
+- **Note:** Reuses deep-dive item in.1945.dd.technology-science.bajaj-auto; same source.
+- **Source:** [Wikipedia: Bajaj Auto](https://en.wikipedia.org/wiki/Bajaj_Auto) (reference, 2026-10-13)
+
+#### `in.1945.technology.ipta` · description · verified
+
+> Travelling theatre: IPTA, formed in Bombay on 25 May 1943, took theatre to audiences with themes from the freedom struggle and, after the famine, the plight of Bengal.
+
+- **Note:** Reuses deep-dive item in.1945.dd.music-arts.ipta; same source.
+- **Source:** [Wikipedia: Indian People's Theatre Association](https://en.wikipedia.org/wiki/Indian_People's_Theatre_Association) (reference, 2026-10-13)
+
+#### `in.1945.technology.tifr` · description · verified
+
+> Tata Institute of Fundamental Research: The Tata Institute of Fundamental Research was established on 1 June 1945 in Bombay; its founder was the physicist Homi Bhabha.
+
+- **Note:** Reuses deep-dive item in.1945.dd.technology-science.tifr-founded; same source.
+- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
+
+#### `in.1945.technology.zeenat` · description · verified
+
+> Cinema: Zeenat: Shaukat Hussain Rizvi's social melodrama starring Noor Jehan was the highest-grossing Indian film of 1945, known for its qawwali 'Aahen Na Bharin Shikwe Na Kiye'.
+
+- **Note:** Reuses deep-dive item in.1945.dd.cinema.zeenat; same source.
+- **Source:** [Wikipedia: Zeenat (1945 film)](https://en.wikipedia.org/wiki/Zeenat_(1945_film)) (reference, 2026-10-13)
+
+### in · 1960
+
+#### `in.1960.era.tagline` · tagline · verified
+
+> Steel, a research reactor and two new states.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
+- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
+- **Source:** [Wikipedia: TIFRAC](https://en.wikipedia.org/wiki/TIFRAC) (reference, 2026-10-13)
+
+#### `in.1960.era.title` · title · verified
+
+> India, 1960
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
+- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
+- **Source:** [Wikipedia: TIFRAC](https://en.wikipedia.org/wiki/TIFRAC) (reference, 2026-10-13)
+
+#### `in.1960.headlines.cirus` · headline · verified
+
+> 1960-07: India's CIRUS research reactor goes critical
+
+- **Note:** Reuses deep-dive item in.1960.dd.technology-science.cirus; same source.
+- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
+
+#### `in.1960.headlines.mughal` · headline · verified
+
+> 1960-08-05: Mughal-e-Azam is released
+
+- **Note:** Reuses deep-dive item in.1960.dd.cinema.mughal-e-azam; same source.
+- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
+
+#### `in.1960.headlines.states` · headline · verified
+
+> 1960-05-01: Maharashtra formed from the division of Bombay State, with Gujarat
+
+- **Note:** Reuses deep-dive item in.1960.dd.freedom-history.maharashtra-gujarat; same source.
+- **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
+
+#### `in.1960.morning.children` · detail · verified
+
+> Chandamama for the children: The children's monthly Chandamama was founded in 1947, first in Telugu, and later appeared in many Indian languages.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Chandamama](https://en.wikipedia.org/wiki/Chandamama) (reference, 2026-10-13)
+
+#### `in.1960.morning.cinema` · detail · verified
+
+> Mughal-e-Azam in the cinema: K. Asif's epic, released on 5 August 1960, became the highest-grossing Indian film.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
+
+#### `in.1960.morning.radio` · detail · verified
+
+> Vividh Bharati on the radio: All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
+
+#### `in.1960.morning.weekly` · detail · verified
+
+> The Illustrated Weekly: An English-language weekly newsmagazine, begun in 1880 as the Times of India's weekly edition and renamed in 1923.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: The Illustrated Weekly of India](https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India) (reference, 2026-10-13)
+
+#### `in.1960.places.bedroom` · description · verified
+
+> The living room: All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.1960.dd.music-arts.vividh-bharati); the illustration is generic.
+- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
+
+#### `in.1960.places.newspaper` · description · verified
+
+> The front page: Maharashtra formed from the division of Bombay State, with Gujarat (1960-05-01).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
+
+#### `in.1960.places.street` · description · verified
+
+> The street: The CIRUS research reactor: CIRUS, a 40 MW research reactor at Trombay near Bombay supplied by Canada, first went critical in July 1960. It ran on natural uranium with heavy water supplied by the United States.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
+
+#### `in.1960.prices.exchange` · price · verified
+
+> Rupees to the US dollar (annual average): Rs 4.76 (official rate, rupees per US dollar)
+
+- **Note:** World Bank series PA.NUS.FCRF.
+- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
+
+#### `in.1960.prices.gold` · price · verified
+
+> Gold, spot at Bombay (average of 1960-61): Rs 114.91 per 10 grams (decimal rupees per 10 grams; highest 124.40, lowest 107.12)
+
+- **Note:** Table 167; Reserve Bank of India series for the year April 1960 to March 1961.
+- **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
+
+#### `in.1960.prices.mutton` · price · verified
+
+> Mutton, wholesale at Calcutta: Rs 308.11 per quintal (decimal rupees per quintal)
+
+- **Note:** Table 86, p. 224, annual 1960.
+- **Source:** [Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive](https://archive.org/details/dli.ministry.23179) (primary, 2026-10-14)
+
+#### `in.1960.prices.rice` · price · verified
+
+> Rice, aman medium, wholesale at Calcutta: Rs 67.43 per quintal (decimal rupees per quintal (100 kg))
+
+- **Note:** Table 86, p. 223, annual 1960. Wholesale, last-week-of-month averages.
+- **Source:** [Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive](https://archive.org/details/dli.ministry.23179) (primary, 2026-10-14)
+
+#### `in.1960.prices.sugar` · price · verified
+
+> Sugar (E-27), wholesale at Kanpur: Rs 57.72 per quintal (decimal rupees per quintal)
+
+- **Note:** Table 86, p. 224, annual 1960.
+- **Source:** [Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive](https://archive.org/details/dli.ministry.23179) (primary, 2026-10-14)
+
+#### `in.1960.prices.wheat` · price · verified
+
+> Wheat, ordinary, wholesale at Hapur: Rs 47.51 per quintal (decimal rupees per quintal)
+
+- **Note:** Table 86, p. 223, annual 1960.
+- **Source:** [Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive](https://archive.org/details/dli.ministry.23179) (primary, 2026-10-14)
+
+#### `in.1960.technology.bhilai` · description · verified
+
+> Bhilai Steel Plant: The Bhilai Steel Plant, set up with Soviet help from 1955, became India's main producer of steel rails.
+
+- **Note:** Reuses deep-dive item in.1960.dd.technology-science.bhilai-steel; same source.
+- **Source:** [Wikipedia: Bhilai Steel Plant](https://en.wikipedia.org/wiki/Bhilai_Steel_Plant) (reference, 2026-10-13)
+
+#### `in.1960.technology.cirus` · description · verified
+
+> The CIRUS research reactor: CIRUS, a 40 MW research reactor at Trombay near Bombay supplied by Canada, first went critical in July 1960. It ran on natural uranium with heavy water supplied by the United States.
+
+- **Note:** Reuses deep-dive item in.1960.dd.technology-science.cirus; same source.
+- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
+
+#### `in.1960.technology.iit-kanpur` · description · verified
+
+> IIT Kanpur: IIT Kanpur began in December 1959 on the campus of the Harcourt Butler Technological Institute and was established by an Act of Parliament in 1960.
+
+- **Note:** Reuses deep-dive item in.1960.dd.technology-science.iit-kanpur; same source.
+- **Source:** [Wikipedia: IIT Kanpur](https://en.wikipedia.org/wiki/IIT_Kanpur) (reference, 2026-10-13)
+
+#### `in.1960.technology.tifrac` · description · verified
+
+> TIFRAC, India's first home-built computer: The Tata Institute of Fundamental Research Automatic Calculator, based on the IAS machine design, was formally commissioned and named by Nehru in 1960 and stayed in use until 1965.
+
+- **Note:** Reuses deep-dive item in.1960.dd.technology-science.tifrac; same source.
+- **Source:** [Wikipedia: TIFRAC](https://en.wikipedia.org/wiki/TIFRAC) (reference, 2026-10-13)
+
+#### `in.1960.technology.vividh-bharati` · description · verified
+
+> Vividh Bharati radio service: All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.
+
+- **Note:** Reuses deep-dive item in.1960.dd.music-arts.vividh-bharati; same source.
+- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
+
+### in · 1970
+
+#### `in.1970.era.tagline` · tagline · verified
+
+> A milk grid, a rock memorial and the end of the privy purses.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Privy purse in India](https://en.wikipedia.org/wiki/Privy_purse_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
+
+#### `in.1970.era.title` · title · verified
+
+> India, 1970
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Privy purse in India](https://en.wikipedia.org/wiki/Privy_purse_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
+
+#### `in.1970.headlines.operation-flood` · headline · verified
+
+> 1970-01-13: Operation Flood, the 'White Revolution', is launched
+
+- **Note:** Reuses deep-dive item in.1970.dd.freedom-history.operation-flood; same source.
+- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
+
+#### `in.1970.headlines.privy-purses` · headline · verified
+
+> 1970-09-06: President orders that all former rulers cease to be recognised, ending privy purses
+
+- **Note:** Reuses deep-dive item in.1970.dd.freedom-history.privy-purse-order; same source.
+- **Source:** [Wikipedia: Privy purse in India](https://en.wikipedia.org/wiki/Privy_purse_in_India) (reference, 2026-10-13)
+
+#### `in.1970.headlines.rock-memorial` · headline · verified
+
+> 1970-09-02: Vivekananda Rock Memorial opened at Kanyakumari
+
+- **Note:** Reuses deep-dive item in.1970.dd.freedom-history.rock-memorial; same source.
+- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
+
+#### `in.1970.morning.comics` · detail · verified
+
+> Amar Chitra Katha: The comic-book series, founded by Anant Pai in 1967, retold myths and history.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Amar Chitra Katha](https://en.wikipedia.org/wiki/Amar_Chitra_Katha) (reference, 2026-10-13)
+
+#### `in.1970.morning.milk` · detail · verified
+
+> Milk from a co-operative: Operation Flood, launched on 13 January 1970 by the National Dairy Development Board, built a national milk grid linking village co-operatives to consumers.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
+
+#### `in.1970.morning.radio` · detail · verified
+
+> Film music on Vividh Bharati: All India Radio's Vividh Bharati service, launched on 3 October 1957, carried film music and commercials across India.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
+
+#### `in.1970.morning.weekly` · detail · verified
+
+> The Illustrated Weekly: An English-language weekly newsmagazine published from 1880 to 1993.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: The Illustrated Weekly of India](https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India) (reference, 2026-10-13)
+
+#### `in.1970.places.bedroom` · description · verified
+
+> The living room: The Amar Chitra Katha comic-book series, founded by Anant Pai in 1967, retold myths and history.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.1970.dd.books-reading.amar-chitra-katha); the illustration is generic.
+- **Source:** [Wikipedia: Amar Chitra Katha](https://en.wikipedia.org/wiki/Amar_Chitra_Katha) (reference, 2026-10-13)
+
+#### `in.1970.places.newspaper` · description · verified
+
+> The front page: Operation Flood, the 'White Revolution', is launched (1970-01-13).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
+
+#### `in.1970.places.street` · description · verified
+
+> The street: Tarapur Atomic Power Station: India's first nuclear power station, Tarapur, with two boiling-water reactors, was commissioned on 28 October 1969.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
+
+#### `in.1970.prices.exchange` · price · verified
+
+> Rupees to the US dollar (annual average): Rs 7.50 (official rate, rupees per US dollar)
+
+- **Note:** World Bank series PA.NUS.FCRF.
+- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
+
+#### `in.1970.prices.gold` · price · verified
+
+> Gold, spot at Bombay (average of 1970-71): Rs 184.96 per 10 grams (decimal rupees per 10 grams; highest 198.00, lowest 177.50)
+
+- **Note:** Table 167; Reserve Bank of India series for April 1970 to March 1971.
+- **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
+
+#### `in.1970.prices.milk` · price · verified
+
+> Milk, wholesale at Delhi: Rs 127.08 per 100 litres (decimal rupees per 100 litres)
+
+- **Note:** Table 161, p. 394, row 1970.
+- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
+
+#### `in.1970.prices.petrol` · price · verified
+
+> Petrol, ex-pump, in bulk at Calcutta: Rs 1,190.30 per kilolitre (decimal rupees per kilolitre, inclusive of sale tax)
+
+- **Note:** Table 161, p. 395, row 1970; a wholesale price, not the pump price.
+- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
+
+#### `in.1970.prices.rice` · price · verified
+
+> Rice, coarse second sort, wholesale at Vijayawada: Rs 93.17 per quintal (decimal rupees per quintal)
+
+- **Note:** Table 161, p. 393, row 1970.
+- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
+
+#### `in.1970.prices.sugar` · price · verified
+
+> Sugar (D-29), ex-factory at Kanpur: Rs 157.02 per quintal (decimal rupees per quintal; the average control price of all factories in Uttar Pradesh)
+
+- **Note:** Table 161, p. 394, row 1970, with the control-price footnote.
+- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
+
+#### `in.1970.prices.wheat` · price · verified
+
+> Wheat, dara, wholesale at Abohar: Rs 90.05 per quintal (decimal rupees per quintal)
+
+- **Note:** Table 161, p. 393, row 1970.
+- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
+
+#### `in.1970.technology.isro` · description · verified
+
+> ISRO takes its name: The Indian National Committee for Space Research, set up in 1962 on Vikram Sarabhai's recommendation, was renamed the Indian Space Research Organisation on 15 August 1969.
+
+- **Note:** Reuses deep-dive item in.1970.dd.technology-science.isro-formed; same source.
+- **Source:** [Wikipedia: ISRO](https://en.wikipedia.org/wiki/ISRO) (reference, 2026-10-13)
+
+#### `in.1970.technology.milk-grid` · description · verified
+
+> The national milk grid: Operation Flood, launched on 13 January 1970 by the National Dairy Development Board, built a national milk grid linking village co-operatives to consumers in over 700 towns and cities.
+
+- **Note:** Reuses deep-dive item in.1970.dd.technology-science.milk-grid; same source.
+- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
+
+#### `in.1970.technology.rock-memorial` · description · verified
+
+> Vivekananda Rock Memorial: The memorial at Kanyakumari, opened on 2 September 1970, stands on a rock off the southern tip of India.
+
+- **Note:** Reuses deep-dive item in.1970.dd.music-arts.rock-memorial-art; same source.
+- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
+
+#### `in.1970.technology.tarapur` · description · verified
+
+> Tarapur Atomic Power Station: India's first nuclear power station, Tarapur, with two boiling-water reactors, was commissioned on 28 October 1969.
+
+- **Note:** Reuses deep-dive item in.1970.dd.technology-science.tarapur; same source.
+- **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
+
+#### `in.1970.technology.vividh-bharati` · description · verified
+
+> Vividh Bharati radio service: All India Radio's Vividh Bharati service, launched on 3 October 1957, carried film music and commercials across India.
+
+- **Note:** Reuses deep-dive item in.1970.dd.music-arts.vividh-bharati-1970; same source.
+- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
+
+### in · 1984
+
+#### `in.1984.era.tagline` · tagline · verified
+
+> The first Indian in space, a metro for Calcutta and a year of loss.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Assassination of Indira Gandhi](https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Bhopal disaster](https://en.wikipedia.org/wiki/Bhopal_disaster) (reference, 2026-10-13)
+
+#### `in.1984.era.title` · title · verified
+
+> India, 1984
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Assassination of Indira Gandhi](https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Bhopal disaster](https://en.wikipedia.org/wiki/Bhopal_disaster) (reference, 2026-10-13)
+
+#### `in.1984.headlines.assassination` · headline · verified
+
+> 1984-10-31: Prime Minister Indira Gandhi is shot at her residence in New Delhi
+
+- **Note:** Reuses deep-dive item in.1984.dd.freedom-history.assassination; same source.
+- **Source:** [Wikipedia: Assassination of Indira Gandhi](https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi) (reference, 2026-10-13)
+
+#### `in.1984.headlines.bhopal` · headline · verified
+
+> 1984-12-03: A gas leak at the Union Carbide plant in Bhopal kills thousands
+
+- **Note:** Reuses deep-dive item in.1984.dd.freedom-history.bhopal; same source.
+- **Source:** [Wikipedia: Bhopal disaster](https://en.wikipedia.org/wiki/Bhopal_disaster) (reference, 2026-10-13)
+
+#### `in.1984.headlines.metro` · headline · verified
+
+> 1984-10-24: India's first metro railway opens in Calcutta
+
+- **Note:** Reuses deep-dive item in.1984.dd.technology-science.kolkata-metro; same source.
+- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
+
+#### `in.1984.headlines.rakesh` · headline · verified
+
+> 1984-04: Rakesh Sharma becomes the first Indian in space
+
+- **Note:** Reuses deep-dive item in.1984.dd.technology-science.rakesh-sharma-flight; same source.
+- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
+
+#### `in.1984.morning.car` · detail · verified
+
+> A Maruti 800 in the drive: The Maruti 800, based on the Suzuki Alto and built from 1983, became the most influential automobile in India.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Maruti 800](https://en.wikipedia.org/wiki/Maruti_800) (reference, 2026-10-13)
+
+#### `in.1984.morning.comics` · detail · verified
+
+> Amar Chitra Katha: The comics series, founded in 1967 by Anant Pai, was one of India's best-known sources of illustrated history and myth.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Amar Chitra Katha](https://en.wikipedia.org/wiki/Amar_Chitra_Katha) (reference, 2026-10-13)
+
+#### `in.1984.morning.metro` · detail · verified
+
+> A ride on the Calcutta Metro: India's first metro railway opened in Calcutta on 24 October 1984; it was the first rapid-transit system in South Asia.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
+
+#### `in.1984.morning.tv` · detail · verified
+
+> Hum Log on Doordarshan: Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-13)
+
+#### `in.1984.places.bedroom` · description · verified
+
+> The living room: Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.1984.dd.music-arts.hum-log-tv); the illustration is generic.
+- **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-13)
+
+#### `in.1984.places.newspaper` · description · verified
+
+> The front page: Rakesh Sharma becomes the first Indian in space (1984-04).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
+
+#### `in.1984.places.street` · description · verified
+
+> The street: Rakesh Sharma flies on Soyuz T-11: Squadron Leader Rakesh Sharma flew aboard the Soviet Soyuz T-11 in April 1984 as part of the Interkosmos programme and became the first Indian to travel to outer space.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
+
+#### `in.1984.prices.exchange` · price · verified
+
+> Rupees to the US dollar (annual average): Rs 11.36 (official rate, rupees per US dollar)
+
+- **Note:** World Bank series PA.NUS.FCRF.
+- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
+
+#### `in.1984.prices.gold` · price · verified
+
+> Gold, spot at Bombay (average of 1984-85): Rs 1,983.92 per 10 grams (decimal rupees per 10 grams; highest 2,140.00, lowest 1,876.00)
+
+- **Note:** Table 167; Reserve Bank of India series for April 1984 to March 1985.
+- **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
+
+#### `in.1984.prices.inflation` · price · verified
+
+> Consumer price inflation: 8.3% in the year (per cent, annual)
+
+- **Note:** World Bank series FP.CPI.TOTL.ZG.
+- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
+
+#### `in.1984.prices.output` · price · verified
+
+> Output per person (GDP per capita): Rs 3,341 a year (current rupees per person per year)
+
+- **Note:** World Bank series NY.GDP.PCAP.CN.
+- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
+
+#### `in.1984.prices.silver` · price · verified
+
+> Silver, spot at Bombay (average of 1984-85): Rs 3,593.59 per kilogram (decimal rupees per kilogram)
+
+- **Note:** Table 167, same series.
+- **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
+
+#### `in.1984.technology.hum-log` · description · verified
+
+> Hum Log on Doordarshan: Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.
+
+- **Note:** Reuses deep-dive item in.1984.dd.music-arts.hum-log-tv; same source.
+- **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-13)
+
+#### `in.1984.technology.maruti` · description · verified
+
+> The Maruti 800: The Maruti 800, based on the Suzuki Alto and built from 1983, became the most influential automobile in India; about 2.87 million were made over its production life.
+
+- **Note:** Reuses deep-dive item in.1984.dd.technology-science.maruti-800; same source.
+- **Source:** [Wikipedia: Maruti 800](https://en.wikipedia.org/wiki/Maruti_800) (reference, 2026-10-13)
+
+#### `in.1984.technology.metro` · description · verified
+
+> Kolkata Metro opens: India's first metro railway opened in Calcutta on 24 October 1984; it was the first rapid-transit system in South Asia.
+
+- **Note:** Reuses deep-dive item in.1984.dd.technology-science.kolkata-metro; same source.
+- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
+
+#### `in.1984.technology.rakesh` · description · verified
+
+> Rakesh Sharma flies on Soyuz T-11: Squadron Leader Rakesh Sharma flew aboard the Soviet Soyuz T-11 in April 1984 as part of the Interkosmos programme and became the first Indian to travel to outer space.
+
+- **Note:** Reuses deep-dive item in.1984.dd.technology-science.rakesh-sharma-flight; same source.
+- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
+
+### in · 1995
+
+#### `in.1995.era.tagline` · tagline · verified
+
+> The internet for the public and the year's highest-grossing film.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Ganesha drinking milk miracle](https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle) (reference, 2026-10-13)
+- **Source:** [Wikipedia: IRS-1C](https://en.wikipedia.org/wiki/IRS-1C) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Giant Metrewave Radio Telescope](https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope) (reference, 2026-10-13)
+
+#### `in.1995.era.title` · title · verified
+
+> India, 1995
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Ganesha drinking milk miracle](https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle) (reference, 2026-10-13)
+- **Source:** [Wikipedia: IRS-1C](https://en.wikipedia.org/wiki/IRS-1C) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Giant Metrewave Radio Telescope](https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope) (reference, 2026-10-13)
+
+#### `in.1995.headlines.ganesha` · headline · verified
+
+> 1995-09-21: Ganesha statues are reported to be drinking milk across India
+
+- **Note:** Reuses deep-dive item in.1995.dd.freedom-history.ganesha-milk; same source.
+- **Source:** [Wikipedia: Ganesha drinking milk miracle](https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle) (reference, 2026-10-13)
+
+#### `in.1995.headlines.internet` · headline · verified
+
+> 1995-08-15: VSNL opens the internet to the general public
+
+- **Note:** Reuses deep-dive item in.1995.dd.technology-science.internet-public; same source.
+- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
+
+#### `in.1995.morning.cinema` · detail · verified
+
+> Dilwale Dulhania Le Jayenge: Aditya Chopra's romance, released on 20 October 1995, was the year's highest-grossing Hindi film.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Dilwale Dulhania Le Jayenge](https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge) (reference, 2026-10-13)
+
+#### `in.1995.morning.comics` · detail · verified
+
+> Amar Chitra Katha: The illustrated-story series, founded by Anant Pai in 1967, was still the best-known source of comic-book myth and history.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Amar Chitra Katha](https://en.wikipedia.org/wiki/Amar_Chitra_Katha) (reference, 2026-10-13)
+
+#### `in.1995.morning.internet` · detail · verified
+
+> Dial-up from VSNL: Internet access, limited to educational and research users since 1986, opened to the general public on 15 August 1995 through the state telecom company VSNL.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
+
+#### `in.1995.morning.music` · detail · verified
+
+> The Bombay soundtrack: A. R. Rahman composed the music for Bombay, released in March 1995.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Bombay (film)](https://en.wikipedia.org/wiki/Bombay_(film)) (reference, 2026-10-13)
+
+#### `in.1995.places.bedroom` · description · verified
+
+> The living room: A. R. Rahman composed the music for Bombay, released in March 1995.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.1995.dd.music-arts.bombay-soundtrack); the illustration is generic.
+- **Source:** [Wikipedia: Bombay (film)](https://en.wikipedia.org/wiki/Bombay_(film)) (reference, 2026-10-13)
+
+#### `in.1995.places.newspaper` · description · verified
+
+> The front page: VSNL opens the internet to the general public (1995-08-15).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
+
+#### `in.1995.places.street` · description · verified
+
+> The street: The Internet for the public: Internet access, which had been limited to educational and research users since 1986, opened to the general public in India on 15 August 1995 through the state telecom company VSNL.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
+
+#### `in.1995.prices.exchange` · price · verified
+
+> Rupees to the US dollar (annual average): Rs 32.43 (official rate, rupees per US dollar)
+
+- **Note:** World Bank series PA.NUS.FCRF.
+- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
+
+#### `in.1995.prices.gold` · price · verified
+
+> Gold, spot at Bombay (average of 1995-96): Rs 4,958.00 per 10 grams (decimal rupees per 10 grams; highest 5,713, lowest 4,670)
+
+- **Note:** Table 26.6, Bombay Bullion Association series for April 1995 to March 1996; the 1999 abstract prints the same value.
+- **Source:** [Statistical Abstract India 1997 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Bombay (Bombay Bullion Association), via the Internet Archive](https://archive.org/details/dli.ministry.23192) (primary, 2026-10-14)
+
+#### `in.1995.prices.inflation` · price · verified
+
+> Consumer price inflation: 10.2% in the year (per cent, annual)
+
+- **Note:** World Bank series FP.CPI.TOTL.ZG.
+- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
+
+#### `in.1995.prices.output` · price · verified
+
+> Output per person (GDP per capita): Rs 12,554 a year (current rupees per person per year)
+
+- **Note:** World Bank series NY.GDP.PCAP.CN.
+- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
+
+#### `in.1995.prices.silver` · price · verified
+
+> Silver, spot at Bombay (average of 1995-96): Rs 7,221.00 per kilogram (decimal rupees per kilogram)
+
+- **Note:** Table 26.6, same series.
+- **Source:** [Statistical Abstract India 1997 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Bombay (Bombay Bullion Association), via the Internet Archive](https://archive.org/details/dli.ministry.23192) (primary, 2026-10-14)
+
+#### `in.1995.technology.gmrt` · description · verified
+
+> The Giant Metrewave Radio Telescope: Near Pune, thirty fully steerable 45-metre dishes make up the GMRT, conceived and built under Govind Swarup between 1984 and 1996; it is the most sensitive low-frequency radio array in the world.
+
+- **Note:** Reuses deep-dive item in.1995.dd.technology-science.gmrt; same source.
+- **Source:** [Wikipedia: Giant Metrewave Radio Telescope](https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope) (reference, 2026-10-13)
+
+#### `in.1995.technology.internet` · description · verified
+
+> The Internet for the public: Internet access, which had been limited to educational and research users since 1986, opened to the general public in India on 15 August 1995 through the state telecom company VSNL.
+
+- **Note:** Reuses deep-dive item in.1995.dd.technology-science.internet-public; same source.
+- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
+
+#### `in.1995.technology.irs` · description · verified
+
+> IRS-1C: The Indian Remote Sensing satellite IRS-1C was launched on 28 December 1995.
+
+- **Note:** Reuses deep-dive item in.1995.dd.technology-science.irs-1c; same source.
+- **Source:** [Wikipedia: IRS-1C](https://en.wikipedia.org/wiki/IRS-1C) (reference, 2026-10-13)
+
+#### `in.1995.technology.rahman` · description · verified
+
+> Film soundtracks on cassette: A. R. Rahman composed the music for Bombay, released in March 1995.
+
+- **Note:** Reuses deep-dive item in.1995.dd.music-arts.bombay-soundtrack; same source.
+- **Source:** [Wikipedia: Bombay (film)](https://en.wikipedia.org/wiki/Bombay_(film)) (reference, 2026-10-13)
+
+### in · 1999
+
+#### `in.1999.era.tagline` · tagline · verified
+
+> Kargil, an Odisha cyclone and a hijacking.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
+- **Source:** [Wikipedia: 1999 Odisha cyclone](https://en.wikipedia.org/wiki/1999_Odisha_cyclone) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Indian Airlines Flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814) (reference, 2026-10-13)
+- **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
+
+#### `in.1999.era.title` · title · verified
+
+> India, 1999
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
+- **Source:** [Wikipedia: 1999 Odisha cyclone](https://en.wikipedia.org/wiki/1999_Odisha_cyclone) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Indian Airlines Flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814) (reference, 2026-10-13)
+- **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
+
+#### `in.1999.headlines.cyclone` · headline · verified
+
+> 1999-10-29: A cyclone makes landfall on the Odisha coast
+
+- **Note:** Reuses deep-dive item in.1999.dd.freedom-history.odisha-cyclone; same source.
+- **Source:** [Wikipedia: 1999 Odisha cyclone](https://en.wikipedia.org/wiki/1999_Odisha_cyclone) (reference, 2026-10-13)
+
+#### `in.1999.headlines.ic814` · headline · verified
+
+> 1999-12-24: Indian Airlines Flight 814 is hijacked on its way from Kathmandu to Delhi
+
+- **Note:** Reuses deep-dive item in.1999.dd.freedom-history.ic-814; same source.
+- **Source:** [Wikipedia: Indian Airlines Flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814) (reference, 2026-10-13)
+
+#### `in.1999.headlines.kargil` · headline · verified
+
+> 1999-07: India and Pakistan fight in the Kargil sector
+
+- **Note:** Reuses deep-dive item in.1999.dd.freedom-history.kargil; same source.
+- **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
+
+#### `in.1999.morning.book` · detail · verified
+
+> Interpreter of Maladies: Jhumpa Lahiri's debut collection of stories was published in 1999.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Interpreter of Maladies](https://en.wikipedia.org/wiki/Interpreter_of_Maladies) (reference, 2026-10-13)
+
+#### `in.1999.morning.cinema` · detail · verified
+
+> Hum Saath-Saath Hain: Sooraj Barjatya's family drama was the highest-grossing Hindi film of 1999.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: List of Hindi films of 1999](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1999) (reference, 2026-10-13)
+
+#### `in.1999.morning.music` · detail · verified
+
+> The music of Taal: A. R. Rahman composed the music for Subhash Ghai's Taal, the third highest-grossing Hindi film of 1999.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Taal (film)](https://en.wikipedia.org/wiki/Taal_(film)) (reference, 2026-10-13)
+
+#### `in.1999.places.bedroom` · description · verified
+
+> The living room: Jhumpa Lahiri's debut collection, Interpreter of Maladies, was published in 1999.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.1999.dd.books-reading.lahiri-edition); the illustration is generic.
+- **Source:** [Wikipedia: Interpreter of Maladies](https://en.wikipedia.org/wiki/Interpreter_of_Maladies) (reference, 2026-10-13)
+
+#### `in.1999.places.newspaper` · description · verified
+
+> The front page: India and Pakistan fight in the Kargil sector (1999-07).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
+
+#### `in.1999.places.street` · description · verified
+
+> The street: PSLV-C2: On 26 May 1999 ISRO's Polar Satellite Launch Vehicle launched three satellites from Sriharikota into a Sun-synchronous orbit: India's Oceansat-1, South Korea's KITSAT-3 and Germany's DLR-Tubsat.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
+
+#### `in.1999.prices.exchange` · price · verified
+
+> Rupees to the US dollar (annual average): Rs 43.06 (official rate, rupees per US dollar)
+
+- **Note:** World Bank series PA.NUS.FCRF.
+- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
+
+#### `in.1999.prices.gold` · price · verified
+
+> Gold, spot at Mumbai (average of 1998-99): Rs 4,268.24 per 10 grams (decimal rupees per 10 grams; highest 4,400, lowest 4,050)
+
+- **Note:** Table 26.6; Bombay Bullion Association series for April 1998 to March 1999. The nearest published year; 1999-2000 is not in this abstract.
+- **Source:** [Statistical Abstract India 1999 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Mumbai (Bombay Bullion Association), via the Internet Archive](https://archive.org/details/dli.ministry.23193) (primary, 2026-10-14)
+
+#### `in.1999.prices.inflation` · price · verified
+
+> Consumer price inflation: 4.7% in the year (per cent, annual)
+
+- **Note:** World Bank series FP.CPI.TOTL.ZG.
+- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
+
+#### `in.1999.prices.output` · price · verified
+
+> Output per person (GDP per capita): Rs 19,151 a year (current rupees per person per year)
+
+- **Note:** World Bank series NY.GDP.PCAP.CN.
+- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
+
+#### `in.1999.prices.silver` · price · verified
+
+> Silver, spot at Mumbai (average of 1998-99): Rs 7,855.44 per kilogram (decimal rupees per kilogram)
+
+- **Note:** Table 26.6, same series.
+- **Source:** [Statistical Abstract India 1999 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Mumbai (Bombay Bullion Association), via the Internet Archive](https://archive.org/details/dli.ministry.23193) (primary, 2026-10-14)
+
+#### `in.1999.technology.agni` · description · verified
+
+> A longer-range Agni: India test-fired its longer-range Agni-II on 11 April 1999 from a new launch site, Wheeler Island on the Orissa coast; the reported range was about 2,000 km.
+
+- **Note:** Reuses deep-dive item in.1999.dd.technology-science.agni-ii; same source.
+- **Source:** [Wikipedia: 1999 in India](https://en.wikipedia.org/wiki/1999_in_India) (reference, 2026-10-13)
+
+#### `in.1999.technology.kumble` · description · verified
+
+> Cricket on television: Kumble's ten wickets: On 7 February 1999 Anil Kumble took all ten wickets in a Test innings against Pakistan at Delhi, only the second bowler in Test history to do so.
+
+- **Note:** Reuses deep-dive item in.1999.dd.achievements.kumble-ten; same source.
+- **Source:** [Wikipedia: 1999 in India](https://en.wikipedia.org/wiki/1999_in_India) (reference, 2026-10-13)
+
+#### `in.1999.technology.pslv` · description · verified
+
+> PSLV-C2: On 26 May 1999 ISRO's Polar Satellite Launch Vehicle launched three satellites from Sriharikota into a Sun-synchronous orbit: India's Oceansat-1, South Korea's KITSAT-3 and Germany's DLR-Tubsat.
+
+- **Note:** Reuses deep-dive item in.1999.dd.technology-science.pslv-c2; same source.
+- **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
+
+#### `in.1999.technology.taal` · description · verified
+
+> Film music: Taal: A. R. Rahman composed the music for Taal.
+
+- **Note:** Reuses deep-dive item in.1999.dd.music-arts.taal-music; same source.
+- **Source:** [Wikipedia: Taal (film)](https://en.wikipedia.org/wiki/Taal_(film)) (reference, 2026-10-13)
+
+### in · 2005
+
+#### `in.2005.era.tagline` · tagline · verified
+
+> The right to information, the Mumbai floods and a low-cost airline.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Maharashtra floods of 2005](https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
+- **Source:** [Wikipedia: 2005 Delhi bombings](https://en.wikipedia.org/wiki/2005_Delhi_bombings) (reference, 2026-10-13)
+- **Source:** [Wikipedia: PSLV-C6](https://en.wikipedia.org/wiki/PSLV-C6) (reference, 2026-10-13)
+
+#### `in.2005.era.title` · title · verified
+
+> India, 2005
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: Maharashtra floods of 2005](https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
+- **Source:** [Wikipedia: 2005 Delhi bombings](https://en.wikipedia.org/wiki/2005_Delhi_bombings) (reference, 2026-10-13)
+- **Source:** [Wikipedia: PSLV-C6](https://en.wikipedia.org/wiki/PSLV-C6) (reference, 2026-10-13)
+
+#### `in.2005.headlines.bombs` · headline · verified
+
+> 2005-10-29: Three bomb blasts in Delhi kill 62 people
+
+- **Note:** Reuses deep-dive item in.2005.dd.freedom-history.delhi-bombings; same source.
+- **Source:** [Wikipedia: 2005 Delhi bombings](https://en.wikipedia.org/wiki/2005_Delhi_bombings) (reference, 2026-10-13)
+
+#### `in.2005.headlines.floods` · headline · verified
+
+> 2005-07-26: Mumbai receives 944 mm of rain in 24 hours, its wettest day on record
+
+- **Note:** Reuses deep-dive item in.2005.dd.freedom-history.mumbai-floods; same source.
+- **Source:** [Wikipedia: Maharashtra floods of 2005](https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005) (reference, 2026-10-13)
+
+#### `in.2005.headlines.rti` · headline · verified
+
+> 2005-10-12: The Right to Information Act comes fully into force
+
+- **Note:** Reuses deep-dive item in.2005.dd.freedom-history.rti-event; same source.
+- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
+
+#### `in.2005.morning.air` · detail · verified
+
+> A low-cost flight: SpiceJet's first domestic flight, on 24 May 2005, was on the Delhi to Mumbai route.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: SpiceJet](https://en.wikipedia.org/wiki/SpiceJet) (reference, 2026-10-13)
+
+#### `in.2005.morning.cinema` · detail · verified
+
+> No Entry: No Entry was the highest-grossing Hindi film of 2005.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: List of Hindi films of 2005](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2005) (reference, 2026-10-13)
+
+#### `in.2005.morning.novel` · detail · verified
+
+> A campus novel: Chetan Bhagat's second novel, One Night @ the Call Center, appeared in 2005, after Five Point Someone (2004).
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: One Night @ the Call Center](https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center) (reference, 2026-10-13)
+
+#### `in.2005.morning.rti` · detail · verified
+
+> Asking for information: From 12 October 2005 the Right to Information Act gave every citizen the right to request information from public authorities, with a reply due within thirty days.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
+
+#### `in.2005.places.bedroom` · description · verified
+
+> The living room: Chetan Bhagat's second novel appeared in 2005, after Five Point Someone (2004).
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.2005.dd.books-reading.bhagat-second); the illustration is generic.
+- **Source:** [Wikipedia: One Night @ the Call Center](https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center) (reference, 2026-10-13)
+
+#### `in.2005.places.newspaper` · description · verified
+
+> The front page: Mumbai receives 944 mm of rain in 24 hours, its wettest day on record (2005-07-26).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Maharashtra floods of 2005](https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005) (reference, 2026-10-13)
+
+#### `in.2005.places.street` · description · verified
+
+> The street: Cartosat-1 on PSLV-C6: ISRO's PSLV-C6 launched Cartosat-1 and the amateur-radio satellite HAMSAT on 5 May 2005.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: PSLV-C6](https://en.wikipedia.org/wiki/PSLV-C6) (reference, 2026-10-13)
+
+#### `in.2005.prices.diesel` · price · verified
+
+> Diesel at Delhi, 1 April 2005: Rs 28.22 per litre (rupees per litre)
+
+- **Note:** PPAC table row 'As on 01.04.05'; reduced to 26.45 from 4 May after VAT on diesel was cut.
+- **Source:** [Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)](https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017) (primary, 2026-10-14)
+
+#### `in.2005.prices.exchange` · price · verified
+
+> Rupees to the US dollar (annual average): Rs 44.10 (official rate, rupees per US dollar)
+
+- **Note:** World Bank series PA.NUS.FCRF.
+- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
+
+#### `in.2005.prices.inflation` · price · verified
+
+> Consumer price inflation: 4.2% in the year (per cent, annual)
+
+- **Note:** World Bank series FP.CPI.TOTL.ZG.
+- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
+
+#### `in.2005.prices.output` · price · verified
+
+> Output per person (GDP per capita): Rs 31,456 a year (current rupees per person per year)
+
+- **Note:** World Bank series NY.GDP.PCAP.CN.
+- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
+
+#### `in.2005.prices.petrol` · price · verified
+
+> Petrol at Delhi, 1 April 2005: Rs 37.99 per litre (rupees per litre, Indian Oil prices; VAT implemented at Delhi on that date)
+
+- **Note:** PPAC table row 'As on 01.04.05'; 40.49 from 21 June and 43.49 from 7 September.
+- **Source:** [Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)](https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017) (primary, 2026-10-14)
+
+#### `in.2005.technology.cartosat` · description · verified
+
+> Cartosat-1 on PSLV-C6: ISRO's PSLV-C6 launched Cartosat-1 and the amateur-radio satellite HAMSAT on 5 May 2005.
+
+- **Note:** Reuses deep-dive item in.2005.dd.technology-science.cartosat-1; same source.
+- **Source:** [Wikipedia: PSLV-C6](https://en.wikipedia.org/wiki/PSLV-C6) (reference, 2026-10-13)
+
+#### `in.2005.technology.insat` · description · verified
+
+> INSAT-4A: INSAT-4A, a communications satellite, was launched on 22 December 2005 and served until October 2019.
+
+- **Note:** Reuses deep-dive item in.2005.dd.technology-science.insat-4a; same source.
+- **Source:** [Wikipedia: INSAT-4A](https://en.wikipedia.org/wiki/INSAT-4A) (reference, 2026-10-13)
+
+#### `in.2005.technology.rti` · description · verified
+
+> A right to ask for records: The Right to Information Act gave every citizen the right to request information from public authorities and required them to reply within thirty days.
+
+- **Note:** Reuses deep-dive item in.2005.dd.achievements.rti-ach; same source.
+- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
+
+#### `in.2005.technology.spicejet` · description · verified
+
+> SpiceJet begins flying: SpiceJet's first domestic flight, on 24 May 2005, was on the Delhi to Mumbai route.
+
+- **Note:** Reuses deep-dive item in.2005.dd.technology-science.spicejet; same source.
+- **Source:** [Wikipedia: SpiceJet](https://en.wikipedia.org/wiki/SpiceJet) (reference, 2026-10-13)
+
+### in · 2010
+
+#### `in.2010.era.tagline` · tagline · verified
+
+> The first Aadhaar number, a new rupee sign and the Commonwealth Games.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-13)
+- **Source:** [Wikipedia: List of Hindi films of 2010](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010) (reference, 2026-10-13)
+
+#### `in.2010.era.title` · title · verified
+
+> India, 2010
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-13)
+- **Source:** [Wikipedia: List of Hindi films of 2010](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010) (reference, 2026-10-13)
+
+#### `in.2010.headlines.bhopal` · headline · verified
+
+> 2010-06-07: A Bhopal court convicts eight people for the 1984 gas leak, 25 years on
+
+- **Note:** Reuses deep-dive item in.2010.dd.freedom-history.bhopal-verdict; same source.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
+
+#### `in.2010.headlines.gsat` · headline · verified
+
+> 2010-04-15: First flight of an Indian cryogenic engine ends in failure
+
+- **Note:** Reuses deep-dive item in.2010.dd.technology-science.gslv-d3; same source.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
+
+#### `in.2010.headlines.rupee` · headline · verified
+
+> 2010-07-15: Government presents the new rupee sign
+
+- **Note:** Reuses deep-dive item in.2010.dd.technology-science.rupee-sign; same source.
+- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
+
+#### `in.2010.morning.aadhaar` · detail · verified
+
+> A twelve-digit identity: The first Aadhaar number, a 12-digit identity linked to a photograph, ten fingerprints and two iris scans, was issued in September 2010.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-13)
+
+#### `in.2010.morning.cinema` · detail · verified
+
+> Dabangg: Dabangg was the highest-grossing Hindi film of 2010.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: List of Hindi films of 2010](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010) (reference, 2026-10-13)
+
+#### `in.2010.morning.games` · detail · verified
+
+> The Commonwealth Games on television: India won 101 medals at the 2010 Commonwealth Games in Delhi, 38 gold, 27 silver and 36 bronze, second in the table.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: India at the 2010 Commonwealth Games](https://en.wikipedia.org/wiki/India_at_the_2010_Commonwealth_Games) (reference, 2026-10-13)
+
+#### `in.2010.morning.rupee` · detail · verified
+
+> The new rupee sign: The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
+
+#### `in.2010.places.bedroom` · description · verified
+
+> The living room: Dabangg, with Salman Khan, was the highest-grossing Hindi film of 2010.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.2010.dd.cinema.dabangg); the illustration is generic.
+- **Source:** [Wikipedia: List of Hindi films of 2010](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010) (reference, 2026-10-13)
+
+#### `in.2010.places.newspaper` · description · verified
+
+> The front page: A Bhopal court convicts eight people for the 1984 gas leak, 25 years on (2010-06-07).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
+
+#### `in.2010.places.street` · description · verified
+
+> The street: The rupee sign: The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition; it is based on the Devanagari letter ra with a double horizontal line, and later received the Unicode codepoint U+20B9.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
+
+#### `in.2010.prices.diesel` · price · verified
+
+> Diesel at Delhi, 1 April 2010: Rs 38.10 per litre (rupees per litre)
+
+- **Note:** PPAC table row 'As on 01.04.10'; 40.10 from 26 June, 37.62 from 20 July.
+- **Source:** [Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)](https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017) (primary, 2026-10-14)
+
+#### `in.2010.prices.exchange` · price · verified
+
+> Rupees to the US dollar (annual average): Rs 45.73 (official rate, rupees per US dollar)
+
+- **Note:** World Bank series PA.NUS.FCRF.
+- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
+
+#### `in.2010.prices.inflation` · price · verified
+
+> Consumer price inflation: 12.0% in the year (per cent, annual)
+
+- **Note:** World Bank series FP.CPI.TOTL.ZG.
+- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
+
+#### `in.2010.prices.output` · price · verified
+
+> Output per person (GDP per capita): Rs 61,396 a year (current rupees per person per year)
+
+- **Note:** World Bank series NY.GDP.PCAP.CN.
+- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
+
+#### `in.2010.prices.petrol` · price · verified
+
+> Petrol at Delhi, 1 April 2010: Rs 47.93 per litre (rupees per litre, Indian Oil prices)
+
+- **Note:** PPAC table row 'As on 01.04.10'; 51.43 from 26 June, and 55.87 by 16 December.
+- **Source:** [Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)](https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017) (primary, 2026-10-14)
+
+#### `in.2010.technology.aadhaar` · description · verified
+
+> The first Aadhaar number: The first Aadhaar number, a 12-digit unique identity linked to a photograph, ten fingerprints and two iris scans, was issued in September 2010.
+
+- **Note:** Reuses deep-dive item in.2010.dd.technology-science.aadhaar-first; same source.
+- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-13)
+
+#### `in.2010.technology.gslv` · description · verified
+
+> A cryogenic engine fails on its first flight: On 15 April 2010 the first GSLV flight with an indigenous cryogenic upper stage failed: the liquid-hydrogen turbopump failed, the stage fired for about 1.5 seconds and the GSAT-4 satellite was lost in the Bay of Bengal.
+
+- **Note:** Reuses deep-dive item in.2010.dd.technology-science.gslv-d3; same source.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
+
+#### `in.2010.technology.rupee` · description · verified
+
+> The rupee sign: The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition; it is based on the Devanagari letter ra with a double horizontal line, and later received the Unicode codepoint U+20B9.
+
+- **Note:** Reuses deep-dive item in.2010.dd.technology-science.rupee-sign; same source.
+- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
+
+### in · 2020
+
+#### `in.2020.era.tagline` · tagline · verified
+
+> A pandemic year: the first case, the lockdown and a vaccine candidate.
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Covaxin](https://en.wikipedia.org/wiki/Covaxin) (reference, 2026-10-13)
+
+#### `in.2020.era.title` · title · verified
+
+> India, 2020
+
+- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-13)
+- **Source:** [Wikipedia: Covaxin](https://en.wikipedia.org/wiki/Covaxin) (reference, 2026-10-13)
+
+#### `in.2020.headlines.first-case` · headline · verified
+
+> 2020-01-30: India confirms its first COVID-19 case in Kerala
+
+- **Note:** Reuses deep-dive item in.2020.dd.freedom-history.first-case; same source.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
+
+#### `in.2020.headlines.galwan` · headline · verified
+
+> 2020-06-16: Twenty Indian soldiers are killed in a clash at Galwan Valley
+
+- **Note:** Reuses deep-dive item in.2020.dd.freedom-history.galwan; same source.
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
+
+#### `in.2020.headlines.lockdown` · headline · verified
+
+> 2020-03-24: A 21-day nationwide lockdown is ordered
+
+- **Note:** Reuses deep-dive item in.2020.dd.freedom-history.lockdown; same source.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
+
+#### `in.2020.morning.app` · detail · verified
+
+> A contact-tracing app: Aarogya Setu, a COVID-19 contact-tracing and self-assessment app, was launched by the Government of India on 2 April 2020.
+
+- **Note:** Launch date from the ministry statement reported by Business Today (opened).
+- **Source:** [Business Today, 28 October 2020: 'Aarogya Setu made with industry, academia': Centre clarifies after RTI](https://www.businesstoday.in/amp/latest/economy-politics/story/aarogya-setu-jointly-developed-with-industry-academia-centre-clarifies-after-rti-opens-can-of-worms-276887-2020-10-28) (secondary, 2026-10-14)
+
+#### `in.2020.morning.chess` · detail · verified
+
+> Chess online: India and Russia shared gold at the FIDE Online Chess Olympiad, held between 24 July and 30 August 2020 on Chess.com.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: FIDE Online Chess Olympiad 2020](https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020) (reference, 2026-10-13)
+
+#### `in.2020.morning.film` · detail · verified
+
+> Films at home: Dil Bechara, with Sushant Singh Rajput, was released in 2020 after the actor's death.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: Dil Bechara](https://en.wikipedia.org/wiki/Dil_Bechara) (reference, 2026-10-13)
+
+#### `in.2020.morning.lockdown` · detail · verified
+
+> Staying home: On the evening of 24 March 2020 the government ordered a 21-day nationwide lockdown limiting the movement of about 1.38 billion people.
+
+- **Note:** Reuses deep-dive item.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
+
+#### `in.2020.places.bedroom` · description · verified
+
+> At home, online: India and Russia shared gold at the online FIDE Olympiad held between 24 July and 30 August 2020 on Chess.com.
+
+- **Note:** Rewritten to state only what the cited deep-dive item says (in.2020.dd.sports.online-olympiad); the illustration is generic.
+- **Source:** [Wikipedia: FIDE Online Chess Olympiad 2020](https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020) (reference, 2026-10-13)
+
+#### `in.2020.places.newspaper` · description · verified
+
+> The front page: India confirms its first COVID-19 case in Kerala (2020-01-30).
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
+
+#### `in.2020.places.street` · description · verified
+
+> The street: Aarogya Setu: Aarogya Setu, a COVID-19 contact-tracing, syndromic-mapping and self-assessment app for Android and iOS, was launched on 2 April 2020; its website credits the National Informatics Centre and the IT ministry, though both said in an RTI reply in October 2020 that they did not know who had developed it.
+
+- **Note:** States only what the cited item on this page says; the illustration is generic.
+- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-13)
+
+#### `in.2020.prices.exchange` · price · verified
+
+> Rupees to the US dollar (annual average): Rs 74.10 (official rate, rupees per US dollar)
+
+- **Note:** World Bank series PA.NUS.FCRF.
+- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
+
+#### `in.2020.prices.inflation` · price · verified
+
+> Consumer price inflation: 6.6% in the year (per cent, annual)
+
+- **Note:** World Bank series FP.CPI.TOTL.ZG.
+- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
+
+#### `in.2020.prices.output` · price · verified
+
+> Output per person (GDP per capita): Rs 141,550 a year (current rupees per person per year)
+
+- **Note:** World Bank series NY.GDP.PCAP.CN.
+- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
+
+#### `in.2020.technology.aarogya` · description · verified
+
+> Aarogya Setu: Aarogya Setu, a COVID-19 contact-tracing, syndromic-mapping and self-assessment app for Android and iOS, was launched on 2 April 2020; its website credits the National Informatics Centre and the IT ministry, though both said in an RTI reply in October 2020 that they did not know who had developed it.
+
+- **Note:** Reuses deep-dive item in.2020.dd.technology-science.aarogya-setu; same source.
+- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-13)
+
+#### `in.2020.technology.covaxin` · description · verified
+
+> Covaxin: Covaxin (BBV152), a whole inactivated virus vaccine, was developed by Bharat Biotech in collaboration with the Indian Council of Medical Research and the National Institute of Virology.
+
+- **Note:** Reuses deep-dive item in.2020.dd.technology-science.covaxin; same source.
+- **Source:** [Wikipedia: Covaxin](https://en.wikipedia.org/wiki/Covaxin) (reference, 2026-10-13)
+
+#### `in.2020.technology.online-chess` · description · verified
+
+> Online chess Olympiad: India and Russia shared gold at the online Olympiad, held between 24 July and 30 August 2020 on Chess.com; Viswanathan Anand, Vidit Gujrathi, Koneru Humpy and Harika Dronavalli were in India's team.
+
+- **Note:** Reuses deep-dive item in.2020.dd.sports.online-olympiad; same source.
+- **Source:** [Wikipedia: FIDE Online Chess Olympiad 2020](https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020) (reference, 2026-10-13)
+
+### in · 2050
+
+#### `in.2050.era.persona` · persona · unverifiable
+
+> a household in India (persona to be researched)
+
+- **Note:** Placeholder: this item has not been researched yet (country selector phase).
+
+#### `in.2050.era.tagline` · tagline · unverifiable
+
+> India content for this year is still being researched.
+
+- **Note:** Placeholder: this item has not been researched yet (country selector phase).
+
+#### `in.2050.era.title` · title · unverifiable
+
+> India, 2050
+
+- **Note:** Placeholder: this item has not been researched yet (country selector phase).
+
+#### `in.2050.headlines.centenary` · headline · unverifiable
+
+> 2050-01-26: Imagined: the republic marks its hundredth anniversary
+
+- **Note:** Imagined; the anniversary date follows from 26 January 1950.
+
+#### `in.2050.headlines.memory` · headline · unverifiable
+
+> 2050-08: Imagined: oral histories of the independence era are archived
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.morning.translate` · detail · unverifiable
+
+> A call across languages: A phone might translate speech between India's widely spoken languages fluently, as an ordinary utility.
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.places.bedroom` · description · unverifiable
+
+> The home: An imagined room with a translation speaker, a cooling vent and a library of audio books.
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.places.newspaper` · description · unverifiable
+
+> The front page: An imagined front page for the hundredth anniversary of the Constitution on 26 January 2050.
+
+- **Note:** Imagined; the anniversary date follows from 26 January 1950.
+
+#### `in.2050.places.street` · description · unverifiable
+
+> The street: An imagined street with shade structures that double as large public canvases, and a space-station map in the metro.
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.scene.caption` · caption · unverifiable
+
+> The same 3D scene as the World view; India-specific details are being researched.
+
+- **Note:** Placeholder: this item has not been researched yet (country selector phase).
+
+#### `in.2050.technology.audio-books` · description · unverifiable
+
+> Audio-first reading (imagined): Many readers might listen in their own language while commuting.
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.technology.translation` · description · unverifiable
+
+> Everyday machine translation (imagined): With dozens of widely spoken languages, a phone that translates speech between them fluently might be an ordinary utility by 2050.
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.visions.cities-heat` · prediction · unverifiable
+
+> An imagined resident of 2050 (not a real person): By 2100 cities might be planned around heat first, with shade, water and night-time hours built into the street.
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.visions.languages` · prediction · unverifiable
+
+> An imagined resident of 2050 (not a real person): By 2100 language might no longer decide who can take part in a conversation.
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.visions.space` · prediction · unverifiable
+
+> An imagined resident of 2050 (not a real person): By 2100 India might have a routine presence beyond low Earth orbit.
+
+- **Note:** Imagined; no source.
+
+#### `in.2050.headlines.net-zero` · headline · verified
+
+> 2050-06: Imagined: halfway to the 2070 net-zero pledge
+
+- **Note:** Imagined; the pledge is from the cited article.
+- **Source:** [Wikipedia: Climate change in India](https://en.wikipedia.org/wiki/Climate_change_in_India) (reference, 2026-10-13)
+
+#### `in.2050.morning.grid` · detail · verified
+
+> A cleaner grid: The electricity grid might be well on the way to the 2070 net-zero pledge, with coal a smaller share of supply.
+
+- **Note:** Imagined; the 2070 pledge is from the cited article.
+- **Source:** [Wikipedia: Climate change in India](https://en.wikipedia.org/wiki/Climate_change_in_India) (reference, 2026-10-13)
+
+#### `in.2050.morning.heat` · detail · verified
+
+> A heat advisory on the phone: In this imagined 2050 the day starts with a heat advisory, because heatwaves like the 2010 one that reached 53 C might be more frequent and planned for.
+
+- **Note:** Imagined; the 2010 figure is from the cited article.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
+
+#### `in.2050.morning.station` · detail · verified
+
+> A station overhead: The Bharatiya Antariksh Station, planned for completion by 2035, might have been staffed for years.
+
+- **Note:** Imagined; the plan details are from the cited article.
+- **Source:** [Wikipedia: Bharatiya Antariksh Station](https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station) (reference, 2026-10-13)
+
+#### `in.2050.prices.economy` · price · verified
+
+> Government's economic target for 2047: about US$29-30 trillion (US dollars, the target year is 2047)
+
+- **Note:** A stated target, not a forecast.
+- **Source:** [Wikipedia: Viksit Bharat @2047](https://en.wikipedia.org/wiki/Viksit_Bharat_@2047) (reference, 2026-10-13)
+
+#### `in.2050.prices.gaganyaan` · price · verified
+
+> Gaganyaan crew size: 3 people (people per design flight to low Earth orbit)
+
+- **Note:** A design figure, not a price.
+- **Source:** [Wikipedia: Gaganyaan](https://en.wikipedia.org/wiki/Gaganyaan) (reference, 2026-10-13)
+
+#### `in.2050.prices.net-zero` · price · verified
+
+> Net-zero emissions pledge year: 2070 (calendar year of the pledge)
+
+- **Note:** A pledge, not a price.
+- **Source:** [Wikipedia: Climate change in India](https://en.wikipedia.org/wiki/Climate_change_in_India) (reference, 2026-10-13)
+
+#### `in.2050.prices.population` · price · verified
+
+> Projected population: about 1.7 billion (people, a current projection for 2050)
+
+- **Note:** A projection, not a price.
+- **Source:** [Wikipedia: Demographics of India](https://en.wikipedia.org/wiki/Demographics_of_India) (reference, 2026-10-13)
+
+#### `in.2050.prices.station-mass` · price · verified
+
+> Planned space station mass: about 52 tonnes (tonnes, orbit near 400 km, completion planned by 2035)
+
+- **Note:** A plan, not a price.
+- **Source:** [Wikipedia: Bharatiya Antariksh Station](https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station) (reference, 2026-10-13)
+
+#### `in.2050.technology.clean-grid` · description · verified
+
+> A grid closer to net zero (imagined): India has said it aims for net-zero emissions by 2070; by 2050 the electricity grid might be well on the way, with coal a smaller share of supply.
+
+- **Note:** Imagined; baseline from the cited article.
+- **Source:** [Wikipedia: Climate change in India](https://en.wikipedia.org/wiki/Climate_change_in_India) (reference, 2026-10-13)
+
+#### `in.2050.technology.crewed-flight` · description · verified
+
+> Routine crewed flights (imagined): Gaganyaan is designed to carry three people to low Earth orbit; by 2050 crewed flights might be unremarkable.
+
+- **Note:** Imagined; baseline from the cited article.
+- **Source:** [Wikipedia: Gaganyaan](https://en.wikipedia.org/wiki/Gaganyaan) (reference, 2026-10-13)
+
+#### `in.2050.technology.space-station` · description · verified
+
+> An Indian space station in orbit (imagined): The Bharatiya Antariksh Station is planned today to weigh about 52 tonnes, orbit near 400 km and be complete by 2035. By 2050 it might have been staffed for years and be due for replacement.
+
+- **Note:** Imagined; baseline from the cited article.
+- **Source:** [Wikipedia: Bharatiya Antariksh Station](https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station) (reference, 2026-10-13)
+
+## India · Deep dive
+
+| Era | Claims | Verified | Corrected | Unverifiable | Removed |
+|---|---:|---:|---:|---:|---:|
+| 1900 | 56 | 55 | 0 | 1 | 0 |
+| 1920 | 55 | 53 | 0 | 2 | 0 |
+| 1930 | 48 | 45 | 0 | 3 | 0 |
+| 1945 | 42 | 40 | 0 | 2 | 0 |
+| 1960 | 46 | 43 | 1 | 2 | 0 |
+| 1970 | 44 | 42 | 0 | 2 | 0 |
+| 1984 | 46 | 44 | 0 | 2 | 0 |
+| 1995 | 37 | 34 | 0 | 3 | 0 |
+| 1999 | 37 | 36 | 0 | 1 | 0 |
+| 2005 | 37 | 37 | 0 | 0 | 0 |
+| 2010 | 34 | 33 | 0 | 1 | 0 |
+| 2020 | 32 | 31 | 0 | 1 | 0 |
+| 2050 | 44 | 0 | 0 | 44 | 0 |
+| **Total** | **558** | **493** | **1** | **64** | **0** |
+
+### in/dd · 1900
+
+#### `in.1900.dd.economy-business.farm-wage` · summary · unverifiable
+
+> An agricultural labourer's monthly wage: An able-bodied agricultural labourer earned on average Rs 6.5 to 7.0 a month across India in 1896-1900.
+
+- **Note:** One source. The same figure is on the year page under Work and wages; this is the indicator, that is the wage card.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), ch. IX, Appendix table I, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-18)
 
 #### `in.1900.dd.achievements.bose-paris-congress` · summary · verified
 
@@ -201,6 +2277,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Princely state](https://en.wikipedia.org/wiki/Princely_state) (reference, 2026-10-13)
 - **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/TheImperialGazetteerOfIndia-Volume04) (primary, 2026-10-13)
 
+#### `in.1900.dd.government-politics.prisoners-act` · summary · verified
+
+> The Prisoners Act, 1900: Act No. 3 of 1900, dated 2 February 1900, consolidated the law on people confined by order of a court and set the duties of prison officers.
+
+- **Note:** Sources agree.
+- **Source:** [India Code: The Prisoners Act, 1900](https://www.indiacode.nic.in/bitstream/123456789/12898/3/prisoners.pdf) (primary, 2026-10-18)
+- **Source:** [Government of Gujarat Home Department: The Prisoners Act 1900](https://home.gujarat.gov.in/Upload/The_Prisoners_Act_1900_home_1_1_1.pdf) (primary, 2026-10-18)
+
 #### `in.1900.dd.government-politics.punjab-land-alienation` · summary · verified
 
 > Punjab Alienation of Land Act: The 1900 Act limited the sale of farmland in Punjab to members of notified 'agricultural tribes'. It was meant to stop land passing from peasants to moneylenders and was resented by many educated Hindus.
@@ -230,6 +2314,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 
 - **Note:** Bibliography in Wikipedia's Dutt article.
 - **Source:** [Wikipedia: Romesh Chunder Dutt](https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt) (reference, 2026-10-13)
+
+#### `in.1900.dd.literature.kahini` · summary · verified
+
+> Kahini: Rabindranath Tagore's book of narrative poems, published in 1900.
+
+- **Note:** The translation 'Tales' is ours. Sources agree on 1900; whether Katha and Kahini appeared together is unclear, so Katha is not listed separately.
+- **Source:** [Wikipedia: Kahini (poetry collection)](https://en.wikipedia.org/wiki/Kahini_(poetry_collection)) (reference, 2026-10-18)
+- **Source:** [Visva-Bharati: Bengali works of Rabindranath Tagore](https://visvabharati.ac.in/Bengali.html) (primary, 2026-10-18)
 
 #### `in.1900.dd.literature.kalpana` · summary · verified
 
@@ -304,6 +2396,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Norman Pritchard](https://en.wikipedia.org/wiki/Norman_Pritchard) (reference, 2026-10-13)
 - **Source:** [Olympedia: Norman Pritchard](https://www.olympedia.org/athletes/71405) (primary, 2026-10-13)
 
+#### `in.1900.dd.personalities.pandita-ramabai` · summary · verified
+
+> Pandita Ramabai: Scholar, social reformer and Christian missionary who sheltered destitute girls and widows at Mukti Mission, Kedgaon.
+
+- **Note:** Wikipedia gives 1,500 residents by 1900; the Mukti Mission site gives almost 2,000 by 1901. Sources conflate the famines of 1896-97 and 1899-1900, so only the headcounts are stated.
+- **Source:** [Wikipedia: Pandita Ramabai](https://en.wikipedia.org/wiki/Pandita_Ramabai) (reference, 2026-10-18)
+- **Source:** [Mukti Mission (New Zealand): Pandita Ramabai's story](https://mukti.org.nz/pandita-ramabai/) (secondary, 2026-10-18)
+
 #### `in.1900.dd.personalities.rabindranath-tagore` · summary · verified
 
 > Rabindranath Tagore: Bengali poet, born in Calcutta in 1861.
@@ -311,13 +2411,6 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Born 7 May 1861; works list shows four collections dated 1900.
 - **Source:** [Wikipedia: Rabindranath Tagore](https://en.wikipedia.org/wiki/Rabindranath_Tagore) (reference, 2026-10-13)
 - **Source:** [Wikipedia: List of works by Rabindranath Tagore](https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore) (reference, 2026-10-13)
-
-#### `in.1900.dd.personalities.ranjitsinhji` · summary · verified
-
-> Ranjitsinhji: Cricketer born in Kathiawar in 1872, later Jam Sahib of Nawanagar.
-
-- **Note:** Born 10 September 1872.
-- **Source:** [Wikipedia: Ranjitsinhji](https://en.wikipedia.org/wiki/Ranjitsinhji) (reference, 2026-10-13)
 
 #### `in.1900.dd.personalities.swami-vivekananda` · summary · verified
 
@@ -348,6 +2441,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Figures in the interactive are taken from the listed sources; see each source.
 - **Source:** [Olympedia: 200 metres Hurdles, Men (Paris 1900)](https://www.olympedia.org/results/56076) (primary, 2026-10-13)
 - **Source:** [Wikipedia: Norman Pritchard](https://en.wikipedia.org/wiki/Norman_Pritchard) (reference, 2026-10-13)
+
+#### `in.1900.dd.sports.presidency-match` · summary · verified
+
+> The Presidency Match: By 1900 the Europeans against Parsis match was the highlight of the Bombay cricket season; in 19 matches each side had won eight and three were drawn.
+
+- **Note:** The result of the 1900 match itself was not found.
+- **Source:** [Wikipedia: Bombay Tournament (cricket)](https://en.wikipedia.org/wiki/Bombay_Tournament_(cricket)) (reference, 2026-10-18)
+- **Source:** [Wikipedia: History of cricket in India to 1918](https://en.wikipedia.org/wiki/History_of_cricket_in_India_to_1918) (reference, 2026-10-18)
 
 #### `in.1900.dd.sports.pritchard-200m` · summary · verified
 
@@ -410,174 +2511,29 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Table II in the Gazetteer prints a total of 25,363 miles for 1901, but its gauge columns add up to 25,463; the OCR text I read has one wrong digit, so the item says 'about 25,400'. The table has no row for 1900 itself.
 - **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
 
-#### `in.1900.era.tagline` · tagline · verified
+#### `in.1900.dd.technology-science.sidrapong` · summary · verified
 
-> Famine relief, plague vaccine and a railway of 25,400 miles.
+> Sidrapong, India's first hydroelectric station: Commissioned on 10 November 1897 near Darjeeling with two 65 kW units, it was the first hydroelectric power station in India.
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: List of presidents of the Indian National Congress](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress) (reference, 2026-10-13)
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
-- **Source:** [Wikipedia: Birsa Munda](https://en.wikipedia.org/wiki/Birsa_Munda) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Waldemar Haffkine](https://en.wikipedia.org/wiki/Waldemar_Haffkine) (reference, 2026-10-13)
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Sidrapong Hydroelectric Power Station](https://en.wikipedia.org/wiki/Sidrapong_Hydroelectric_Power_Station) (reference, 2026-10-18)
+- **Source:** [IEEE Milestone proposal: Sidrapong Hydel Power Station, 1897 (ETHW)](https://ieeemilestones.ethw.org/Milestone-Proposal:Sidrapong_Hydel_Power_Station,_1897) (reference, 2026-10-18)
 
-#### `in.1900.era.title` · title · verified
+### in/dd · 1920
 
-> India, 1900
+#### `in.1920.dd.economy-business.national-income` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: List of presidents of the Indian National Congress](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress) (reference, 2026-10-13)
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
-- **Source:** [Wikipedia: Birsa Munda](https://en.wikipedia.org/wiki/Birsa_Munda) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Waldemar Haffkine](https://en.wikipedia.org/wiki/Waldemar_Haffkine) (reference, 2026-10-13)
+> National income: National income was ₹30,428 million in 1920.
 
-#### `in.1900.headlines.birsa` · headline · verified
+- **Note:** One source (a list on Wikipedia with no stated method).
+- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-18)
 
-> 1900-06: Birsa Munda led a millenarian movement among the Munda people of the Bengal Presidency (now Jharkhand).
+#### `in.1920.dd.government-politics.passport-act` · summary · unverifiable
 
-- **Note:** Reuses deep-dive item in.1900.dd.freedom-history.birsa-ulgulan; same source.
-- **Source:** [Wikipedia: Birsa Munda](https://en.wikipedia.org/wiki/Birsa_Munda) (reference, 2026-10-13)
+> The Passport (Entry into India) Act, 1920: Act No. 34 of 1920, enacted on 9 September 1920, took power to require passports of persons entering India.
 
-#### `in.1900.headlines.congress-lahore` · headline · verified
-
-> 1900-12: The sixteenth annual session of the Indian National Congress met at Lahore in December 1900 with N.
-
-- **Note:** Reuses deep-dive item in.1900.dd.freedom-history.congress-lahore; same source.
-- **Source:** [Wikipedia: List of presidents of the Indian National Congress](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress) (reference, 2026-10-13)
-
-#### `in.1900.headlines.famine` · headline · verified
-
-> 1900-07: The 1899 monsoon failed over the west and centre of India.
-
-- **Note:** Reuses deep-dive item in.1900.dd.freedom-history.famine-1899-1900; same source.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
-
-#### `in.1900.morning.fuel` · detail · verified
-
-> Cooking fires: For most working families fuel meant sticks and cow-dung; the Gazetteer notes a labourer's hut and scanty clothing cost him little and that food was by far his chief expense.
-
-- **Note:** Paraphrase of footnote on p. 470; one source.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.morning.grain-wages` · detail · verified
-
-> Wages in grain: Many farm labourers were paid wholly or partly in grain, with perhaps a free meal or a cash wage near towns; casual workers might be idle three or four months of the year.
-
-- **Note:** Paraphrase of pp. 467-468.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.morning.money-order` · detail · verified
-
-> A money order from the post office: The post office issued 12,922,465 inland money orders in 1900-01, worth about Rs 26 crore, up from 7.3 million ten years earlier.
-
-- **Note:** Reuses deep-dive item in.1900.dd.technology-science.money-orders.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
-
-#### `in.1900.morning.staple` · detail · verified
-
-> The day's grain: In Bengal and Assam the staple food was rice, the grain whose price the Gazetteer says had risen more than that of any other food-grain since 1873.
-
-- **Note:** Paraphrase of ch. IX pp. 469-470.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.places.bedroom` · description · verified
-
-> The home: The Gazetteer notes that a labouring family's hut and scanty clothing cost very little, and that food was by far the chief expense.
-
-- **Note:** Paraphrase of Imperial Gazetteer vol. III, p. 470 footnote; the illustration is generic.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.places.newspaper` · description · verified
-
-> The front page: The sixteenth annual session of the Indian National Congress met at Lahore in December 1900 with N. (1900-12).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: List of presidents of the Indian National Congress](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Indian_National_Congress) (reference, 2026-10-13)
-
-#### `in.1900.places.street` · description · verified
-
-> The street: Railways: about 25,400 miles open: The Gazetteer's table of railway mileage open for traffic gives a total of about 25,400 miles for 1901, mostly on the broad (5 ft 6 in) and metre gauges.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
-
-#### `in.1900.prices.grain-index` · price · verified
-
-> All food-grains, price index (1871-5 = 100): 164 (index number, 1896-1900 average)
-
-- **Note:** Same table, last column; 1891-5 was 135.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.prices.gram` · price · verified
-
-> Gram (average, 1896-1900): 13.5 seers per rupee (13.5 seers per rupee)
-
-- **Note:** Same table.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.prices.jowar` · price · verified
-
-> Jowar (average, 1896-1900): 16.5 seers per rupee (16.5 seers per rupee)
-
-- **Note:** Same table.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.prices.rice` · price · verified
-
-> Rice (average, 1896-1900): 11.7 seers per rupee (11.7 seers per rupee (a seer is about 0.93 kg))
-
-- **Note:** Table of quantities sold per rupee, 1896-1900 average; p. 456. The Gazetteer says these were the highest food-grain prices on record.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.prices.rupee-exchange` · price · verified
-
-> Value of a rupee in sterling: about 16 pence (1s 4d) (1s 4d = 16 pence; 15 rupees to the pound)
-
-- **Note:** Reuses deep-dive item in.1900.dd.economy-business.rupee-exchange (two sources there).
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. IV: Administrative (1909), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/TheImperialGazetteerOfIndia-Volume04) (primary, 2026-10-13)
-
-#### `in.1900.prices.wheat` · price · verified
-
-> Wheat (average, 1896-1900): 12.1 seers per rupee (12.1 seers per rupee)
-
-- **Note:** Same table.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, ch. IX 'Rents, Prices, and Wages', via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-14)
-
-#### `in.1900.technology.money-orders` · description · verified
-
-> Inland money orders: The post office issued 12,922,465 inland money orders in 1900-01, worth about Rs 26 crore, up from 7.3 million orders ten years earlier.
-
-- **Note:** Reuses deep-dive item in.1900.dd.technology-science.money-orders; same source.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
-
-#### `in.1900.technology.plague-vaccine` · description · verified
-
-> Haffkine's plague vaccine: Waldemar Haffkine tested his plague vaccine on himself in Bombay in January 1897. By the turn of the century about four million people in India had received it.
-
-- **Note:** Reuses deep-dive item in.1900.dd.technology-science.plague-vaccine; same source.
-- **Source:** [Wikipedia: Waldemar Haffkine](https://en.wikipedia.org/wiki/Waldemar_Haffkine) (reference, 2026-10-13)
-
-#### `in.1900.technology.radio-waves` · description · verified
-
-> Bose's millimetre radio waves: In Calcutta in 1895 Jagadish Chandra Bose rang a bell and fired gunpowder from across a room with millimetre-wavelength waves. In 1900 he presented his research at the International Congress of Physics in Paris.
-
-- **Note:** Reuses deep-dive item in.1900.dd.technology-science.radio-waves; same source.
-- **Source:** [Wikipedia: Jagadish Chandra Bose](https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose) (reference, 2026-10-13)
-
-#### `in.1900.technology.railways` · description · verified
-
-> Railways: about 25,400 miles open: The Gazetteer's table of railway mileage open for traffic gives a total of about 25,400 miles for 1901, mostly on the broad (5 ft 6 in) and metre gauges.
-
-- **Note:** Reuses deep-dive item in.1900.dd.technology-science.railways; same source.
-- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-13)
-
-#### `in.1900.technology.saraswati` · description · verified
-
-> Saraswati, a Hindi monthly: Saraswati, founded in 1900 by Chintamani Ghosh at the Indian Press in Allahabad, is described as the first Hindi monthly magazine of India.
-
-- **Note:** Reuses deep-dive item in.1900.dd.achievements.saraswati-founded; same source.
-- **Source:** [Wikipedia: Saraswati (magazine)](https://en.wikipedia.org/wiki/Saraswati_(magazine)) (reference, 2026-10-13)
-
-### in · 1920
+- **Note:** One source (the official India Code record, read through a search summary).
+- **Source:** [India Code: Passport (Entry into India) Act, 1920 (Act 34 of 1920)](https://indiacode.nic.in/handle/123456789/6837?locale=en) (primary, 2026-10-18)
 
 #### `in.1920.dd.achievements.aituc` · summary · verified
 
@@ -691,6 +2647,22 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
 
+#### `in.1920.dd.freedom-history.jamia-foundation` · summary · verified
+
+> Jamia Millia Islamia is founded at Aligarh: Maulana Mahmud Hasan laid the foundation stone of Jamia Millia Islamia at Aligarh in October 1920; Hakim Ajmal Khan became its first chancellor and Maulana Mohammad Ali Johar its first vice-chancellor.
+
+- **Note:** The Jamia page says October 1920; the speech page gives 29 October. Mahmud Hasan died on 30 November 1920.
+- **Source:** [Jamia Millia Islamia: Founders](https://jmi.ac.in/About-Jamia/Profile/History/History/11521/Founder) (primary, 2026-10-18)
+- **Source:** [Ilmgate: The Aligarh speech of Shaykh al-Hind Maulana Mahmud Hasan](https://www.ilmgate.org/the-aligarh-speech-of-shaykh-al-hind-maulana-mahmud-hasan/) (secondary, 2026-10-18)
+
+#### `in.1920.dd.freedom-history.lucknow-university` · summary · verified
+
+> The University of Lucknow is founded: The University of Lucknow Act received the Lieutenant-Governor's assent on 1 November and the Governor-General's on 25 November 1920; teaching began on 17 July 1921.
+
+- **Note:** Sources agree.
+- **Source:** [University of Lucknow: History](https://www.lkouniv.ac.in/article/en/history) (primary, 2026-10-18)
+- **Source:** [Wikipedia: University of Lucknow](https://en.wikipedia.org/wiki/University_of_Lucknow) (reference, 2026-10-18)
+
 #### `in.1920.dd.freedom-history.national-universities` · summary · verified
 
 > National institutions of education: Within weeks of one another: the Muhammadan Anglo-Oriental College became Aligarh Muslim University (14 September), Gujarat Vidyapith opened at Ahmedabad (18 October) and Jamia Millia Islamia was established at Aligarh (29 October).
@@ -739,6 +2711,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Both articles describe the bicameral legislature; seat numbers from the Government of India Act 1919 article.
 - **Source:** [Wikipedia: Government of India Act 1919](https://en.wikipedia.org/wiki/Government_of_India_Act_1919) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Montagu–Chelmsford Reforms](https://en.wikipedia.org/wiki/Montagu–Chelmsford_Reforms) (reference, 2026-10-13)
+
+#### `in.1920.dd.government-politics.identification-prisoners` · summary · verified
+
+> The Identification of Prisoners Act, 1920: Act No. 33 of 1920, dated 9 September 1920, authorised taking measurements and photographs, including finger and foot impressions, of convicts and others.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Identification of Prisoners Act, 1920](https://en.wikipedia.org/wiki/Identification_of_Prisoners_Act,_1920) (reference, 2026-10-18)
+- **Source:** [Identification of Prisoners Act, 1920 (Telangana High Court copy of the Act)](https://www.thc.nic.in/Central%20Governmental%20Acts/Identification%20of%20Prisoners%20Act,%201920..pdf) (primary, 2026-10-18)
 
 #### `in.1920.dd.government-politics.interactive-data` · interactive.data · verified
 
@@ -838,13 +2818,6 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Lala Lajpat Rai](https://en.wikipedia.org/wiki/Lala_Lajpat_Rai) (reference, 2026-10-13)
 - **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
 
-#### `in.1920.dd.personalities.meghnad-saha` · summary · verified
-
-> Meghnad Saha: Astrophysicist, born in 1893.
-
-- **Note:** Born 6 October 1893.
-- **Source:** [Wikipedia: Meghnad Saha](https://en.wikipedia.org/wiki/Meghnad_Saha) (reference, 2026-10-13)
-
 #### `in.1920.dd.personalities.mohandas-gandhi` · summary · verified
 
 > Mohandas Karamchand Gandhi: Leader of the Congress's new mass movement, born in Porbandar in 1869.
@@ -860,13 +2833,21 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Born 31 July 1880.
 - **Source:** [Wikipedia: Premchand](https://en.wikipedia.org/wiki/Premchand) (reference, 2026-10-13)
 
-#### `in.1920.dd.personalities.purma-bannerjee` · summary · verified
+#### `in.1920.dd.personalities.sarada-devi` · summary · verified
 
-> Purma Bannerjee: Sprinter who carried the flag for India at the Antwerp Olympics.
+> Sarada Devi (the Holy Mother): Spiritual guide of the Ramakrishna Order for about 34 years after her husband's death, known to followers as the Holy Mother.
 
-- **Note:** Flag-bearer per the Wikipedia infobox; Olympedia lists his events.
-- **Source:** [Wikipedia: India at the 1920 Summer Olympics](https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics) (reference, 2026-10-13)
-- **Source:** [Olympedia: India at the 1920 Summer Olympics](https://www.olympedia.org/countries/IND/editions/7) (primary, 2026-10-13)
+- **Note:** Wikipedia gives 20 July 1920; Britannica gives 21 July. The Wikipedia date is used.
+- **Source:** [Wikipedia: Sarada Devi](https://en.wikipedia.org/wiki/Sarada_Devi) (reference, 2026-10-18)
+- **Source:** [Encyclopaedia Britannica: Sarada Devi](https://www.britannica.com/biography/Sarada-Devi) (secondary, 2026-10-18)
+
+#### `in.1920.dd.personalities.sarojini-naidu` · summary · verified
+
+> Sarojini Naidu: Poet and political leader, later the first Indian woman to preside over the Indian National Congress.
+
+- **Note:** Her Congress presidency came in 1925.
+- **Source:** [Wikipedia: Sarojini Naidu](https://en.wikipedia.org/wiki/Sarojini_Naidu) (reference, 2026-10-18)
+- **Source:** [RAU's IAS: Women in the freedom struggle](https://compass.rauias.com/modern-history/women-freedom-struggle/) (secondary, 2026-10-18)
 
 #### `in.1920.dd.personalities.srinivasa-ramanujan` · summary · verified
 
@@ -875,6 +2856,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Born 22 December 1887; died 26 April 1920.
 - **Source:** [Wikipedia: Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
+
+#### `in.1920.dd.sports.antwerp-team` · summary · verified
+
+> India's team at Antwerp: Five men, three in athletics and two in wrestling, represented India at the 1920 Games, training in London for six weeks; none won a medal, and Purma Bannerjee carried the flag.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: India at the 1920 Summer Olympics](https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics) (reference, 2026-10-18)
+- **Source:** [Olympedia: India](https://www.olympedia.org/countries/IND) (primary, 2026-10-18)
 
 #### `in.1920.dd.sports.bannerjee-sprints` · summary · verified
 
@@ -916,6 +2905,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: India at the 1920 Summer Olympics](https://en.wikipedia.org/wiki/India_at_the_1920_Summer_Olympics) (reference, 2026-10-13)
 - **Source:** [Olympedia: India at the 1920 Summer Olympics](https://www.olympedia.org/countries/IND/editions/7) (primary, 2026-10-13)
 
+#### `in.1920.dd.technology-science.best-double-decker` · summary · verified
+
+> Double-decker electric trams: Bombay's electric trams, in service since 1907, were joined by double-decker cars in September 1920.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Trams in Mumbai](https://en.wikipedia.org/wiki/Trams_in_Mumbai) (reference, 2026-10-18)
+- **Source:** [Live History India: Bombay's Tryst with Trams](https://livehistoryindia.com/story/religious-places/bombays-tryst-with-trams) (secondary, 2026-10-18)
+
 #### `in.1920.dd.technology-science.jamshedpur-steel` · summary · verified
 
 > Steel at Jamshedpur: The Tata Iron and Steel Company began producing pig iron in 1911 and steel in 1912 at Jamshedpur, and kept working through the First World War.
@@ -944,174 +2941,28 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia Tata Power article.
 - **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
 
-#### `in.1920.era.tagline` · tagline · verified
+### in/dd · 1930
 
-> Non-co-operation, new national universities and the first all-India labour federation.
+#### `in.1930.dd.economy-business.national-income` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Bal Gangadhar Tilak](https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak) (reference, 2026-10-13)
-- **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
+> National income: National income was ₹31,435 million in 1930.
 
-#### `in.1920.era.title` · title · verified
+- **Note:** One source (a list on Wikipedia with no stated method).
+- **Source:** [Wikipedia: 1930 in India](https://en.wikipedia.org/wiki/1930_in_India) (reference, 2026-10-18)
 
-> India, 1920
+#### `in.1930.dd.government-politics.sale-of-goods` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Bal Gangadhar Tilak](https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak) (reference, 2026-10-13)
-- **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
+> The Sale of Goods Act, 1930: The Act, enacted on 1 July 1930 and modelled closely on Britain's Sale of Goods Act 1893, set the law on contracts for the sale of goods across British India.
 
-#### `in.1920.headlines.aituc` · headline · verified
+- **Note:** One source.
+- **Source:** [Wikipedia: Sale of Goods Act, 1930](https://en.wikipedia.org/wiki/Sale_of_Goods_Act,_1930) (reference, 2026-10-18)
 
-> 1920-10: All India Trade Union Congress founded at Bombay
+#### `in.1930.dd.sports.lords-173` · summary · unverifiable
 
-- **Note:** Reuses deep-dive item in.1920.dd.freedom-history.aituc-founded; same source.
-- **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
+> Duleepsinhji's 173 at Lord's: In June 1930 K. S. Duleepsinhji scored 173, his highest Test score, for England against Australia at Lord's.
 
-#### `in.1920.headlines.non-cooperation` · headline · verified
-
-> 1920-09-01: Gandhi launches the non-co-operation movement
-
-- **Note:** Reuses deep-dive item in.1920.dd.freedom-history.non-cooperation; same source.
-- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
-
-#### `in.1920.headlines.tilak` · headline · verified
-
-> 1920-08-01: Bal Gangadhar Tilak dies
-
-- **Note:** Reuses deep-dive item in.1920.dd.freedom-history.tilak-dies; same source.
-- **Source:** [Wikipedia: Bal Gangadhar Tilak](https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak) (reference, 2026-10-13)
-
-#### `in.1920.morning.market` · detail · verified
-
-> At the grain shop: Common rice sold retail at about Rs 7.5 a maund in Bombay and Rs 12.5 in Delhi in 1920, near the top of a run of dear years after the war.
-
-- **Note:** Table 300 (p. 778), rows 1920; read from the scan. One maund is 82.286 lb.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1920.morning.school` · detail · verified
-
-> A national school: Within weeks in autumn 1920 Aligarh Muslim University, Gujarat Vidyapith and other national institutions were founded as part of the non-co-operation programme.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Aligarh Muslim University](https://en.wikipedia.org/wiki/Aligarh_Muslim_University) (reference, 2026-10-13)
-
-#### `in.1920.morning.union` · detail · verified
-
-> A trade union meeting: The All India Trade Union Congress was founded in Bombay in October 1920 with Lala Lajpat Rai as its first president.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: All India Trade Union Congress](https://en.wikipedia.org/wiki/All_India_Trade_Union_Congress) (reference, 2026-10-13)
-
-#### `in.1920.morning.young-india` · detail · verified
-
-> A weekly to read: Gandhi edited the English weekly Young India, published from 1919 to 1931.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Young India](https://en.wikipedia.org/wiki/Young_India) (reference, 2026-10-13)
-
-#### `in.1920.places.bedroom` · description · verified
-
-> The reading corner: Gandhi edited the English weekly Young India, published from 1919 to 1931.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.1920.dd.books-reading.young-india); the illustration is generic.
-- **Source:** [Wikipedia: Young India](https://en.wikipedia.org/wiki/Young_India) (reference, 2026-10-13)
-
-#### `in.1920.places.newspaper` · description · verified
-
-> The front page: Gandhi launches the non-co-operation movement (1920-09-01).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-13)
-
-#### `in.1920.places.street` · description · verified
-
-> The street: Tata hydroelectric power: The Tata hydroelectric company commissioned its Khopoli plant in 1915 and a second at Bhivpuri in 1919, bringing hydro power from the Western Ghats to Bombay.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
-
-#### `in.1920.prices.jute` · price · verified
-
-> Jute, wholesale at Calcutta: Rs 97-8-2 per 400-lb bale (Rs 97 annas 8 pies 2 per bale)
-
-- **Note:** Table 298, row 1920.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1920.prices.rice-bombay` · price · verified
-
-> Common rice, retail at Bombay: Rs 7.5 per maund (decimal rupees per maund)
-
-- **Note:** Table 300 (p. 778), row 1920, Bombay column.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1920.prices.rice-delhi` · price · verified
-
-> Common rice, retail at Delhi: Rs 12.5 per maund (decimal rupees per maund)
-
-- **Note:** Table 300, row 1920, Delhi column; a peak year, 1919 was 11.1.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1920.prices.rice-rangoon` · price · verified
-
-> Rice, wholesale at Rangoon (Ngasein): Rs 6-15-3 per cwt (Rs 6 annas 15 pies 3 per hundredweight)
-
-- **Note:** Table 298, row 1920.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1920.prices.tea` · price · verified
-
-> Tea, wholesale at Calcutta (Indian Pekoe): 5 annas 10 pies per lb (Rs 0 annas 5 pies 10 per lb)
-
-- **Note:** Table 298, row 1920.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1920.prices.wheat` · price · verified
-
-> Wheat, wholesale at Calcutta (Club No. 2): Rs 6-12-0 per maund (Rs 6 annas 12 pies 0 per bazaar maund (82.286 lb))
-
-- **Note:** Table 298, row 1920 (p. 774), read from the scan; the 1928 abstract table 295 shows the same figure.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1920.technology.gateway` · description · verified
-
-> Gateway of India (building): The arch at Bombay's waterfront was begun in 1913 and completed in 1924, to commemorate George V's landing in 1911.
-
-- **Note:** Reuses deep-dive item in.1920.dd.music-arts.gateway-of-india; same source.
-- **Source:** [Wikipedia: Gateway of India](https://en.wikipedia.org/wiki/Gateway_of_India) (reference, 2026-10-13)
-
-#### `in.1920.technology.jamshedpur` · description · verified
-
-> Steel at Jamshedpur: The Tata Iron and Steel Company began producing pig iron in 1911 and steel in 1912 at Jamshedpur, and kept working through the First World War.
-
-- **Note:** Reuses deep-dive item in.1920.dd.technology-science.jamshedpur-steel; same source.
-- **Source:** [Wikipedia: Tata Steel](https://en.wikipedia.org/wiki/Tata_Steel) (reference, 2026-10-13)
-
-#### `in.1920.technology.raman-lab` · description · verified
-
-> Raman and the Calcutta laboratories: C. V. Raman became the first Palit Professor of Physics at the University of Calcutta in 1917, and research scholars from several universities worked under him at the Indian Association for the Cultivation of Science.
-
-- **Note:** Reuses deep-dive item in.1920.dd.technology-science.raman-calcutta; same source.
-- **Source:** [Wikipedia: C. V. Raman](https://en.wikipedia.org/wiki/C._V._Raman) (reference, 2026-10-13)
-
-#### `in.1920.technology.saha` · description · verified
-
-> The Saha ionisation equation: Meghnad Saha's work on the thermal ionisation of elements produced the equation, dated about 1920, that lets astronomers relate a star's spectrum to its temperature.
-
-- **Note:** Reuses deep-dive item in.1920.dd.technology-science.saha-ionisation; same source.
-- **Source:** [Wikipedia: Meghnad Saha](https://en.wikipedia.org/wiki/Meghnad_Saha) (reference, 2026-10-13)
-
-#### `in.1920.technology.tata-hydro` · description · verified
-
-> Tata hydroelectric power: The Tata hydroelectric company commissioned its Khopoli plant in 1915 and a second at Bhivpuri in 1919, bringing hydro power from the Western Ghats to Bombay.
-
-- **Note:** Reuses deep-dive item in.1920.dd.technology-science.tata-hydro; same source.
-- **Source:** [Wikipedia: Tata Power](https://en.wikipedia.org/wiki/Tata_Power) (reference, 2026-10-13)
-
-### in · 1930
+- **Note:** One source.
+- **Source:** [Wikipedia: Duleepsinhji](https://en.wikipedia.org/wiki/Duleepsinhji) (reference, 2026-10-18)
 
 #### `in.1930.dd.achievements.deccan-queen-first` · summary · verified
 
@@ -1238,6 +3089,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 1930 in India](https://en.wikipedia.org/wiki/1930_in_India) (reference, 2026-10-13)
 
+#### `in.1930.dd.freedom-history.vedaranyam` · summary · verified
+
+> The Vedaranyam Salt Satyagraha: C. Rajagopalachari led about a hundred volunteers some 240 km from Trichinopoly to Vedaranyam, arriving on 28 April and breaking the salt law on 30 April 1930.
+
+- **Note:** The article gives both 'close to 150' and 'ninety-eight' volunteers; the summary says about a hundred.
+- **Source:** [Wikipedia: Vedaranyam Salt Satyagraha](https://en.wikipedia.org/wiki/Vedaranyam_Salt_Satyagraha) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1930 in India](https://en.wikipedia.org/wiki/1930_in_India) (reference, 2026-10-18)
+
 #### `in.1930.dd.government-politics.interactive-data` · interactive.data · verified
 
 > Interactive data for WhoGoverned
@@ -1342,14 +3201,6 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: C. V. Raman](https://en.wikipedia.org/wiki/C._V._Raman) (reference, 2026-10-13)
 - **Source:** [NobelPrize.org: C. V. Raman, facts (The Nobel Prize in Physics 1930)](https://www.nobelprize.org/prizes/physics/1930/raman/facts/) (primary, 2026-10-13)
 
-#### `in.1930.dd.personalities.duleepsinhji` · summary · verified
-
-> K. S. Duleepsinhji: Cricketer, born in Nawanagar in 1905.
-
-- **Note:** Birth and death years from each person's Wikipedia article; the 1930 fact from the linked event article.
-- **Source:** [Wikipedia: Duleepsinhji](https://en.wikipedia.org/wiki/Duleepsinhji) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1930 English cricket season](https://en.wikipedia.org/wiki/1930_English_cricket_season) (reference, 2026-10-13)
-
 #### `in.1930.dd.personalities.jawaharlal-nehru` · summary · verified
 
 > Jawaharlal Nehru: Born in Allahabad in 1889.
@@ -1357,6 +3208,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Birth and death years from each person's Wikipedia article; the 1930 fact from the linked event article.
 - **Source:** [Wikipedia: Jawaharlal Nehru](https://en.wikipedia.org/wiki/Jawaharlal_Nehru) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
+
+#### `in.1930.dd.personalities.kamaladevi-chattopadhyay` · summary · verified
+
+> Kamaladevi Chattopadhyay: Freedom fighter, organiser and later a champion of Indian handicrafts and theatre.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Kamaladevi Chattopadhyay](https://en.wikipedia.org/wiki/Kamaladevi_Chattopadhyay) (reference, 2026-10-18)
+- **Source:** [Scroll.in: How Mumbai suburban women contributed to the freedom struggle](https://scroll.in/article/1087616/from-the-photo-book-how-mumbai-suburban-women-contributed-to-the-freedom-struggle) (secondary, 2026-10-18)
 
 #### `in.1930.dd.personalities.mohandas-gandhi` · summary · verified
 
@@ -1374,13 +3233,13 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Muhammad Iqbal](https://en.wikipedia.org/wiki/Muhammad_Iqbal) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Allahabad Address](https://en.wikipedia.org/wiki/Allahabad_Address) (reference, 2026-10-13)
 
-#### `in.1930.dd.personalities.s-chandrasekhar` · summary · verified
+#### `in.1930.dd.personalities.sarojini-naidu` · summary · verified
 
-> Subrahmanyan Chandrasekhar: Born in 1910.
+> Sarojini Naidu: Poet and political leader, later the first Indian woman to preside over the Indian National Congress.
 
-- **Note:** Birth and death years from each person's Wikipedia article; the 1930 fact from the linked event article.
-- **Source:** [Wikipedia: Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Chandrasekhar limit](https://en.wikipedia.org/wiki/Chandrasekhar_limit) (reference, 2026-10-13)
+- **Note:** Her Congress presidency came in 1925.
+- **Source:** [Wikipedia: Sarojini Naidu](https://en.wikipedia.org/wiki/Sarojini_Naidu) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Dharasana Satyagraha](https://en.wikipedia.org/wiki/Dharasana_Satyagraha) (reference, 2026-10-18)
 
 #### `in.1930.dd.personalities.surya-sen` · summary · verified
 
@@ -1443,174 +3302,21 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia All India Radio article (single source for the dates).
 - **Source:** [Wikipedia: All India Radio](https://en.wikipedia.org/wiki/All_India_Radio) (reference, 2026-10-13)
 
-#### `in.1930.era.tagline` · tagline · verified
+### in/dd · 1945
 
-> The Salt March, a Nobel Prize for Raman and the Deccan Queen.
+#### `in.1945.dd.economy-business.national-income` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Chittagong armoury raid](https://en.wikipedia.org/wiki/Chittagong_armoury_raid) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
+> National income: National income was ₹77,736 million for 1945.
 
-#### `in.1930.era.title` · title · verified
+- **Note:** One source (a list on Wikipedia with no stated method).
+- **Source:** [Wikipedia: 1945 in India](https://en.wikipedia.org/wiki/1945_in_India) (reference, 2026-10-18)
 
-> India, 1930
+#### `in.1945.dd.government-politics.imf-act` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Chittagong armoury raid](https://en.wikipedia.org/wiki/Chittagong_armoury_raid) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
+> The International Monetary Fund and Bank Act, 1945: The International Monetary Fund and Bank Act was one of the laws passed by the Government of India in 1945.
 
-#### `in.1930.headlines.chittagong` · headline · verified
-
-> 1930-04-18: Revolutionaries attempt to raid armouries at Chittagong
-
-- **Note:** Reuses deep-dive item in.1930.dd.freedom-history.chittagong-raid; same source.
-- **Source:** [Wikipedia: Chittagong armoury raid](https://en.wikipedia.org/wiki/Chittagong_armoury_raid) (reference, 2026-10-13)
-
-#### `in.1930.headlines.independence-day` · headline · verified
-
-> 1930-01-26: Congress asks the country to observe Independence Day
-
-- **Note:** Reuses deep-dive item in.1930.dd.freedom-history.purna-swaraj; same source.
-- **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
-
-#### `in.1930.headlines.salt-march` · headline · verified
-
-> 1930-03-12: Gandhi sets out from Sabarmati on the Salt March
-
-- **Note:** Reuses deep-dive item in.1930.dd.freedom-history.salt-march; same source.
-- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-13)
-
-#### `in.1930.morning.market` · detail · verified
-
-> At the grain shop: Common rice sold retail at about Rs 7.4 a maund in Bombay and Rs 10 in Delhi in 1930, as prices fell in the depression.
-
-- **Note:** Table 300 (p. 778), row 1930; read from the scan.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1930.morning.radio` · detail · verified
-
-> State broadcasting: After the private Indian Broadcasting Company went into liquidation on 1 March 1930, the government took over its stations and started the Indian State Broadcasting Service.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: All India Radio](https://en.wikipedia.org/wiki/All_India_Radio) (reference, 2026-10-13)
-
-#### `in.1930.morning.train` · detail · verified
-
-> The Deccan Queen: The Deccan Queen began running between Bombay and Poona on 1 June 1930, described as India's first superfast, electric-hauled long-distance train.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
-
-#### `in.1930.morning.young-india` · detail · verified
-
-> A weekly to read: Gandhi's English weekly Young India was in its twelfth year; it ran from 1919 to 1931.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Young India](https://en.wikipedia.org/wiki/Young_India) (reference, 2026-10-13)
-
-#### `in.1930.places.bedroom` · description · verified
-
-> The reading corner: Tagore's two-part Bengali primer Sahaj Path is dated 1930 in the list of his works.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.1930.dd.books-reading.sahaj-path); the illustration is generic.
-- **Source:** [Wikipedia: List of works by Rabindranath Tagore](https://en.wikipedia.org/wiki/List_of_works_by_Rabindranath_Tagore) (reference, 2026-10-13)
-
-#### `in.1930.places.newspaper` · description · verified
-
-> The front page: Congress asks the country to observe Independence Day (1930-01-26).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Purna Swaraj](https://en.wikipedia.org/wiki/Purna_Swaraj) (reference, 2026-10-13)
-
-#### `in.1930.places.street` · description · verified
-
-> The street: The Deccan Queen: The Deccan Queen began running on 1 June 1930 between Bombay and Poona. It is described as India's first superfast, long-distance electric-hauled and vestibuled train, with a women-only car and a dining car.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
-
-#### `in.1930.prices.jute` · price · verified
-
-> Jute, wholesale at Calcutta: Rs 50-4-9 per 400-lb bale (Rs 50 annas 4 pies 9 per bale)
-
-- **Note:** Table 298, row 1930; 1920 was Rs 97-8-2.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1930.prices.rice-bombay` · price · verified
-
-> Common rice, retail at Bombay: Rs 7.4 per maund (decimal rupees per maund)
-
-- **Note:** Table 300, row 1930, Bombay column.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1930.prices.rice-delhi` · price · verified
-
-> Common rice, retail at Delhi: Rs 10.0 per maund (decimal rupees per maund)
-
-- **Note:** Table 300, row 1930, Delhi column.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1930.prices.rice-rangoon` · price · verified
-
-> Rice, wholesale at Rangoon (Ngasein): Rs 5-2-0 per cwt (Rs 5 annas 2 pies 0 per hundredweight)
-
-- **Note:** Table 298, row 1930.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1930.prices.tea` · price · verified
-
-> Tea, wholesale at Calcutta (Indian Pekoe): 9 annas 7 pies per lb (Rs 0 annas 9 pies 7 per lb)
-
-- **Note:** Table 298, row 1930.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1930.prices.wheat` · price · verified
-
-> Wheat, wholesale at Calcutta (Club No. 2): Rs 4-5-1 per maund (Rs 4 annas 5 pies 1 per bazaar maund (82.286 lb))
-
-- **Note:** Table 298, row 1930 (p. 774), read from the scan. In 1920 it was Rs 6-12-0.
-- **Source:** [Statistical Abstract relating to British India, 1923-24 to 1932-33 (Government of India, 1935), tables 298 and 300, pp. 774 and 778, via the Internet Archive](https://archive.org/details/india.history.resource.108773) (primary, 2026-10-14)
-
-#### `in.1930.technology.broadcasting` · description · verified
-
-> State broadcasting begins: After the private Indian Broadcasting Company went into liquidation on 1 March 1930, the government took over its stations and launched the Indian State Broadcasting Service on 1 April 1930.
-
-- **Note:** Reuses deep-dive item in.1930.dd.technology-science.state-broadcasting; same source.
-- **Source:** [Wikipedia: All India Radio](https://en.wikipedia.org/wiki/All_India_Radio) (reference, 2026-10-13)
-
-#### `in.1930.technology.chandrasekhar` · description · verified
-
-> Chandrasekhar's voyage calculations: On a trip from India to England in 1930, the young physicist Subrahmanyan Chandrasekhar worked on the statistics of a degenerate Fermi gas, the start of papers that led to the Chandrasekhar limit for white dwarfs.
-
-- **Note:** Reuses deep-dive item in.1930.dd.technology-science.chandrasekhar-voyage; same source.
-- **Source:** [Wikipedia: Chandrasekhar limit](https://en.wikipedia.org/wiki/Chandrasekhar_limit) (reference, 2026-10-13)
-
-#### `in.1930.technology.deccan-queen` · description · verified
-
-> The Deccan Queen: The Deccan Queen began running on 1 June 1930 between Bombay and Poona. It is described as India's first superfast, long-distance electric-hauled and vestibuled train, with a women-only car and a dining car.
-
-- **Note:** Reuses deep-dive item in.1930.dd.technology-science.deccan-queen; same source.
-- **Source:** [Wikipedia: Deccan Queen](https://en.wikipedia.org/wiki/Deccan_Queen) (reference, 2026-10-13)
-
-#### `in.1930.technology.raman-effect` · description · verified
-
-> The Raman effect: C. V. Raman won the 1930 Nobel Prize in Physics 'for his work on the scattering of light and for the discovery of the effect named after him'.
-
-- **Note:** Reuses deep-dive item in.1930.dd.technology-science.raman-effect; same source.
-- **Source:** [NobelPrize.org: C. V. Raman, facts (The Nobel Prize in Physics 1930)](https://www.nobelprize.org/prizes/physics/1930/raman/facts/) (primary, 2026-10-13)
-
-#### `in.1930.technology.silent-film` · description · verified
-
-> Cinema: Hamara Hindustan: A social film directed by R. S. Choudhary for the Imperial Film Company, with Sulochana (Ruby Myers).
-
-- **Note:** Reuses deep-dive item in.1930.dd.cinema.hamara-hindustan; same source.
-- **Source:** [Wikipedia: List of Hindi films of 1930](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1930) (reference, 2026-10-13)
-
-### in · 1945
+- **Note:** One source, which lists the Act without detail; the summary is limited to what is stated.
+- **Source:** [Wikipedia: 1945 in India](https://en.wikipedia.org/wiki/1945_in_India) (reference, 2026-10-18)
 
 #### `in.1945.dd.achievements.interactive-data` · interactive.data · verified
 
@@ -1919,132 +3625,7 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Homi J. Bhabha](https://en.wikipedia.org/wiki/Homi_J._Bhabha) (reference, 2026-10-13)
 
-#### `in.1945.era.tagline` · tagline · verified
-
-> A war ends, a famine is reported and the Simla Conference fails.
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Simla Conference](https://en.wikipedia.org/wiki/Simla_Conference) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Indian National Army trials](https://en.wikipedia.org/wiki/Indian_National_Army_trials) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
-- **Source:** [Wikipedia: All India Council for Technical Education](https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education) (reference, 2026-10-13)
-
-#### `in.1945.era.title` · title · verified
-
-> India, 1945
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Simla Conference](https://en.wikipedia.org/wiki/Simla_Conference) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Indian National Army trials](https://en.wikipedia.org/wiki/Indian_National_Army_trials) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
-- **Source:** [Wikipedia: All India Council for Technical Education](https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education) (reference, 2026-10-13)
-
-#### `in.1945.headlines.ina` · headline · verified
-
-> 1945-11: Officers of the Indian National Army tried at the Red Fort
-
-- **Note:** Reuses deep-dive item in.1945.dd.freedom-history.ina-trials; same source.
-- **Source:** [Wikipedia: Indian National Army trials](https://en.wikipedia.org/wiki/Indian_National_Army_trials) (reference, 2026-10-13)
-
-#### `in.1945.headlines.simla` · headline · verified
-
-> 1945-06: The Simla Conference meets
-
-- **Note:** Reuses deep-dive item in.1945.dd.freedom-history.simla-conference; same source.
-- **Source:** [Wikipedia: Simla Conference](https://en.wikipedia.org/wiki/Simla_Conference) (reference, 2026-10-13)
-
-#### `in.1945.headlines.tifr` · headline · verified
-
-> 1945-06-01: Tata Institute of Fundamental Research is established in Bombay
-
-- **Note:** Reuses deep-dive item in.1945.dd.technology-science.tifr-founded; same source.
-- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
-
-#### `in.1945.morning.cricket` · detail · verified
-
-> The Ranji final: Bombay beat Holkar by 374 runs in a timeless final played from 4 to 9 March 1945.
-
-- **Note:** Reuses deep-dive item; two sources there.
-- **Source:** [Wikipedia: 1944–45 Ranji Trophy](https://en.wikipedia.org/wiki/1944–45_Ranji_Trophy) (reference, 2026-10-13)
-
-#### `in.1945.morning.film` · detail · verified
-
-> A night at the cinema: Zeenat, with its qawwali, was the highest-grossing Indian film of 1945.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Zeenat (1945 film)](https://en.wikipedia.org/wiki/Zeenat_(1945_film)) (reference, 2026-10-13)
-
-#### `in.1945.morning.novel` · detail · verified
-
-> A new novel: The first edition of R. K. Narayan's novel The English Teacher appeared in 1945.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: The English Teacher](https://en.wikipedia.org/wiki/The_English_Teacher) (reference, 2026-10-13)
-
-#### `in.1945.morning.theatre` · detail · verified
-
-> People's theatre: IPTA, formed in Bombay on 25 May 1943, took theatre to audiences with themes from the freedom struggle and, after the famine, the plight of Bengal.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Indian People's Theatre Association](https://en.wikipedia.org/wiki/Indian_People's_Theatre_Association) (reference, 2026-10-13)
-
-#### `in.1945.places.bedroom` · description · verified
-
-> The reading corner: The first edition of R. K. Narayan's novel The English Teacher appeared in 1945.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.1945.dd.books-reading.english-teacher-edition); the illustration is generic.
-- **Source:** [Wikipedia: The English Teacher](https://en.wikipedia.org/wiki/The_English_Teacher) (reference, 2026-10-13)
-
-#### `in.1945.places.newspaper` · description · verified
-
-> The front page: The Simla Conference meets (1945-06).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Simla Conference](https://en.wikipedia.org/wiki/Simla_Conference) (reference, 2026-10-13)
-
-#### `in.1945.places.street` · description · verified
-
-> The street: Tata Institute of Fundamental Research: The Tata Institute of Fundamental Research was established on 1 June 1945 in Bombay; its founder was the physicist Homi Bhabha.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
-
-#### `in.1945.technology.aicte` · description · verified
-
-> A council for technical education: The All India Council for Technical Education was established in November 1945 as an advisory body for engineering and technical schooling.
-
-- **Note:** Reuses deep-dive item in.1945.dd.technology-science.aicte; same source.
-- **Source:** [Wikipedia: All India Council for Technical Education](https://en.wikipedia.org/wiki/All_India_Council_for_Technical_Education) (reference, 2026-10-13)
-
-#### `in.1945.technology.bajaj` · description · verified
-
-> Bajaj Auto begins: Bajaj Auto was founded by Jamnalal Bajaj on 29 November 1945.
-
-- **Note:** Reuses deep-dive item in.1945.dd.technology-science.bajaj-auto; same source.
-- **Source:** [Wikipedia: Bajaj Auto](https://en.wikipedia.org/wiki/Bajaj_Auto) (reference, 2026-10-13)
-
-#### `in.1945.technology.ipta` · description · verified
-
-> Travelling theatre: IPTA, formed in Bombay on 25 May 1943, took theatre to audiences with themes from the freedom struggle and, after the famine, the plight of Bengal.
-
-- **Note:** Reuses deep-dive item in.1945.dd.music-arts.ipta; same source.
-- **Source:** [Wikipedia: Indian People's Theatre Association](https://en.wikipedia.org/wiki/Indian_People's_Theatre_Association) (reference, 2026-10-13)
-
-#### `in.1945.technology.tifr` · description · verified
-
-> Tata Institute of Fundamental Research: The Tata Institute of Fundamental Research was established on 1 June 1945 in Bombay; its founder was the physicist Homi Bhabha.
-
-- **Note:** Reuses deep-dive item in.1945.dd.technology-science.tifr-founded; same source.
-- **Source:** [Wikipedia: Tata Institute of Fundamental Research](https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research) (reference, 2026-10-13)
-
-#### `in.1945.technology.zeenat` · description · verified
-
-> Cinema: Zeenat: Shaukat Hussain Rizvi's social melodrama starring Noor Jehan was the highest-grossing Indian film of 1945, known for its qawwali 'Aahen Na Bharin Shikwe Na Kiye'.
-
-- **Note:** Reuses deep-dive item in.1945.dd.cinema.zeenat; same source.
-- **Source:** [Wikipedia: Zeenat (1945 film)](https://en.wikipedia.org/wiki/Zeenat_(1945_film)) (reference, 2026-10-13)
-
-### in · 1960
+### in/dd · 1960
 
 #### `in.1960.dd.economy-business.population-1961` · summary · corrected
 
@@ -2056,6 +3637,20 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: 1961 census of India](https://en.wikipedia.org/wiki/1961_census_of_India) (reference, 2026-10-13)
 - **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
 - **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
+
+#### `in.1960.dd.economy-business.national-income` · summary · unverifiable
+
+> National income: National income was ₹176,333 million in 1960.
+
+- **Note:** One source (a list on Wikipedia with no stated method).
+- **Source:** [Wikipedia: 1960 in India](https://en.wikipedia.org/wiki/1960_in_India) (reference, 2026-10-18)
+
+#### `in.1960.dd.government-politics.ninth-amendment` · summary · unverifiable
+
+> The Ninth Amendment: The Constitution (Ninth Amendment), in force from 28 December 1960, made minor adjustments to the territory of the Union after an agreement with Pakistan to settle disputes by demarcating border villages.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: Ninth Amendment of the Constitution of India](https://en.wikipedia.org/wiki/Ninth_Amendment_of_the_Constitution_of_India) (reference, 2026-10-18)
 
 #### `in.1960.dd.achievements.cirus-critical` · summary · verified
 
@@ -2155,6 +3750,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Bombay State](https://en.wikipedia.org/wiki/Bombay_State) (reference, 2026-10-13)
 
+#### `in.1960.dd.freedom-history.nanavati` · summary · verified
+
+> The Nanavati case: The Bombay High Court overturned a jury's not-guilty verdict on 11 March 1960 in the trial of Commander K. M. Nanavati for shooting his wife's lover, and sentenced him to life; the case drew unprecedented press coverage and the Supreme Court upheld it on 24 November 1961.
+
+- **Note:** The 11 March date is from the 1960 list; the case article gives no date for the High Court judgment.
+- **Source:** [Wikipedia: K. M. Nanavati v. State of Maharashtra](https://en.wikipedia.org/wiki/K._M._Nanavati_v._State_of_Maharashtra) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1960 in India](https://en.wikipedia.org/wiki/1960_in_India) (reference, 2026-10-18)
+
 #### `in.1960.dd.freedom-history.nehru-zhou` · summary · verified
 
 > Nehru and Zhou Enlai agree to talks: In 1960 Nehru and Zhou Enlai agreed that officials of both countries would examine the historical basis of the boundary dispute; the sides disagreed on the western sector.
@@ -2176,6 +3779,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Maharashtra Day article; Bombay State infobox ('Split into Maharashtra and Gujarat', 1960).
 - **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Bombay State](https://en.wikipedia.org/wiki/Bombay_State) (reference, 2026-10-13)
+
+#### `in.1960.dd.government-politics.bro` · summary · verified
+
+> The Border Roads Organisation: The Border Roads Organisation was formed on 7 May 1960 to secure India's borders and develop roads in remote northern and north-eastern areas; its first projects were raised that May.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Border Roads Organisation](https://en.wikipedia.org/wiki/Border_Roads_Organisation) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1960 in India](https://en.wikipedia.org/wiki/1960_in_India) (reference, 2026-10-18)
 
 #### `in.1960.dd.government-politics.interactive-data` · interactive.data · verified
 
@@ -2269,6 +3880,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: K. Asif](https://en.wikipedia.org/wiki/K._Asif) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
 
+#### `in.1960.dd.personalities.lata-mangeshkar` · summary · verified
+
+> Lata Mangeshkar: Playback singer whose voice carried Hindi film songs for decades, later one of the most recorded artists in history.
+
+- **Note:** The article gives years, not exact release dates.
+- **Source:** [Wikipedia: Lata Mangeshkar](https://en.wikipedia.org/wiki/Lata_Mangeshkar) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-18)
+
 #### `in.1960.dd.personalities.madhubala` · summary · verified
 
 > Madhubala: Actress, born in 1933.
@@ -2284,14 +3903,6 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Birth and death dates from each person's Wikipedia infobox; the 1960 fact from the linked article.
 - **Source:** [Wikipedia: Milkha Singh](https://en.wikipedia.org/wiki/Milkha_Singh) (reference, 2026-10-13)
 - **Source:** [Olympedia: 400 metres, Men (Rome 1960)](https://www.olympedia.org/results/59661) (primary, 2026-10-13)
-
-#### `in.1960.dd.personalities.rajendra-prasad` · summary · verified
-
-> Rajendra Prasad: President of India, born in 1884.
-
-- **Note:** Birth and death dates from each person's Wikipedia infobox; the 1960 fact from the linked article.
-- **Source:** [Wikipedia: Rajendra Prasad](https://en.wikipedia.org/wiki/Rajendra_Prasad) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1960 in India](https://en.wikipedia.org/wiki/1960_in_India) (reference, 2026-10-13)
 
 #### `in.1960.dd.personalities.satyajit-ray` · summary · verified
 
@@ -2369,174 +3980,21 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia article (the 1965 end date carries a 'citation needed' tag there).
 - **Source:** [Wikipedia: TIFRAC](https://en.wikipedia.org/wiki/TIFRAC) (reference, 2026-10-13)
 
-#### `in.1960.era.tagline` · tagline · verified
+### in/dd · 1970
 
-> Steel, a research reactor and two new states.
+#### `in.1970.dd.economy-business.national-income` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
-- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
-- **Source:** [Wikipedia: TIFRAC](https://en.wikipedia.org/wiki/TIFRAC) (reference, 2026-10-13)
+> National income: National income was ₹468,169 million in 1970 (a different table gives it in the existing indicator above).
 
-#### `in.1960.era.title` · title · verified
+- **Note:** One source with no method stated; see also the existing national income indicator.
+- **Source:** [Wikipedia: 1970 in India](https://en.wikipedia.org/wiki/1970_in_India) (reference, 2026-10-18)
 
-> India, 1960
+#### `in.1970.dd.personalities.hema-malini` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
-- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
-- **Source:** [Wikipedia: TIFRAC](https://en.wikipedia.org/wiki/TIFRAC) (reference, 2026-10-13)
+> Hema Malini: Actress, later a director, producer and politician, promoted from 1968 as the 'Dream Girl'.
 
-#### `in.1960.headlines.cirus` · headline · verified
-
-> 1960-07: India's CIRUS research reactor goes critical
-
-- **Note:** Reuses deep-dive item in.1960.dd.technology-science.cirus; same source.
-- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
-
-#### `in.1960.headlines.mughal` · headline · verified
-
-> 1960-08-05: Mughal-e-Azam is released
-
-- **Note:** Reuses deep-dive item in.1960.dd.cinema.mughal-e-azam; same source.
-- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
-
-#### `in.1960.headlines.states` · headline · verified
-
-> 1960-05-01: Maharashtra formed from the division of Bombay State, with Gujarat
-
-- **Note:** Reuses deep-dive item in.1960.dd.freedom-history.maharashtra-gujarat; same source.
-- **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
-
-#### `in.1960.morning.children` · detail · verified
-
-> Chandamama for the children: The children's monthly Chandamama was founded in 1947, first in Telugu, and later appeared in many Indian languages.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Chandamama](https://en.wikipedia.org/wiki/Chandamama) (reference, 2026-10-13)
-
-#### `in.1960.morning.cinema` · detail · verified
-
-> Mughal-e-Azam in the cinema: K. Asif's epic, released on 5 August 1960, became the highest-grossing Indian film.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-13)
-
-#### `in.1960.morning.radio` · detail · verified
-
-> Vividh Bharati on the radio: All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
-
-#### `in.1960.morning.weekly` · detail · verified
-
-> The Illustrated Weekly: An English-language weekly newsmagazine, begun in 1880 as the Times of India's weekly edition and renamed in 1923.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: The Illustrated Weekly of India](https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India) (reference, 2026-10-13)
-
-#### `in.1960.places.bedroom` · description · verified
-
-> The living room: All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.1960.dd.music-arts.vividh-bharati); the illustration is generic.
-- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
-
-#### `in.1960.places.newspaper` · description · verified
-
-> The front page: Maharashtra formed from the division of Bombay State, with Gujarat (1960-05-01).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day) (reference, 2026-10-13)
-
-#### `in.1960.places.street` · description · verified
-
-> The street: The CIRUS research reactor: CIRUS, a 40 MW research reactor at Trombay near Bombay supplied by Canada, first went critical in July 1960. It ran on natural uranium with heavy water supplied by the United States.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
-
-#### `in.1960.prices.exchange` · price · verified
-
-> Rupees to the US dollar (annual average): Rs 4.76 (official rate, rupees per US dollar)
-
-- **Note:** World Bank series PA.NUS.FCRF.
-- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
-
-#### `in.1960.prices.gold` · price · verified
-
-> Gold, spot at Bombay (average of 1960-61): Rs 114.91 per 10 grams (decimal rupees per 10 grams; highest 124.40, lowest 107.12)
-
-- **Note:** Table 167; Reserve Bank of India series for the year April 1960 to March 1961.
-- **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
-
-#### `in.1960.prices.mutton` · price · verified
-
-> Mutton, wholesale at Calcutta: Rs 308.11 per quintal (decimal rupees per quintal)
-
-- **Note:** Table 86, p. 224, annual 1960.
-- **Source:** [Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive](https://archive.org/details/dli.ministry.23179) (primary, 2026-10-14)
-
-#### `in.1960.prices.rice` · price · verified
-
-> Rice, aman medium, wholesale at Calcutta: Rs 67.43 per quintal (decimal rupees per quintal (100 kg))
-
-- **Note:** Table 86, p. 223, annual 1960. Wholesale, last-week-of-month averages.
-- **Source:** [Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive](https://archive.org/details/dli.ministry.23179) (primary, 2026-10-14)
-
-#### `in.1960.prices.sugar` · price · verified
-
-> Sugar (E-27), wholesale at Kanpur: Rs 57.72 per quintal (decimal rupees per quintal)
-
-- **Note:** Table 86, p. 224, annual 1960.
-- **Source:** [Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive](https://archive.org/details/dli.ministry.23179) (primary, 2026-10-14)
-
-#### `in.1960.prices.wheat` · price · verified
-
-> Wheat, ordinary, wholesale at Hapur: Rs 47.51 per quintal (decimal rupees per quintal)
-
-- **Note:** Table 86, p. 223, annual 1960.
-- **Source:** [Statistical Abstract of the Indian Union, New Series no. 10 (Central Statistical Organisation, 1961), table 86, pp. 223-224, via the Internet Archive](https://archive.org/details/dli.ministry.23179) (primary, 2026-10-14)
-
-#### `in.1960.technology.bhilai` · description · verified
-
-> Bhilai Steel Plant: The Bhilai Steel Plant, set up with Soviet help from 1955, became India's main producer of steel rails.
-
-- **Note:** Reuses deep-dive item in.1960.dd.technology-science.bhilai-steel; same source.
-- **Source:** [Wikipedia: Bhilai Steel Plant](https://en.wikipedia.org/wiki/Bhilai_Steel_Plant) (reference, 2026-10-13)
-
-#### `in.1960.technology.cirus` · description · verified
-
-> The CIRUS research reactor: CIRUS, a 40 MW research reactor at Trombay near Bombay supplied by Canada, first went critical in July 1960. It ran on natural uranium with heavy water supplied by the United States.
-
-- **Note:** Reuses deep-dive item in.1960.dd.technology-science.cirus; same source.
-- **Source:** [Wikipedia: CIRUS reactor](https://en.wikipedia.org/wiki/CIRUS_reactor) (reference, 2026-10-13)
-
-#### `in.1960.technology.iit-kanpur` · description · verified
-
-> IIT Kanpur: IIT Kanpur began in December 1959 on the campus of the Harcourt Butler Technological Institute and was established by an Act of Parliament in 1960.
-
-- **Note:** Reuses deep-dive item in.1960.dd.technology-science.iit-kanpur; same source.
-- **Source:** [Wikipedia: IIT Kanpur](https://en.wikipedia.org/wiki/IIT_Kanpur) (reference, 2026-10-13)
-
-#### `in.1960.technology.tifrac` · description · verified
-
-> TIFRAC, India's first home-built computer: The Tata Institute of Fundamental Research Automatic Calculator, based on the IAS machine design, was formally commissioned and named by Nehru in 1960 and stayed in use until 1965.
-
-- **Note:** Reuses deep-dive item in.1960.dd.technology-science.tifrac; same source.
-- **Source:** [Wikipedia: TIFRAC](https://en.wikipedia.org/wiki/TIFRAC) (reference, 2026-10-13)
-
-#### `in.1960.technology.vividh-bharati` · description · verified
-
-> Vividh Bharati radio service: All India Radio launched the Vividh Bharati entertainment service on 3 October 1957, carrying film music and commercials.
-
-- **Note:** Reuses deep-dive item in.1960.dd.music-arts.vividh-bharati; same source.
-- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
-
-### in · 1970
+- **Note:** One source.
+- **Source:** [Wikipedia: Hema Malini](https://en.wikipedia.org/wiki/Hema_Malini) (reference, 2026-10-18)
 
 #### `in.1970.dd.achievements.asian-games-25` · summary · verified
 
@@ -2649,6 +4107,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Count as printed in the 1974 statistical abstract (primary); the RBI and Economic Survey series cite 548,160 thousand, a later revision.
 - **Source:** [Wikipedia: 1971 census of India](https://en.wikipedia.org/wiki/1971_census_of_India) (reference, 2026-10-13)
 - **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
+
+#### `in.1970.dd.freedom-history.kerala-election` · summary · verified
+
+> The Kerala election of 1970: On 17 September 1970 Kerala voted for its fourth assembly; no party won a majority of the 133 seats (Congress 30, CPI(M) 29, CPI 16, Muslim League 11), and C. Achutha Menon of the CPI became chief minister at the head of a United Front with Congress support.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 Kerala Legislative Assembly election](https://en.wikipedia.org/wiki/1970_Kerala_Legislative_Assembly_election) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1970 in India](https://en.wikipedia.org/wiki/1970_in_India) (reference, 2026-10-18)
 
 #### `in.1970.dd.freedom-history.operation-flood` · summary · verified
 
@@ -2772,21 +4238,13 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Days and Nights in the Forest](https://en.wikipedia.org/wiki/Days_and_Nights_in_the_Forest) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Pratidwandi](https://en.wikipedia.org/wiki/Pratidwandi) (reference, 2026-10-13)
 
-#### `in.1970.dd.personalities.sunil-gavaskar` · summary · verified
+#### `in.1970.dd.personalities.sharmila-tagore` · summary · verified
 
-> Sunil Gavaskar: Opening batsman, born in 1949.
+> Sharmila Tagore: Actress in Hindi and Bengali films since Satyajit Ray's Apur Sansar (1959).
 
-- **Note:** Birth and death dates from each person's Wikipedia infobox; the 1970 fact from the linked article.
-- **Source:** [Wikipedia: Sunil Gavaskar](https://en.wikipedia.org/wiki/Sunil_Gavaskar) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1969–70 Ranji Trophy](https://en.wikipedia.org/wiki/1969–70_Ranji_Trophy) (reference, 2026-10-13)
-
-#### `in.1970.dd.personalities.v-v-giri` · summary · verified
-
-> V. V. Giri: President, born in 1894.
-
-- **Note:** Birth and death dates from each person's Wikipedia infobox; the 1970 fact from the linked article.
-- **Source:** [Wikipedia: V. V. Giri](https://en.wikipedia.org/wiki/V._V._Giri) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
+- **Note:** Born in Cawnpore (Kanpur); her base was in the Bengali film world. Her Filmfare Best Actress award for Aradhana was presented in 1970.
+- **Source:** [Wikipedia: Sharmila Tagore](https://en.wikipedia.org/wiki/Sharmila_Tagore) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Aranyer Din Ratri](https://en.wikipedia.org/wiki/Aranyer_Din_Ratri) (reference, 2026-10-18)
 
 #### `in.1970.dd.personalities.verghese-kurien` · summary · verified
 
@@ -2857,181 +4315,22 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia article: commissioned 28 October 1969, units 1 and 2 BWR-1.
 - **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
 
-#### `in.1970.era.tagline` · tagline · verified
+### in/dd · 1984
 
-> A milk grid, a rock memorial and the end of the privy purses.
+#### `in.1984.dd.cinema.ghare-baire` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Privy purse in India](https://en.wikipedia.org/wiki/Privy_purse_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
+> Ghare Baire: Satyajit Ray's film of Tagore's novel, with Soumitra Chatterjee, Victor Banerjee and Swatilekha Sengupta, released on 22 May 1984.
 
-#### `in.1970.era.title` · title · verified
+- **Note:** One source.
+- **Source:** [Wikipedia: Ghare Baire (film)](https://en.wikipedia.org/wiki/Ghare_Baire_(film)) (reference, 2026-10-18)
 
-> India, 1970
+#### `in.1984.dd.personalities.satyajit-ray` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Privy purse in India](https://en.wikipedia.org/wiki/Privy_purse_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
+> Satyajit Ray: Film-maker, writer and composer of Calcutta.
 
-#### `in.1970.headlines.operation-flood` · headline · verified
-
-> 1970-01-13: Operation Flood, the 'White Revolution', is launched
-
-- **Note:** Reuses deep-dive item in.1970.dd.freedom-history.operation-flood; same source.
-- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
-
-#### `in.1970.headlines.privy-purses` · headline · verified
-
-> 1970-09-06: President orders that all former rulers cease to be recognised, ending privy purses
-
-- **Note:** Reuses deep-dive item in.1970.dd.freedom-history.privy-purse-order; same source.
-- **Source:** [Wikipedia: Privy purse in India](https://en.wikipedia.org/wiki/Privy_purse_in_India) (reference, 2026-10-13)
-
-#### `in.1970.headlines.rock-memorial` · headline · verified
-
-> 1970-09-02: Vivekananda Rock Memorial opened at Kanyakumari
-
-- **Note:** Reuses deep-dive item in.1970.dd.freedom-history.rock-memorial; same source.
-- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
-
-#### `in.1970.morning.comics` · detail · verified
-
-> Amar Chitra Katha: The comic-book series, founded by Anant Pai in 1967, retold myths and history.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Amar Chitra Katha](https://en.wikipedia.org/wiki/Amar_Chitra_Katha) (reference, 2026-10-13)
-
-#### `in.1970.morning.milk` · detail · verified
-
-> Milk from a co-operative: Operation Flood, launched on 13 January 1970 by the National Dairy Development Board, built a national milk grid linking village co-operatives to consumers.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
-
-#### `in.1970.morning.radio` · detail · verified
-
-> Film music on Vividh Bharati: All India Radio's Vividh Bharati service, launched on 3 October 1957, carried film music and commercials across India.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
-
-#### `in.1970.morning.weekly` · detail · verified
-
-> The Illustrated Weekly: An English-language weekly newsmagazine published from 1880 to 1993.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: The Illustrated Weekly of India](https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India) (reference, 2026-10-13)
-
-#### `in.1970.places.bedroom` · description · verified
-
-> The living room: The Amar Chitra Katha comic-book series, founded by Anant Pai in 1967, retold myths and history.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.1970.dd.books-reading.amar-chitra-katha); the illustration is generic.
-- **Source:** [Wikipedia: Amar Chitra Katha](https://en.wikipedia.org/wiki/Amar_Chitra_Katha) (reference, 2026-10-13)
-
-#### `in.1970.places.newspaper` · description · verified
-
-> The front page: Operation Flood, the 'White Revolution', is launched (1970-01-13).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
-
-#### `in.1970.places.street` · description · verified
-
-> The street: Tarapur Atomic Power Station: India's first nuclear power station, Tarapur, with two boiling-water reactors, was commissioned on 28 October 1969.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
-
-#### `in.1970.prices.exchange` · price · verified
-
-> Rupees to the US dollar (annual average): Rs 7.50 (official rate, rupees per US dollar)
-
-- **Note:** World Bank series PA.NUS.FCRF.
-- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
-
-#### `in.1970.prices.gold` · price · verified
-
-> Gold, spot at Bombay (average of 1970-71): Rs 184.96 per 10 grams (decimal rupees per 10 grams; highest 198.00, lowest 177.50)
-
-- **Note:** Table 167; Reserve Bank of India series for April 1970 to March 1971.
-- **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
-
-#### `in.1970.prices.milk` · price · verified
-
-> Milk, wholesale at Delhi: Rs 127.08 per 100 litres (decimal rupees per 100 litres)
-
-- **Note:** Table 161, p. 394, row 1970.
-- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
-
-#### `in.1970.prices.petrol` · price · verified
-
-> Petrol, ex-pump, in bulk at Calcutta: Rs 1,190.30 per kilolitre (decimal rupees per kilolitre, inclusive of sale tax)
-
-- **Note:** Table 161, p. 395, row 1970; a wholesale price, not the pump price.
-- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
-
-#### `in.1970.prices.rice` · price · verified
-
-> Rice, coarse second sort, wholesale at Vijayawada: Rs 93.17 per quintal (decimal rupees per quintal)
-
-- **Note:** Table 161, p. 393, row 1970.
-- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
-
-#### `in.1970.prices.sugar` · price · verified
-
-> Sugar (D-29), ex-factory at Kanpur: Rs 157.02 per quintal (decimal rupees per quintal; the average control price of all factories in Uttar Pradesh)
-
-- **Note:** Table 161, p. 394, row 1970, with the control-price footnote.
-- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
-
-#### `in.1970.prices.wheat` · price · verified
-
-> Wheat, dara, wholesale at Abohar: Rs 90.05 per quintal (decimal rupees per quintal)
-
-- **Note:** Table 161, p. 393, row 1970.
-- **Source:** [Statistical Abstract India 1974 (Central Statistical Organisation), table 161: Wholesale prices of certain staple articles of trade, pp. 393-395, via the Internet Archive](https://archive.org/details/dli.ministry.23183) (primary, 2026-10-14)
-
-#### `in.1970.technology.isro` · description · verified
-
-> ISRO takes its name: The Indian National Committee for Space Research, set up in 1962 on Vikram Sarabhai's recommendation, was renamed the Indian Space Research Organisation on 15 August 1969.
-
-- **Note:** Reuses deep-dive item in.1970.dd.technology-science.isro-formed; same source.
-- **Source:** [Wikipedia: ISRO](https://en.wikipedia.org/wiki/ISRO) (reference, 2026-10-13)
-
-#### `in.1970.technology.milk-grid` · description · verified
-
-> The national milk grid: Operation Flood, launched on 13 January 1970 by the National Dairy Development Board, built a national milk grid linking village co-operatives to consumers in over 700 towns and cities.
-
-- **Note:** Reuses deep-dive item in.1970.dd.technology-science.milk-grid; same source.
-- **Source:** [Wikipedia: White revolution (India)](https://en.wikipedia.org/wiki/White_revolution_(India)) (reference, 2026-10-13)
-
-#### `in.1970.technology.rock-memorial` · description · verified
-
-> Vivekananda Rock Memorial: The memorial at Kanyakumari, opened on 2 September 1970, stands on a rock off the southern tip of India.
-
-- **Note:** Reuses deep-dive item in.1970.dd.music-arts.rock-memorial-art; same source.
-- **Source:** [Wikipedia: Vivekananda Rock Memorial](https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial) (reference, 2026-10-13)
-
-#### `in.1970.technology.tarapur` · description · verified
-
-> Tarapur Atomic Power Station: India's first nuclear power station, Tarapur, with two boiling-water reactors, was commissioned on 28 October 1969.
-
-- **Note:** Reuses deep-dive item in.1970.dd.technology-science.tarapur; same source.
-- **Source:** [Wikipedia: Tarapur Atomic Power Station](https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station) (reference, 2026-10-13)
-
-#### `in.1970.technology.vividh-bharati` · description · verified
-
-> Vividh Bharati radio service: All India Radio's Vividh Bharati service, launched on 3 October 1957, carried film music and commercials across India.
-
-- **Note:** Reuses deep-dive item in.1970.dd.music-arts.vividh-bharati-1970; same source.
-- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-13)
-
-### in · 1984
+- **Note:** The Ghare Baire article is the only source opened for him; his dates are not stated here.
+- **Source:** [Wikipedia: Ghare Baire (film)](https://en.wikipedia.org/wiki/Ghare_Baire_(film)) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1984 in India](https://en.wikipedia.org/wiki/1984_in_India) (reference, 2026-10-18)
 
 #### `in.1984.dd.achievements.everest-woman` · summary · verified
 
@@ -3086,6 +4385,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 
 - **Note:** Wikipedia article.
 - **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-13)
+
+#### `in.1984.dd.cinema.kuttichathan` · summary · verified
+
+> My Dear Kuttichathan: India's first 3D film, a Malayalam children's fantasy directed by Jijo Punnoose, was released on 24 August 1984.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: My Dear Kuttichathan](https://en.wikipedia.org/wiki/My_Dear_Kuttichathan) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1984 in India](https://en.wikipedia.org/wiki/1984_in_India) (reference, 2026-10-18)
 
 #### `in.1984.dd.cinema.mashaal` · summary · verified
 
@@ -3156,6 +4463,22 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Operation Blue Star article; 1984 in India (the latter's 5 March date for the order was not used).
 - **Source:** [Wikipedia: Operation Blue Star](https://en.wikipedia.org/wiki/Operation_Blue_Star) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 1984 in India](https://en.wikipedia.org/wiki/1984_in_India) (reference, 2026-10-13)
+
+#### `in.1984.dd.freedom-history.bsp-founded` · summary · verified
+
+> The Bahujan Samaj Party is founded: Kanshi Ram founded the Bahujan Samaj Party on 14 April 1984, Ambedkar's birth anniversary, to represent Scheduled Castes, Scheduled Tribes, Other Backward Classes and minorities.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Bahujan Samaj Party](https://en.wikipedia.org/wiki/Bahujan_Samaj_Party) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1984 in India](https://en.wikipedia.org/wiki/1984_in_India) (reference, 2026-10-18)
+
+#### `in.1984.dd.freedom-history.meghdoot` · summary · verified
+
+> Operation Meghdoot: On 13 April 1984 Indian troops marched through the snowbound Zoji La to occupy the peaks and passes of the Siachen Glacier ahead of a planned Pakistani operation, bringing the whole glacier under Indian control.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Operation Meghdoot](https://en.wikipedia.org/wiki/Operation_Meghdoot) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1984 in India](https://en.wikipedia.org/wiki/1984_in_India) (reference, 2026-10-18)
 
 #### `in.1984.dd.government-politics.election-1984` · summary · verified
 
@@ -3287,14 +4610,6 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Thakazhi Sivasankara Pillai](https://en.wikipedia.org/wiki/Thakazhi_Sivasankara_Pillai) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Jnanpith Award](https://en.wikipedia.org/wiki/Jnanpith_Award) (reference, 2026-10-13)
 
-#### `in.1984.dd.personalities.zail-singh` · summary · verified
-
-> Zail Singh: President, born in 1916.
-
-- **Note:** Birth (and death) dates from each person's Wikipedia infobox; the 1984 fact from the linked article.
-- **Source:** [Wikipedia: Zail Singh](https://en.wikipedia.org/wiki/Zail_Singh) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1984 in India](https://en.wikipedia.org/wiki/1984_in_India) (reference, 2026-10-13)
-
 #### `in.1984.dd.sports.asia-cup-1984` · summary · verified
 
 > India win the first Asia Cup: India won both of their matches at the inaugural Asia Cup in Sharjah, 6-13 April 1984, to take the cup ahead of Sri Lanka and Pakistan.
@@ -3358,167 +4673,28 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 1984 in India](https://en.wikipedia.org/wiki/1984_in_India) (reference, 2026-10-13)
 
-#### `in.1984.era.tagline` · tagline · verified
+### in/dd · 1995
 
-> The first Indian in space, a metro for Calcutta and a year of loss.
+#### `in.1995.dd.government-politics.wto` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Assassination of Indira Gandhi](https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Bhopal disaster](https://en.wikipedia.org/wiki/Bhopal_disaster) (reference, 2026-10-13)
+> India joins the WTO: India became a member of the World Trade Organization on 1 January 1995, when it replaced the GATT.
 
-#### `in.1984.era.title` · title · verified
+- **Note:** One source.
+- **Source:** [Wikipedia: 1995 in India](https://en.wikipedia.org/wiki/1995_in_India) (reference, 2026-10-18)
 
-> India, 1984
+#### `in.1995.dd.personalities.urmila-matondkar` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Assassination of Indira Gandhi](https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Bhopal disaster](https://en.wikipedia.org/wiki/Bhopal_disaster) (reference, 2026-10-13)
+> Urmila Matondkar: Actress, later a politician, known for Hindi films and some in Telugu, Malayalam, Marathi and Tamil.
 
-#### `in.1984.headlines.assassination` · headline · verified
+- **Note:** One source.
+- **Source:** [Wikipedia: Urmila Matondkar](https://en.wikipedia.org/wiki/Urmila_Matondkar) (reference, 2026-10-18)
 
-> 1984-10-31: Prime Minister Indira Gandhi is shot at her residence in New Delhi
+#### `in.1995.dd.technology-science.delhi-metro` · summary · unverifiable
 
-- **Note:** Reuses deep-dive item in.1984.dd.freedom-history.assassination; same source.
-- **Source:** [Wikipedia: Assassination of Indira Gandhi](https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi) (reference, 2026-10-13)
+> The Delhi Metro Rail Corporation: The Delhi Metro Rail Corporation was set up in 1995 by the Government of India and the Delhi government with E. Sreedharan as managing director; construction began on 1 October 1998 and the first line opened in December 2002.
 
-#### `in.1984.headlines.bhopal` · headline · verified
-
-> 1984-12-03: A gas leak at the Union Carbide plant in Bhopal kills thousands
-
-- **Note:** Reuses deep-dive item in.1984.dd.freedom-history.bhopal; same source.
-- **Source:** [Wikipedia: Bhopal disaster](https://en.wikipedia.org/wiki/Bhopal_disaster) (reference, 2026-10-13)
-
-#### `in.1984.headlines.metro` · headline · verified
-
-> 1984-10-24: India's first metro railway opens in Calcutta
-
-- **Note:** Reuses deep-dive item in.1984.dd.technology-science.kolkata-metro; same source.
-- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
-
-#### `in.1984.headlines.rakesh` · headline · verified
-
-> 1984-04: Rakesh Sharma becomes the first Indian in space
-
-- **Note:** Reuses deep-dive item in.1984.dd.technology-science.rakesh-sharma-flight; same source.
-- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
-
-#### `in.1984.morning.car` · detail · verified
-
-> A Maruti 800 in the drive: The Maruti 800, based on the Suzuki Alto and built from 1983, became the most influential automobile in India.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Maruti 800](https://en.wikipedia.org/wiki/Maruti_800) (reference, 2026-10-13)
-
-#### `in.1984.morning.comics` · detail · verified
-
-> Amar Chitra Katha: The comics series, founded in 1967 by Anant Pai, was one of India's best-known sources of illustrated history and myth.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Amar Chitra Katha](https://en.wikipedia.org/wiki/Amar_Chitra_Katha) (reference, 2026-10-13)
-
-#### `in.1984.morning.metro` · detail · verified
-
-> A ride on the Calcutta Metro: India's first metro railway opened in Calcutta on 24 October 1984; it was the first rapid-transit system in South Asia.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
-
-#### `in.1984.morning.tv` · detail · verified
-
-> Hum Log on Doordarshan: Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-13)
-
-#### `in.1984.places.bedroom` · description · verified
-
-> The living room: Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.1984.dd.music-arts.hum-log-tv); the illustration is generic.
-- **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-13)
-
-#### `in.1984.places.newspaper` · description · verified
-
-> The front page: Rakesh Sharma becomes the first Indian in space (1984-04).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
-
-#### `in.1984.places.street` · description · verified
-
-> The street: Rakesh Sharma flies on Soyuz T-11: Squadron Leader Rakesh Sharma flew aboard the Soviet Soyuz T-11 in April 1984 as part of the Interkosmos programme and became the first Indian to travel to outer space.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
-
-#### `in.1984.prices.exchange` · price · verified
-
-> Rupees to the US dollar (annual average): Rs 11.36 (official rate, rupees per US dollar)
-
-- **Note:** World Bank series PA.NUS.FCRF.
-- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
-
-#### `in.1984.prices.gold` · price · verified
-
-> Gold, spot at Bombay (average of 1984-85): Rs 1,983.92 per 10 grams (decimal rupees per 10 grams; highest 2,140.00, lowest 1,876.00)
-
-- **Note:** Table 167; Reserve Bank of India series for April 1984 to March 1985.
-- **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
-
-#### `in.1984.prices.inflation` · price · verified
-
-> Consumer price inflation: 8.3% in the year (per cent, annual)
-
-- **Note:** World Bank series FP.CPI.TOTL.ZG.
-- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
-
-#### `in.1984.prices.output` · price · verified
-
-> Output per person (GDP per capita): Rs 3,341 a year (current rupees per person per year)
-
-- **Note:** World Bank series NY.GDP.PCAP.CN.
-- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
-
-#### `in.1984.prices.silver` · price · verified
-
-> Silver, spot at Bombay (average of 1984-85): Rs 3,593.59 per kilogram (decimal rupees per kilogram)
-
-- **Note:** Table 167, same series.
-- **Source:** [Statistical Abstract India 1985 (Central Statistical Organisation), table 167: Spot prices of gold and silver at Bombay (Reserve Bank of India), via the Internet Archive](https://archive.org/details/dli.ministry.23191) (primary, 2026-10-14)
-
-#### `in.1984.technology.hum-log` · description · verified
-
-> Hum Log on Doordarshan: Hum Log, shown by Doordarshan from 7 July 1984, was India's first television soap opera and ran 25-minute episodes.
-
-- **Note:** Reuses deep-dive item in.1984.dd.music-arts.hum-log-tv; same source.
-- **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-13)
-
-#### `in.1984.technology.maruti` · description · verified
-
-> The Maruti 800: The Maruti 800, based on the Suzuki Alto and built from 1983, became the most influential automobile in India; about 2.87 million were made over its production life.
-
-- **Note:** Reuses deep-dive item in.1984.dd.technology-science.maruti-800; same source.
-- **Source:** [Wikipedia: Maruti 800](https://en.wikipedia.org/wiki/Maruti_800) (reference, 2026-10-13)
-
-#### `in.1984.technology.metro` · description · verified
-
-> Kolkata Metro opens: India's first metro railway opened in Calcutta on 24 October 1984; it was the first rapid-transit system in South Asia.
-
-- **Note:** Reuses deep-dive item in.1984.dd.technology-science.kolkata-metro; same source.
-- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-13)
-
-#### `in.1984.technology.rakesh` · description · verified
-
-> Rakesh Sharma flies on Soyuz T-11: Squadron Leader Rakesh Sharma flew aboard the Soviet Soyuz T-11 in April 1984 as part of the Interkosmos programme and became the first Indian to travel to outer space.
-
-- **Note:** Reuses deep-dive item in.1984.dd.technology-science.rakesh-sharma-flight; same source.
-- **Source:** [Wikipedia: Rakesh Sharma](https://en.wikipedia.org/wiki/Rakesh_Sharma) (reference, 2026-10-13)
-
-### in · 1995
+- **Note:** Wikipedia gives 3 May 1995 for the corporation on the Delhi Metro page and 5 March 1995 on the 1995 in India page; the year is used.
+- **Source:** [Wikipedia: Delhi Metro](https://en.wikipedia.org/wiki/Delhi_Metro) (reference, 2026-10-18)
 
 #### `in.1995.dd.achievements.ddlj-gross` · summary · verified
 
@@ -3691,6 +4867,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: A. R. Rahman](https://en.wikipedia.org/wiki/A._R._Rahman) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Bombay (film)](https://en.wikipedia.org/wiki/Bombay_(film)) (reference, 2026-10-13)
 
+#### `in.1995.dd.personalities.kajol` · summary · verified
+
+> Kajol: Actress in Hindi films, who played Simran in Dilwale Dulhania Le Jayenge.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Kajol](https://en.wikipedia.org/wiki/Kajol) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Dilwale Dulhania Le Jayenge](https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge) (reference, 2026-10-18)
+
 #### `in.1995.dd.personalities.morarji-desai` · summary · verified
 
 > Morarji Desai: Former Prime Minister, born in 1896.
@@ -3707,14 +4891,6 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: M. T. Vasudevan Nair](https://en.wikipedia.org/wiki/M._T._Vasudevan_Nair) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Jnanpith Award](https://en.wikipedia.org/wiki/Jnanpith_Award) (reference, 2026-10-13)
 
-#### `in.1995.dd.personalities.pv-narasimha-rao` · summary · verified
-
-> P. V. Narasimha Rao: Prime Minister, born in 1921.
-
-- **Note:** Birth and death dates from each person's Wikipedia infobox; the 1995 fact from the linked article.
-- **Source:** [Wikipedia: P. V. Narasimha Rao](https://en.wikipedia.org/wiki/P._V._Narasimha_Rao) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1995 in India](https://en.wikipedia.org/wiki/1995_in_India) (reference, 2026-10-13)
-
 #### `in.1995.dd.personalities.s-chandrasekhar` · summary · verified
 
 > Subrahmanyan Chandrasekhar: Astrophysicist, born in 1910.
@@ -3730,14 +4906,6 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Birth and death dates from each person's Wikipedia infobox; the 1995 fact from the linked article.
 - **Source:** [Wikipedia: Shah Rukh Khan](https://en.wikipedia.org/wiki/Shah_Rukh_Khan) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Dilwale Dulhania Le Jayenge](https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge) (reference, 2026-10-13)
-
-#### `in.1995.dd.personalities.shankar-dayal-sharma` · summary · verified
-
-> Shankar Dayal Sharma: President, born in 1918.
-
-- **Note:** Birth and death dates from each person's Wikipedia infobox; the 1995 fact from the linked article.
-- **Source:** [Wikipedia: Shankar Dayal Sharma](https://en.wikipedia.org/wiki/Shankar_Dayal_Sharma) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1995 South Asian Games](https://en.wikipedia.org/wiki/1995_South_Asian_Games) (reference, 2026-10-13)
 
 #### `in.1995.dd.personalities.viswanathan-anand` · summary · verified
 
@@ -3792,153 +4960,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia article (launch date).
 - **Source:** [Wikipedia: IRS-1C](https://en.wikipedia.org/wiki/IRS-1C) (reference, 2026-10-13)
 
-#### `in.1995.era.tagline` · tagline · verified
+### in/dd · 1999
 
-> The internet for the public and the year's highest-grossing film.
+#### `in.1999.dd.personalities.jhumpa-lahiri` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Ganesha drinking milk miracle](https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle) (reference, 2026-10-13)
-- **Source:** [Wikipedia: IRS-1C](https://en.wikipedia.org/wiki/IRS-1C) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Giant Metrewave Radio Telescope](https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope) (reference, 2026-10-13)
+> Jhumpa Lahiri: Writer, born in London to Bengali Hindu immigrants, whose first book won the Pulitzer Prize for Fiction.
 
-#### `in.1995.era.title` · title · verified
-
-> India, 1995
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Ganesha drinking milk miracle](https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle) (reference, 2026-10-13)
-- **Source:** [Wikipedia: IRS-1C](https://en.wikipedia.org/wiki/IRS-1C) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Giant Metrewave Radio Telescope](https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope) (reference, 2026-10-13)
-
-#### `in.1995.headlines.ganesha` · headline · verified
-
-> 1995-09-21: Ganesha statues are reported to be drinking milk across India
-
-- **Note:** Reuses deep-dive item in.1995.dd.freedom-history.ganesha-milk; same source.
-- **Source:** [Wikipedia: Ganesha drinking milk miracle](https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle) (reference, 2026-10-13)
-
-#### `in.1995.headlines.internet` · headline · verified
-
-> 1995-08-15: VSNL opens the internet to the general public
-
-- **Note:** Reuses deep-dive item in.1995.dd.technology-science.internet-public; same source.
-- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
-
-#### `in.1995.morning.cinema` · detail · verified
-
-> Dilwale Dulhania Le Jayenge: Aditya Chopra's romance, released on 20 October 1995, was the year's highest-grossing Hindi film.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Dilwale Dulhania Le Jayenge](https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge) (reference, 2026-10-13)
-
-#### `in.1995.morning.comics` · detail · verified
-
-> Amar Chitra Katha: The illustrated-story series, founded by Anant Pai in 1967, was still the best-known source of comic-book myth and history.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Amar Chitra Katha](https://en.wikipedia.org/wiki/Amar_Chitra_Katha) (reference, 2026-10-13)
-
-#### `in.1995.morning.internet` · detail · verified
-
-> Dial-up from VSNL: Internet access, limited to educational and research users since 1986, opened to the general public on 15 August 1995 through the state telecom company VSNL.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
-
-#### `in.1995.morning.music` · detail · verified
-
-> The Bombay soundtrack: A. R. Rahman composed the music for Bombay, released in March 1995.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Bombay (film)](https://en.wikipedia.org/wiki/Bombay_(film)) (reference, 2026-10-13)
-
-#### `in.1995.places.bedroom` · description · verified
-
-> The living room: A. R. Rahman composed the music for Bombay, released in March 1995.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.1995.dd.music-arts.bombay-soundtrack); the illustration is generic.
-- **Source:** [Wikipedia: Bombay (film)](https://en.wikipedia.org/wiki/Bombay_(film)) (reference, 2026-10-13)
-
-#### `in.1995.places.newspaper` · description · verified
-
-> The front page: VSNL opens the internet to the general public (1995-08-15).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
-
-#### `in.1995.places.street` · description · verified
-
-> The street: The Internet for the public: Internet access, which had been limited to educational and research users since 1986, opened to the general public in India on 15 August 1995 through the state telecom company VSNL.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
-
-#### `in.1995.prices.exchange` · price · verified
-
-> Rupees to the US dollar (annual average): Rs 32.43 (official rate, rupees per US dollar)
-
-- **Note:** World Bank series PA.NUS.FCRF.
-- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
-
-#### `in.1995.prices.gold` · price · verified
-
-> Gold, spot at Bombay (average of 1995-96): Rs 4,958.00 per 10 grams (decimal rupees per 10 grams; highest 5,713, lowest 4,670)
-
-- **Note:** Table 26.6, Bombay Bullion Association series for April 1995 to March 1996; the 1999 abstract prints the same value.
-- **Source:** [Statistical Abstract India 1997 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Bombay (Bombay Bullion Association), via the Internet Archive](https://archive.org/details/dli.ministry.23192) (primary, 2026-10-14)
-
-#### `in.1995.prices.inflation` · price · verified
-
-> Consumer price inflation: 10.2% in the year (per cent, annual)
-
-- **Note:** World Bank series FP.CPI.TOTL.ZG.
-- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
-
-#### `in.1995.prices.output` · price · verified
-
-> Output per person (GDP per capita): Rs 12,554 a year (current rupees per person per year)
-
-- **Note:** World Bank series NY.GDP.PCAP.CN.
-- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
-
-#### `in.1995.prices.silver` · price · verified
-
-> Silver, spot at Bombay (average of 1995-96): Rs 7,221.00 per kilogram (decimal rupees per kilogram)
-
-- **Note:** Table 26.6, same series.
-- **Source:** [Statistical Abstract India 1997 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Bombay (Bombay Bullion Association), via the Internet Archive](https://archive.org/details/dli.ministry.23192) (primary, 2026-10-14)
-
-#### `in.1995.technology.gmrt` · description · verified
-
-> The Giant Metrewave Radio Telescope: Near Pune, thirty fully steerable 45-metre dishes make up the GMRT, conceived and built under Govind Swarup between 1984 and 1996; it is the most sensitive low-frequency radio array in the world.
-
-- **Note:** Reuses deep-dive item in.1995.dd.technology-science.gmrt; same source.
-- **Source:** [Wikipedia: Giant Metrewave Radio Telescope](https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope) (reference, 2026-10-13)
-
-#### `in.1995.technology.internet` · description · verified
-
-> The Internet for the public: Internet access, which had been limited to educational and research users since 1986, opened to the general public in India on 15 August 1995 through the state telecom company VSNL.
-
-- **Note:** Reuses deep-dive item in.1995.dd.technology-science.internet-public; same source.
-- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-13)
-
-#### `in.1995.technology.irs` · description · verified
-
-> IRS-1C: The Indian Remote Sensing satellite IRS-1C was launched on 28 December 1995.
-
-- **Note:** Reuses deep-dive item in.1995.dd.technology-science.irs-1c; same source.
-- **Source:** [Wikipedia: IRS-1C](https://en.wikipedia.org/wiki/IRS-1C) (reference, 2026-10-13)
-
-#### `in.1995.technology.rahman` · description · verified
-
-> Film soundtracks on cassette: A. R. Rahman composed the music for Bombay, released in March 1995.
-
-- **Note:** Reuses deep-dive item in.1995.dd.music-arts.bombay-soundtrack; same source.
-- **Source:** [Wikipedia: Bombay (film)](https://en.wikipedia.org/wiki/Bombay_(film)) (reference, 2026-10-13)
-
-### in · 1999
+- **Note:** One source.
+- **Source:** [Wikipedia: Jhumpa Lahiri](https://en.wikipedia.org/wiki/Jhumpa_Lahiri) (reference, 2026-10-18)
 
 #### `in.1999.dd.achievements.interactive-data` · interactive.data · verified
 
@@ -4049,6 +5078,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 1999 in India](https://en.wikipedia.org/wiki/1999_in_India) (reference, 2026-10-13)
 
+#### `in.1999.dd.freedom-history.lahore-declaration` · summary · verified
+
+> The Lahore Declaration: On 21 February 1999 Prime Ministers Vajpayee and Nawaz Sharif signed the Lahore Declaration, acknowledging their nuclear responsibilities and pledging to resolve the Kashmir dispute, after Vajpayee travelled on the first Delhi-Lahore bus.
+
+- **Note:** The 1999 list dates the bus journey to 19-23 February; the Declaration article gives no date for the bus.
+- **Source:** [Wikipedia: Lahore Declaration](https://en.wikipedia.org/wiki/Lahore_Declaration) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1999 in India](https://en.wikipedia.org/wiki/1999_in_India) (reference, 2026-10-18)
+
 #### `in.1999.dd.freedom-history.odisha-cyclone` · summary · verified
 
 > The Odisha super cyclone: A cyclone made landfall on Odisha's coast on 29 October 1999; the IMD figure for deaths is 9,887, with estimates up to 30,000.
@@ -4131,14 +5168,6 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Gurdial Singh](https://en.wikipedia.org/wiki/Gurdial_Singh) (reference, 2026-10-13)
 - **Source:** [Wikipedia: Jnanpith Award](https://en.wikipedia.org/wiki/Jnanpith_Award) (reference, 2026-10-13)
 
-#### `in.1999.dd.personalities.kr-narayanan` · summary · verified
-
-> K. R. Narayanan: President, born in 1920.
-
-- **Note:** Birth and death dates from each person's Wikipedia infobox; the 1999 fact from the linked article.
-- **Source:** [Wikipedia: K. R. Narayanan](https://en.wikipedia.org/wiki/K._R._Narayanan) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1999 in India](https://en.wikipedia.org/wiki/1999_in_India) (reference, 2026-10-13)
-
 #### `in.1999.dd.personalities.leander-paes` · summary · verified
 
 > Leander Paes: Tennis player, born in 1973.
@@ -4218,153 +5247,7 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia mission article (payload list, launch date, 1,202 kg payload).
 - **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
 
-#### `in.1999.era.tagline` · tagline · verified
-
-> Kargil, an Odisha cyclone and a hijacking.
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1999 Odisha cyclone](https://en.wikipedia.org/wiki/1999_Odisha_cyclone) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Indian Airlines Flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814) (reference, 2026-10-13)
-- **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
-
-#### `in.1999.era.title` · title · verified
-
-> India, 1999
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 1999 Odisha cyclone](https://en.wikipedia.org/wiki/1999_Odisha_cyclone) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Indian Airlines Flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814) (reference, 2026-10-13)
-- **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
-
-#### `in.1999.headlines.cyclone` · headline · verified
-
-> 1999-10-29: A cyclone makes landfall on the Odisha coast
-
-- **Note:** Reuses deep-dive item in.1999.dd.freedom-history.odisha-cyclone; same source.
-- **Source:** [Wikipedia: 1999 Odisha cyclone](https://en.wikipedia.org/wiki/1999_Odisha_cyclone) (reference, 2026-10-13)
-
-#### `in.1999.headlines.ic814` · headline · verified
-
-> 1999-12-24: Indian Airlines Flight 814 is hijacked on its way from Kathmandu to Delhi
-
-- **Note:** Reuses deep-dive item in.1999.dd.freedom-history.ic-814; same source.
-- **Source:** [Wikipedia: Indian Airlines Flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814) (reference, 2026-10-13)
-
-#### `in.1999.headlines.kargil` · headline · verified
-
-> 1999-07: India and Pakistan fight in the Kargil sector
-
-- **Note:** Reuses deep-dive item in.1999.dd.freedom-history.kargil; same source.
-- **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
-
-#### `in.1999.morning.book` · detail · verified
-
-> Interpreter of Maladies: Jhumpa Lahiri's debut collection of stories was published in 1999.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Interpreter of Maladies](https://en.wikipedia.org/wiki/Interpreter_of_Maladies) (reference, 2026-10-13)
-
-#### `in.1999.morning.cinema` · detail · verified
-
-> Hum Saath-Saath Hain: Sooraj Barjatya's family drama was the highest-grossing Hindi film of 1999.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: List of Hindi films of 1999](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1999) (reference, 2026-10-13)
-
-#### `in.1999.morning.music` · detail · verified
-
-> The music of Taal: A. R. Rahman composed the music for Subhash Ghai's Taal, the third highest-grossing Hindi film of 1999.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Taal (film)](https://en.wikipedia.org/wiki/Taal_(film)) (reference, 2026-10-13)
-
-#### `in.1999.places.bedroom` · description · verified
-
-> The living room: Jhumpa Lahiri's debut collection, Interpreter of Maladies, was published in 1999.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.1999.dd.books-reading.lahiri-edition); the illustration is generic.
-- **Source:** [Wikipedia: Interpreter of Maladies](https://en.wikipedia.org/wiki/Interpreter_of_Maladies) (reference, 2026-10-13)
-
-#### `in.1999.places.newspaper` · description · verified
-
-> The front page: India and Pakistan fight in the Kargil sector (1999-07).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Kargil War](https://en.wikipedia.org/wiki/Kargil_War) (reference, 2026-10-13)
-
-#### `in.1999.places.street` · description · verified
-
-> The street: PSLV-C2: On 26 May 1999 ISRO's Polar Satellite Launch Vehicle launched three satellites from Sriharikota into a Sun-synchronous orbit: India's Oceansat-1, South Korea's KITSAT-3 and Germany's DLR-Tubsat.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
-
-#### `in.1999.prices.exchange` · price · verified
-
-> Rupees to the US dollar (annual average): Rs 43.06 (official rate, rupees per US dollar)
-
-- **Note:** World Bank series PA.NUS.FCRF.
-- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
-
-#### `in.1999.prices.gold` · price · verified
-
-> Gold, spot at Mumbai (average of 1998-99): Rs 4,268.24 per 10 grams (decimal rupees per 10 grams; highest 4,400, lowest 4,050)
-
-- **Note:** Table 26.6; Bombay Bullion Association series for April 1998 to March 1999. The nearest published year; 1999-2000 is not in this abstract.
-- **Source:** [Statistical Abstract India 1999 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Mumbai (Bombay Bullion Association), via the Internet Archive](https://archive.org/details/dli.ministry.23193) (primary, 2026-10-14)
-
-#### `in.1999.prices.inflation` · price · verified
-
-> Consumer price inflation: 4.7% in the year (per cent, annual)
-
-- **Note:** World Bank series FP.CPI.TOTL.ZG.
-- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
-
-#### `in.1999.prices.output` · price · verified
-
-> Output per person (GDP per capita): Rs 19,151 a year (current rupees per person per year)
-
-- **Note:** World Bank series NY.GDP.PCAP.CN.
-- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
-
-#### `in.1999.prices.silver` · price · verified
-
-> Silver, spot at Mumbai (average of 1998-99): Rs 7,855.44 per kilogram (decimal rupees per kilogram)
-
-- **Note:** Table 26.6, same series.
-- **Source:** [Statistical Abstract India 1999 (Central Statistical Organisation), table 26.6: Spot prices of gold and silver at Mumbai (Bombay Bullion Association), via the Internet Archive](https://archive.org/details/dli.ministry.23193) (primary, 2026-10-14)
-
-#### `in.1999.technology.agni` · description · verified
-
-> A longer-range Agni: India test-fired its longer-range Agni-II on 11 April 1999 from a new launch site, Wheeler Island on the Orissa coast; the reported range was about 2,000 km.
-
-- **Note:** Reuses deep-dive item in.1999.dd.technology-science.agni-ii; same source.
-- **Source:** [Wikipedia: 1999 in India](https://en.wikipedia.org/wiki/1999_in_India) (reference, 2026-10-13)
-
-#### `in.1999.technology.kumble` · description · verified
-
-> Cricket on television: Kumble's ten wickets: On 7 February 1999 Anil Kumble took all ten wickets in a Test innings against Pakistan at Delhi, only the second bowler in Test history to do so.
-
-- **Note:** Reuses deep-dive item in.1999.dd.achievements.kumble-ten; same source.
-- **Source:** [Wikipedia: 1999 in India](https://en.wikipedia.org/wiki/1999_in_India) (reference, 2026-10-13)
-
-#### `in.1999.technology.pslv` · description · verified
-
-> PSLV-C2: On 26 May 1999 ISRO's Polar Satellite Launch Vehicle launched three satellites from Sriharikota into a Sun-synchronous orbit: India's Oceansat-1, South Korea's KITSAT-3 and Germany's DLR-Tubsat.
-
-- **Note:** Reuses deep-dive item in.1999.dd.technology-science.pslv-c2; same source.
-- **Source:** [Wikipedia: PSLV-C2](https://en.wikipedia.org/wiki/PSLV-C2) (reference, 2026-10-13)
-
-#### `in.1999.technology.taal` · description · verified
-
-> Film music: Taal: A. R. Rahman composed the music for Taal.
-
-- **Note:** Reuses deep-dive item in.1999.dd.music-arts.taal-music; same source.
-- **Source:** [Wikipedia: Taal (film)](https://en.wikipedia.org/wiki/Taal_(film)) (reference, 2026-10-13)
-
-### in · 2005
+### in/dd · 2005
 
 #### `in.2005.dd.achievements.cartosat-ach` · summary · verified
 
@@ -4456,6 +5339,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** The value is the World Bank series for India (national accounts, rupees at current prices; the World Bank uses India's fiscal year). The 'in India' article printed the same figure.
 - **Source:** [World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN](https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN) (primary, 2026-10-14)
 - **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-13)
+
+#### `in.2005.dd.freedom-history.air-india-182` · summary · verified
+
+> The Air India 182 verdict: On 16 March 2005 a Canadian court found Ripudaman Singh Malik and Ajaib Singh Bagri not guilty on all counts of the 1985 bombing of Air India Flight 182, which killed all 329 people aboard, 22 of them Indian; the evidence fell short of proof beyond reasonable doubt.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Air India Flight 182](https://en.wikipedia.org/wiki/Air_India_Flight_182) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-18)
 
 #### `in.2005.dd.freedom-history.delhi-bombings` · summary · verified
 
@@ -4549,6 +5440,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia article.
 - **Source:** [Wikipedia: Swaminarayan Akshardham (Delhi)](https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi)) (reference, 2026-10-13)
 
+#### `in.2005.dd.personalities.amrita-pritam` · summary · verified
+
+> Amrita Pritam: Punjabi and Hindi poet and novelist, author of Pinjar and the poem 'Ajj aakhaan Waris Shah nu'.
+
+- **Note:** Her Jnanpith Award is dated 1981 in the article's list and 1982 in its text.
+- **Source:** [Wikipedia: Amrita Pritam](https://en.wikipedia.org/wiki/Amrita_Pritam) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-18)
+
 #### `in.2005.dd.personalities.apj-abdul-kalam` · summary · verified
 
 > A. P. J. Abdul Kalam: President, born in 1931.
@@ -4634,160 +5533,15 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: SpiceJet](https://en.wikipedia.org/wiki/SpiceJet) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-13)
 
-#### `in.2005.era.tagline` · tagline · verified
+### in/dd · 2010
 
-> The right to information, the Mumbai floods and a low-cost airline.
+#### `in.2010.dd.personalities.saina-nehwal` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Maharashtra floods of 2005](https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 2005 Delhi bombings](https://en.wikipedia.org/wiki/2005_Delhi_bombings) (reference, 2026-10-13)
-- **Source:** [Wikipedia: PSLV-C6](https://en.wikipedia.org/wiki/PSLV-C6) (reference, 2026-10-13)
+> Saina Nehwal: Badminton player from Hisar, Haryana, who reached a world ranking of 2 in 2010.
 
-#### `in.2005.era.title` · title · verified
-
-> India, 2005
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: Maharashtra floods of 2005](https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 2005 Delhi bombings](https://en.wikipedia.org/wiki/2005_Delhi_bombings) (reference, 2026-10-13)
-- **Source:** [Wikipedia: PSLV-C6](https://en.wikipedia.org/wiki/PSLV-C6) (reference, 2026-10-13)
-
-#### `in.2005.headlines.bombs` · headline · verified
-
-> 2005-10-29: Three bomb blasts in Delhi kill 62 people
-
-- **Note:** Reuses deep-dive item in.2005.dd.freedom-history.delhi-bombings; same source.
-- **Source:** [Wikipedia: 2005 Delhi bombings](https://en.wikipedia.org/wiki/2005_Delhi_bombings) (reference, 2026-10-13)
-
-#### `in.2005.headlines.floods` · headline · verified
-
-> 2005-07-26: Mumbai receives 944 mm of rain in 24 hours, its wettest day on record
-
-- **Note:** Reuses deep-dive item in.2005.dd.freedom-history.mumbai-floods; same source.
-- **Source:** [Wikipedia: Maharashtra floods of 2005](https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005) (reference, 2026-10-13)
-
-#### `in.2005.headlines.rti` · headline · verified
-
-> 2005-10-12: The Right to Information Act comes fully into force
-
-- **Note:** Reuses deep-dive item in.2005.dd.freedom-history.rti-event; same source.
-- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
-
-#### `in.2005.morning.air` · detail · verified
-
-> A low-cost flight: SpiceJet's first domestic flight, on 24 May 2005, was on the Delhi to Mumbai route.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: SpiceJet](https://en.wikipedia.org/wiki/SpiceJet) (reference, 2026-10-13)
-
-#### `in.2005.morning.cinema` · detail · verified
-
-> No Entry: No Entry was the highest-grossing Hindi film of 2005.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: List of Hindi films of 2005](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2005) (reference, 2026-10-13)
-
-#### `in.2005.morning.novel` · detail · verified
-
-> A campus novel: Chetan Bhagat's second novel, One Night @ the Call Center, appeared in 2005, after Five Point Someone (2004).
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: One Night @ the Call Center](https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center) (reference, 2026-10-13)
-
-#### `in.2005.morning.rti` · detail · verified
-
-> Asking for information: From 12 October 2005 the Right to Information Act gave every citizen the right to request information from public authorities, with a reply due within thirty days.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
-
-#### `in.2005.places.bedroom` · description · verified
-
-> The living room: Chetan Bhagat's second novel appeared in 2005, after Five Point Someone (2004).
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.2005.dd.books-reading.bhagat-second); the illustration is generic.
-- **Source:** [Wikipedia: One Night @ the Call Center](https://en.wikipedia.org/wiki/One_Night_@_the_Call_Center) (reference, 2026-10-13)
-
-#### `in.2005.places.newspaper` · description · verified
-
-> The front page: Mumbai receives 944 mm of rain in 24 hours, its wettest day on record (2005-07-26).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Maharashtra floods of 2005](https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005) (reference, 2026-10-13)
-
-#### `in.2005.places.street` · description · verified
-
-> The street: Cartosat-1 on PSLV-C6: ISRO's PSLV-C6 launched Cartosat-1 and the amateur-radio satellite HAMSAT on 5 May 2005.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: PSLV-C6](https://en.wikipedia.org/wiki/PSLV-C6) (reference, 2026-10-13)
-
-#### `in.2005.prices.diesel` · price · verified
-
-> Diesel at Delhi, 1 April 2005: Rs 28.22 per litre (rupees per litre)
-
-- **Note:** PPAC table row 'As on 01.04.05'; reduced to 26.45 from 4 May after VAT on diesel was cut.
-- **Source:** [Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)](https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017) (primary, 2026-10-14)
-
-#### `in.2005.prices.exchange` · price · verified
-
-> Rupees to the US dollar (annual average): Rs 44.10 (official rate, rupees per US dollar)
-
-- **Note:** World Bank series PA.NUS.FCRF.
-- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
-
-#### `in.2005.prices.inflation` · price · verified
-
-> Consumer price inflation: 4.2% in the year (per cent, annual)
-
-- **Note:** World Bank series FP.CPI.TOTL.ZG.
-- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
-
-#### `in.2005.prices.output` · price · verified
-
-> Output per person (GDP per capita): Rs 31,456 a year (current rupees per person per year)
-
-- **Note:** World Bank series NY.GDP.PCAP.CN.
-- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
-
-#### `in.2005.prices.petrol` · price · verified
-
-> Petrol at Delhi, 1 April 2005: Rs 37.99 per litre (rupees per litre, Indian Oil prices; VAT implemented at Delhi on that date)
-
-- **Note:** PPAC table row 'As on 01.04.05'; 40.49 from 21 June and 43.49 from 7 September.
-- **Source:** [Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)](https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017) (primary, 2026-10-14)
-
-#### `in.2005.technology.cartosat` · description · verified
-
-> Cartosat-1 on PSLV-C6: ISRO's PSLV-C6 launched Cartosat-1 and the amateur-radio satellite HAMSAT on 5 May 2005.
-
-- **Note:** Reuses deep-dive item in.2005.dd.technology-science.cartosat-1; same source.
-- **Source:** [Wikipedia: PSLV-C6](https://en.wikipedia.org/wiki/PSLV-C6) (reference, 2026-10-13)
-
-#### `in.2005.technology.insat` · description · verified
-
-> INSAT-4A: INSAT-4A, a communications satellite, was launched on 22 December 2005 and served until October 2019.
-
-- **Note:** Reuses deep-dive item in.2005.dd.technology-science.insat-4a; same source.
-- **Source:** [Wikipedia: INSAT-4A](https://en.wikipedia.org/wiki/INSAT-4A) (reference, 2026-10-13)
-
-#### `in.2005.technology.rti` · description · verified
-
-> A right to ask for records: The Right to Information Act gave every citizen the right to request information from public authorities and required them to reply within thirty days.
-
-- **Note:** Reuses deep-dive item in.2005.dd.achievements.rti-ach; same source.
-- **Source:** [Wikipedia: Right to Information Act, 2005](https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005) (reference, 2026-10-13)
-
-#### `in.2005.technology.spicejet` · description · verified
-
-> SpiceJet begins flying: SpiceJet's first domestic flight, on 24 May 2005, was on the Delhi to Mumbai route.
-
-- **Note:** Reuses deep-dive item in.2005.dd.technology-science.spicejet; same source.
-- **Source:** [Wikipedia: SpiceJet](https://en.wikipedia.org/wiki/SpiceJet) (reference, 2026-10-13)
-
-### in · 2010
+- **Note:** One source for her results.
+- **Source:** [Wikipedia: Saina Nehwal](https://en.wikipedia.org/wiki/Saina_Nehwal) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
 
 #### `in.2010.dd.achievements.anand-retains` · summary · verified
 
@@ -4929,6 +5683,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia article.
 - **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
 
+#### `in.2010.dd.personalities.jyoti-basu` · summary · verified
+
+> Jyoti Basu: Communist leader and the longest-serving Chief Minister of West Bengal, from 1977 to 2000.
+
+- **Note:** The article gives Dacca in the infobox and Calcutta in the text as his birthplace.
+- **Source:** [Wikipedia: Jyoti Basu](https://en.wikipedia.org/wiki/Jyoti_Basu) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
+
 #### `in.2010.dd.personalities.manmohan-singh` · summary · verified
 
 > Manmohan Singh: Prime Minister, born in 1932.
@@ -4992,12 +5754,28 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: India at the 2010 Commonwealth Games](https://en.wikipedia.org/wiki/India_at_the_2010_Commonwealth_Games) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 2010 Commonwealth Games medal table](https://en.wikipedia.org/wiki/2010_Commonwealth_Games_medal_table) (reference, 2026-10-13)
 
+#### `in.2010.dd.sports.hockey-world-cup` · summary · verified
+
+> The Hockey World Cup in Delhi: India hosted the Men's Hockey World Cup at the Dhyan Chand National Stadium from 28 February to 13 March 2010; Australia beat Germany 2-1 in the final.
+
+- **Note:** The page opened does not show India's final placing.
+- **Source:** [Wikipedia: 2010 Men's Hockey World Cup](https://en.wikipedia.org/wiki/2010_Men%27s_Hockey_World_Cup) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
+
 #### `in.2010.dd.sports.interactive-data` · interactive.data · verified
 
 > Interactive data for ScorecardReplay
 
 - **Note:** Figures in the interactive are taken from the listed sources; see each source.
 - **Source:** [Wikipedia: World Chess Championship 2010](https://en.wikipedia.org/wiki/World_Chess_Championship_2010) (reference, 2026-10-13)
+
+#### `in.2010.dd.sports.kabaddi-world-cup` · summary · verified
+
+> The Kabaddi World Cup: India won its first circle-style Kabaddi World Cup in Punjab, beating Pakistan 58-24 in the final in Ludhiana on 12 April 2010.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 Kabaddi World Cup](https://en.wikipedia.org/wiki/2010_Kabaddi_World_Cup) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
 
 #### `in.2010.dd.technology-science.aadhaar-first` · summary · verified
 
@@ -5022,153 +5800,14 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
 - **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
 
-#### `in.2010.era.tagline` · tagline · verified
+### in/dd · 2020
 
-> The first Aadhaar number, a new rupee sign and the Commonwealth Games.
+#### `in.2020.dd.economy-business.gdp-contraction` · summary · unverifiable
 
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-13)
-- **Source:** [Wikipedia: List of Hindi films of 2010](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010) (reference, 2026-10-13)
+> GDP in the first lockdown quarter: India's GDP contracted 23.9 percent in the first quarter of the 2020-21 financial year, reported on 31 August 2020.
 
-#### `in.2010.era.title` · title · verified
-
-> India, 2010
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-13)
-- **Source:** [Wikipedia: List of Hindi films of 2010](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010) (reference, 2026-10-13)
-
-#### `in.2010.headlines.bhopal` · headline · verified
-
-> 2010-06-07: A Bhopal court convicts eight people for the 1984 gas leak, 25 years on
-
-- **Note:** Reuses deep-dive item in.2010.dd.freedom-history.bhopal-verdict; same source.
-- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
-
-#### `in.2010.headlines.gsat` · headline · verified
-
-> 2010-04-15: First flight of an Indian cryogenic engine ends in failure
-
-- **Note:** Reuses deep-dive item in.2010.dd.technology-science.gslv-d3; same source.
-- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
-
-#### `in.2010.headlines.rupee` · headline · verified
-
-> 2010-07-15: Government presents the new rupee sign
-
-- **Note:** Reuses deep-dive item in.2010.dd.technology-science.rupee-sign; same source.
-- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
-
-#### `in.2010.morning.aadhaar` · detail · verified
-
-> A twelve-digit identity: The first Aadhaar number, a 12-digit identity linked to a photograph, ten fingerprints and two iris scans, was issued in September 2010.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-13)
-
-#### `in.2010.morning.cinema` · detail · verified
-
-> Dabangg: Dabangg was the highest-grossing Hindi film of 2010.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: List of Hindi films of 2010](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010) (reference, 2026-10-13)
-
-#### `in.2010.morning.games` · detail · verified
-
-> The Commonwealth Games on television: India won 101 medals at the 2010 Commonwealth Games in Delhi, 38 gold, 27 silver and 36 bronze, second in the table.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: India at the 2010 Commonwealth Games](https://en.wikipedia.org/wiki/India_at_the_2010_Commonwealth_Games) (reference, 2026-10-13)
-
-#### `in.2010.morning.rupee` · detail · verified
-
-> The new rupee sign: The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
-
-#### `in.2010.places.bedroom` · description · verified
-
-> The living room: Dabangg, with Salman Khan, was the highest-grossing Hindi film of 2010.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.2010.dd.cinema.dabangg); the illustration is generic.
-- **Source:** [Wikipedia: List of Hindi films of 2010](https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2010) (reference, 2026-10-13)
-
-#### `in.2010.places.newspaper` · description · verified
-
-> The front page: A Bhopal court convicts eight people for the 1984 gas leak, 25 years on (2010-06-07).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
-
-#### `in.2010.places.street` · description · verified
-
-> The street: The rupee sign: The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition; it is based on the Devanagari letter ra with a double horizontal line, and later received the Unicode codepoint U+20B9.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
-
-#### `in.2010.prices.diesel` · price · verified
-
-> Diesel at Delhi, 1 April 2010: Rs 38.10 per litre (rupees per litre)
-
-- **Note:** PPAC table row 'As on 01.04.10'; 40.10 from 26 June, 37.62 from 20 July.
-- **Source:** [Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)](https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017) (primary, 2026-10-14)
-
-#### `in.2010.prices.exchange` · price · verified
-
-> Rupees to the US dollar (annual average): Rs 45.73 (official rate, rupees per US dollar)
-
-- **Note:** World Bank series PA.NUS.FCRF.
-- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
-
-#### `in.2010.prices.inflation` · price · verified
-
-> Consumer price inflation: 12.0% in the year (per cent, annual)
-
-- **Note:** World Bank series FP.CPI.TOTL.ZG.
-- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
-
-#### `in.2010.prices.output` · price · verified
-
-> Output per person (GDP per capita): Rs 61,396 a year (current rupees per person per year)
-
-- **Note:** World Bank series NY.GDP.PCAP.CN.
-- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
-
-#### `in.2010.prices.petrol` · price · verified
-
-> Petrol at Delhi, 1 April 2010: Rs 47.93 per litre (rupees per litre, Indian Oil prices)
-
-- **Note:** PPAC table row 'As on 01.04.10'; 51.43 from 26 June, and 55.87 by 16 December.
-- **Source:** [Petroleum Planning & Analysis Cell: RSP of petrol and diesel at Delhi up to 15.6.2017 (prices of Indian Oil Corporation)](https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017) (primary, 2026-10-14)
-
-#### `in.2010.technology.aadhaar` · description · verified
-
-> The first Aadhaar number: The first Aadhaar number, a 12-digit unique identity linked to a photograph, ten fingerprints and two iris scans, was issued in September 2010.
-
-- **Note:** Reuses deep-dive item in.2010.dd.technology-science.aadhaar-first; same source.
-- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-13)
-
-#### `in.2010.technology.gslv` · description · verified
-
-> A cryogenic engine fails on its first flight: On 15 April 2010 the first GSLV flight with an indigenous cryogenic upper stage failed: the liquid-hydrogen turbopump failed, the stage fired for about 1.5 seconds and the GSAT-4 satellite was lost in the Bay of Bengal.
-
-- **Note:** Reuses deep-dive item in.2010.dd.technology-science.gslv-d3; same source.
-- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
-
-#### `in.2010.technology.rupee` · description · verified
-
-> The rupee sign: The Government of India presented the new rupee sign on 15 July 2010, designed by D. Udaya Kumar after an open competition; it is based on the Devanagari letter ra with a double horizontal line, and later received the Unicode codepoint U+20B9.
-
-- **Note:** Reuses deep-dive item in.2010.dd.technology-science.rupee-sign; same source.
-- **Source:** [Wikipedia: Indian rupee sign](https://en.wikipedia.org/wiki/Indian_rupee_sign) (reference, 2026-10-13)
-
-### in · 2020
+- **Note:** One source.
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
 
 #### `in.2020.dd.achievements.chess-gold` · summary · verified
 
@@ -5235,6 +5874,22 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** World Bank value; the Wikipedia article printed 197,456,704 million, which differs because the series has since been revised.
 - **Source:** [World Bank, World Development Indicators: GDP (current LCU), NY.GDP.MKTP.CN](https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?locations=IN) (primary, 2026-10-14)
 - **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
+
+#### `in.2020.dd.freedom-history.delhi-election` · summary · verified
+
+> The Delhi election of 2020: Delhi voted on 8 February 2020 and the Aam Aadmi Party won 62 of the 70 seats on 11 February, the BJP eight and Congress none, on a turnout of 62.82 percent.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 Delhi Legislative Assembly election](https://en.wikipedia.org/wiki/2020_Delhi_Legislative_Assembly_election) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
+
+#### `in.2020.dd.freedom-history.delhi-riots` · summary · verified
+
+> The Delhi riots: Riots in North East Delhi between 23 and 29 February 2020, after protests against the Citizenship (Amendment) Act, killed 53 people and injured over 200; the article says the violence was brought about chiefly by Hindu mobs attacking Muslims.
+
+- **Note:** The infobox gives 23-29 February; some accounts give 23-26.
+- **Source:** [Wikipedia: 2020 Delhi riots](https://en.wikipedia.org/wiki/2020_Delhi_riots) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
 
 #### `in.2020.dd.freedom-history.farm-protests` · summary · verified
 
@@ -5347,21 +6002,21 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Source:** [Wikipedia: Nihal Sarin](https://en.wikipedia.org/wiki/Nihal_Sarin) (reference, 2026-10-13)
 - **Source:** [Wikipedia: FIDE Online Chess Olympiad 2020](https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020) (reference, 2026-10-13)
 
-#### `in.2020.dd.personalities.ram-nath-kovind` · summary · verified
+#### `in.2020.dd.personalities.saroj-khan` · summary · verified
 
-> Ram Nath Kovind: President, born in 1945.
+> Saroj Khan: Choreographer of Hindi cinema, known for Hawa Hawai in Mr. India and Ek Do Teen in Tezaab.
 
-- **Note:** Birth and death dates from each person's Wikipedia infobox; the 2020 fact from the linked article.
-- **Source:** [Wikipedia: Ram Nath Kovind](https://en.wikipedia.org/wiki/Ram_Nath_Kovind) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
+- **Note:** The article lists three National Film Awards for Best Choreography; its lead says four.
+- **Source:** [Wikipedia: Saroj Khan](https://en.wikipedia.org/wiki/Saroj_Khan) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
 
-#### `in.2020.dd.personalities.rishi-kapoor` · summary · verified
+#### `in.2020.dd.personalities.sugathakumari` · summary · verified
 
-> Rishi Kapoor: Actor, born in 1952.
+> Sugathakumari: Malayalam poet and activist in Kerala's environmental and feminist movements, author of Raathrimazha.
 
-- **Note:** Birth and death dates from each person's Wikipedia infobox; the 2020 fact from the linked article.
-- **Source:** [Wikipedia: Rishi Kapoor](https://en.wikipedia.org/wiki/Rishi_Kapoor) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Sugathakumari](https://en.wikipedia.org/wiki/Sugathakumari) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
 
 #### `in.2020.dd.personalities.sushant-singh-rajput` · summary · verified
 
@@ -5394,139 +6049,7 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** Wikipedia article.
 - **Source:** [Wikipedia: Covaxin](https://en.wikipedia.org/wiki/Covaxin) (reference, 2026-10-13)
 
-#### `in.2020.era.tagline` · tagline · verified
-
-> A pandemic year: the first case, the lockdown and a vaccine candidate.
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Covaxin](https://en.wikipedia.org/wiki/Covaxin) (reference, 2026-10-13)
-
-#### `in.2020.era.title` · title · verified
-
-> India, 2020
-
-- **Note:** A label summarising items on this page; each fact in it is sourced in its own item.
-- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-13)
-- **Source:** [Wikipedia: Covaxin](https://en.wikipedia.org/wiki/Covaxin) (reference, 2026-10-13)
-
-#### `in.2020.headlines.first-case` · headline · verified
-
-> 2020-01-30: India confirms its first COVID-19 case in Kerala
-
-- **Note:** Reuses deep-dive item in.2020.dd.freedom-history.first-case; same source.
-- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
-
-#### `in.2020.headlines.galwan` · headline · verified
-
-> 2020-06-16: Twenty Indian soldiers are killed in a clash at Galwan Valley
-
-- **Note:** Reuses deep-dive item in.2020.dd.freedom-history.galwan; same source.
-- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-13)
-
-#### `in.2020.headlines.lockdown` · headline · verified
-
-> 2020-03-24: A 21-day nationwide lockdown is ordered
-
-- **Note:** Reuses deep-dive item in.2020.dd.freedom-history.lockdown; same source.
-- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
-
-#### `in.2020.morning.app` · detail · verified
-
-> A contact-tracing app: Aarogya Setu, a COVID-19 contact-tracing and self-assessment app, was launched by the Government of India on 2 April 2020.
-
-- **Note:** Launch date from the ministry statement reported by Business Today (opened).
-- **Source:** [Business Today, 28 October 2020: 'Aarogya Setu made with industry, academia': Centre clarifies after RTI](https://www.businesstoday.in/amp/latest/economy-politics/story/aarogya-setu-jointly-developed-with-industry-academia-centre-clarifies-after-rti-opens-can-of-worms-276887-2020-10-28) (secondary, 2026-10-14)
-
-#### `in.2020.morning.chess` · detail · verified
-
-> Chess online: India and Russia shared gold at the FIDE Online Chess Olympiad, held between 24 July and 30 August 2020 on Chess.com.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: FIDE Online Chess Olympiad 2020](https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020) (reference, 2026-10-13)
-
-#### `in.2020.morning.film` · detail · verified
-
-> Films at home: Dil Bechara, with Sushant Singh Rajput, was released in 2020 after the actor's death.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: Dil Bechara](https://en.wikipedia.org/wiki/Dil_Bechara) (reference, 2026-10-13)
-
-#### `in.2020.morning.lockdown` · detail · verified
-
-> Staying home: On the evening of 24 March 2020 the government ordered a 21-day nationwide lockdown limiting the movement of about 1.38 billion people.
-
-- **Note:** Reuses deep-dive item.
-- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
-
-#### `in.2020.places.bedroom` · description · verified
-
-> At home, online: India and Russia shared gold at the online FIDE Olympiad held between 24 July and 30 August 2020 on Chess.com.
-
-- **Note:** Rewritten to state only what the cited deep-dive item says (in.2020.dd.sports.online-olympiad); the illustration is generic.
-- **Source:** [Wikipedia: FIDE Online Chess Olympiad 2020](https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020) (reference, 2026-10-13)
-
-#### `in.2020.places.newspaper` · description · verified
-
-> The front page: India confirms its first COVID-19 case in Kerala (2020-01-30).
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-13)
-
-#### `in.2020.places.street` · description · verified
-
-> The street: Aarogya Setu: Aarogya Setu, a COVID-19 contact-tracing, syndromic-mapping and self-assessment app for Android and iOS, was launched on 2 April 2020; its website credits the National Informatics Centre and the IT ministry, though both said in an RTI reply in October 2020 that they did not know who had developed it.
-
-- **Note:** States only what the cited item on this page says; the illustration is generic.
-- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-13)
-
-#### `in.2020.prices.exchange` · price · verified
-
-> Rupees to the US dollar (annual average): Rs 74.10 (official rate, rupees per US dollar)
-
-- **Note:** World Bank series PA.NUS.FCRF.
-- **Source:** [World Bank, World Development Indicators: Official exchange rate (LCU per US$, period average)](https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=IN) (primary, 2026-10-14)
-
-#### `in.2020.prices.inflation` · price · verified
-
-> Consumer price inflation: 6.6% in the year (per cent, annual)
-
-- **Note:** World Bank series FP.CPI.TOTL.ZG.
-- **Source:** [World Bank, World Development Indicators: Inflation, consumer prices (annual %)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) (primary, 2026-10-14)
-
-#### `in.2020.prices.output` · price · verified
-
-> Output per person (GDP per capita): Rs 141,550 a year (current rupees per person per year)
-
-- **Note:** World Bank series NY.GDP.PCAP.CN.
-- **Source:** [World Bank, World Development Indicators: GDP per capita (current LCU)](https://data.worldbank.org/indicator/NY.GDP.PCAP.CN?locations=IN) (primary, 2026-10-14)
-
-#### `in.2020.technology.aarogya` · description · verified
-
-> Aarogya Setu: Aarogya Setu, a COVID-19 contact-tracing, syndromic-mapping and self-assessment app for Android and iOS, was launched on 2 April 2020; its website credits the National Informatics Centre and the IT ministry, though both said in an RTI reply in October 2020 that they did not know who had developed it.
-
-- **Note:** Reuses deep-dive item in.2020.dd.technology-science.aarogya-setu; same source.
-- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-13)
-
-#### `in.2020.technology.covaxin` · description · verified
-
-> Covaxin: Covaxin (BBV152), a whole inactivated virus vaccine, was developed by Bharat Biotech in collaboration with the Indian Council of Medical Research and the National Institute of Virology.
-
-- **Note:** Reuses deep-dive item in.2020.dd.technology-science.covaxin; same source.
-- **Source:** [Wikipedia: Covaxin](https://en.wikipedia.org/wiki/Covaxin) (reference, 2026-10-13)
-
-#### `in.2020.technology.online-chess` · description · verified
-
-> Online chess Olympiad: India and Russia shared gold at the online Olympiad, held between 24 July and 30 August 2020 on Chess.com; Viswanathan Anand, Vidit Gujrathi, Koneru Humpy and Harika Dronavalli were in India's team.
-
-- **Note:** Reuses deep-dive item in.2020.dd.sports.online-olympiad; same source.
-- **Source:** [Wikipedia: FIDE Online Chess Olympiad 2020](https://en.wikipedia.org/wiki/FIDE_Online_Chess_Olympiad_2020) (reference, 2026-10-13)
-
-### in · 2050
+### in/dd · 2050
 
 #### `in.2050.dd.achievements.net-zero-path` · summary · unverifiable
 
@@ -5804,179 +6327,2814 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 - **Note:** The plan (52 tonnes, 400 km, 2035) is sourced; everything about 2050 is speculation.
 - **Source:** [Wikipedia: Bharatiya Antariksh Station](https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station) (reference, 2026-10-13)
 
-#### `in.2050.era.persona` · persona · unverifiable
+## India · Everyday
 
-> a household in India (persona to be researched)
+| Era | Claims | Verified | Corrected | Unverifiable | Removed |
+|---|---:|---:|---:|---:|---:|
+| 1900 | 24 | 10 | 0 | 14 | 0 |
+| 1920 | 32 | 8 | 0 | 24 | 0 |
+| 1930 | 30 | 6 | 0 | 24 | 0 |
+| 1945 | 32 | 3 | 0 | 29 | 0 |
+| 1960 | 33 | 11 | 0 | 22 | 0 |
+| 1970 | 36 | 7 | 0 | 29 | 0 |
+| 1984 | 33 | 8 | 0 | 25 | 0 |
+| 1995 | 34 | 13 | 0 | 21 | 0 |
+| 1999 | 40 | 6 | 0 | 34 | 0 |
+| 2005 | 25 | 9 | 0 | 16 | 0 |
+| 2010 | 34 | 7 | 0 | 27 | 0 |
+| 2020 | 32 | 10 | 0 | 22 | 0 |
+| **Total** | **385** | **98** | **0** | **287** | **0** |
 
-- **Note:** Placeholder: this item has not been researched yet (country selector phase).
+### in/everyday · 1900
 
-#### `in.2050.era.tagline` · tagline · unverifiable
+#### `in.1900.everyday.by-the-numbers.bombay-city` · summary · unverifiable
 
-> India content for this year is still being researched.
+> Bombay's shrinking count: Bombay city's census population fell from 820,000 in 1891 to 780,000 in 1901 as plague drove people away.
 
-- **Note:** Placeholder: this item has not been researched yet (country selector phase).
+- **Note:** One source.
+- **Source:** [TIFR: The Plague Epidemics of the 1890s (Bombay history)](https://theory.tifr.res.in/bombay/history/plague.html) (reference, 2026-10-18)
 
-#### `in.2050.era.title` · title · unverifiable
+#### `in.1900.everyday.by-the-numbers.english-literacy` · summary · unverifiable
 
-> India, 2050
+> Literate in English: Only 68 of every 10,000 men and 7 of every 10,000 women could read English; the summary gives no figure for literacy in all languages.
 
-- **Note:** Placeholder: this item has not been researched yet (country selector phase).
+- **Note:** One secondary summary; English literacy only.
+- **Source:** [People's Archive of Rural India: Report on the Census of India, 1901 (summary of the Risley and Gait report)](https://ruralindiaonline.org/en/library/resource/report-on-the-census-of-india-1901/) (secondary, 2026-10-18)
 
-#### `in.2050.headlines.centenary` · headline · unverifiable
+#### `in.1900.everyday.by-the-numbers.village-share` · summary · unverifiable
 
-> 2050-01-26: Imagined: the republic marks its hundredth anniversary
+> Town and village: Roughly nine in ten people lived in villages and about one in ten in towns.
 
-- **Note:** Imagined; the anniversary date follows from 26 January 1950.
+- **Note:** One secondary summary.
+- **Source:** [People's Archive of Rural India: Report on the Census of India, 1901 (summary of the Risley and Gait report)](https://ruralindiaonline.org/en/library/resource/report-on-the-census-of-india-1901/) (secondary, 2026-10-18)
 
-#### `in.2050.headlines.memory` · headline · unverifiable
+#### `in.1900.everyday.clothing-and-style.bombay-mills` · summary · unverifiable
 
-> 2050-08: Imagined: oral histories of the independence era are archived
+> Bombay's mills: Bombay's first cotton mill opened in 1854, and by 1900 more than 84 had been set up in the city, mostly by Parsi and Gujarati entrepreneurs.
 
-- **Note:** Imagined; no source.
+- **Note:** One secondary source.
+- **Source:** [GKToday: Cotton textile industry in colonial India](https://www.gktoday.in/cotton-textile-industry-in-colonial-india/) (secondary, 2026-10-18)
 
-#### `in.2050.morning.translate` · detail · unverifiable
+#### `in.1900.everyday.clothing-and-style.handloom-holds` · summary · unverifiable
 
-> A call across languages: A phone might translate speech between India's widely spoken languages fluently, as an ordinary utility.
+> The hand loom survives: Hand-loom weaving did not die out; its share of the cloth market stayed roughly stable between the 1890s and the 1930s, because machines could not make some kinds of cloth.
 
-- **Note:** Imagined; no source.
+- **Note:** One scholarly source, read through a search summary.
+- **Source:** [Cambridge University Press: Traditional Industry in the Economy of Colonial India, chapter on handloom weaving](https://www.cambridge.org/core/books/traditional-industry-in-the-economy-of-colonial-india/handloom-weaving/406BAAA6612B27FC39855330FF8A55F2) (reference, 2026-10-18)
 
-#### `in.2050.places.bedroom` · description · unverifiable
+#### `in.1900.everyday.food-and-kitchen.delhi-grains` · summary · unverifiable
 
-> The home: An imagined room with a translation speaker, a cooling vent and a library of audio books.
+> Barley, bajra and husked millets: In the Delhi region barley, bajra and husked millets were eaten across castes and classes, while elite households ate wheat and white rice.
 
-- **Note:** Imagined; no source.
+- **Note:** One regional food-history resource; not specific to 1900.
+- **Source:** [IIT Delhi: Avadh food cultures](https://avadh-foodcultures.iitd.ac.in/all) (reference, 2026-10-18)
 
-#### `in.2050.places.newspaper` · description · unverifiable
+#### `in.1900.everyday.food-and-kitchen.staples-by-region` · summary · unverifiable
 
-> The front page: An imagined front page for the hundredth anniversary of the Constitution on 26 January 2050.
+> A staple for every region: Bengal and Orissa ate rice, mostly coarse early rice among the poor; in the Punjab, the North-Western Provinces, Oudh, Bihar and Gujarat the poor lived on millets and pulses, and wheat and rice were for the better off.
 
-- **Note:** Imagined; the anniversary date follows from 26 January 1950.
+- **Note:** One early-twentieth-century reference text, read through a search summary.
+- **Source:** [National Library of Scotland: Sanitation, Diet, Disease (early-twentieth-century India)](https://deriv.nls.uk/dcn9/7444/74443878.9.htm) (reference, 2026-10-18)
 
-#### `in.2050.places.street` · description · unverifiable
+#### `in.1900.everyday.getting-around.eir-fare` · summary · unverifiable
 
-> The street: An imagined street with shade structures that double as large public canvases, and a space-station map in the metro.
+> Pies per mile: On the East Indian Railway the third-class fare was about 2.5 pies per mile for the first 100 miles, falling further beyond.
 
-- **Note:** Imagined; no source.
+- **Note:** One railway, an undated quotation.
+- **Source:** [Roger Farnworth: Railways and Tramways Blog (EIR), quoting Huddleston](https://rogerfarnworth.com/tag/eir/) (secondary, 2026-10-18)
 
-#### `in.2050.scene.caption` · caption · unverifiable
+#### `in.1900.everyday.school-and-childhood.bombay-schools` · summary · unverifiable
 
-> The same 3D scene as the World view; India-specific details are being researched.
+> Schools in the Bombay Presidency: In 1902-03 the Presidency had 12,218 educational institutions with 599,708 pupils, down from 12,251 institutions and 639,868 pupils a year earlier.
 
-- **Note:** Placeholder: this item has not been researched yet (country selector phase).
+- **Note:** One source, read through a search summary.
+- **Source:** [Report on the Administration of the Bombay Presidency for 1902-03 (Qatar Digital Library)](https://www.qdl.qa/archive/81055/vdc_100145400422.0x000071) (primary, 2026-10-18)
 
-#### `in.2050.technology.audio-books` · description · unverifiable
+#### `in.1900.everyday.school-and-childhood.pathshalas` · summary · unverifiable
 
-> Audio-first reading (imagined): Many readers might listen in their own language while commuting.
+> The village pathshala: Village pathshalas met under a tree, in a shop, a temple or the teacher's house with no fixed timetable and paused for the harvest; after 1854 government pandits introduced textbooks, timetables and annual exams.
 
-- **Note:** Imagined; no source.
+- **Note:** A study-notes site summarising William Adam's 1830s survey; a secondary source.
+- **Source:** [PW: CBSE Class 8 History notes, Civilising the Native, Educating the Nation](https://store.pw.live/blogs/school-exams/cbse-class-8-history-chapter-7-notes) (secondary, 2026-10-18)
 
-#### `in.2050.technology.translation` · description · unverifiable
+#### `in.1900.everyday.spotlight.telegraph` · summary · unverifiable
 
-> Everyday machine translation (imagined): With dozens of widely spoken languages, a phone that translates speech between them fluently might be an ordinary utility by 2050.
+> The telegraph: The telegraph network grew from a first line of 82 miles in 1851 to 78,862 miles of line by the end of 1913.
 
-- **Note:** Imagined; no source.
+- **Note:** A 1914 periodical, read through a search summary; the figure is for 1913, not 1900.
+- **Source:** [The Sunday-school Times / Signs of the Times, 17 November 1914 (Adventist Archives)](https://documents.adventistarchives.org/Periodicals/ST/ST19141117-V41-45.pdf) (secondary, 2026-10-18)
 
-#### `in.2050.visions.cities-heat` · prediction · unverifiable
+#### `in.1900.everyday.work-and-wages.famine-relief-share` · summary · unverifiable
 
-> An imagined resident of 2050 (not a real person): By 2100 cities might be planned around heat first, with shade, water and night-time hours built into the street.
+> A fifth on relief: By July 1900 about one-fifth of the Central Provinces' population was on some form of famine relief.
 
-- **Note:** Imagined; no source.
+- **Note:** One source.
+- **Source:** [Wikipedia: Indian famine of 1899-1900](https://en.wikipedia.org/wiki/Indian_famine_of_1899%E2%80%931900) (reference, 2026-10-18)
 
-#### `in.2050.visions.languages` · prediction · unverifiable
+#### `in.1900.everyday.work-and-wages.famine-wages` · summary · unverifiable
 
-> An imagined resident of 2050 (not a real person): By 2100 language might no longer decide who can take part in a conversation.
+> Relief work and its pay: Famine relief followed the Famine Code of 1883, but relief wages were set below market rates, and a new famine commission produced a revised code in 1901.
 
-- **Note:** Imagined; no source.
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: Indian famine of 1899-1900](https://en.wikipedia.org/wiki/Indian_famine_of_1899%E2%80%931900) (reference, 2026-10-18)
 
-#### `in.2050.visions.space` · prediction · unverifiable
+#### `in.1900.everyday.work-and-wages.farm-labourer` · summary · unverifiable
 
-> An imagined resident of 2050 (not a real person): By 2100 India might have a routine presence beyond low Earth orbit.
+> An agricultural labourer: An able-bodied agricultural labourer earned on average Rs 6.5 to 7.0 a month across India in 1896-1900.
 
-- **Note:** Imagined; no source.
+- **Note:** One source (the Imperial Gazetteer's wage appendix, used by the deep dive's rupee dashboard). Rupees as printed; no decimal conversion is needed after 1957.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-18)
 
-#### `in.2050.headlines.net-zero` · headline · verified
+#### `in.1900.everyday.by-the-numbers.life-expectancy` · summary · verified
 
-> 2050-06: Imagined: halfway to the 2070 net-zero pledge
+> Life expectancy at birth: At the start of the century a newborn in India could expect to live only about 24 years.
 
-- **Note:** Imagined; the pledge is from the cited article.
-- **Source:** [Wikipedia: Climate change in India](https://en.wikipedia.org/wiki/Climate_change_in_India) (reference, 2026-10-13)
+- **Note:** MoSPI lists 23.6 years for men and 24.0 for women in 1901; Factodata gives 23.5 for both. Reconstructed estimates, not measured at the time.
+- **Source:** [MoSPI: Table 2.9, Life expectancy at birth, India](https://mospi.gov.in/sites/default/files/reports_and_publication/cso_research_and_publication_unit/COSIOIESIOTSDVOL-2/health-2-9.pdf) (primary, 2026-10-18)
+- **Source:** [Factodata: Life expectancy in India, growth over the years](https://factodata.com/life-expectancy-in-india-growth-over-the-years/) (secondary, 2026-10-18)
 
-#### `in.2050.morning.grid` · detail · verified
+#### `in.1900.everyday.by-the-numbers.rail-passengers` · summary · verified
 
-> A cleaner grid: The electricity grid might be well on the way to the 2070 net-zero pledge, with coal a smaller share of supply.
+> Rail passengers: More than 175 million passenger journeys were made on about 25,000 miles of track in 1900.
 
-- **Note:** Imagined; the 2070 pledge is from the cited article.
-- **Source:** [Wikipedia: Climate change in India](https://en.wikipedia.org/wiki/Climate_change_in_India) (reference, 2026-10-13)
+- **Note:** Both are secondary articles; the Imperial Gazetteer's mileage (25,400 miles) is on the era page.
+- **Source:** [ThePrint: West sees overcrowded trains as a classic Indian trope, but they are a colonial relic](https://theprint.in/feature/west-sees-overcrowded-trains-as-a-classic-indian-trope-but-they-are-a-colonial-relic/1623167/) (secondary, 2026-10-18)
+- **Source:** [Brewminate: Overcrowded trains, a relic of colonialism and capitalism in India](https://brewminate.com/overcrowded-trains-a-relic-of-colonialism-and-capitalism-in-india/) (secondary, 2026-10-18)
 
-#### `in.2050.morning.heat` · detail · verified
+#### `in.1900.everyday.food-and-kitchen.rice-price` · summary · verified
 
-> A heat advisory on the phone: In this imagined 2050 the day starts with a heat advisory, because heatwaves like the 2010 one that reached 53 C might be more frequent and planned for.
+> What rice cost: The price of rice is on the Prices board as 11.7 seers to the rupee (1896-1900 average).
 
-- **Note:** Imagined; the 2010 figure is from the cited article.
-- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-13)
+- **Note:** Sources agree.
+- **Source:** [The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), Oxford, Clarendon Press, via the Internet Archive](https://archive.org/details/the-imperial-gazetteer-of-india-volume-3) (primary, 2026-10-18)
 
-#### `in.2050.morning.station` · detail · verified
+#### `in.1900.everyday.getting-around.third-class` · summary · verified
 
-> A station overhead: The Bharatiya Antariksh Station, planned for completion by 2035, might have been staffed for years.
+> Nine in ten rode third class: Third-class passengers made up almost nine in ten of rail travellers, in overcrowded and unsanitary carriages.
 
-- **Note:** Imagined; the plan details are from the cited article.
-- **Source:** [Wikipedia: Bharatiya Antariksh Station](https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station) (reference, 2026-10-13)
+- **Note:** Secondary sources; overcrowding is documented in official returns of the 1880s.
+- **Source:** [ThePrint: West sees overcrowded trains as a classic Indian trope, but they are a colonial relic](https://theprint.in/feature/west-sees-overcrowded-trains-as-a-classic-indian-trope-but-they-are-a-colonial-relic/1623167/) (secondary, 2026-10-18)
+- **Source:** [Brewminate: Overcrowded trains, a relic of colonialism and capitalism in India](https://brewminate.com/overcrowded-trains-a-relic-of-colonialism-and-capitalism-in-india/) (secondary, 2026-10-18)
 
-#### `in.2050.prices.economy` · price · verified
+#### `in.1900.everyday.health-and-medicine.plague-bombay` · summary · verified
 
-> Government's economic target for 2047: about US$29-30 trillion (US dollars, the target year is 2047)
+> Plague in Bombay: Plague was first detected in Bombay in September 1896; the city answered with house searches, isolation of the sick, camps for travellers and forced evacuation of residents, and the plague death rate in 1900 was about 22 per thousand.
 
-- **Note:** A stated target, not a forecast.
-- **Source:** [Wikipedia: Viksit Bharat @2047](https://en.wikipedia.org/wiki/Viksit_Bharat_@2047) (reference, 2026-10-13)
+- **Note:** The 22 per thousand figure is from the TIFR page only.
+- **Source:** [TIFR: The Plague Epidemics of the 1890s (Bombay history)](https://theory.tifr.res.in/bombay/history/plague.html) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Bombay plague epidemic](https://en.wikipedia.org/wiki/Bombay_plague_epidemic) (reference, 2026-10-18)
 
-#### `in.2050.prices.gaganyaan` · price · verified
+#### `in.1900.everyday.health-and-medicine.plague-lab` · summary · verified
 
-> Gaganyaan crew size: 3 people (people per design flight to low Earth orbit)
+> The plague laboratory: A plague research laboratory set up at J. J. Hospital moved in 1899 to Government House in Parel under Dr W. M. Haffkine, the start of the Haffkine Institute.
 
-- **Note:** A design figure, not a price.
-- **Source:** [Wikipedia: Gaganyaan](https://en.wikipedia.org/wiki/Gaganyaan) (reference, 2026-10-13)
+- **Note:** Sources agree.
+- **Source:** [TIFR: The Plague Epidemics of the 1890s (Bombay history)](https://theory.tifr.res.in/bombay/history/plague.html) (reference, 2026-10-18)
+- **Source:** [PubMed Central: Plague in Bombay, Haffkine Serum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9595858/) (reference, 2026-10-18)
 
-#### `in.2050.prices.net-zero` · price · verified
+#### `in.1900.everyday.keeping-in-touch.postcard-sales` · summary · verified
 
-> Net-zero emissions pledge year: 2070 (calendar year of the pledge)
+> Twenty-six million cards: By 1883 about 26 million postcards a year were being sold in India, and reply cards followed in 1890.
 
-- **Note:** A pledge, not a price.
-- **Source:** [Wikipedia: Climate change in India](https://en.wikipedia.org/wiki/Climate_change_in_India) (reference, 2026-10-13)
+- **Note:** Sources agree.
+- **Source:** [India TV News: India book traces history of picture postcards](https://www.indiatvnews.com/news/india-book-traces-history-picture-postcards-india-531696) (secondary, 2026-10-18)
+- **Source:** [Outlook Traveller: In pictures, India through postcards](https://www.outlooktraveller.com/celebrating-people/in-pictures-india-through-postcards) (secondary, 2026-10-18)
 
-#### `in.2050.prices.population` · price · verified
+#### `in.1900.everyday.keeping-in-touch.quarter-anna-card` · summary · verified
 
-> Projected population: about 1.7 billion (people, a current projection for 2050)
+> The quarter-anna postcard: The Indian post introduced a quarter-anna postcard in July 1879 for use within British India; a card for countries of the Universal Postal Union cost one and a half annas.
 
-- **Note:** A projection, not a price.
-- **Source:** [Wikipedia: Demographics of India](https://en.wikipedia.org/wiki/Demographics_of_India) (reference, 2026-10-13)
+- **Note:** Sources agree.
+- **Source:** [India TV News: India book traces history of picture postcards](https://www.indiatvnews.com/news/india-book-traces-history-picture-postcards-india-531696) (secondary, 2026-10-18)
+- **Source:** [iStampGallery: India on Post Card](https://istampgallery.com/centenary-of-post-card/) (secondary, 2026-10-18)
 
-#### `in.2050.prices.station-mass` · price · verified
+#### `in.1900.everyday.leisure-and-fun.ganeshotsav` · summary · verified
 
-> Planned space station mass: about 52 tonnes (tonnes, orbit near 400 km, completion planned by 2035)
+> The public Ganesh festival: Ganesh Chaturthi, once mostly kept at home, became a large public festival in Pune in the 1890s; sources date the first public idol to 1892 or 1893, and Lokmanya Tilak promoted it through his paper Kesari.
 
-- **Note:** A plan, not a price.
-- **Source:** [Wikipedia: Bharatiya Antariksh Station](https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station) (reference, 2026-10-13)
+- **Note:** The year of the first public celebration is disputed (1892 or 1893).
+- **Source:** [Wikipedia: Ganesh Chaturthi](https://en.wikipedia.org/wiki/Ganesh_Chaturthi) (reference, 2026-10-18)
+- **Source:** [Brut India: Ganesh Chaturthi was once mostly a private celebration](https://www.brut.media/in/articles/ganesh-chaturthi-was-once-mostly-a-private-celebration-who-took-it-to-the-streets-in-the-1890s) (secondary, 2026-10-18)
 
-#### `in.2050.technology.clean-grid` · description · verified
+#### `in.1900.everyday.school-and-childhood.bombay-share` · summary · verified
 
-> A grid closer to net zero (imagined): India has said it aims for net-zero emissions by 2070; by 2050 the electricity grid might be well on the way, with coal a smaller share of supply.
+> A few in a hundred: In the Bombay Presidency the share of the population under instruction rose from 2.3 to 2.6 percent in 1904-05, and reached 3.3 percent by 1909-10.
 
-- **Note:** Imagined; baseline from the cited article.
-- **Source:** [Wikipedia: Climate change in India](https://en.wikipedia.org/wiki/Climate_change_in_India) (reference, 2026-10-13)
+- **Note:** Dates are after 1900; they show how small the share was just after the year.
+- **Source:** [Report on the Administration of the Bombay Presidency for 1904-05 (Qatar Digital Library)](https://www.qdl.qa/en/archive/81055/vdc_100145400423.0x00008d) (primary, 2026-10-18)
+- **Source:** [Annual Report of the Administration of the Bombay Presidency, 1909-10 (Qatar Digital Library)](https://www.qdl.qa/archive/81055/vdc_100146764804.0x000012) (primary, 2026-10-18)
 
-#### `in.2050.technology.crewed-flight` · description · verified
+### in/everyday · 1920
 
-> Routine crewed flights (imagined): Gaganyaan is designed to carry three people to low Earth orbit; by 2050 crewed flights might be unremarkable.
+#### `in.1920.everyday.by-the-numbers.population` · summary · unverifiable
 
-- **Note:** Imagined; baseline from the cited article.
-- **Source:** [Wikipedia: Gaganyaan](https://en.wikipedia.org/wiki/Gaganyaan) (reference, 2026-10-13)
+> Population: The 1921 census counted more than 318 million people at a density of 177 per square mile.
 
-#### `in.2050.technology.space-station` · description · verified
+- **Note:** One secondary summary of the census report; taken in 1921, the year after.
+- **Source:** [People's Archive of Rural India: Census of India 1921, Volume I, Part I, Report (summary)](https://ruralindiaonline.org/library/resource/census-of-india-1921-volume-i-part-i---report/) (secondary, 2026-10-18)
 
-> An Indian space station in orbit (imagined): The Bharatiya Antariksh Station is planned today to weigh about 52 tonnes, orbit near 400 km and be complete by 2035. By 2050 it might have been staffed for years and be due for replacement.
+#### `in.1920.everyday.by-the-numbers.urban-share` · summary · unverifiable
 
-- **Note:** Imagined; baseline from the cited article.
-- **Source:** [Wikipedia: Bharatiya Antariksh Station](https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station) (reference, 2026-10-13)
+> Town and village: About 10.2 percent of people lived in towns and 89.8 percent in villages.
+
+- **Note:** One secondary summary; census of 1921.
+- **Source:** [People's Archive of Rural India: Census of India 1921, Volume I, Part I, Report (summary)](https://ruralindiaonline.org/library/resource/census-of-india-1921-volume-i-part-i---report/) (secondary, 2026-10-18)
+
+#### `in.1920.everyday.clothing-and-style.dhoti-kurta` · summary · unverifiable
+
+> Dhoti, kurta and turban: Men in towns and villages wore the dhoti or lungi with a kurta or angarkha, and a turban or cap whose style told region and community.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Clothing in India](https://en.wikipedia.org/wiki/Clothing_in_India) (reference, 2026-10-18)
+
+#### `in.1920.everyday.clothing-and-style.footwear` · summary · unverifiable
+
+> Chappals, jootis and bare feet: Leather chappals and jootis were common among those who could afford them, and many villagers went barefoot.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Clothing in India](https://en.wikipedia.org/wiki/Clothing_in_India) (reference, 2026-10-18)
+
+#### `in.1920.everyday.clothing-and-style.sari-blouse` · summary · unverifiable
+
+> The sari with a blouse: Women wore the sari, draped in regional ways; the blouse and petticoat worn under it had spread through well-off households since the late 1800s.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Sari](https://en.wikipedia.org/wiki/Sari) (reference, 2026-10-18)
+
+#### `in.1920.everyday.food-and-kitchen.clay-chulha` · summary · unverifiable
+
+> The clay stove: Most kitchens cooked on a clay chulha fed with wood, dung cakes or charcoal, and smoke was part of the day.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Indian cuisine](https://en.wikipedia.org/wiki/Indian_cuisine) (reference, 2026-10-18)
+
+#### `in.1920.everyday.food-and-kitchen.grain-by-region` · summary · unverifiable
+
+> Rice, wheat or millet: What filled the plate depended on the region: rice in the east and south, wheat and millet in much of the north and west.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Indian cuisine](https://en.wikipedia.org/wiki/Indian_cuisine) (reference, 2026-10-18)
+
+#### `in.1920.everyday.food-and-kitchen.thali-hand` · summary · unverifiable
+
+> Eating with the right hand: Meals were commonly served on a metal plate or a banana leaf and eaten by hand, with water in a brass vessel beside it.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Indian cuisine](https://en.wikipedia.org/wiki/Indian_cuisine) (reference, 2026-10-18)
+
+#### `in.1920.everyday.getting-around.tram-fare` · summary · unverifiable
+
+> The Bombay tram fare: The fare rose from 1 anna in 1901 to 1½ annas in 1921, and to 2 annas by 1935.
+
+- **Note:** One source, read through a search summary.
+- **Source:** [Live History India: Bombay's Tryst with Trams](https://livehistoryindia.com/story/religious-places/bombays-tryst-with-trams) (secondary, 2026-10-18)
+
+#### `in.1920.everyday.health-and-medicine.cholera` · summary · unverifiable
+
+> Cholera: Cholera epidemics were severe in Bombay in 1900, 1906, 1912 and 1919, and in several provinces outbreaks accompanied or followed the influenza.
+
+- **Note:** One source; the provincial reports of the time are secondary to the census.
+- **Source:** [Bombay 1923-24: A review of the administration of the Presidency (Qatar Digital Library)](https://www.qdl.qa/archive/81055/vdc_100152998489.0x0000c5) (primary, 2026-10-18)
+
+#### `in.1920.everyday.health-and-medicine.influenza-bombay` · summary · unverifiable
+
+> Influenza in the Bombay Presidency: A Bombay review estimated 1,041,481 influenza deaths in the Presidency in 1918; by 1923 fewer than 1,000 deaths were returned to the disease.
+
+- **Note:** One source, read through a search summary.
+- **Source:** [Bombay 1923-24: A review of the administration of the Presidency (Qatar Digital Library)](https://www.qdl.qa/archive/81055/vdc_100152998489.0x0000c5) (primary, 2026-10-18)
+
+#### `in.1920.everyday.keeping-in-touch.postcard-letter-writer` · summary · unverifiable
+
+> The letter writer outside the post office: Many people could not write, so scribes sat outside post offices and wrote postcards and letters for a few coins.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: India Post](https://en.wikipedia.org/wiki/India_Post) (reference, 2026-10-18)
+
+#### `in.1920.everyday.keeping-in-touch.telegram-urgent` · summary · unverifiable
+
+> The telegram means bad news: Telegrams were for emergencies and were costly, so a telegram at the door often meant a death or an illness.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Telegraphy](https://en.wikipedia.org/wiki/Telegraphy) (reference, 2026-10-18)
+
+#### `in.1920.everyday.keeping-in-touch.young-india` · summary · unverifiable
+
+> Newspapers as political voice: Gandhi began editing the weekly Young India in 1919, and papers like it carried the non-cooperation campaign to towns and readers' groups.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Young India](https://en.wikipedia.org/wiki/Young_India) (reference, 2026-10-18)
+
+#### `in.1920.everyday.leisure-and-fun.football-mohun-bagan` · summary · unverifiable
+
+> Football in Calcutta: Mohun Bagan won the IFA Shield in 1911, and football matches drew big crowds in Calcutta's maidans.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Mohun Bagan AC](https://en.wikipedia.org/wiki/Mohun_Bagan_AC) (reference, 2026-10-18)
+
+#### `in.1920.everyday.leisure-and-fun.gramophone` · summary · unverifiable
+
+> The gramophone: Gramophone records of classical singers and stage songs were sold in towns from the early 1900s, and the gramophone was a prized possession.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Gramophone record](https://en.wikipedia.org/wiki/Gramophone_record) (reference, 2026-10-18)
+
+#### `in.1920.everyday.leisure-and-fun.parsi-theatre` · summary · unverifiable
+
+> Parsi theatre: Travelling Parsi theatre companies staged musical dramas in Urdu, Gujarati and Hindi in Bombay and beyond.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Parsi theatre](https://en.wikipedia.org/wiki/Parsi_theatre) (reference, 2026-10-18)
+
+#### `in.1920.everyday.leisure-and-fun.silent-films` · summary · unverifiable
+
+> Silent films: Indian cinema was silent; Raja Harishchandra (1913) had started it and films were shown with live music in theatres in the big cities.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Cinema of India](https://en.wikipedia.org/wiki/Cinema_of_India) (reference, 2026-10-18)
+
+#### `in.1920.everyday.school-and-childhood.dyarchy-education` · summary · unverifiable
+
+> Education passes to the provinces: Under the Government of India Act 1919, education became a provincial subject handled by Indian ministers.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Government of India Act 1919](https://en.wikipedia.org/wiki/Government_of_India_Act_1919) (reference, 2026-10-18)
+
+#### `in.1920.everyday.school-and-childhood.low-literacy` · summary · unverifiable
+
+> Few could read: Literacy was below ten percent of the population, and far lower for girls.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Education in India](https://en.wikipedia.org/wiki/Education_in_India) (reference, 2026-10-18)
+
+#### `in.1920.everyday.school-and-childhood.national-universities` · summary · unverifiable
+
+> Universities of the non-cooperation years: Jamia Millia Islamia and Gujarat Vidyapith were founded in 1920 as national institutions outside the government system.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Jamia Millia Islamia](https://en.wikipedia.org/wiki/Jamia_Millia_Islamia) (reference, 2026-10-18)
+
+#### `in.1920.everyday.spotlight.women-boycott` · summary · unverifiable
+
+> A part for women: When the movement began in 1920 Gandhi first gave women a limited part, boycott and swadeshi, but women claimed a larger role.
+
+- **Note:** Study-aid sources; one source.
+- **Source:** [RAU's IAS: Women in the freedom struggle](https://compass.rauias.com/modern-history/women-freedom-struggle/) (secondary, 2026-10-18)
+
+#### `in.1920.everyday.work-and-wages.strike-hours` · summary · unverifiable
+
+> Twelve hours down to ten: After the strike of 1920 mill basic wages rose in April 1920 and hours were cut from 12 to 10; the source describes the Sholapur mills.
+
+- **Note:** One source, describing Sholapur rather than Bombay city.
+- **Source:** [Report on an enquiry into wages and hours of labour in the cotton mill industry, 1926 (Labour Office, Bombay), via EconBiz](https://digi.econbiz.de/viewer/fulltext/1827868163/9) (primary, 2026-10-18)
+
+#### `in.1920.everyday.work-and-wages.tram-union` · summary · unverifiable
+
+> Tram workers organise: Calcutta's tramway employees formed their first association in 1920.
+
+- **Note:** One source. The All India Trade Union Congress, formed that October, is in the history section.
+- **Source:** [Banglapedia: Calcutta Tramways](https://en.banglapedia.org/index.php/Calcutta_Tramways) (reference, 2026-10-18)
+
+#### `in.1920.everyday.getting-around.double-decker` · summary · verified
+
+> Double-decker trams: Bombay's electric trams, running since 1907, were joined by double-decker cars in September 1920.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Trams in Mumbai](https://en.wikipedia.org/wiki/Trams_in_Mumbai) (reference, 2026-10-18)
+- **Source:** [Live History India: Bombay's Tryst with Trams](https://livehistoryindia.com/story/religious-places/bombays-tryst-with-trams) (secondary, 2026-10-18)
+
+#### `in.1920.everyday.health-and-medicine.influenza-toll` · summary · verified
+
+> The influenza of 1918: The influenza pandemic killed at least 12 million people in India, about 5 percent of the population, almost all of them between September and December 1918; estimates run as high as 17-18 million.
+
+- **Note:** Estimates vary widely; Indian mortality records of the period are widely regarded as undercounts.
+- **Source:** [Wikipedia: 1918 flu pandemic in India](https://en.wikipedia.org/wiki/1918_flu_pandemic_in_India) (reference, 2026-10-18)
+- **Source:** [Gateway House: The 1918 flu in India](https://www.gatewayhouse.in/1918-flu-india/) (reference, 2026-10-18)
+
+#### `in.1920.everyday.spotlight.elphinstone-bonfire` · summary · verified
+
+> The first bonfire: On 31 July 1921, a year on, Gandhi lit a pile of foreign cloth at the Elphinstone Mill in Bombay before ten to twelve thousand people.
+
+- **Note:** Dated 1921; it shows where the campaign of 1920 led.
+- **Source:** [The Wire: When a peaceful non-cooperation meeting in Bombay turned violent](https://thewire.in/history/when-a-peaceful-non-cooperation-meeting-in-bombay-turned-violent-leaving-gandhi-distraught) (secondary, 2026-10-18)
+- **Source:** [GandhiServe: Life of Gandhi, 1921-1928](https://gandhiserve.net/about-mahatma-gandhi/mahatma-life-of-gandhi-1869-1948/chapter-04-1921-1928) (secondary, 2026-10-18)
+
+#### `in.1920.everyday.spotlight.jamiat-fatwa` · summary · verified
+
+> A fatwa on boycott: On 8 September 1920 the Jamiat Ulama-i-Hind issued the Fatwa Tark-e-Mawalat urging a boycott of British goods, signed by 500 scholars.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1920 in India](https://en.wikipedia.org/wiki/1920_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Jamiat Ulama-i-Hind](https://en.wikipedia.org/wiki/Jamiat_Ulama-i-Hind) (reference, 2026-10-18)
+
+#### `in.1920.everyday.spotlight.khadi-thesis` · summary · verified
+
+> Khadi instead of foreign cloth: A central idea of non-cooperation was to replace foreign cloth with hand-spun, hand-woven khadi.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Khadi](https://en.wikipedia.org/wiki/Khadi) (reference, 2026-10-18)
+- **Source:** [MKGandhi.org: Relevance of Gandhi (article)](https://mkgandhi.org/articles/relevance1.php) (secondary, 2026-10-18)
+
+#### `in.1920.everyday.spotlight.spinning-1919` · summary · verified
+
+> Gandhi takes up the spinning wheel: Gandhi began spinning at Mani Bhavan in Bombay in 1919 and encouraged others to do so; Wikipedia dates the khadi movement itself to 1918.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Khadi](https://en.wikipedia.org/wiki/Khadi) (reference, 2026-10-18)
+- **Source:** [MKGandhi.org: Relevance of Gandhi (article)](https://mkgandhi.org/articles/relevance1.php) (secondary, 2026-10-18)
+
+#### `in.1920.everyday.work-and-wages.mill-men` · summary · verified
+
+> A mill hand, Bombay Presidency (men): Men in the cotton mills earned on average about Rs 33 a month in 1921, the first year the Labour Office measured it.
+
+- **Note:** The 1921 enquiry covered all mills of the Presidency, not Bombay city alone, and compared May 1914 with May 1921.
+- **Source:** [Clemens Dutt, Labour in India (1923), Marxists Internet Archive](https://www.marxists.org/archive/dutt-clemens/1923/10/x01.htm) (secondary, 2026-10-18)
+- **Source:** [Report on an enquiry into wages and hours of labour in the cotton mill industry, 1926 (Labour Office, Bombay), via EconBiz](https://digi.econbiz.de/viewer/fulltext/1827868163/9) (primary, 2026-10-18)
+
+#### `in.1920.everyday.work-and-wages.mill-women` · summary · verified
+
+> A mill hand, Bombay Presidency (women): Women in the cotton mills earned on average about Rs 16 a month in 1921, half the men's figure.
+
+- **Note:** Same enquiry as the men's figure.
+- **Source:** [Clemens Dutt, Labour in India (1923), Marxists Internet Archive](https://www.marxists.org/archive/dutt-clemens/1923/10/x01.htm) (secondary, 2026-10-18)
+- **Source:** [Report on an enquiry into wages and hours of labour in the cotton mill industry, 1926 (Labour Office, Bombay), via EconBiz](https://digi.econbiz.de/viewer/fulltext/1827868163/9) (primary, 2026-10-18)
+
+### in/everyday · 1930
+
+#### `in.1930.everyday.by-the-numbers.languages` · summary · unverifiable
+
+> Languages counted: The 1931 census noted 225 languages; George Grierson's Linguistic Survey of India had recorded 179 languages and 544 dialects.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 1931 Census of India](https://en.wikipedia.org/wiki/1931_Census_of_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.by-the-numbers.population` · summary · unverifiable
+
+> Population: The census of 1931 counted 350.5 million people, up from 316.1 million in 1921.
+
+- **Note:** One source (Wikipedia, opened directly) giving the census totals.
+- **Source:** [Wikipedia: 1931 Census of India](https://en.wikipedia.org/wiki/1931_Census_of_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.by-the-numbers.postcard-literacy` · summary · unverifiable
+
+> Who could write a postcard: By 1931, 9.5 percent of the population could read and write a postcard.
+
+- **Note:** One source; the census report's own wording of the literacy test is not given.
+- **Source:** [Wikipedia: 1931 Census of India](https://en.wikipedia.org/wiki/1931_Census_of_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.clothing-and-style.gandhi-cap` · summary · unverifiable
+
+> The Gandhi cap: The white khadi cap, worn by Congress supporters, became a political statement, and wearers were sometimes arrested for it.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Gandhi cap](https://en.wikipedia.org/wiki/Gandhi_cap) (reference, 2026-10-18)
+
+#### `in.1930.everyday.clothing-and-style.nivi-sari` · summary · unverifiable
+
+> The Nivi drape spreads: The Nivi style of draping, with the pleats tucked at the waist and the end over the shoulder, spread across many regions.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Sari](https://en.wikipedia.org/wiki/Sari) (reference, 2026-10-18)
+
+#### `in.1930.everyday.clothing-and-style.western-shirt` · summary · unverifiable
+
+> Western clothes in town: Lawyers, clerks and students in cities wore shirts, trousers or coats, often with a cap or turban.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Clothing in India](https://en.wikipedia.org/wiki/Clothing_in_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.food-and-kitchen.irani-cafe` · summary · unverifiable
+
+> Irani cafés: Irani cafés in Bombay and Pune served tea, bun maska and keema pav at low prices and became meeting places.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Irani café](https://en.wikipedia.org/wiki/Irani_café) (reference, 2026-10-18)
+
+#### `in.1930.everyday.food-and-kitchen.rural-diet` · summary · unverifiable
+
+> Millets and pulses: Most villagers ate millet, rice or wheat with pulses, vegetables and chillies, and meat or milk were occasional.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Indian cuisine](https://en.wikipedia.org/wiki/Indian_cuisine) (reference, 2026-10-18)
+
+#### `in.1930.everyday.food-and-kitchen.tea-campaign` · summary · unverifiable
+
+> Selling tea to Indians: The Indian tea industry ran campaigns in the 1930s, with free samples and tea stalls at stations, to turn tea into a daily drink at home.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Tea in India](https://en.wikipedia.org/wiki/Tea_in_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.getting-around.bullock-tonga` · summary · unverifiable
+
+> Bullock carts and tongas: Away from rail lines, people went by bullock cart, horse tonga or on foot.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Tonga (carriage)](https://en.wikipedia.org/wiki/Tonga_(carriage)) (reference, 2026-10-18)
+
+#### `in.1930.everyday.getting-around.frontier-mail` · summary · unverifiable
+
+> Frontier Mail: The Frontier Mail began running between Bombay and Peshawar in 1928 and was one of the best-known trains.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Frontier Mail](https://en.wikipedia.org/wiki/Frontier_Mail) (reference, 2026-10-18)
+
+#### `in.1930.everyday.getting-around.hand-rickshaw` · summary · unverifiable
+
+> Hand-pulled rickshaws: In Calcutta men pulled passengers in hand rickshaws, and trams ran on the main roads.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Rickshaw](https://en.wikipedia.org/wiki/Rickshaw) (reference, 2026-10-18)
+
+#### `in.1930.everyday.getting-around.tata-airmail` · summary · unverifiable
+
+> The first airmail service: In October 1932 J.R.D. Tata flew mail from Karachi to Bombay, the start of Tata Airlines.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Air India](https://en.wikipedia.org/wiki/Air_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.health-and-medicine.epidemic-disease` · summary · unverifiable
+
+> Cholera, plague and malaria: Cholera, plague, smallpox and malaria were common, and vaccination and quinine were the main defences.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Healthcare in India](https://en.wikipedia.org/wiki/Healthcare_in_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.health-and-medicine.hygiene-institute` · summary · unverifiable
+
+> All-India Institute of Hygiene: The All-India Institute of Hygiene and Public Health opened in Calcutta in 1932.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: All India Institute of Hygiene and Public Health](https://en.wikipedia.org/wiki/All_India_Institute_of_Hygiene_and_Public_Health) (reference, 2026-10-18)
+
+#### `in.1930.everyday.health-and-medicine.medical-council` · summary · unverifiable
+
+> Medical Council Act: The Indian Medical Council Act of 1933 set up a body to register doctors.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Medical Council of India](https://en.wikipedia.org/wiki/Medical_Council_of_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.keeping-in-touch.airmail-letters` · summary · unverifiable
+
+> Letters by air: Airmail had started in 1911 with a demonstration flight at Allahabad, and regular air services shortened letter times in the 1930s.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Air mail](https://en.wikipedia.org/wiki/Air_mail) (reference, 2026-10-18)
+
+#### `in.1930.everyday.keeping-in-touch.khadi-papers` · summary · unverifiable
+
+> Papers and pamphlets: Nationalist newspapers and pamphlets spread news of the Salt March, though some were banned or fined.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-18)
+
+#### `in.1930.everyday.keeping-in-touch.radio-1930` · summary · unverifiable
+
+> Radio begins: The government took over broadcasting in 1930 as the Indian State Broadcasting Service, which became All India Radio in 1936.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: All India Radio](https://en.wikipedia.org/wiki/All_India_Radio) (reference, 2026-10-18)
+
+#### `in.1930.everyday.leisure-and-fun.talkie-halls` · summary · unverifiable
+
+> Halls ready for sound: By the end of 1930 about 30 cinema halls in India could screen talkies, ahead of Alam Ara in March 1931.
+
+- **Note:** One source, read through a search summary.
+- **Source:** [Outlook India: The Ghost Who Talked (Alam Ara)](https://www.outlookindia.com/national/the-ghost-who-talked-news-281007) (secondary, 2026-10-18)
+
+#### `in.1930.everyday.spotlight.freedom-salt` · summary · unverifiable
+
+> A pinch of salt for 1,600 rupees: A pinch of salt that Gandhi made himself reportedly sold for 1,600 rupees.
+
+- **Note:** One source, which gives no date or buyer.
+- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-18)
+
+#### `in.1930.everyday.work-and-wages.depression-prices` · summary · unverifiable
+
+> The Depression reaches the farm: After 1929 world prices of crops such as jute, cotton and wheat fell, and many farmers had trouble paying rent and debts.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Great Depression in India](https://en.wikipedia.org/wiki/Great_Depression_in_India) (reference, 2026-10-18)
+
+#### `in.1930.everyday.work-and-wages.jamshedpur` · summary · unverifiable
+
+> Steel at Jamshedpur: Tata Steel's plant at Jamshedpur, begun in 1907, employed thousands and ran a company town with houses and schools.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Tata Steel](https://en.wikipedia.org/wiki/Tata_Steel) (reference, 2026-10-18)
+
+#### `in.1930.everyday.work-and-wages.mill-strikes` · summary · unverifiable
+
+> Mill strikes in Bombay: Textile workers in Bombay struck in 1928 and 1929 over wages and work rules, and the government passed the Trade Disputes Act in 1929.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Bombay textile strike of 1928](https://en.wikipedia.org/wiki/Bombay_textile_strike_of_1928) (reference, 2026-10-18)
+
+#### `in.1930.everyday.leisure-and-fun.cinema-ticket` · summary · verified
+
+> A cinema ticket: A regular cinema ticket cost four annas; at the opening of the first Indian talkie, Alam Ara, in Bombay in March 1931, such tickets reportedly changed hands at Rs 5.
+
+- **Note:** The Rs 5 figure is a black-market price at the 1931 premiere, not an official price.
+- **Source:** [Outlook India: The Ghost Who Talked (Alam Ara)](https://www.outlookindia.com/national/the-ghost-who-talked-news-281007) (secondary, 2026-10-18)
+- **Source:** [Live History India: Alam Ara, Indian cinema finds its voice](https://livehistoryindia.com/story/eras/alam-ara) (secondary, 2026-10-18)
+
+#### `in.1930.everyday.school-and-childhood.hartog-wastage` · summary · verified
+
+> Starting school and leaving it: Of every 100 children who began Class I in 1922-23, only 18 were still reading in Class IV in 1925-26, the figure behind the Hartog Committee's report on wastage in 1929.
+
+- **Note:** Both are study-aid summaries of the Hartog report; neither is the report.
+- **Source:** [GKToday: Hartog Committee on Education](https://www.gktoday.in/hartog-committee-on-education/) (secondary, 2026-10-18)
+- **Source:** [Vajiram & Ravi: Hartog Committee](https://vajiramandravi.com/current-affairs/hartog-committee/) (secondary, 2026-10-18)
+
+#### `in.1930.everyday.spotlight.bombay-women` · summary · verified
+
+> Bombay's women: Through 1930-31 women in Bombay's suburbs led processions, picketed foreign-cloth shops, hoisted Congress flags and broke the salt laws, and an unprecedented number of middle-class Hindu women took to the city's streets to promote swadeshi.
+
+- **Note:** Sources agree.
+- **Source:** [Scroll.in: How Mumbai suburban women contributed to the freedom struggle](https://scroll.in/article/1087616/from-the-photo-book-how-mumbai-suburban-women-contributed-to-the-freedom-struggle) (secondary, 2026-10-18)
+- **Source:** [Duke University: Disobedient Women in a Consumer City, Picturing Swadeshi Culture in Interwar Bombay](https://dukespace.lib.duke.edu/items/a9596541-cd29-41f9-b27d-1ad9fb3cd0eb) (primary, 2026-10-18)
+
+#### `in.1930.everyday.spotlight.poor-burden` · summary · verified
+
+> The poor's tax: Historians note that the salt tax weighed most heavily on India's poor, though every household needed salt; Gandhi called salt 'next to air and water, perhaps the greatest necessity of life'.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-18)
+- **Source:** [HISTORY.com: Salt March](https://www.history.com/topics/salt-march) (secondary, 2026-10-18)
+
+#### `in.1930.everyday.spotlight.salt-monopoly` · summary · verified
+
+> A monopoly on salt: Under the Salt Act of 1882 the government held a monopoly on salt, so people had to buy it from colonial depots even though coastal families could make it by boiling seawater.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Salt March](https://en.wikipedia.org/wiki/Salt_March) (reference, 2026-10-18)
+- **Source:** [HISTORY.com: Salt March](https://www.history.com/topics/salt-march) (secondary, 2026-10-18)
+
+#### `in.1930.everyday.spotlight.women-picket` · summary · verified
+
+> Women at the picket line: Gandhi suggested women were best suited to picketing liquor shops and sellers of foreign cloth and to spinning khadi yarn, a programme that led to an unprecedented number of women's arrests.
+
+- **Note:** Sources agree.
+- **Source:** [South Asia (Taylor & Francis), 2023: article on women and civil disobedience](https://www.tandfonline.com/doi/full/10.1080/00856401.2023.2239622) (primary, 2026-10-18)
+- **Source:** [Scroll.in: How Mumbai suburban women contributed to the freedom struggle](https://scroll.in/article/1087616/from-the-photo-book-how-mumbai-suburban-women-contributed-to-the-freedom-struggle) (secondary, 2026-10-18)
+
+### in/everyday · 1945
+
+#### `in.1945.everyday.by-the-numbers.famine-deaths` · summary · unverifiable
+
+> The Bengal famine: Estimates of deaths in the Bengal famine of 1943-44 run to between 2 and 3 million.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Bengal famine of 1943](https://en.wikipedia.org/wiki/Bengal_famine_of_1943) (reference, 2026-10-18)
+
+#### `in.1945.everyday.by-the-numbers.life-expectancy` · summary · unverifiable
+
+> Life expectancy: Life expectancy at birth was about 32 years around the 1940s.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Demographics of India](https://en.wikipedia.org/wiki/Demographics_of_India) (reference, 2026-10-18)
+
+#### `in.1945.everyday.by-the-numbers.literacy` · summary · unverifiable
+
+> Who could read: About 16 percent of people were literate at the 1941 census.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Literacy in India](https://en.wikipedia.org/wiki/Literacy_in_India) (reference, 2026-10-18)
+
+#### `in.1945.everyday.by-the-numbers.population` · summary · unverifiable
+
+> Population: The 1941 census counted about 319 million people in British India and the princely states.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Demographics of India](https://en.wikipedia.org/wiki/Demographics_of_India) (reference, 2026-10-18)
+
+#### `in.1945.everyday.by-the-numbers.soldiers` · summary · unverifiable
+
+> Volunteer army: India raised the largest all-volunteer army of the war, over 2.5 million men.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Indian Army during World War II](https://en.wikipedia.org/wiki/Indian_Army_during_World_War_II) (reference, 2026-10-18)
+
+#### `in.1945.everyday.clothing-and-style.controlled-cloth` · summary · unverifiable
+
+> Controlled cloth: Mills had to make a fixed share of cheap standard cloth, sold at a controlled price, because of wartime shortage.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Economy of India under British rule](https://en.wikipedia.org/wiki/Economy_of_India_under_British_rule) (reference, 2026-10-18)
+
+#### `in.1945.everyday.clothing-and-style.khadi-1945` · summary · unverifiable
+
+> Khadi after Quit India: Khadi stayed a symbol of the nationalist movement, and Gandhi's followers spun yarn at charkhas.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Khadi](https://en.wikipedia.org/wiki/Khadi) (reference, 2026-10-18)
+
+#### `in.1945.everyday.clothing-and-style.uniform-cloth` · summary · unverifiable
+
+> Cloth for the army: Mills were turned to making uniforms and tents, leaving less cloth for homes.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Indian Army during World War II](https://en.wikipedia.org/wiki/Indian_Army_during_World_War_II) (reference, 2026-10-18)
+
+#### `in.1945.everyday.food-and-kitchen.britannia-one-dish` · summary · unverifiable
+
+> One dish per customer: At Britannia, the Irani restaurant in Ballard Estate, Bombay, wartime rules allowed one dish per customer and rationed the pav; the food commissioner's office was upstairs, so checks were common.
+
+- **Note:** One source: a restaurateur's recollection.
+- **Source:** [Scroll.in: Britannia and Co. (Irani restaurant, Ballard Estate)](https://scroll.in/magazine/835010/scroll_in) (secondary, 2026-10-18)
+
+#### `in.1945.everyday.getting-around.hal-1940` · summary · unverifiable
+
+> Aircraft at Bangalore: Hindustan Aircraft was founded at Bangalore in 1940 to assemble and repair aircraft for the Allied war effort.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Hindustan Aeronautics Limited](https://en.wikipedia.org/wiki/Hindustan_Aeronautics_Limited) (reference, 2026-10-18)
+
+#### `in.1945.everyday.getting-around.howrah-bridge` · summary · unverifiable
+
+> Howrah Bridge: The Howrah Bridge across the Hooghly opened to traffic in 1943 during the war.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Howrah Bridge](https://en.wikipedia.org/wiki/Howrah_Bridge) (reference, 2026-10-18)
+
+#### `in.1945.everyday.getting-around.rail-war` · summary · unverifiable
+
+> Railways at war: The railways were pressed into carrying troops and supplies, and passenger services were cut.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Rail transport in India](https://en.wikipedia.org/wiki/Rail_transport_in_India) (reference, 2026-10-18)
+
+#### `in.1945.everyday.health-and-medicine.bhore-committee` · summary · unverifiable
+
+> The Bhore Committee: A committee under Joseph Bhore, set up in 1943, reported in 1946 and recommended a national health service built on primary health centres.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Bhore Committee](https://en.wikipedia.org/wiki/Bhore_Committee) (reference, 2026-10-18)
+
+#### `in.1945.everyday.health-and-medicine.famine-disease` · summary · unverifiable
+
+> Disease after famine: In 1943-44 malaria and cholera followed famine in Bengal and caused many deaths.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Bengal famine of 1943](https://en.wikipedia.org/wiki/Bengal_famine_of_1943) (reference, 2026-10-18)
+
+#### `in.1945.everyday.health-and-medicine.penicillin-war` · summary · unverifiable
+
+> Penicillin comes: Penicillin reached military hospitals in India during the war, but was not available to most civilians.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Penicillin](https://en.wikipedia.org/wiki/Penicillin) (reference, 2026-10-18)
+
+#### `in.1945.everyday.keeping-in-touch.air-news` · summary · unverifiable
+
+> News on the radio: All India Radio broadcast war news, and the BBC began a Hindustani service in 1940.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: All India Radio](https://en.wikipedia.org/wiki/All_India_Radio) (reference, 2026-10-18)
+
+#### `in.1945.everyday.keeping-in-touch.newspaper-shortage` · summary · unverifiable
+
+> Newsprint was short: Paper shortages limited the size of newspapers during the war.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Newspapers in India](https://en.wikipedia.org/wiki/Newspapers_in_India) (reference, 2026-10-18)
+
+#### `in.1945.everyday.keeping-in-touch.postal-censorship` · summary · unverifiable
+
+> Letters were read: Wartime censors opened letters to and from soldiers and in some places the public.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Postal censorship](https://en.wikipedia.org/wiki/Postal_censorship) (reference, 2026-10-18)
+
+#### `in.1945.everyday.leisure-and-fun.film-stock` · summary · unverifiable
+
+> Raw film was rationed: The government rationed raw film stock, which limited the length and number of films.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Cinema of India](https://en.wikipedia.org/wiki/Cinema_of_India) (reference, 2026-10-18)
+
+#### `in.1945.everyday.leisure-and-fun.kismet` · summary · unverifiable
+
+> Kismet in Calcutta: The film Kismet (1943) ran for over three years at a Calcutta cinema.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Kismet (1943 film)](https://en.wikipedia.org/wiki/Kismet_(1943_film)) (reference, 2026-10-18)
+
+#### `in.1945.everyday.leisure-and-fun.ranji` · summary · unverifiable
+
+> Ranji Trophy: The Ranji Trophy, begun in 1934, was India's main first-class cricket competition.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Ranji Trophy](https://en.wikipedia.org/wiki/Ranji_Trophy) (reference, 2026-10-18)
+
+#### `in.1945.everyday.school-and-childhood.quit-india-colleges` · summary · unverifiable
+
+> Colleges and the Quit India movement: Students took part in the Quit India movement of 1942, and some colleges were closed.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Quit India Movement](https://en.wikipedia.org/wiki/Quit_India_Movement) (reference, 2026-10-18)
+
+#### `in.1945.everyday.school-and-childhood.sargent-plan` · summary · unverifiable
+
+> The Sargent plan: The Sargent Report of 1944 proposed free and compulsory schooling for children from 6 to 14 over about 40 years.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Education in India](https://en.wikipedia.org/wiki/Education_in_India) (reference, 2026-10-18)
+
+#### `in.1945.everyday.school-and-childhood.vernacular-schools` · summary · unverifiable
+
+> Village schools: Most children in rural schools learned the three Rs in their own language, and many dropped out early to work.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Education in India](https://en.wikipedia.org/wiki/Education_in_India) (reference, 2026-10-18)
+
+#### `in.1945.everyday.spotlight.bombay-grain-ration` · summary · unverifiable
+
+> A ration card for Bombay: Rationing of foodgrains began in Bombay in 1943; the basic allowance was 16 ounces of grain a day, later cut to 12 ounces after a poor harvest, and every family in the city held a ration card, though villages were left out.
+
+- **Note:** Read through a search summary; the ILO article's page was not opened directly. A 1951 US record also puts the later national ration at 12 ounces.
+- **Source:** [International Labour Review, 1944: food rationing and wartime controls (ILO)](https://webapps.ilo.org/public/libdoc/ilo/P/09602/09602(1944-50-6)736-750.pdf) (primary, 2026-10-18)
+
+#### `in.1945.everyday.spotlight.prices-rise` · summary · unverifiable
+
+> Prices and the paper rupee: Wartime spending was paid for by issuing paper currency against sterling securities held in London, and the price index of essential goods rose steeply from 1939 to 1945, hurting landless labourers, town wage-earners and fixed-income families.
+
+- **Note:** The source gives no percentage rise.
+- **Source:** [GKToday: War-time scarcity and colonial economy](https://www.gktoday.in/war-time-scarcity-and-colonial-economy/) (secondary, 2026-10-18)
+
+#### `in.1945.everyday.work-and-wages.dearness-allowance` · summary · unverifiable
+
+> Dearness allowance: Wartime price rises led employers to pay a dearness allowance on top of wages.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Dearness allowance](https://en.wikipedia.org/wiki/Dearness_allowance) (reference, 2026-10-18)
+
+#### `in.1945.everyday.work-and-wages.wac-i` · summary · unverifiable
+
+> Women in uniform: The Women's Auxiliary Corps (India) was formed in 1942, and women worked as drivers, clerks and nurses for the forces.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Women's Auxiliary Corps (India)](https://en.wikipedia.org/wiki/Women's_Auxiliary_Corps_(India)) (reference, 2026-10-18)
+
+#### `in.1945.everyday.work-and-wages.war-factories` · summary · unverifiable
+
+> Factories at full pace: Ordnance factories, steel works and textile mills ran at full pace for the war.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Economy of India under British rule](https://en.wikipedia.org/wiki/Economy_of_India_under_British_rule) (reference, 2026-10-18)
+
+#### `in.1945.everyday.spotlight.burma-rice` · summary · verified
+
+> Rice from Burma stops: Rice imported from Burma, about 15 to 20 percent of what Bengal ate, was cut off after the fall of Rangoon in March 1942, while price caps, bans on moving grain between provinces and army stockpiling caused local scarcity, hoarding and black marketing.
+
+- **Note:** Sources agree.
+- **Source:** [GKToday: War-time scarcity and colonial economy](https://www.gktoday.in/war-time-scarcity-and-colonial-economy/) (secondary, 2026-10-18)
+
+#### `in.1945.everyday.spotlight.cloth-kerosene` · summary · verified
+
+> Cloth and kerosene: Industry was redirected to military goods, leaving a severe shortage of civilian goods such as cloth and kerosene.
+
+- **Note:** Sources agree.
+- **Source:** [GKToday: War-time scarcity and colonial economy](https://www.gktoday.in/war-time-scarcity-and-colonial-economy/) (secondary, 2026-10-18)
+
+#### `in.1945.everyday.spotlight.priority-classes` · summary · verified
+
+> Who came first: The Priority Classes Distribution Scheme favoured defence factory workers, soldiers and civil servants in industrial centres such as Calcutta, leaving rural people unprotected; statutory rationing in the big cities followed the Woodhead Commission of 1944-45 and became the base of the Public Distribution System.
+
+- **Note:** Sources agree.
+- **Source:** [GKToday: War-time scarcity and colonial economy](https://www.gktoday.in/war-time-scarcity-and-colonial-economy/) (secondary, 2026-10-18)
+
+### in/everyday · 1960
+
+#### `in.1960.everyday.by-the-numbers.fertility` · summary · unverifiable
+
+> Births per woman: The fertility rate was 5.9 births per woman.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Fertility rate, total (births per woman)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.1960.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 150 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.1960.everyday.by-the-numbers.urban-share` · summary · unverifiable
+
+> Town and village: About 18 percent of Indians lived in towns and cities.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Urban population (% of total)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json) (primary, 2026-10-18)
+
+#### `in.1960.everyday.clothing-and-style.bata-shoes` · summary · unverifiable
+
+> Bata shoes: Bata sold mass-made shoes, with a factory at Batanagar near Calcutta.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Bata India](https://en.wikipedia.org/wiki/Bata_India) (reference, 2026-10-18)
+
+#### `in.1960.everyday.clothing-and-style.mill-cloth` · summary · unverifiable
+
+> Mill cloth and khadi: Mills made most of the cloth sold, and khadi was promoted by the Khadi and Village Industries Commission set up in 1957.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Khadi and Village Industries Commission](https://en.wikipedia.org/wiki/Khadi_and_Village_Industries_Commission) (reference, 2026-10-18)
+
+#### `in.1960.everyday.clothing-and-style.nehru-jacket` · summary · unverifiable
+
+> The Nehru jacket: The bandhgala-style jacket, linked with Nehru, became formal wear for politicians and officials.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Nehru jacket](https://en.wikipedia.org/wiki/Nehru_jacket) (reference, 2026-10-18)
+
+#### `in.1960.everyday.food-and-kitchen.coffee-house` · summary · unverifiable
+
+> India Coffee House: The Indian Coffee Workers' Co-operative opened the first India Coffee House chain outlets in the 1950s, with waiters in turbans.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Indian Coffee House](https://en.wikipedia.org/wiki/Indian_Coffee_House) (reference, 2026-10-18)
+
+#### `in.1960.everyday.food-and-kitchen.kerosene-stove` · summary · unverifiable
+
+> Kerosene stoves: Kerosene and Primus stoves were spreading in towns, while villages still cooked on wood and dung.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Kerosene](https://en.wikipedia.org/wiki/Kerosene) (reference, 2026-10-18)
+
+#### `in.1960.everyday.food-and-kitchen.pl480-wheat` · summary · unverifiable
+
+> Imported wheat: India imported large amounts of wheat from the US under PL-480 agreements to cover shortfalls.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Public Law 480](https://en.wikipedia.org/wiki/Public_Law_480) (reference, 2026-10-18)
+
+#### `in.1960.everyday.food-and-kitchen.vanaspati` · summary · unverifiable
+
+> Vanaspati ghee: Vanaspati, sold in tins as a cheaper substitute for ghee, was widely used in cooking.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Vanaspati](https://en.wikipedia.org/wiki/Vanaspati) (reference, 2026-10-18)
+
+#### `in.1960.everyday.getting-around.air-india-ny` · summary · unverifiable
+
+> Air India to New York: Air India began flights to New York in 1960.
+
+- **Note:** One source, which gives no date within the year.
+- **Source:** [Wikipedia: 1960 in India](https://en.wikipedia.org/wiki/1960_in_India) (reference, 2026-10-18)
+
+#### `in.1960.everyday.health-and-medicine.smallpox-1960` · summary · unverifiable
+
+> Smallpox: A table in a 1962 newspaper lists about 31,052 attacks and 7,871 deaths from smallpox in India in 1960, down from about 106,500 attacks in 1958.
+
+- **Note:** An OCR-scanned newspaper table that may contain errors; one source.
+- **Source:** [Himalayan Times, 1962 (Heidelberg digital library): smallpox attacks and deaths table](https://digi.ub.uni-heidelberg.de/diglit/himalayan_times1962/0292) (secondary, 2026-10-18)
+
+#### `in.1960.everyday.leisure-and-fun.binaca-geetmala` · summary · unverifiable
+
+> Binaca Geetmala: Ameen Sayani's countdown of film songs on Radio Ceylon, begun in 1952, was a weekly habit for listeners across India.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Binaca Geetmala](https://en.wikipedia.org/wiki/Binaca_Geetmala) (reference, 2026-10-18)
+
+#### `in.1960.everyday.leisure-and-fun.milkha-rome` · summary · unverifiable
+
+> Milkha Singh at Rome: Milkha Singh finished fourth in the 400 metres at the 1960 Rome Olympics, just missing a medal.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Milkha Singh](https://en.wikipedia.org/wiki/Milkha_Singh) (reference, 2026-10-18)
+
+#### `in.1960.everyday.leisure-and-fun.mughal-e-azam` · summary · unverifiable
+
+> Mughal-e-Azam: K. Asif's epic Mughal-e-Azam was released in August 1960 and broke box-office records.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Mughal-e-Azam](https://en.wikipedia.org/wiki/Mughal-e-Azam) (reference, 2026-10-18)
+
+#### `in.1960.everyday.leisure-and-fun.test-cricket-60` · summary · unverifiable
+
+> Cricket and the radio: Test series against Pakistan in 1960-61 were followed on radio commentary.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: India cricket team](https://en.wikipedia.org/wiki/India_cricket_team) (reference, 2026-10-18)
+
+#### `in.1960.everyday.school-and-childhood.art-45` · summary · unverifiable
+
+> Free schooling as a goal: Article 45 of the Constitution asked the state to provide free and compulsory education to age 14 by 1960, a target that was missed.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Education in India](https://en.wikipedia.org/wiki/Education_in_India) (reference, 2026-10-18)
+
+#### `in.1960.everyday.school-and-childhood.iits` · summary · unverifiable
+
+> The first IITs: IIT Kharagpur (1951), Bombay (1958), Madras (1959) and Kanpur (1959) were set up with foreign help.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology) (reference, 2026-10-18)
+
+#### `in.1960.everyday.school-and-childhood.mid-day-meal-madras` · summary · unverifiable
+
+> Meals at school in Madras: Chief Minister Kamaraj began serving free midday meals in schools in Madras state in the 1950s to keep poor children in class.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Mid-Day Meal Scheme](https://en.wikipedia.org/wiki/Mid-Day_Meal_Scheme) (reference, 2026-10-18)
+
+#### `in.1960.everyday.work-and-wages.dabbawala` · summary · unverifiable
+
+> Bombay's dabbawalas: Dabbawalas carried home-cooked lunches to office workers in Bombay by train and bicycle.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Dabbawala](https://en.wikipedia.org/wiki/Dabbawala) (reference, 2026-10-18)
+
+#### `in.1960.everyday.work-and-wages.minimum-wages` · summary · unverifiable
+
+> Minimum Wages Act: The Minimum Wages Act of 1948 let governments fix minimum pay for listed jobs.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Minimum Wages Act, 1948](https://en.wikipedia.org/wiki/Minimum_Wages_Act,_1948) (reference, 2026-10-18)
+
+#### `in.1960.everyday.work-and-wages.steel-plants` · summary · unverifiable
+
+> Steel plants of the Second Plan: The government built steel plants at Bhilai, Rourkela and Durgapur under the Second Five-Year Plan (1956-61).
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Second Five-Year Plan (India)](https://en.wikipedia.org/wiki/Second_Five-Year_Plan_(India)) (reference, 2026-10-18)
+
+#### `in.1960.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A newborn in 1960 could expect to live about 46 years.
+
+- **Note:** World Bank 45.6, Our World in Data 45.6; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `in.1960.everyday.by-the-numbers.literacy` · summary · verified
+
+> Who could read: At the 1961 census about a quarter to 28 percent of people could read and write, 34 to 40 percent of men and 13 to 15 percent of women.
+
+- **Note:** The two Wikipedia tables differ on the base: 24.0 percent total (males 34.4, females 13.0) in one, and 28.3 percent for people aged five and over (males 40.4, females 15.4) in the other.
+- **Source:** [Wikipedia: Literacy in India](https://en.wikipedia.org/wiki/Literacy_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2011 Census of India](https://en.wikipedia.org/wiki/2011_Census_of_India) (reference, 2026-10-18)
+
+#### `in.1960.everyday.by-the-numbers.population` · summary · verified
+
+> How many Indians: India's population was about 436 million in 1960; the census of 1961 counted a little over 439 million.
+
+- **Note:** World Bank and Our World in Data mid-year estimates.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `in.1960.everyday.health-and-medicine.smallpox-share` · summary · verified
+
+> A world share: In the early 1960s India accounted for nearly 60 percent of the reported smallpox cases in the world, and the national eradication programme began in 1961-62.
+
+- **Note:** One source; accounts date the programme to 1961-62 or 1962.
+- **Source:** [University of Michigan Library: Smallpox in India, pre-1972](https://apps.lib.umich.edu/online-exhibits/exhibits/show/smallpox-eradication-india/indian-engages-pandemic/smallpox-in-india) (reference, 2026-10-18)
+
+#### `in.1960.everyday.keeping-in-touch.licence-fee` · summary · verified
+
+> A licence for the radio: In 1956 a minister told the Rajya Sabha that the radio licence fee had been raised from Rs 10 to Rs 15 because of administrative costs.
+
+- **Note:** A later informal account dates the rise to the 1970s; the parliamentary record is stronger.
+- **Source:** [Rajya Sabha debates, 3 May 1956: radio licence fee (question)](https://rsdebate.nic.in/bitstream/123456789/577820/1/PQ_13_03051956_S113_p1167_p1169.pdf) (primary, 2026-10-18)
+
+#### `in.1960.everyday.keeping-in-touch.vb-ads` · summary · verified
+
+> Advertising on the air: Commercials were introduced on the Vividh Bharati service in 1957 on an experimental basis; its mix of film music, skits and short plays was meant to draw listeners from Radio Ceylon.
+
+- **Note:** The same article also says it was conceptualised in 1967 to combat Radio Ceylon, which conflicts with its 1957 launch; the launch date is used.
+- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-18)
+
+#### `in.1960.everyday.spotlight.bhilai-township` · summary · verified
+
+> A township of 13 sectors: Bhilai's planned township was laid out in 13 sectors, the plant provided subsidised education, healthcare and housing, and a once rural area became a cosmopolitan community with workers from across India.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Bhilai Steel Plant](https://en.wikipedia.org/wiki/Bhilai_Steel_Plant) (reference, 2026-10-18)
+
+#### `in.1960.everyday.spotlight.durgapur-plant` · summary · verified
+
+> Durgapur: Durgapur's plant, set up with British help, began operating in 1959 for a planned one million tonnes of crude steel a year, in what grew into the largest industrial unit in West Bengal.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Durgapur Steel Plant](https://en.wikipedia.org/wiki/Durgapur_Steel_Plant) (reference, 2026-10-18)
+
+#### `in.1960.everyday.spotlight.rourkela-displaced` · summary · verified
+
+> The villages that made way: More than 30 villages were displaced for Rourkela, and about 13,000 to 16,000 people, mostly Adivasi, were resettled in colonies such as Jalda, Jhirpani and Bondamunda; the article says compensation was inadequate and promised jobs were often delayed.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rourkela Steel Plant](https://en.wikipedia.org/wiki/Rourkela_Steel_Plant) (reference, 2026-10-18)
+
+#### `in.1960.everyday.spotlight.rourkela-parvati` · summary · verified
+
+> Rourkela's first furnace: President Rajendra Prasad opened Rourkela's first blast furnace, 'Parvati', on 3 February 1959, the plant's official founding date.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rourkela Steel Plant](https://en.wikipedia.org/wiki/Rourkela_Steel_Plant) (reference, 2026-10-18)
+
+#### `in.1960.everyday.spotlight.three-partners` · summary · verified
+
+> Three plants, three partners: Under the Second Five-Year Plan Bhilai was built with the Soviet Union, Durgapur with Britain and Rourkela with West Germany.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Second Five-Year Plan (India)](https://en.wikipedia.org/wiki/Second_Five-Year_Plan_(India)) (reference, 2026-10-18)
+
+### in/everyday · 1970
+
+#### `in.1970.everyday.by-the-numbers.fertility` · summary · unverifiable
+
+> Births per woman: The fertility rate was 5.6 births per woman.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Fertility rate, total (births per woman)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.1970.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 135 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.1970.everyday.by-the-numbers.urban-share` · summary · unverifiable
+
+> Town and village: About 20 percent of Indians lived in towns and cities.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Urban population (% of total)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json) (primary, 2026-10-18)
+
+#### `in.1970.everyday.clothing-and-style.bell-bottoms` · summary · unverifiable
+
+> Bell-bottoms: Film stars popularised bell-bottom trousers and wide collars among young urban men.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Bell-bottoms](https://en.wikipedia.org/wiki/Bell-bottoms) (reference, 2026-10-18)
+
+#### `in.1970.everyday.clothing-and-style.kolhapuri` · summary · unverifiable
+
+> Kolhapuri chappals: Kolhapuri leather chappals were the usual footwear for men and women.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Kolhapuri chappal](https://en.wikipedia.org/wiki/Kolhapuri_chappal) (reference, 2026-10-18)
+
+#### `in.1970.everyday.clothing-and-style.polyester` · summary · unverifiable
+
+> Polyester: Polyester and terrycot fabrics were fashionable because they were crease-free and cheap to maintain.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Polyester](https://en.wikipedia.org/wiki/Polyester) (reference, 2026-10-18)
+
+#### `in.1970.everyday.food-and-kitchen.fair-price-shops` · summary · unverifiable
+
+> Fair price shops: Ration shops sold wheat, rice, sugar and kerosene at controlled prices to families with ration cards.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Public distribution system](https://en.wikipedia.org/wiki/Public_distribution_system) (reference, 2026-10-18)
+
+#### `in.1970.everyday.food-and-kitchen.hyv-wheat` · summary · unverifiable
+
+> New wheat: High-yielding wheat varieties from the Green Revolution made wheat more plentiful in Punjab and Haryana.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Green Revolution in India](https://en.wikipedia.org/wiki/Green_Revolution_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.food-and-kitchen.operation-flood` · summary · unverifiable
+
+> Operation Flood: Operation Flood, launched in January 1970, set out to build a national milk grid based on village cooperatives like Amul.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Operation Flood](https://en.wikipedia.org/wiki/Operation_Flood) (reference, 2026-10-18)
+
+#### `in.1970.everyday.food-and-kitchen.pressure-cooker` · summary · unverifiable
+
+> The pressure cooker: The pressure cooker, made in India since the late 1950s, was becoming a common kitchen item in cities.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Hawkins Cookers](https://en.wikipedia.org/wiki/Hawkins_Cookers) (reference, 2026-10-18)
+
+#### `in.1970.everyday.getting-around.bajaj-100k` · summary · unverifiable
+
+> Bajaj's 100,000th vehicle: Bajaj Auto rolled out its 100,000th vehicle in 1970.
+
+- **Note:** One source, which gives no date within the year.
+- **Source:** [Wikipedia: 1970 in India](https://en.wikipedia.org/wiki/1970_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.getting-around.scooter-waiting` · summary · unverifiable
+
+> Waiting for a scooter: Official estimates in Delhi put the wait for a Vespa at about 5 years in 1963 and 11 years in 1966; by March 1970 pending bookings were reported at 176,933 for Vespa and Bajaj scooters and 84,883 for Lambrettas, and Parliament was told in 1973 that the waiting period was still long.
+
+- **Note:** The booking figures come from a search summary of the second source; one of the two sources was read only through a summary.
+- **Source:** [Lok Sabha: written answer on scooters, 8 March 1973](https://eparlib.nic.in/bitstream/123456789/2140696/1/05_VII_08-03-1973_p60_p60_u2450.pdf) (primary, 2026-10-18)
+- **Source:** [Open Magazine: Rahul Bajaj (1938-2022), Scooter Man](https://openthemagazine.com/feature/rahul-bajaj-1938-2022-scooter-man) (secondary, 2026-10-18)
+
+#### `in.1970.everyday.health-and-medicine.family-planning` · summary · unverifiable
+
+> Family planning: The red triangle became the symbol of the family planning programme, with the slogan 'Hum do, hamare do'.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Family planning in India](https://en.wikipedia.org/wiki/Family_planning_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.health-and-medicine.malaria-programme` · summary · unverifiable
+
+> Malaria control: The National Malaria Eradication Programme, begun in 1958, sent spray teams into homes.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: National Malaria Eradication Programme](https://en.wikipedia.org/wiki/National_Malaria_Eradication_Programme) (reference, 2026-10-18)
+
+#### `in.1970.everyday.health-and-medicine.smallpox-programme` · summary · unverifiable
+
+> The smallpox programme: India ran a national campaign against smallpox, and was declared free of it in 1977.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Smallpox eradication in India](https://en.wikipedia.org/wiki/Smallpox_eradication_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.keeping-in-touch.doordarshan-delhi` · summary · unverifiable
+
+> Television in Delhi: Doordarshan broadcast from Delhi, and few people outside the capital had seen a television.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Doordarshan](https://en.wikipedia.org/wiki/Doordarshan) (reference, 2026-10-18)
+
+#### `in.1970.everyday.keeping-in-touch.transistor` · summary · unverifiable
+
+> The transistor radio: Cheap transistor radios let villagers hear All India Radio and Vividh Bharati.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Vividh Bharati](https://en.wikipedia.org/wiki/Vividh_Bharati) (reference, 2026-10-18)
+
+#### `in.1970.everyday.keeping-in-touch.trunk-call` · summary · unverifiable
+
+> Booking a trunk call: Long-distance calls were booked through an operator, and callers waited for hours for a line.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Telecommunications in India](https://en.wikipedia.org/wiki/Telecommunications_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.leisure-and-fun.aradhana` · summary · unverifiable
+
+> Rajesh Khanna's years: Aradhana (1969) made Rajesh Khanna a star, and film songs by Kishore Kumar were on every radio.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Aradhana (1969 film)](https://en.wikipedia.org/wiki/Aradhana_(1969_film)) (reference, 2026-10-18)
+
+#### `in.1970.everyday.leisure-and-fun.durga-puja` · summary · unverifiable
+
+> Pujas and fairs: Festivals such as Durga Puja, Diwali and Eid filled the year with neighbourhood events.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Durga Puja](https://en.wikipedia.org/wiki/Durga_Puja) (reference, 2026-10-18)
+
+#### `in.1970.everyday.leisure-and-fun.hockey-mexico` · summary · unverifiable
+
+> Hockey at Mexico: India won the bronze medal in hockey at the 1968 Olympics.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: India men's national field hockey team](https://en.wikipedia.org/wiki/India_men's_national_field_hockey_team) (reference, 2026-10-18)
+
+#### `in.1970.everyday.school-and-childhood.literacy-1971` · summary · unverifiable
+
+> Literacy in 1971: The 1971 census recorded a literacy rate of about 34 percent.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Literacy in India](https://en.wikipedia.org/wiki/Literacy_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.school-and-childhood.npe-1968` · summary · unverifiable
+
+> The 1968 education policy: The National Policy on Education 1968 backed the three-language formula and following the Kothari Commission's 10+2+3 pattern.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: National Policy on Education](https://en.wikipedia.org/wiki/National_Policy_on_Education) (reference, 2026-10-18)
+
+#### `in.1970.everyday.school-and-childhood.slate-chalk` · summary · unverifiable
+
+> Slate and chalk: In many village primary schools children sat on mats and wrote on slates.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Education in India](https://en.wikipedia.org/wiki/Education_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.spotlight.foodgrain-output` · summary · unverifiable
+
+> More grain: Foodgrain production rose from 89 million tonnes in 1964-65 to almost 108 million tonnes in 1970-71.
+
+- **Note:** One source (read through a search summary); the CIA report notes the gain was concentrated in winter wheat and relied on irrigation.
+- **Source:** [CIA Reading Room: India's foodgrain situation, progress and problems](https://www.cia.gov/readingroom/node/925903) (primary, 2026-10-18)
+
+#### `in.1970.everyday.spotlight.punjab-share` · summary · unverifiable
+
+> Punjab's share: By 1970 Punjab was producing 70 percent of the country's food grains and farmers' incomes were reported to be rising by over 70 percent.
+
+- **Note:** One source, which carries 'citation needed' tags; the figure looks high and should be checked.
+- **Source:** [Wikipedia: Green Revolution in India](https://en.wikipedia.org/wiki/Green_Revolution_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.work-and-wages.bank-nationalisation` · summary · unverifiable
+
+> Bank nationalisation: The government nationalised 14 major banks in July 1969, and banks opened branches in smaller towns and hired in large numbers.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Nationalisation of banks in India](https://en.wikipedia.org/wiki/Nationalisation_of_banks_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.work-and-wages.hmt-watches` · summary · unverifiable
+
+> HMT watches: HMT, a public-sector company, started making wrist watches in 1961 and gave factory jobs to thousands.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Hindustan Machine Tools](https://en.wikipedia.org/wiki/Hindustan_Machine_Tools) (reference, 2026-10-18)
+
+#### `in.1970.everyday.work-and-wages.license-raj` · summary · unverifiable
+
+> The licence raj: Private firms needed government licences to expand or import, which made government and public-sector jobs prized.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: License Raj](https://en.wikipedia.org/wiki/License_Raj) (reference, 2026-10-18)
+
+#### `in.1970.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A newborn in 1970 could expect to live about 49 years.
+
+- **Note:** World Bank 48.6, Our World in Data 48.6; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `in.1970.everyday.by-the-numbers.literacy` · summary · verified
+
+> Who could read: At the 1971 census 29 to 34 percent of people could read and write, 39 to 46 percent of men and 19 to 22 percent of women.
+
+- **Note:** The two Wikipedia tables differ on the base: 29.45 percent (males 39.45, females 18.69) in one, and 34.45 percent for people aged five and over (males 45.96, females 21.97) in the other.
+- **Source:** [Wikipedia: Literacy in India](https://en.wikipedia.org/wiki/Literacy_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2011 Census of India](https://en.wikipedia.org/wiki/2011_Census_of_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.by-the-numbers.population` · summary · verified
+
+> Population: India's population was about 546 million in 1970; the census of March 1971 counted 547.9 million.
+
+- **Note:** Mid-year estimate for 1970 and the 1971 census count, which was taken from 10 to 31 March 1971.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Wikipedia: 1971 Census of India](https://en.wikipedia.org/wiki/1971_Census_of_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.spotlight.droughts` · summary · verified
+
+> Two failed monsoons: Droughts in 1964-65 and 1965-66 caused food shortages, which pushed the adoption of new seed and fertiliser.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Green Revolution in India](https://en.wikipedia.org/wiki/Green_Revolution_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.spotlight.seeds` · summary · verified
+
+> New wheat: High-yielding, rust-resistant wheat varieties such as Kalyan Sona and Sonalika, bred by cross-breeding, were at the centre of the change, with the main gains in Punjab, Haryana and western Uttar Pradesh.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Green Revolution in India](https://en.wikipedia.org/wiki/Green_Revolution_in_India) (reference, 2026-10-18)
+
+#### `in.1970.everyday.spotlight.wheat-first` · summary · verified
+
+> Mostly wheat: The Green Revolution first provided more wheat; rice gains followed separately, and it depended heavily on irrigation.
+
+- **Note:** Sources agree.
+- **Source:** [The Wire: Green Revolution, Borlaug and food security](https://thewire.in/agriculture/green-revolution-borlaug-food-security) (secondary, 2026-10-18)
+- **Source:** [CIA Reading Room: India's foodgrain situation, progress and problems](https://www.cia.gov/readingroom/node/925903) (primary, 2026-10-18)
+
+#### `in.1970.everyday.spotlight.wheat-output` · summary · verified
+
+> Wheat before and after: Wheat output was about 12.3 million tonnes in 1965 (11.4 million in 1966-67) and about 26.4 million tonnes by 1971-72, while yield per hectare rose to 1,380 kg from 663 in 1950-51.
+
+- **Note:** Sources differ: The Wire gives 20 million tonnes for 1970 and 12.3 million for 1965; RAS gives 11.39 million for 1966-67 and 26.41 million for 1971-72.
+- **Source:** [Review of Agrarian Studies (RAS): An eminent scientist and a great humanist](https://ras.org.in/articles/319/text/article.html) (reference, 2026-10-18)
+- **Source:** [The Wire: Green Revolution, Borlaug and food security](https://thewire.in/agriculture/green-revolution-borlaug-food-security) (secondary, 2026-10-18)
+
+### in/everyday · 1984
+
+#### `in.1984.everyday.by-the-numbers.fertility` · summary · unverifiable
+
+> Births per woman: The fertility rate was 4.5 births per woman.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Fertility rate, total (births per woman)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.1984.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 98 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.1984.everyday.by-the-numbers.urban-share` · summary · unverifiable
+
+> Town and village: About 24 percent of Indians lived in towns and cities.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Urban population (% of total)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json) (primary, 2026-10-18)
+
+#### `in.1984.everyday.clothing-and-style.film-fashion` · summary · unverifiable
+
+> Fashion from films: Film stars set the style for hairstyles, sunglasses and tailors' copies of film costumes.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Fashion in India](https://en.wikipedia.org/wiki/Fashion_in_India) (reference, 2026-10-18)
+
+#### `in.1984.everyday.clothing-and-style.school-uniform` · summary · unverifiable
+
+> The school uniform: School uniforms with ties and badges were standard for children in cities.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: School uniform](https://en.wikipedia.org/wiki/School_uniform) (reference, 2026-10-18)
+
+#### `in.1984.everyday.clothing-and-style.terry-cotton` · summary · unverifiable
+
+> Terry-cotton shirts: Terry-cotton and polyester shirts and sarees were widely worn because they were cheap and long-lasting.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Clothing in India](https://en.wikipedia.org/wiki/Clothing_in_India) (reference, 2026-10-18)
+
+#### `in.1984.everyday.food-and-kitchen.amul-butter` · summary · unverifiable
+
+> The Amul girl: Amul's butter hoardings, with the cartoon girl, were a fixture in cities.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Amul](https://en.wikipedia.org/wiki/Amul) (reference, 2026-10-18)
+
+#### `in.1984.everyday.food-and-kitchen.lpg-wait` · summary · unverifiable
+
+> Waiting for a gas connection: LPG cylinders were rationed and new connections took months or years.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Liquefied petroleum gas](https://en.wikipedia.org/wiki/Liquefied_petroleum_gas) (reference, 2026-10-18)
+
+#### `in.1984.everyday.food-and-kitchen.maggi-1983` · summary · unverifiable
+
+> Maggi noodles: Nestlé launched Maggi noodles in India in 1983, as a quick snack for working mothers and children.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Maggi](https://en.wikipedia.org/wiki/Maggi) (reference, 2026-10-18)
+
+#### `in.1984.everyday.food-and-kitchen.thums-up` · summary · unverifiable
+
+> Thums Up: After Coca-Cola left India in 1977, local colas such as Thums Up and Campa Cola filled the gap.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Thums Up](https://en.wikipedia.org/wiki/Thums_Up) (reference, 2026-10-18)
+
+#### `in.1984.everyday.getting-around.maruti-wait` · summary · unverifiable
+
+> Waiting for a Maruti: Buyers booked a Maruti 800 directly with Maruti Udyog and often waited almost three years for delivery, which led to black-market resale premiums of as much as 40 percent; the first car was handed over by Indira Gandhi on 14 December 1983.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: Maruti 800](https://en.wikipedia.org/wiki/Maruti_800) (reference, 2026-10-18)
+
+#### `in.1984.everyday.health-and-medicine.bhopal-gas` · summary · unverifiable
+
+> Bhopal gas leak: In December 1984 a gas leak at the Union Carbide plant in Bhopal killed thousands and injured many more.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Bhopal disaster](https://en.wikipedia.org/wiki/Bhopal_disaster) (reference, 2026-10-18)
+
+#### `in.1984.everyday.health-and-medicine.ors` · summary · unverifiable
+
+> Oral rehydration: Oral rehydration salts were promoted to treat diarrhoea in children.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Oral rehydration therapy](https://en.wikipedia.org/wiki/Oral_rehydration_therapy) (reference, 2026-10-18)
+
+#### `in.1984.everyday.health-and-medicine.uip` · summary · unverifiable
+
+> Universal immunisation: India's Universal Immunization Programme started in 1985 to reach all children with vaccines.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Universal Immunisation Programme](https://en.wikipedia.org/wiki/Universal_Immunisation_Programme) (reference, 2026-10-18)
+
+#### `in.1984.everyday.keeping-in-touch.bhopal-phones` · summary · unverifiable
+
+> A waiting list for a line: In Bhopal 4,085 people were waiting for a telephone on 31 December 1984, and the Government said the list would be cleared in three years.
+
+- **Note:** One city, one source; not a national figure.
+- **Source:** [Lok Sabha: written answer on telephone waiting lists, 23 April 1985](https://eparlib.nic.in/bitstream/123456789/2241832/1/08_II_23-04-1985_p123_p124_u4142.pdf) (primary, 2026-10-18)
+
+#### `in.1984.everyday.leisure-and-fun.asia-cup-84` · summary · unverifiable
+
+> Asia Cup: India won the first Asia Cup in Sharjah in 1984.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 1984 Asia Cup](https://en.wikipedia.org/wiki/1984_Asia_Cup) (reference, 2026-10-18)
+
+#### `in.1984.everyday.leisure-and-fun.usha-la` · summary · unverifiable
+
+> P.T. Usha at Los Angeles: P.T. Usha finished fourth in the 400 m hurdles at the 1984 Olympics, missing a medal by a hundredth of a second.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: P. T. Usha](https://en.wikipedia.org/wiki/P._T._Usha) (reference, 2026-10-18)
+
+#### `in.1984.everyday.leisure-and-fun.vcr` · summary · unverifiable
+
+> The VCR: Video cassette recorders and video parlours let families watch films at home.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Videocassette recorder](https://en.wikipedia.org/wiki/Videocassette_recorder) (reference, 2026-10-18)
+
+#### `in.1984.everyday.leisure-and-fun.worlds-cup-memory` · summary · unverifiable
+
+> The 1983 World Cup: India's win at the 1983 cricket World Cup was still fresh in people's minds and filled playgrounds with young cricketers.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 1983 Cricket World Cup](https://en.wikipedia.org/wiki/1983_Cricket_World_Cup) (reference, 2026-10-18)
+
+#### `in.1984.everyday.school-and-childhood.board-exams` · summary · unverifiable
+
+> Board exams: The class 10 and class 12 board exams decided a child's later options.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Central Board of Secondary Education](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education) (reference, 2026-10-18)
+
+#### `in.1984.everyday.school-and-childhood.navodaya` · summary · unverifiable
+
+> Navodaya Vidyalayas: The government prepared the Navodaya residential schools for talented rural children, launched in 1985.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Jawahar Navodaya Vidyalaya](https://en.wikipedia.org/wiki/Jawahar_Navodaya_Vidyalaya) (reference, 2026-10-18)
+
+#### `in.1984.everyday.school-and-childhood.ugc-telecast` · summary · unverifiable
+
+> Lessons on television: The University Grants Commission began a countrywide classroom telecast on Doordarshan in 1984.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Doordarshan](https://en.wikipedia.org/wiki/Doordarshan) (reference, 2026-10-18)
+
+#### `in.1984.everyday.work-and-wages.govt-job` · summary · unverifiable
+
+> The secure government job: Public sector and government jobs were prized for their security and pension.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Public sector in India](https://en.wikipedia.org/wiki/Public_sector_in_India) (reference, 2026-10-18)
+
+#### `in.1984.everyday.work-and-wages.maruti-factory` · summary · unverifiable
+
+> Jobs at Maruti: Maruti Udyog's factory at Gurgaon began making cars in 1983 with Suzuki's help.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Maruti Suzuki](https://en.wikipedia.org/wiki/Maruti_Suzuki) (reference, 2026-10-18)
+
+#### `in.1984.everyday.work-and-wages.mill-strike-1982` · summary · unverifiable
+
+> The Bombay mill strike: A long textile strike led by Datta Samant began in January 1982 and left tens of thousands of mill workers jobless.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 1982 Bombay textile strike](https://en.wikipedia.org/wiki/1982_Bombay_textile_strike) (reference, 2026-10-18)
+
+#### `in.1984.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A newborn in 1984 could expect to live about 56 years.
+
+- **Note:** World Bank 55.8, Our World in Data 55.8; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `in.1984.everyday.by-the-numbers.literacy` · summary · verified
+
+> Who could read: At the 1981 census 36 to 44 percent of people could read and write, 47 to 56 percent of men and 25 to 30 percent of women.
+
+- **Note:** The two Wikipedia tables differ on the base: 36.23 percent total (males 46.89, females 24.82) in one, and 43.57 percent for people aged seven and over (males 56.38, females 29.76) in the other.
+- **Source:** [Wikipedia: Literacy in India](https://en.wikipedia.org/wiki/Literacy_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2011 Census of India](https://en.wikipedia.org/wiki/2011_Census_of_India) (reference, 2026-10-18)
+
+#### `in.1984.everyday.by-the-numbers.population` · summary · verified
+
+> Population: India's population was about 755 million in 1984; the census of 1981 had counted about 683 million.
+
+- **Note:** Sources agree.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `in.1984.everyday.spotlight.colour-1982` · summary · verified
+
+> Colour in 1982: Doordarshan introduced a national channel in 1982, and colour television began with the live telecast of Indira Gandhi's Independence Day speech on 15 August 1982, followed by the colour broadcast of the Asian Games in Delhi.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Doordarshan](https://en.wikipedia.org/wiki/Doordarshan) (reference, 2026-10-18)
+
+#### `in.1984.everyday.spotlight.epilogue-letters` · summary · verified
+
+> Letters to Ashok Kumar: Actor Ashok Kumar closed each episode of Hum Log in conversation with the audience, in Hindi couplets and limericks, and received over 400,000 letters from young viewers asking him to help them persuade their parents to accept their chosen marriage partners.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-18)
+
+#### `in.1984.everyday.spotlight.hum-log` · summary · verified
+
+> A serial for fifty million: Hum Log, scripted by Manohar Shyam Joshi, ran on Doordarshan from 7 July 1984 to 17 December 1985, 65 episodes with each viewed by more than 50 million people; it dealt with family planning, dowry, caste harmony and women's empowerment.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Hum Log (TV series)](https://en.wikipedia.org/wiki/Hum_Log_(TV_series)) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1984 in India](https://en.wikipedia.org/wiki/1984_in_India) (reference, 2026-10-18)
+
+#### `in.1984.everyday.spotlight.sets-made` · summary · verified
+
+> A million sets a year: A 1984 parliamentary answer estimated television receiver production in 1984 at between 10 lakh and 12 lakh (1 to 1.2 million) sets, colour and black-and-white together, and an industry note says colour television grew by 140.3 percent in 1984-85.
+
+- **Note:** The ICMR note is a secondary business summary.
+- **Source:** [Lok Sabha: written answer on television receiver production, 21 March 1984](https://eparlib.nic.in/bitstream/123456789/2779543/1/07_XIV_21-03-1984_p148_p149_u4135.pdf) (primary, 2026-10-18)
+- **Source:** [ICMR: A note on the colour television industry in India](https://icmrindia.org/Casestudies/catalogue/Business%20Reports/A%20Note%20on%20the%20Colour%20Television%20Industry%20in%20India.htm) (secondary, 2026-10-18)
+
+#### `in.1984.everyday.spotlight.two-channels` · summary · verified
+
+> Two channels: Two years later, in 1984, Doordarshan became a structured network: its sole channel was split into DD-1, broadcast nationally, and DD-2, aimed at the cities.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Doordarshan](https://en.wikipedia.org/wiki/Doordarshan) (reference, 2026-10-18)
+
+### in/everyday · 1995
+
+#### `in.1995.everyday.by-the-numbers.electricity` · summary · unverifiable
+
+> Electricity at home: About 51 percent of the population had access to electricity.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Access to electricity (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/EG.ELC.ACCS.ZS?format=json) (primary, 2026-10-18)
+
+#### `in.1995.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 76 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.1995.everyday.clothing-and-style.levis` · summary · unverifiable
+
+> Levi's in India: Levi's opened in India in 1994 as liberalisation brought foreign brands.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Levi Strauss %26 Co.](https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.) (reference, 2026-10-18)
+
+#### `in.1995.everyday.clothing-and-style.miss-world-94` · summary · unverifiable
+
+> Beauty queens: Aishwarya Rai won Miss World and Sushmita Sen Miss Universe in 1994, boosting interest in fashion.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Miss World 1994](https://en.wikipedia.org/wiki/Miss_World_1994) (reference, 2026-10-18)
+
+#### `in.1995.everyday.clothing-and-style.reebok` · summary · unverifiable
+
+> Sports shoes: Foreign sportswear brands such as Reebok arrived in the mid-1990s.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Reebok](https://en.wikipedia.org/wiki/Reebok) (reference, 2026-10-18)
+
+#### `in.1995.everyday.food-and-kitchen.coke-return` · summary · unverifiable
+
+> Coca-Cola returns: Coca-Cola returned to India in 1993 after 16 years away, and it bought the Parle brands.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Coca-Cola](https://en.wikipedia.org/wiki/Coca-Cola) (reference, 2026-10-18)
+
+#### `in.1995.everyday.food-and-kitchen.kfc-bangalore` · summary · unverifiable
+
+> KFC in Bangalore: KFC opened its first Indian outlet in Bangalore in 1995 and met protests from farmers' groups.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: KFC](https://en.wikipedia.org/wiki/KFC) (reference, 2026-10-18)
+
+#### `in.1995.everyday.food-and-kitchen.maggi-staple` · summary · unverifiable
+
+> Instant noodles: Maggi became a staple of school tiffins and late-night snacks.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Maggi](https://en.wikipedia.org/wiki/Maggi) (reference, 2026-10-18)
+
+#### `in.1995.everyday.food-and-kitchen.pepsi` · summary · unverifiable
+
+> Pepsi: Pepsi entered India in 1989 and was a big sponsor of cricket and film stars.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: PepsiCo](https://en.wikipedia.org/wiki/PepsiCo) (reference, 2026-10-18)
+
+#### `in.1995.everyday.getting-around.jet-airways` · summary · unverifiable
+
+> Private airlines: Private airlines such as Jet Airways started flying in 1993 after the monopoly ended.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Jet Airways](https://en.wikipedia.org/wiki/Jet_Airways) (reference, 2026-10-18)
+
+#### `in.1995.everyday.getting-around.kolkata-metro` · summary · unverifiable
+
+> Kolkata Metro: India's first metro line, in Kolkata, opened in 1984 and carried commuters through the 1990s.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Kolkata Metro](https://en.wikipedia.org/wiki/Kolkata_Metro) (reference, 2026-10-18)
+
+#### `in.1995.everyday.getting-around.maruti-800` · summary · unverifiable
+
+> Maruti 800: The Maruti 800 was the small car that many middle-class families aspired to own.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Maruti 800](https://en.wikipedia.org/wiki/Maruti_800) (reference, 2026-10-18)
+
+#### `in.1995.everyday.getting-around.scooter-wait` · summary · unverifiable
+
+> Waiting for a scooter: Scooters like Bajaj Chetak had waiting lists, and a scooter was a family's main vehicle.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Bajaj Chetak](https://en.wikipedia.org/wiki/Bajaj_Chetak) (reference, 2026-10-18)
+
+#### `in.1995.everyday.keeping-in-touch.phones-1991` · summary · unverifiable
+
+> Telephones: India had 5.07 million telephones in 1991, up from 0.98 million in 1971 and 2.15 million in 1981.
+
+- **Note:** One source (Wikipedia, opened directly); 1991 is the nearest year given.
+- **Source:** [Wikipedia: Telecommunications in India](https://en.wikipedia.org/wiki/Telecommunications_in_India) (reference, 2026-10-18)
+
+#### `in.1995.everyday.school-and-childhood.computer-class` · summary · unverifiable
+
+> Computer classes: Computer institutes such as NIIT and Aptech taught programming to students after school hours.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: NIIT](https://en.wikipedia.org/wiki/NIIT) (reference, 2026-10-18)
+
+#### `in.1995.everyday.school-and-childhood.english-medium` · summary · unverifiable
+
+> English-medium schools: Private English-medium schools grew in cities and towns as parents saw English as a route to jobs.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Education in India](https://en.wikipedia.org/wiki/Education_in_India) (reference, 2026-10-18)
+
+#### `in.1995.everyday.school-and-childhood.mdm-1995` · summary · unverifiable
+
+> Midday meal scheme: A national midday meal scheme started on 15 August 1995 in primary schools.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Mid-Day Meal Scheme](https://en.wikipedia.org/wiki/Mid-Day_Meal_Scheme) (reference, 2026-10-18)
+
+#### `in.1995.everyday.spotlight.cable-operators` · summary · unverifiable
+
+> Sixty thousand operators: One estimate puts the number of cable operators at about 60,000 in 1995, of which later only 16,000 to 19,000 registered under the Act.
+
+- **Note:** One source; the later registration count is from the same article.
+- **Source:** [iPleaders: An analysis of the Cable Television Networks (Regulation) Act, 1995](https://blog.ipleaders.in/an-analysis-of-the-cable-television-networks-regulation-act-1995/) (secondary, 2026-10-18)
+
+#### `in.1995.everyday.work-and-wages.infosys-ipo` · summary · unverifiable
+
+> Infosys goes public: Infosys listed on the stock market in 1993, an early sign of the software industry's growth.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Infosys](https://en.wikipedia.org/wiki/Infosys) (reference, 2026-10-18)
+
+#### `in.1995.everyday.work-and-wages.liberalisation` · summary · unverifiable
+
+> After 1991: Economic reforms from 1991 removed many licensing rules and let private firms and foreign companies expand.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Economic liberalisation in India](https://en.wikipedia.org/wiki/Economic_liberalisation_in_India) (reference, 2026-10-18)
+
+#### `in.1995.everyday.work-and-wages.stpi` · summary · unverifiable
+
+> Software parks: Software Technology Parks of India, set up from 1991, gave exporters cheap data links.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Software Technology Parks of India](https://en.wikipedia.org/wiki/Software_Technology_Parks_of_India) (reference, 2026-10-18)
+
+#### `in.1995.everyday.by-the-numbers.internet-users` · summary · verified
+
+> Online: Only about 0.03 percent of Indians used the internet, a few years before it spread.
+
+- **Note:** Both give 0.0262 percent.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Share of individuals using the internet](https://ourworldindata.org/grapher/share-of-individuals-using-the-internet) (reference, 2026-10-18)
+
+#### `in.1995.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A newborn in 1995 could expect to live about 61 years.
+
+- **Note:** World Bank 60.6, Our World in Data 60.6; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `in.1995.everyday.by-the-numbers.literacy` · summary · verified
+
+> Who could read: At the 1991 census 43 to 52 percent of people could read and write, 53 to 64 percent of men and 32 to 39 percent of women.
+
+- **Note:** The two Wikipedia tables differ on the base: 42.84 percent total (males 52.74, females 32.17) in one, and 52.21 percent for people aged seven and over (males 64.13, females 39.29) in the other.
+- **Source:** [Wikipedia: Literacy in India](https://en.wikipedia.org/wiki/Literacy_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2011 Census of India](https://en.wikipedia.org/wiki/2011_Census_of_India) (reference, 2026-10-18)
+
+#### `in.1995.everyday.by-the-numbers.population` · summary · verified
+
+> Population: India's population was about 960 million in 1995.
+
+- **Note:** Sources agree.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `in.1995.everyday.health-and-medicine.polio-free` · summary · verified
+
+> The end of polio: The last cases of wild polio in India were reported in West Bengal and Gujarat on 13 January 2011, and the WHO declared India polio-free on 27 March 2014.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Pulse Polio](https://en.wikipedia.org/wiki/Pulse_Polio) (reference, 2026-10-18)
+
+#### `in.1995.everyday.health-and-medicine.pulse-polio` · summary · verified
+
+> Pulse Polio: In 1995, following the Global Polio Eradication Initiative, India launched the Pulse Polio programme of oral vaccine for children under five on national immunisation days.
+
+- **Note:** The article gives no day or month for the launch.
+- **Source:** [Wikipedia: Pulse Polio](https://en.wikipedia.org/wiki/Pulse_Polio) (reference, 2026-10-18)
+
+#### `in.1995.everyday.keeping-in-touch.first-mobile` · summary · verified
+
+> The first mobile service: The first mobile telephone service started on a non-commercial basis in Delhi on 15 August 1995.
+
+- **Note:** Another account dates the first mobile call to 31 July 1995 in Kolkata; the article opened gives the August date.
+- **Source:** [Wikipedia: Telecommunications in India](https://en.wikipedia.org/wiki/Telecommunications_in_India) (reference, 2026-10-18)
+
+#### `in.1995.everyday.keeping-in-touch.gias` · summary · verified
+
+> Public internet: VSNL launched India's first public internet service, the Gateway Internet Access Service at 9.6 kbit/s, on 15 August 1995; an individual account cost ₹5,200 for 250 hours and an institutional dial-up account ₹16,200.
+
+- **Note:** The 1995 list gives 14 August; the Internet in India article gives 15 August.
+- **Source:** [Wikipedia: Internet in India](https://en.wikipedia.org/wiki/Internet_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1995 in India](https://en.wikipedia.org/wiki/1995_in_India) (reference, 2026-10-18)
+
+#### `in.1995.everyday.keeping-in-touch.ntp-94` · summary · verified
+
+> A policy for every village: The National Telecom Policy of 1994 aimed to bring telephone facilities to all villages, set a target of one public call office for every 500 people in urban areas, and reserved 5 percent of new lines for PCO booths.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Telecommunications in India](https://en.wikipedia.org/wiki/Telecommunications_in_India) (reference, 2026-10-18)
+- **Source:** [Voice&Data: Segment analysis, PCO](https://www.voicendata.com/segment-analysis-pco) (secondary, 2026-10-18)
+
+#### `in.1995.everyday.leisure-and-fun.ddlj-run` · summary · verified
+
+> A film that never left: Dilwale Dulhania Le Jayenge opened on 20 October 1995 and has been shown daily since at the Maratha Mandir cinema in Mumbai, reaching its 1,000th week in December 2014.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Dilwale Dulhania Le Jayenge](https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1995 in India](https://en.wikipedia.org/wiki/1995_in_India) (reference, 2026-10-18)
+
+#### `in.1995.everyday.spotlight.cable-act` · summary · verified
+
+> The Cable Act of 1995: The Cable Television Networks (Regulation) Act, 1995, was passed to address the sudden growth of cable and satellite networks in the early 1990s; it required registration and a programme code and advertisement code, and operators to carry at least two Doordarshan channels and one regional-language channel.
+
+- **Note:** Sources agree.
+- **Source:** [iPleaders: An analysis of the Cable Television Networks (Regulation) Act, 1995](https://blog.ipleaders.in/an-analysis-of-the-cable-television-networks-regulation-act-1995/) (secondary, 2026-10-18)
+- **Source:** [Jus Scriptum Law: Cable Television Network (Regulation) Act, 1995](https://www.jusscriptumlaw.com/blog/cable-television-network-regulation-act-1995) (secondary, 2026-10-18)
+
+#### `in.1995.everyday.spotlight.dishes-and-stars` · summary · verified
+
+> From CNN to Zee: The spread of cable is tied to CNN's Gulf War coverage in 1990, which created demand for satellite dishes, and to the launch of Star TV and Zee TV.
+
+- **Note:** Sources agree.
+- **Source:** [IUP: The Indian cable TV industry](https://www.iupindia.in/306/EE_Indian_Cable_TV_Industry_57.html) (secondary, 2026-10-18)
+- **Source:** [St. Xavier's/ SH College: History of Television in India (NAAC document)](https://www.shcollege.ac.in/wp-content/uploads/NAAC_Documents_IV_Cycle/Criterion-II/2.3.2/HistoryofTV.pdf) (secondary, 2026-10-18)
+
+#### `in.1995.everyday.spotlight.yellow-booth` · summary · verified
+
+> The yellow booth: Sam Pitroda's push under Rajiv Gandhi spread bright-yellow STD/PCO booths across India, giving a business to people who would otherwise have been unemployed.
+
+- **Note:** Sources agree.
+- **Source:** [Open Magazine: Sam Pitroda, the original whiz](https://openthemagazine.com/features/india/sam-pitroda-the-original-whiz) (secondary, 2026-10-18)
+- **Source:** [Founding Fuel: An insider's account of Indian telecom](https://foundingfuel.com/article/an-insiders-account-of-indian-telecom/) (secondary, 2026-10-18)
+
+### in/everyday · 1999
+
+#### `in.1999.everyday.by-the-numbers.electricity` · summary · unverifiable
+
+> Electricity at home: About 60 percent of the population had access to electricity.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Access to electricity (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/EG.ELC.ACCS.ZS?format=json) (primary, 2026-10-18)
+
+#### `in.1999.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 68 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.1999.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 0.18 mobile subscriptions for every 100 people.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `in.1999.everyday.clothing-and-style.fabindia` · summary · unverifiable
+
+> Fabindia: Fabindia sold handloom cotton clothes to urban buyers.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Fabindia](https://en.wikipedia.org/wiki/Fabindia) (reference, 2026-10-18)
+
+#### `in.1999.everyday.clothing-and-style.jeans-youth` · summary · unverifiable
+
+> Jeans for all: Jeans became everyday wear for college students in cities.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Jeans](https://en.wikipedia.org/wiki/Jeans) (reference, 2026-10-18)
+
+#### `in.1999.everyday.clothing-and-style.pantaloons` · summary · unverifiable
+
+> Pantaloons: The first Pantaloons store opened in Kolkata in 1997 as a family clothing chain.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Pantaloons (India)](https://en.wikipedia.org/wiki/Pantaloons_(India)) (reference, 2026-10-18)
+
+#### `in.1999.everyday.food-and-kitchen.ccd` · summary · unverifiable
+
+> Café Coffee Day: Café Coffee Day opened its first cafe in Bangalore in 1996 and spread across cities.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Café Coffee Day](https://en.wikipedia.org/wiki/Café_Coffee_Day) (reference, 2026-10-18)
+
+#### `in.1999.everyday.food-and-kitchen.dominos-pizza` · summary · unverifiable
+
+> Pizza arrives: Domino's and Pizza Hut opened outlets in Indian cities in 1996, selling vegetarian pizzas.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Domino's](https://en.wikipedia.org/wiki/Domino's) (reference, 2026-10-18)
+
+#### `in.1999.everyday.food-and-kitchen.kurkure` · summary · unverifiable
+
+> Kurkure: PepsiCo launched Kurkure, a spicy corn snack, in 1999.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Kurkure](https://en.wikipedia.org/wiki/Kurkure) (reference, 2026-10-18)
+
+#### `in.1999.everyday.food-and-kitchen.mcdonalds-india` · summary · unverifiable
+
+> McDonald's without beef: McDonald's opened in India in 1996 with a menu of vegetarian items and chicken, mutton and fish.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: McDonald's in India](https://en.wikipedia.org/wiki/McDonald's_in_India) (reference, 2026-10-18)
+
+#### `in.1999.everyday.getting-around.ambassador` · summary · unverifiable
+
+> The Ambassador: The Hindustan Ambassador was the usual taxi and official car.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Hindustan Ambassador](https://en.wikipedia.org/wiki/Hindustan_Ambassador) (reference, 2026-10-18)
+
+#### `in.1999.everyday.getting-around.konkan-railway` · summary · unverifiable
+
+> Konkan Railway: The Konkan Railway between Mumbai and Mangalore was opened in 1998 after being built through hills.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Konkan Railway](https://en.wikipedia.org/wiki/Konkan_Railway) (reference, 2026-10-18)
+
+#### `in.1999.everyday.getting-around.lahore-bus` · summary · unverifiable
+
+> Delhi-Lahore bus: In February 1999 a bus service began between Delhi and Lahore, with the prime ministers meeting at Wagah.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Delhi–Lahore Bus](https://en.wikipedia.org/wiki/Delhi–Lahore_Bus) (reference, 2026-10-18)
+
+#### `in.1999.everyday.health-and-medicine.apollo` · summary · unverifiable
+
+> Corporate hospitals: Apollo Hospitals, founded in Chennai in 1983, led a wave of private hospitals.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Apollo Hospitals](https://en.wikipedia.org/wiki/Apollo_Hospitals) (reference, 2026-10-18)
+
+#### `in.1999.everyday.health-and-medicine.naco` · summary · unverifiable
+
+> NACO: The National AIDS Control Organisation was set up in 1992 and ran awareness campaigns.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: National AIDS Control Organisation](https://en.wikipedia.org/wiki/National_AIDS_Control_Organisation) (reference, 2026-10-18)
+
+#### `in.1999.everyday.health-and-medicine.orissa-cyclone` · summary · unverifiable
+
+> Odisha super cyclone: A super cyclone in October 1999 struck Odisha and killed thousands.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 1999 Odisha cyclone](https://en.wikipedia.org/wiki/1999_Odisha_cyclone) (reference, 2026-10-18)
+
+#### `in.1999.everyday.health-and-medicine.pulse-polio` · summary · unverifiable
+
+> Pulse Polio: Pulse Polio drives, begun in 1995, gave drops to all children under five on fixed days.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Pulse Polio](https://en.wikipedia.org/wiki/Pulse_Polio) (reference, 2026-10-18)
+
+#### `in.1999.everyday.keeping-in-touch.pager` · summary · unverifiable
+
+> Pagers: Pagers were used by doctors and business people before mobiles were cheap.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Pager](https://en.wikipedia.org/wiki/Pager) (reference, 2026-10-18)
+
+#### `in.1999.everyday.keeping-in-touch.std-booth` · summary · unverifiable
+
+> STD/ISD booths: Yellow-signed STD/ISD booths let people make calls and pay by the minute.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Public call office](https://en.wikipedia.org/wiki/Public_call_office) (reference, 2026-10-18)
+
+#### `in.1999.everyday.keeping-in-touch.vsnl-internet` · summary · unverifiable
+
+> Internet for the public: VSNL began public internet access in August 1995, and cyber cafés spread in towns by 1999.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Videsh Sanchar Nigam Limited](https://en.wikipedia.org/wiki/Videsh_Sanchar_Nigam_Limited) (reference, 2026-10-18)
+
+#### `in.1999.everyday.leisure-and-fun.cyber-cafe-fun` · summary · unverifiable
+
+> Chatting at the cyber café: Young people used cyber cafés to chat and email.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Internet cafe](https://en.wikipedia.org/wiki/Internet_cafe) (reference, 2026-10-18)
+
+#### `in.1999.everyday.leisure-and-fun.hddcs` · summary · unverifiable
+
+> Hum Dil De Chuke Sanam: The film Hum Dil De Chuke Sanam (1999) was a hit with its songs.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Hum Dil De Chuke Sanam](https://en.wikipedia.org/wiki/Hum_Dil_De_Chuke_Sanam) (reference, 2026-10-18)
+
+#### `in.1999.everyday.leisure-and-fun.wc-1999` · summary · unverifiable
+
+> World Cup 1999: Indians followed the 1999 cricket World Cup in England on satellite television.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 1999 Cricket World Cup](https://en.wikipedia.org/wiki/1999_Cricket_World_Cup) (reference, 2026-10-18)
+
+#### `in.1999.everyday.leisure-and-fun.zee-star` · summary · unverifiable
+
+> Satellite channels: Zee TV (1992) and Star Plus offered serials and film shows across the country.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Zee Entertainment Enterprises](https://en.wikipedia.org/wiki/Zee_Entertainment_Enterprises) (reference, 2026-10-18)
+
+#### `in.1999.everyday.school-and-childhood.cbse-class-10` · summary · unverifiable
+
+> Board exam pressure: The class 10 and 12 exams carried heavy family expectations.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Central Board of Secondary Education](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education) (reference, 2026-10-18)
+
+#### `in.1999.everyday.school-and-childhood.computer-courses` · summary · unverifiable
+
+> Computer courses: NIIT and Aptech centres taught programming and computer basics.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: NIIT](https://en.wikipedia.org/wiki/NIIT) (reference, 2026-10-18)
+
+#### `in.1999.everyday.school-and-childhood.kota-coaching` · summary · unverifiable
+
+> Coaching for IIT: Coaching institutes, notably in Kota, trained students for IIT entrance exams.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Kota, Rajasthan](https://en.wikipedia.org/wiki/Kota,_Rajasthan) (reference, 2026-10-18)
+
+#### `in.1999.everyday.spotlight.cafe-rates` · summary · unverifiable
+
+> An hour at the café: In late 1999 an hour of surfing cost roughly Rs 30 to 60 in Bangalore and Chennai and Rs 10 to 30 in Hyderabad.
+
+- **Note:** One source (Voice&Data).
+- **Source:** [Voice&Data: Andhra Pradesh, from tea cafes to cyber cafes](https://www.voicendata.com/andhra-pradesh-from-tea-cafes-cyber-cafes) (secondary, 2026-10-18)
+
+#### `in.1999.everyday.spotlight.first-cafe` · summary · unverifiable
+
+> The first café: The first Indian internet café is described as opening in July 1996 at a Mumbai hotel, charging Rs 800 for an hour.
+
+- **Note:** One secondary source.
+- **Source:** [I Want To Know: The fascinating history of the internet in India](https://iwtkquiz.substack.com/p/166-the-fascinating-history-of-the-internet) (secondary, 2026-10-18)
+
+#### `in.1999.everyday.spotlight.hyderabad-cafes` · summary · unverifiable
+
+> 190 cafés in Hyderabad: Hyderabad had about 190 cyber cafés by the end of November 1999, more than Bangalore or Chennai.
+
+- **Note:** One source.
+- **Source:** [Voice&Data: Andhra Pradesh, from tea cafes to cyber cafes](https://www.voicendata.com/andhra-pradesh-from-tea-cafes-cyber-cafes) (secondary, 2026-10-18)
+
+#### `in.1999.everyday.spotlight.y2k-share` · summary · unverifiable
+
+> How much was Y2K work: One source puts Y2K contracts at 560 million US dollars, 21.1 percent of exports, in the prior year; another has NASSCOM putting Y2K at about 12 percent of software revenue in 1999-2000, and NASSCOM expected the work to fall off after 1999.
+
+- **Note:** The two figures conflict and may cover different years; one source consulted.
+- **Source:** [Tech Monitor: Indian software exports](https://www.techmonitor.ai/?p=94579) (secondary, 2026-10-18)
+
+#### `in.1999.everyday.work-and-wages.hotmail` · summary · unverifiable
+
+> Hotmail's founder: Sabeer Bhatia, an Indian-born engineer, sold Hotmail to Microsoft in 1998, an example for young engineers.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Hotmail](https://en.wikipedia.org/wiki/Hotmail) (reference, 2026-10-18)
+
+#### `in.1999.everyday.work-and-wages.infosys-nasdaq` · summary · unverifiable
+
+> Infosys on Nasdaq: In March 1999 Infosys became the first Indian company listed on Nasdaq.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Infosys](https://en.wikipedia.org/wiki/Infosys) (reference, 2026-10-18)
+
+#### `in.1999.everyday.work-and-wages.y2k-jobs` · summary · unverifiable
+
+> Y2K work: Indian firms fixed date bugs for foreign clients as the year 2000 approached, which brought jobs and foreign exchange.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem) (reference, 2026-10-18)
+
+#### `in.1999.everyday.by-the-numbers.internet-users` · summary · verified
+
+> Online: About 0.27 percent of Indians used the internet, up from 0.03 percent in 1995.
+
+- **Note:** Both give 0.273 percent.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Share of individuals using the internet](https://ourworldindata.org/grapher/share-of-individuals-using-the-internet) (reference, 2026-10-18)
+
+#### `in.1999.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A newborn in 1999 could expect to live about 62 years.
+
+- **Note:** World Bank 62.3, Our World in Data 62.3; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `in.1999.everyday.by-the-numbers.population` · summary · verified
+
+> Population: India's population passed one billion in 1999 by mid-year estimates, about 1.04 billion.
+
+- **Note:** Sources agree.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `in.1999.everyday.spotlight.it-share` · summary · verified
+
+> A small share of the economy: The IT sector's share of India's exports was under 4 percent in FY1998, and its contribution to GDP was 1.2 percent in 1998; Chennai's TIDEL Park was the largest IT park in Asia when it opened in 1999.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Information technology in India](https://en.wikipedia.org/wiki/Information_technology_in_India) (reference, 2026-10-18)
+
+#### `in.1999.everyday.spotlight.software-exports` · summary · verified
+
+> Software exports: India's software exports grew from 734 million US dollars in 1995 to 3.9 billion US dollars in 1999-2000, NASSCOM's figure, from 2.65 billion the year before.
+
+- **Note:** Both are secondary reports of NASSCOM figures; one was written before the year closed and projected a little under 4 billion US dollars.
+- **Source:** [IndiaMart: article on the Indian software industry (27 November 2000)](https://corporate.indiamart.com/2000/11/27/while-various-industries-including-hardware-have-been-going-through-a-rough-patch-peeyush-agnihotri-finds-out-that) (secondary, 2026-10-18)
+- **Source:** [Tech Monitor: Indian software exports](https://www.techmonitor.ai/?p=94579) (secondary, 2026-10-18)
+
+#### `in.1999.everyday.spotlight.users-1997` · summary · verified
+
+> Few users: India had just over 30,000 internet users in 1997 and about 50,000 connections in early 1998, and dial-up tariffs were falling to as low as Rs 20 an hour from January 1998.
+
+- **Note:** Sources agree.
+- **Source:** [Christian Science Monitor: India's e-mail evangelist hopes to win converts to the internet (1997)](https://www.csmonitor.com/1997/1112/111297.intl.intl.4.html) (secondary, 2026-10-18)
+- **Source:** [ICMR: Satyam Iway, changing the Indian internet browsing experience](https://icmrindia.org/Casestudies/catalogue/Marketing/Satyam%20Iway%20-%20Marketing%20Case.htm) (secondary, 2026-10-18)
+- **Source:** [Emergic: NET.COLUMNS, The state of the Indian internet (1997)](https://emergic.org/1997/12/31/netcolumns-the-state-of-the-indian-internet/) (secondary, 2026-10-18)
+
+### in/everyday · 2005
+
+#### `in.2005.everyday.by-the-numbers.electricity` · summary · unverifiable
+
+> Electricity at home: About 69 percent of the population had access to electricity.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Access to electricity (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/EG.ELC.ACCS.ZS?format=json) (primary, 2026-10-18)
+
+#### `in.2005.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 57 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.2005.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 7.8 mobile subscriptions for every 100 people, up from 0.34 in 2000.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `in.2005.everyday.clothing-and-style.lakme-week` · summary · unverifiable
+
+> Fashion week: Lakmé Fashion Week began in 2000, bringing designers and runway shows to Mumbai.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Lakmé Fashion Week](https://en.wikipedia.org/wiki/Lakmé_Fashion_Week) (reference, 2026-10-18)
+
+#### `in.2005.everyday.clothing-and-style.low-rise-jeans` · summary · unverifiable
+
+> Low-rise jeans: Low-rise jeans and tops were the style among young city dwellers.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Low-rise jeans](https://en.wikipedia.org/wiki/Low-rise_jeans) (reference, 2026-10-18)
+
+#### `in.2005.everyday.clothing-and-style.mall-shopping` · summary · unverifiable
+
+> Mall shopping: Malls opened in cities and brought branded clothes and multiplexes.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Shopping mall](https://en.wikipedia.org/wiki/Shopping_mall) (reference, 2026-10-18)
+
+#### `in.2005.everyday.food-and-kitchen.big-bazaar` · summary · unverifiable
+
+> Supermarkets: Big Bazaar opened in 2001 and made hypermarket shopping familiar.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Big Bazaar](https://en.wikipedia.org/wiki/Big_Bazaar) (reference, 2026-10-18)
+
+#### `in.2005.everyday.food-and-kitchen.cafe-culture` · summary · unverifiable
+
+> Cafés: Café Coffee Day and Barista made cafés a place for young people to meet.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Café Coffee Day](https://en.wikipedia.org/wiki/Café_Coffee_Day) (reference, 2026-10-18)
+
+#### `in.2005.everyday.food-and-kitchen.cola-pesticide` · summary · unverifiable
+
+> The cola controversy: The Centre for Science and Environment reported pesticide residues in cola drinks in 2003 and again in 2006.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Centre for Science and Environment](https://en.wikipedia.org/wiki/Centre_for_Science_and_Environment) (reference, 2026-10-18)
+
+#### `in.2005.everyday.getting-around.spicejet` · summary · unverifiable
+
+> SpiceJet takes off: SpiceJet began domestic operations on its New Delhi-Mumbai route on 24 May 2005.
+
+- **Note:** One source; the airline is also in the technology section.
+- **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-18)
+
+#### `in.2005.everyday.health-and-medicine.emergency-treatment` · summary · unverifiable
+
+> Treat first: On 25 April 2005 the National Consumer Disputes Redressal Commission ruled that hospitals must accept accident victims and critically ill patients, that doctors cannot demand fees before treating, and that relatives' consent is not needed when no family member is present.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-18)
+
+#### `in.2005.everyday.keeping-in-touch.bandwidth-cut` · summary · unverifiable
+
+> Cheaper bandwidth: On 10 March 2005 TRAI cut international bandwidth tariffs by up to 70 percent, effective 1 April.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-18)
+
+#### `in.2005.everyday.keeping-in-touch.idd-rates` · summary · unverifiable
+
+> Calls to the Gulf and abroad: From 21 May 2005 International Direct Dialling rates to the Gulf, SAARC countries, Saudi Arabia, Africa, Australia and New Zealand fell 33 percent to Rs 12 a minute.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-18)
+
+#### `in.2005.everyday.leisure-and-fun.largest-chain` · summary · unverifiable
+
+> Fifty-one screens: With 51 screens as of February 2006, PVR was the largest multiplex operator in India.
+
+- **Note:** One company-aligned source.
+- **Source:** [PVR company history (PVR Ltd, Pocketful)](https://www.pocketful.in/stocks/pvr-inox-ltd/history) (secondary, 2026-10-18)
+
+#### `in.2005.everyday.school-and-childhood.child-labour-rescue` · summary · unverifiable
+
+> Children rescued from factories: On 21 November 2005 the NGO Pratham, with Delhi Police and the Labour Department, rescued 487 trafficked child labourers from illegal factories in North Shahdara, East Delhi.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-18)
+
+#### `in.2005.everyday.spotlight.subscribers` · summary · unverifiable
+
+> From 0.3 to 7.8 per hundred: Mobile subscriptions rose from 0.34 per 100 people in 2000 to 7.8 in 2005 and 60.5 in 2010.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `in.2005.everyday.by-the-numbers.internet-users` · summary · verified
+
+> Online: About 2.4 percent of Indians used the internet in 2005.
+
+- **Note:** Both give 2.388 percent.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Share of individuals using the internet](https://ourworldindata.org/grapher/share-of-individuals-using-the-internet) (reference, 2026-10-18)
+
+#### `in.2005.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A newborn in 2005 could expect to live about 65 years.
+
+- **Note:** World Bank 64.9, Our World in Data 64.9; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `in.2005.everyday.by-the-numbers.population` · summary · verified
+
+> Population: India's population was about 1.15 billion in 2005.
+
+- **Note:** Sources agree.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `in.2005.everyday.keeping-in-touch.flood-outage` · summary · verified
+
+> Cut off in the flood: When Mumbai flooded on 26 July 2005, about 5 million mobile users and 2.3 million MTNL landline users were affected for over four hours.
+
+- **Note:** The figure is attributed to the Hindustan Times in the article.
+- **Source:** [Wikipedia: 2005 Maharashtra floods](https://en.wikipedia.org/wiki/2005_Maharashtra_floods) (reference, 2026-10-18)
+
+#### `in.2005.everyday.leisure-and-fun.first-multiplex` · summary · verified
+
+> The first multiplex: PVR's company history says it opened India's first multiplex cinema, PVR Anupam in Saket, New Delhi, in June 1997 and by 2003 to 2005 was adding screens in malls in Gurgaon, Bangalore, Faridabad and East Delhi (March 2005).
+
+- **Note:** Company-aligned sources; the 'first' claim is PVR's own.
+- **Source:** [PVR company history (PVR Ltd, Pocketful)](https://www.pocketful.in/stocks/pvr-inox-ltd/history) (secondary, 2026-10-18)
+- **Source:** [ICMR: PVR Ltd.'s growth and future prospects](https://icmrindia.org/Casestudies/catalogue/Marketing/Growth%20and%20Future%20Prospects.htm) (secondary, 2026-10-18)
+
+#### `in.2005.everyday.spotlight.operators` · summary · verified
+
+> New operators: Reliance Communications began operating in 2004, and Escotel, which started in 1996, ceased in 2004 and was merged into Idea Cellular.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Mobile phone industry in India](https://en.wikipedia.org/wiki/Mobile_phone_industry_in_India) (reference, 2026-10-18)
+
+#### `in.2005.everyday.work-and-wages.nrega-allowance` · summary · verified
+
+> An allowance if no work comes: Applicants are entitled to an unemployment allowance if work is not provided within 15 days of applying.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005](https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005) (reference, 2026-10-18)
+
+#### `in.2005.everyday.work-and-wages.nrega-passed` · summary · verified
+
+> What the Act promised: The Mahatma Gandhi National Rural Employment Guarantee Act passed the Lok Sabha on 23 August and the Rajya Sabha on 25 August 2005, received assent on 5 September, and began on 2 February 2006, promising at least 100 days of paid unskilled work a year to rural households that volunteer for it.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005](https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2005 in India](https://en.wikipedia.org/wiki/2005_in_India) (reference, 2026-10-18)
+
+#### `in.2005.everyday.work-and-wages.nrega-scale` · summary · verified
+
+> How far it reached: The programme began in a pilot of 625 districts and covered all districts from 1 April 2008, on average giving work to about 5 crore (50 million) households a year since then; 12 crore (120 million) job cards had been issued by 2012, and wages ranged from Rs 122 in Bihar and Jharkhand to Rs 191 in Haryana.
+
+- **Note:** Later figures, shown for scale; the article gives no wage rate for 2005-06.
+- **Source:** [Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005](https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005) (reference, 2026-10-18)
+
+### in/everyday · 2010
+
+#### `in.2010.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 60 mobile subscriptions for every 100 people, up from 7.8 in 2005.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `in.2010.everyday.clothing-and-style.flipkart` · summary · unverifiable
+
+> Flipkart: Flipkart started in 2007 as a bookshop and added clothes and electronics.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Flipkart](https://en.wikipedia.org/wiki/Flipkart) (reference, 2026-10-18)
+
+#### `in.2010.everyday.clothing-and-style.myntra` · summary · unverifiable
+
+> Buying clothes online: Myntra, begun in 2007, sold branded clothing online.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Myntra](https://en.wikipedia.org/wiki/Myntra) (reference, 2026-10-18)
+
+#### `in.2010.everyday.clothing-and-style.tshirts` · summary · unverifiable
+
+> T-shirts and jeans: T-shirts, jeans and kurtas were common wear for students.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Clothing in India](https://en.wikipedia.org/wiki/Clothing_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.food-and-kitchen.amul-milk` · summary · unverifiable
+
+> Packet milk: Packet milk from Amul and Mother Dairy was delivered each morning.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Amul](https://en.wikipedia.org/wiki/Amul) (reference, 2026-10-18)
+
+#### `in.2010.everyday.food-and-kitchen.dominos-30min` · summary · unverifiable
+
+> Home delivery: Pizza chains promised home delivery in 30 minutes.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Domino's](https://en.wikipedia.org/wiki/Domino's) (reference, 2026-10-18)
+
+#### `in.2010.everyday.food-and-kitchen.street-food` · summary · unverifiable
+
+> Street food: Chaat, vada pav and dosa stalls stayed everywhere, from small towns to metro stations.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Street food of India](https://en.wikipedia.org/wiki/Street_food_of_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.food-and-kitchen.zomato` · summary · unverifiable
+
+> Zomato: Zomato, which began as Foodiebay in 2008, took that name in 2010 and listed restaurants with menus online.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Zomato](https://en.wikipedia.org/wiki/Zomato) (reference, 2026-10-18)
+
+#### `in.2010.everyday.getting-around.violet-line` · summary · unverifiable
+
+> The Violet Line: The Violet Line of the Delhi Metro opened on 3 October 2010.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.health-and-medicine.nrhm` · summary · unverifiable
+
+> National Rural Health Mission: The NRHM, started in 2005, trained ASHA workers in villages and funded health centres.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: National Rural Health Mission](https://en.wikipedia.org/wiki/National_Rural_Health_Mission) (reference, 2026-10-18)
+
+#### `in.2010.everyday.health-and-medicine.polio-last` · summary · unverifiable
+
+> Last polio case: India's last case of wild polio was in January 2011, after 42 cases in 2010.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Polio in India](https://en.wikipedia.org/wiki/Polio_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.health-and-medicine.swine-flu` · summary · unverifiable
+
+> Swine flu: The H1N1 flu outbreak of 2009-10 led to many cases and deaths in India.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 2009 swine flu pandemic in India](https://en.wikipedia.org/wiki/2009_swine_flu_pandemic_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.keeping-in-touch.blackberry` · summary · unverifiable
+
+> The BlackBerry deadline: On 12 August 2010 India gave BlackBerry until 31 August to provide access to its services to the authorities.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.keeping-in-touch.imps` · summary · unverifiable
+
+> Money by mobile: The Immediate Payment Service, letting money move between bank accounts by mobile, was launched on 22 November 2010 with four banks.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.leisure-and-fun.indian-idol` · summary · unverifiable
+
+> Indian Idol: Sreeram Chandra won Indian Idol Season 5 on 15 August 2010.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.leisure-and-fun.ipl-youtube` · summary · unverifiable
+
+> Live on YouTube: In 2010 the IPL became the first sporting event broadcast live on YouTube.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: Indian Premier League](https://en.wikipedia.org/wiki/Indian_Premier_League) (reference, 2026-10-18)
+
+#### `in.2010.everyday.school-and-childhood.cce` · summary · unverifiable
+
+> Grades in class 10: CBSE introduced grading and continuous evaluation for class 10 around 2009-10.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Central Board of Secondary Education](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education) (reference, 2026-10-18)
+
+#### `in.2010.everyday.school-and-childhood.coaching-2010` · summary · unverifiable
+
+> Tuition: Private tuition and coaching classes grew along with school.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Coaching centre](https://en.wikipedia.org/wiki/Coaching_centre) (reference, 2026-10-18)
+
+#### `in.2010.everyday.school-and-childhood.rte-2010` · summary · unverifiable
+
+> Right to Education: The Right to Education Act came into force on 1 April 2010, making schooling for ages 6 to 14 a legal right.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Right to Education Act](https://en.wikipedia.org/wiki/Right_to_Education_Act) (reference, 2026-10-18)
+
+#### `in.2010.everyday.spotlight.3g-auction` · summary · unverifiable
+
+> 3G auction: The government auctioned 3G spectrum in 2010 and the first 3G services began later that year.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 3G spectrum auction in India](https://en.wikipedia.org/wiki/3G_spectrum_auction_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.spotlight.mnp` · summary · unverifiable
+
+> Keeping your number: Mobile number portability began in 2011 and let users change operators.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Mobile number portability](https://en.wikipedia.org/wiki/Mobile_number_portability) (reference, 2026-10-18)
+
+#### `in.2010.everyday.spotlight.nokia` · summary · unverifiable
+
+> The Nokia era: Nokia handsets were the best-known phones in India, with Micromax and others selling cheap dual-SIM models.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Nokia](https://en.wikipedia.org/wiki/Nokia) (reference, 2026-10-18)
+
+#### `in.2010.everyday.spotlight.per-second` · summary · unverifiable
+
+> Per-second billing: Tata DoCoMo introduced per-second billing in 2009, pushing other firms to cut rates.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Tata Teleservices](https://en.wikipedia.org/wiki/Tata_Teleservices) (reference, 2026-10-18)
+
+#### `in.2010.everyday.spotlight.prepaid-recharge` · summary · unverifiable
+
+> Recharge culture: Most users bought prepaid top-ups from the corner shop in small amounts.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Telecommunications in India](https://en.wikipedia.org/wiki/Telecommunications_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.work-and-wages.aadhaar-2010` · summary · unverifiable
+
+> Aadhaar: The first Aadhaar numbers were issued in September 2010 at Tembhli in Maharashtra.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Aadhaar](https://en.wikipedia.org/wiki/Aadhaar) (reference, 2026-10-18)
+
+#### `in.2010.everyday.work-and-wages.bpo` · summary · unverifiable
+
+> Call-centre jobs: Call centres and BPOs in Bangalore, Gurgaon and Hyderabad hired young graduates.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Business process outsourcing in India](https://en.wikipedia.org/wiki/Business_process_outsourcing_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.work-and-wages.mgnrega` · summary · unverifiable
+
+> Rural jobs guarantee: MGNREGA guaranteed 100 days of paid work a year to rural households, and was extended to all districts in 2008.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Mahatma Gandhi National Rural Employment Guarantee Act, 2005](https://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act,_2005) (reference, 2026-10-18)
+
+#### `in.2010.everyday.by-the-numbers.internet-users` · summary · verified
+
+> Online: About 7.5 percent of Indians used the internet in 2010.
+
+- **Note:** Both give 7.5 percent.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Share of individuals using the internet](https://ourworldindata.org/grapher/share-of-individuals-using-the-internet) (reference, 2026-10-18)
+
+#### `in.2010.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A newborn in 2010 could expect to live about 67 years.
+
+- **Note:** World Bank 67.2, Our World in Data 67.2; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `in.2010.everyday.by-the-numbers.literacy` · summary · verified
+
+> Who could read: At the 2011 census 74 percent of people could read and write, 82 percent of men and 65 percent of women.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Literacy in India](https://en.wikipedia.org/wiki/Literacy_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2011 Census of India](https://en.wikipedia.org/wiki/2011_Census_of_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.by-the-numbers.population` · summary · verified
+
+> Population: India's population was about 1.24 billion in 2010; the census of 2011 counted 1,210,854,977.
+
+- **Note:** Mid-year estimate for 2010 and the 2011 census count.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Wikipedia: Demographics of India](https://en.wikipedia.org/wiki/Demographics_of_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.by-the-numbers.urban-share` · summary · verified
+
+> Town and village: The 2011 census found 31.16 percent of Indians living in towns and cities and 68.84 percent in rural areas.
+
+- **Note:** World Bank's 2010 estimate is 30.9 percent.
+- **Source:** [Wikipedia: Demographics of India](https://en.wikipedia.org/wiki/Demographics_of_India) (reference, 2026-10-18)
+- **Source:** [World Bank, World Development Indicators: Urban population (% of total)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json) (primary, 2026-10-18)
+
+#### `in.2010.everyday.getting-around.mangalore-crash` · summary · verified
+
+> A crash at Mangalore: On 22 May 2010 an Air India Express flight from Dubai overran the runway at Mangalore's table-top airport and burned, killing 158 of the 166 on board; the inquiry blamed the captain's failure to abort an unstabilised approach.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Air India Express Flight 812](https://en.wikipedia.org/wiki/Air_India_Express_Flight_812) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
+
+#### `in.2010.everyday.leisure-and-fun.ipl-2010` · summary · verified
+
+> The IPL final: Chennai Super Kings beat Mumbai Indians by 22 runs at the DY Patil Stadium in Navi Mumbai to win the 2010 Indian Premier League, played between 12 March and 25 April.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Indian Premier League](https://en.wikipedia.org/wiki/Indian_Premier_League) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2010 in India](https://en.wikipedia.org/wiki/2010_in_India) (reference, 2026-10-18)
+
+### in/everyday · 2020
+
+#### `in.2020.everyday.by-the-numbers.electricity` · summary · unverifiable
+
+> Electricity at home: About 96.5 percent of the population had access to electricity, up from 51 percent in 1995.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Access to electricity (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/EG.ELC.ACCS.ZS?format=json) (primary, 2026-10-18)
+
+#### `in.2020.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 28 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `in.2020.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 82 mobile subscriptions for every 100 people.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `in.2020.everyday.clothing-and-style.khadi-mask` · summary · unverifiable
+
+> Handmade masks: Self-help groups and tailors made cloth and khadi masks during the lockdown.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Face masks during the COVID-19 pandemic](https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic) (reference, 2026-10-18)
+
+#### `in.2020.everyday.clothing-and-style.masks` · summary · unverifiable
+
+> Face masks: Face masks became compulsory in public places, and many people wore cloth masks.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Face masks during the COVID-19 pandemic](https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic) (reference, 2026-10-18)
+
+#### `in.2020.everyday.clothing-and-style.wfh-wear` · summary · unverifiable
+
+> Working from home: Office workers moved to casual clothes at home.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Work from home](https://en.wikipedia.org/wiki/Work_from_home) (reference, 2026-10-18)
+
+#### `in.2020.everyday.food-and-kitchen.har-ghar-jal` · summary · unverifiable
+
+> A tap in every home: On 10 October 2020 Goa was declared the first 'Har Ghar Jal' state, with tap water in every household.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.getting-around.delhi-metro-resume` · summary · unverifiable
+
+> Delhi Metro restarts: The Delhi Metro resumed services in September 2020 in stages.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Delhi Metro](https://en.wikipedia.org/wiki/Delhi_Metro) (reference, 2026-10-18)
+
+#### `in.2020.everyday.getting-around.flights-resume` · summary · unverifiable
+
+> Flights resume: Domestic flights restarted on 25 May 2020 under restrictions.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: COVID-19 pandemic in India](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.getting-around.lockdown-travel` · summary · unverifiable
+
+> The lockdown: From 25 March 2020 passenger trains, flights and metros stopped for the national lockdown.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.getting-around.shramik-special` · summary · unverifiable
+
+> Shramik Special trains: From 1 May 2020 special trains carried migrant workers back to their home states.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Shramik Special trains](https://en.wikipedia.org/wiki/Shramik_Special_trains) (reference, 2026-10-18)
+
+#### `in.2020.everyday.health-and-medicine.million-cases` · summary · unverifiable
+
+> One million cases: India passed one million confirmed COVID-19 cases on 17 July 2020.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.keeping-in-touch.arogya-setu` · summary · unverifiable
+
+> Aarogya Setu: The government's Aarogya Setu app, launched in April 2020, tracked contacts and gave health updates.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Aarogya Setu](https://en.wikipedia.org/wiki/Aarogya_Setu) (reference, 2026-10-18)
+
+#### `in.2020.everyday.keeping-in-touch.tiktok-ban` · summary · unverifiable
+
+> TikTok banned: The government banned TikTok and dozens of other Chinese apps in June 2020.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Restrictions on TikTok in India](https://en.wikipedia.org/wiki/Restrictions_on_TikTok_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.keeping-in-touch.video-calls` · summary · unverifiable
+
+> Video calls: Zoom and Google Meet became the usual way to meet relatives, attend school and hold work meetings.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications) (reference, 2026-10-18)
+
+#### `in.2020.everyday.keeping-in-touch.whatsapp` · summary · unverifiable
+
+> WhatsApp groups: Families and neighbourhoods shared news and forwards on WhatsApp groups.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: WhatsApp](https://en.wikipedia.org/wiki/WhatsApp) (reference, 2026-10-18)
+
+#### `in.2020.everyday.leisure-and-fun.ipl-uae` · summary · unverifiable
+
+> IPL in the UAE: The 2020 IPL was played in the UAE from September to November, without spectators, and Mumbai Indians won.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 2020 Indian Premier League](https://en.wikipedia.org/wiki/2020_Indian_Premier_League) (reference, 2026-10-18)
+
+#### `in.2020.everyday.leisure-and-fun.ott` · summary · unverifiable
+
+> Streaming: Films and series on Netflix, Hotstar and Amazon Prime were watched more during the lockdown.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Streaming media](https://en.wikipedia.org/wiki/Streaming_media) (reference, 2026-10-18)
+
+#### `in.2020.everyday.leisure-and-fun.ramayan-rerun` · summary · unverifiable
+
+> Ramayan on TV again: Doordarshan began re-running Ramayan from 28 March 2020 and it drew record viewership.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: Ramayan (1987 TV series)](https://en.wikipedia.org/wiki/Ramayan_(1987_TV_series)) (reference, 2026-10-18)
+
+#### `in.2020.everyday.leisure-and-fun.tokyo-postponed` · summary · unverifiable
+
+> Olympics postponed: The Tokyo Olympics were postponed to 2021.
+
+- **Note:** Written from general reference and the linked page; not cross-checked, shown as unverified.
+- **Source:** [Wikipedia: 2020 Summer Olympics](https://en.wikipedia.org/wiki/2020_Summer_Olympics) (reference, 2026-10-18)
+
+#### `in.2020.everyday.spotlight.upi-growth` · summary · unverifiable
+
+> Payments by phone: UPI recorded 1.14 billion transactions in October 2019 and 2.07 billion in October 2020; in all of 2019 it handled about 10.8 billion.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: Unified Payments Interface](https://en.wikipedia.org/wiki/Unified_Payments_Interface) (reference, 2026-10-18)
+
+#### `in.2020.everyday.work-and-wages.gdp-shock` · summary · unverifiable
+
+> The economy contracts: India's GDP contracted 23.9 percent in the first quarter of the 2020-21 financial year, reported on 31 August.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.by-the-numbers.internet-users` · summary · verified
+
+> Online: About 43 percent of Indians used the internet in 2020, up from 7.5 percent in 2010.
+
+- **Note:** Both give 43.4 percent.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Share of individuals using the internet](https://ourworldindata.org/grapher/share-of-individuals-using-the-internet) (reference, 2026-10-18)
+
+#### `in.2020.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A newborn in 2020 could expect to live about 70 years.
+
+- **Note:** World Bank 70.2, Our World in Data 70.2; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `in.2020.everyday.by-the-numbers.population` · summary · verified
+
+> Population: India's population was about 1.40 billion in 2020.
+
+- **Note:** Sources agree.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `in.2020.everyday.health-and-medicine.first-case` · summary · verified
+
+> The first case: India's first case of COVID-19 was reported on 30 January 2020 in Thrissur, Kerala, among students returning from Wuhan; daily cases peaked in mid-September at over 90,000.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 pandemic in India](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.school-and-childhood.online-learning` · summary · verified
+
+> School at a screen: Schools were shut, and the Unlock 5.0 guidelines of 30 September 2020 preferred online learning where possible.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.spotlight.extensions` · summary · verified
+
+> Extended, then unlocked: The lockdown was extended on 14 April to 3 May, on 1 May to 17 May and on 17 May to 31 May; services resumed in stages from 8 June, and Unlock 1.0 ran from 1 to 30 June, followed by monthly phases through Unlock 7.0 in December.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.spotlight.janata-curfew` · summary · verified
+
+> The Janata Curfew: A 14-hour voluntary curfew was observed on 22 March 2020, two days before the lockdown.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 pandemic in India](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.spotlight.lockdown` · summary · verified
+
+> The lockdown: On the evening of 24 March 2020 the Government ordered a 21-day nationwide lockdown from midnight for the entire 1.38 billion population, closing all services and shops except pharmacies, hospitals, banks, grocery shops and other essential services, with only work from home allowed.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
+
+#### `in.2020.everyday.spotlight.upi-banks` · summary · verified
+
+> A system for every bank: UPI began as a pilot on 11 April 2016 with 21 member banks, and by 2022 it linked 304.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Unified Payments Interface](https://en.wikipedia.org/wiki/Unified_Payments_Interface) (reference, 2026-10-18)
+
+#### `in.2020.everyday.work-and-wages.migrants` · summary · verified
+
+> Walking home: Migrant workers left jobless by the lockdown were seen walking or cycling hundreds of kilometres to their home villages, and from 1 May the railways ran 'Shramik Special' trains for stranded migrants; on 8 May 16 migrant workers were killed by a goods train near Aurangabad.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 lockdown in India](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2020 in India](https://en.wikipedia.org/wiki/2020_in_India) (reference, 2026-10-18)
 
 ## World (original, US-centred)
 
@@ -10076,3 +13234,2476 @@ Generated from `docs/fact-check.json` by `npm run factcheck:report`. Every claim
 > A three-day working week, with AI doing most routine work. (Economists, echoing Keynes a century earlier)
 
 - **Note:** Speculative by design: an imagined scenario for 2050, not a historical claim. Shown with the SPECULATIVE badge; it carries no source and no 'unverified' marker.
+
+## World · Everyday
+
+| Era | Claims | Verified | Corrected | Unverifiable | Removed |
+|---|---:|---:|---:|---:|---:|
+| 1900 | 47 | 29 | 0 | 18 | 0 |
+| 1920 | 28 | 18 | 0 | 10 | 0 |
+| 1930 | 22 | 13 | 0 | 9 | 0 |
+| 1945 | 34 | 27 | 0 | 7 | 0 |
+| 1960 | 26 | 21 | 0 | 5 | 0 |
+| 1970 | 28 | 22 | 0 | 6 | 0 |
+| 1984 | 28 | 22 | 0 | 6 | 0 |
+| 1995 | 18 | 13 | 0 | 5 | 0 |
+| 1999 | 24 | 19 | 0 | 5 | 0 |
+| 2005 | 22 | 17 | 0 | 5 | 0 |
+| 2010 | 27 | 22 | 0 | 5 | 0 |
+| 2020 | 33 | 26 | 0 | 7 | 0 |
+| **Total** | **337** | **249** | **0** | **88** | **0** |
+
+### world/everyday · 1900
+
+#### `world.1900.everyday.by-the-numbers.household-size` · summary · unverifiable
+
+> People per household: A typical household held between four and five people.
+
+- **Note:** Sources give 4.55 to 4.8 depending on method; PRB gives 4.6. The chart book page was only partly read.
+- **Source:** [Population Reference Bureau: average household size 1900-2010](https://scorecard.prb.org/?p=19314) (secondary, 2026-10-18)
+- **Source:** [Census chart book: Households, Relationship to Householder, and Home Ownership](https://demographicchartbook.com/index.php/chapter-6-households-relationship-to-householder-and-home-ownership/) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.by-the-numbers.illiteracy` · summary · unverifiable
+
+> Reading and writing: About one person in ten could not read or write; the rate was far higher among foreign-born and Black Americans.
+
+- **Note:** Historical Statistics gives 10.7 percent for all persons (4.6 native-born white, 44.5 Black and other races, 12.9 foreign-born white); a library article citing the Census gives 11.3 percent. The age base of the table is not stated. The primary figure is used.
+- **Source:** [Historical Statistics of the United States, Table Bc793-797: Illiteracy rate, by race and nativity, 1870-1979](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBc793-797.html) (primary, 2026-10-18)
+- **Source:** [Transylvania County Library: The illiteracy (cites Census Bureau, 11.3 percent)](https://library.transylvaniacounty.org/moonlight-schools/) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.by-the-numbers.urban-share` · summary · unverifiable
+
+> Town and country: About two in five Americans lived in places the census counted as urban.
+
+- **Note:** Only a secondary reproduction of the Census table was consulted; the census volume itself was not opened.
+- **Source:** [Harvard CSCI E-12: United States Urban and Rural Populations (Census Bureau data)](https://cscie12.dce.harvard.edu/lecture_notes/2017-fall/20170912/example25.html) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.clothing-and-style.sack-suit` · summary · unverifiable
+
+> The sack suit: Men's day wear centred on the sack suit, ancestor of the modern business suit, and mass production was putting ready-made clothes within reach of more people.
+
+- **Note:** One secondary source.
+- **Source:** [FamilySearch: 1900s Fashion, Clothing Styles in the Edwardian Era](https://www.familysearch.org/en/blog/1900s-fashion-edwardian-era) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.food-and-kitchen.farm-dinner` · summary · unverifiable
+
+> The midday dinner on a farm: On farms the largest meal was often at midday, and a one-pot dish could simmer while other chores were done.
+
+- **Note:** Popular-history article; no primary source consulted.
+- **Source:** [Chowhound: What the average American ate during the Industrial Revolution](https://www.chowhound.com/2178716/what-food-average-american-ate-industrial-revolution/) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.getting-around.nyc-track` · summary · unverifiable
+
+> Electric trolley, horse and el: In New York City in 1901 about 676 of 1,141 miles of track were electric surface trolley, 178 were elevated and 140 were still horse-drawn.
+
+- **Note:** Read through a search summary, not the page text; a 1901 snapshot.
+- **Source:** [Street Railway Journal, 5 October 1901 (LA Metro Library archive)](https://libraryarchives.metro.net:443/DPGTL/ERJ/srj-street-railway-journal/1901-srj-volume-18-no-14-october-05.pdf) (primary, 2026-10-18)
+
+#### `world.1900.everyday.getting-around.pullman` · summary · unverifiable
+
+> Sleeping cars: Pullman sleeping cars ran on the Pennsylvania Railroad's overnight trains under a contract dating from 1870.
+
+- **Note:** One secondary source.
+- **Source:** [American-Rails.com: Pennsylvania Railroad passenger trains](https://www.american-rails.com/prrpassenger.html) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.health-and-medicine.albany-filter` · summary · unverifiable
+
+> Albany filters its water: After Albany began filtering its water in 1899, typhoid deaths dropped from an average of 85 a year to 24 in the next eleven months.
+
+- **Note:** One source.
+- **Source:** [PubMed Central: Water Filtration in America](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195580/) (reference, 2026-10-18)
+
+#### `world.1900.everyday.health-and-medicine.doctor-fee` · summary · unverifiable
+
+> What a doctor charged: Local records give $1 for a house call and 50 cents for an office visit; hospitals were few and most babies were born at home.
+
+- **Note:** Local recollections (Minnesota, Oklahoma Territory), not a national fee survey.
+- **Source:** [Minnesota Academy of Medicine: The History of Medicine](https://www.mnacademyofmedicine.com/?p=168) (reference, 2026-10-18)
+- **Source:** [OU Medical Center: 100-year history excerpt](https://www.slideshare.net/gumball2/ou-medical-center-100-year-history-10pg-excerpt) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.health-and-medicine.typhoid-rate` · summary · unverifiable
+
+> Typhoid cases: Typhoid struck roughly 100 people in every 100,000 in 1900, against about 34 in 1920.
+
+- **Note:** One source, via a search summary.
+- **Source:** [CDC: History of Drinking Water Treatment](https://archive.cdc.gov/www_cdc_gov/healthywater/drinking/history.html) (primary, 2026-10-18)
+
+#### `world.1900.everyday.keeping-in-touch.letter-rate` · summary · unverifiable
+
+> Two cents a letter: A letter cost two cents an ounce anywhere in the United States.
+
+- **Note:** The guides found are from 1904 and 1908; the rate is stable across them and matches the era price board.
+- **Source:** [New York postal guide, 1904 (University of Wisconsin digital collections)](https://search.library.wisc.edu/digital/AKQ2ESFGDC6BPH9C/text/AXKSI7MGMT2Q7J9E) (primary, 2026-10-18)
+
+#### `world.1900.everyday.keeping-in-touch.rural-delivery` · summary · unverifiable
+
+> Mail to the farm gate: Rural Free Delivery began as a trial in 1896, with $40,000 voted by Congress.
+
+- **Note:** One source; the $40,000 appropriation figure was not cross-checked.
+- **Source:** [Encyclopedia.com: Rural Free Delivery](https://www.encyclopedia.com/history/news-wires-white-papers-and-books/rural-free-delivery) (reference, 2026-10-18)
+
+#### `world.1900.everyday.keeping-in-touch.telegram` · summary · unverifiable
+
+> Telegrams by the word: A telegram was priced for a minimum of ten words, with extra words added; one example is 60 cents for ten words from New York to Georgia.
+
+- **Note:** Examples are undated period sources, not a verified 1900 rate table.
+- **Source:** [University of Kansas Libraries: telegraph rate sources](https://digital.lib.ku.edu/islandora/object/ku-phog%3A46937/datastream/OCR/download) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.leisure-and-fun.bicycling` · summary · unverifiable
+
+> The bicycle craze: After safer designs arrived, bicycling became a mass pastime for both men and women.
+
+- **Note:** One secondary source.
+- **Source:** [Lumen Learning (William & Mary U.S. History): Leisure and Entertainment](https://courses.lumenlearning.com/wm-ushistory2/chapter/leisure-and-entertainment/) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.leisure-and-fun.coney-island` · summary · unverifiable
+
+> Coney Island: Crowds took a day trip to Coney Island's amusement parks, nine miles from Manhattan, paying a dime for sights such as a diving horse.
+
+- **Note:** One secondary source.
+- **Source:** [Lumen Learning (William & Mary U.S. History): Leisure and Entertainment](https://courses.lumenlearning.com/wm-ushistory2/chapter/leisure-and-entertainment/) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.spotlight.factory-power` · summary · unverifiable
+
+> Power for factories: In 1900 barely 4 percent of the power used in American factories was electric, according to census statistics reported in 1903.
+
+- **Note:** A newspaper reprint of census statistics; a Utah reprint gives electric motors as about 2.7 percent of factory horsepower. The census report was not opened.
+- **Source:** [Nebraska newspapers (Chronicling America): 17 January 1903](https://nebnewspapers.unl.edu/lccn/sn99021999/1903-01-17/ed-1/seq-9) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.work-and-wages.average-earnings` · summary · unverifiable
+
+> Average annual earnings: Across all non-farm employees, a year's earnings averaged $483; across all employees, farm workers included, $418.
+
+- **Note:** One source (opened directly). A state manufacturing return gave $412 for 1900, a different measure.
+- **Source:** [Historical Statistics of the United States, Table Ba4280-4282: Daily and annual earnings of employees, 1860-1929](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4280-4282.html) (primary, 2026-10-18)
+
+#### `world.1900.everyday.work-and-wages.women-workers` · summary · unverifiable
+
+> Women in paid work: Roughly one working-age woman in five was in the paid labour force.
+
+- **Note:** One source, read through a search summary; the PDF text could not be opened.
+- **Source:** [U.S. Bureau of Labor Statistics: American labor in the 20th century](https://www.bls.gov/opub/mlr/cwc/american-labor-in-the-20th-century.pdf) (primary, 2026-10-18)
+
+#### `world.1900.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A baby born in 1900 could expect to live about 47 years; a three-year average for 1900 to 1902 is higher, about 49.
+
+- **Note:** CDC single-year value 47.3; the Congressional Research Service report RL32792 gives 49.2 for the 1900-1902 average, a different measure.
+- **Source:** [CDC NCHS: Life Expectancy in the U.S., 1900-2018](https://cdc.gov/nchs/blog/posts/2020/11/life-expectancy-in-the-u-s-1900-2018.html) (primary, 2026-10-18)
+- **Source:** [CDC NCHS: United States Life Tables, 2018 (National Vital Statistics Reports)](https://stacks.cdc.gov/view/cdc/84451) (primary, 2026-10-18)
+
+#### `world.1900.everyday.by-the-numbers.motor-vehicles` · summary · verified
+
+> Cars on the road: Only a few thousand motor vehicles were registered in the whole country, all of them cars.
+
+- **Note:** Sources agree.
+- **Source:** [FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations](https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf) (primary, 2026-10-18)
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+
+#### `world.1900.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The 1900 census, taken on 1 June, counted the people of the United States.
+
+- **Note:** Sources agree.
+- **Source:** [U.S. Census Bureau: 1900 Census, Volume I, Population, Part 1](https://census.gov/library/publications/1901/dec/vol-01-population.html) (primary, 2026-10-18)
+- **Source:** [Wikipedia: 1900 United States census](https://en.wikipedia.org/wiki/1900_United_States_census) (reference, 2026-10-18)
+
+#### `world.1900.everyday.clothing-and-style.bib-overalls` · summary · verified
+
+> Bib overalls: By the early 1900s many companies made bib overalls, and catalogues and photographs show farm men as the main wearers.
+
+- **Note:** Sources agree.
+- **Source:** [Ann Hemken, The development and use of bib overalls in the United States, 1856-1945 (Iowa State University thesis, 1993)](https://dr.lib.iastate.edu/handle/20.500.12876/75885) (primary, 2026-10-18)
+
+#### `world.1900.everyday.clothing-and-style.corset-skirts` · summary · verified
+
+> The S-bend silhouette: A corset gave day dress its S-curve shape, and skirts reached the floor.
+
+- **Note:** Sources agree.
+- **Source:** [FamilySearch: 1900s Fashion, Clothing Styles in the Edwardian Era](https://www.familysearch.org/en/blog/1900s-fashion-edwardian-era) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.clothing-and-style.farm-homemade` · summary · verified
+
+> Home-made on the farm: Most farm women and children wore clothes made at home, while men bought most of theirs ready-made from store racks.
+
+- **Note:** Sources agree.
+- **Source:** [University of Northern Colorado, Hewit Center: Clothing (Colorado farmers and ranchers)](https://unco.edu/hewit/doing-history/colorado-farmers-ranchers/food-clothing-shelter/clothing.aspx) (reference, 2026-10-18)
+
+#### `world.1900.everyday.clothing-and-style.shirtwaist` · summary · verified
+
+> The shirtwaist: The tailored blouse called the shirtwaist, linked with the Gibson Girl look, could be bought ready-made for as little as 25 cents or as much as $7 in late-nineteenth-century catalogues.
+
+- **Note:** Sources agree.
+- **Source:** [ASU FIDM Museum: 1890s Shirtwaist](https://asufidmmuseum.asu.edu/index.php/learn/articles/1890s-shirtwaist) (reference, 2026-10-18)
+- **Source:** [Maine Memory Network: Historic clothing](https://historicclothing.mainememory.net/page/4834/print.html) (reference, 2026-10-18)
+
+#### `world.1900.everyday.food-and-kitchen.food-budget` · summary · verified
+
+> Half of every dollar: For a working-class family around the turn of the century, food was the largest item in the budget, roughly fifty cents of each dollar.
+
+- **Note:** Sources agree.
+- **Source:** [Katherine Leonard Turner, How the Other Half Ate: A History of Working-Class Meals at the Turn of the Century (University of California Press, 2014)](https://www.ucpress.edu/books/how-the-other-half-ate/hardcover) (reference, 2026-10-18)
+
+#### `world.1900.everyday.food-and-kitchen.icebox` · summary · verified
+
+> The icebox and the iceman: Foods were kept cool in a wooden icebox filled with a block of ice delivered to the door.
+
+- **Note:** Sources agree.
+- **Source:** [National Park Service: The Icebox, the Predecessor of Modern Refrigeration](https://home.nps.gov/articles/000/the-icebox-the-predecessor-of-modern-refrigeration.htm) (primary, 2026-10-18)
+
+#### `world.1900.everyday.food-and-kitchen.level-measures` · summary · verified
+
+> Recipes with exact measures: Fannie Farmer's 1896 Boston Cooking-School Cook Book popularised level cups and spoons, replacing a pinch or a teacup of this and that.
+
+- **Note:** Sources agree.
+- **Source:** [Encyclopaedia Britannica: Fannie Farmer](https://www.britannica.com/print/article/201948) (secondary, 2026-10-18)
+- **Source:** [Encyclopedia.com: Farmer, Fannie Merritt](https://www.encyclopedia.com/people/food-and-drink/food-and-cooking-biographies/fannie-merritt-farmer) (reference, 2026-10-18)
+
+#### `world.1900.everyday.food-and-kitchen.mill-breakfast` · summary · verified
+
+> A mill worker's breakfast: Textile workers in the Southern Piedmont ate fried pork with wheat biscuits or cornbread and molasses; in Massachusetts a mill hand might have the day before's beans and bread with coffee.
+
+- **Note:** Sources agree.
+- **Source:** [Katherine Leonard Turner, How the Other Half Ate (University of California Press, 2014)](https://www.ucpress.edu/books/how-the-other-half-ate/hardcover) (reference, 2026-10-18)
+
+#### `world.1900.everyday.getting-around.horsecars` · summary · verified
+
+> The end of the horsecar: Horsecars had been a fixture of American city streets from about 1860 to 1900, before electric trolleys replaced them.
+
+- **Note:** Sources agree.
+- **Source:** [Miami University Libraries: Horsecars, City Transit Before the Age of Electricity](https://spec.lib.miamioh.edu/wp-content/uploads/2013/02/Horse-Car-brochure-for-website.pdf) (reference, 2026-10-18)
+
+#### `world.1900.everyday.getting-around.streetcar-nickel` · summary · verified
+
+> The nickel streetcar: Five cents was the usual streetcar fare in cities such as Minneapolis-St. Paul and Cleveland.
+
+- **Note:** Sources agree.
+- **Source:** [Star Tribune: A few facts about Twin Cities trolleys](https://m.startribune.com/a-few-facts-about-twin-cities-trolleys/380828791/) (secondary, 2026-10-18)
+- **Source:** [Wikipedia: Streetcars in Cleveland](https://en.wikipedia.org/wiki/Streetcars_in_Cleveland) (reference, 2026-10-18)
+
+#### `world.1900.everyday.getting-around.twenty-hour` · summary · verified
+
+> The 20-hour train comes in 1902: New York to Chicago in 20 hours was not yet available in 1900; the Pennsylvania Special and the 20th Century Limited began it in June 1902.
+
+- **Note:** Sources agree.
+- **Source:** [American-Rails.com: Pennsylvania Railroad passenger trains](https://www.american-rails.com/prrpassenger.html) (secondary, 2026-10-18)
+- **Source:** [American-Rails.com: Pennsylvania Railroad's Pennsylvania Limited](https://www.american-rails.com/ptd.html) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.health-and-medicine.killers` · summary · verified
+
+> What people died of: Pneumonia and influenza, tuberculosis and diarrhoeal disease were the leading causes of death; with diphtheria they caused about a third of all deaths.
+
+- **Note:** Per-100,000 rates differ by source, so none is given.
+- **Source:** [Univ. of Illinois: 10 leading causes of death in 1900](https://cdn.citl.illinois.edu/courses/KIN122/week1/chapter1/web_data/file16.htm) (secondary, 2026-10-18)
+- **Source:** [CDC Preventing Chronic Disease: mortality analysis](https://cdc.gov/pcd/issues/2018/17_0284a.htm) (primary, 2026-10-18)
+
+#### `world.1900.everyday.health-and-medicine.typhoid-philadelphia` · summary · verified
+
+> Typhoid and the city water supply: Philadelphia lost more than 5,400 people to typhoid fever in the 1890s; a filtration system built from 1900 to 1910 largely ended it.
+
+- **Note:** Sources agree.
+- **Source:** [Encyclopedia of Greater Philadelphia: Typhoid Fever and Filtered Water](https://philadelphiaencyclopedia.org/?p=20268) (reference, 2026-10-18)
+- **Source:** [Population Reference Bureau: Clean Water's historic effect on U.S. mortality rates](https://www.prb.org/resources/clean-waters-historic-effect-on-u-s-mortality-rates-provides-hope-for-developing-countries) (reference, 2026-10-18)
+
+#### `world.1900.everyday.keeping-in-touch.postcard` · summary · verified
+
+> The one-cent postcard: Since 1898 a postcard could travel for one cent, half the letter rate.
+
+- **Note:** Sources agree.
+- **Source:** [U.S. House of Representatives History: Postcards](https://history.house.gov/Blog/2020/May/5-28_postcards/) (primary, 2026-10-18)
+
+#### `world.1900.everyday.leisure-and-fun.christmas-tree` · summary · verified
+
+> The Christmas tree: A freshly cut tree raised in the parlour on Christmas Eve and lit with candles had become a family custom, mostly with home-made ornaments.
+
+- **Note:** Sources agree.
+- **Source:** [Living History Farms: Gathered around the tree](https://www.lhf.org/2011/12/gathered-around-the-tree/) (reference, 2026-10-18)
+- **Source:** [Practical Preservation Services: History of the Holidays, Christmas trees](https://practicalpreservationservices.com/history-of-the-holidays-christmas-trees/) (secondary, 2026-10-18)
+
+#### `world.1900.everyday.leisure-and-fun.vaudeville` · summary · verified
+
+> A night at the vaudeville: Vaudeville bills mixed musicians, dancers, comedians, trained animals and magicians, and had become the first modern big business in entertainment.
+
+- **Note:** Sources agree.
+- **Source:** [New World Encyclopedia: Vaudeville](https://www.newworldencyclopedia.org/entry/Vaudeville) (reference, 2026-10-18)
+- **Source:** [Cambridge History of American Theatre: Popular entertainment](https://www.cambridge.org/core/books/cambridge-history-of-american-theatre/popular-entertainment/632DDAB52472028BDE9F497A74572BFF) (primary, 2026-10-18)
+
+#### `world.1900.everyday.school-and-childhood.compulsory` · summary · verified
+
+> Compulsory school laws: Most states had a compulsory-attendance law by 1900, though sources count between 29 and 34 and enforcement varied.
+
+- **Note:** The counts of states differ between sources (29, 32 and 34).
+- **Source:** [Reason: Compulsory Schooling (1971)](https://reason.com/1971/04/01/compulsory-schooling/) (secondary, 2026-10-18)
+- **Source:** [History of Education Quarterly: compulsory education and child labor laws and high school attendance in New York City, 1898-1917](https://cambridge.org/core/journals/history-of-education-quarterly/article/abs/effect-of-compulsory-education-and-child-labor-laws-on-high-school-attendance-in-new-york-city-18981917/C7034827B54B1AAB458EAC4B34737FBE) (primary, 2026-10-18)
+
+#### `world.1900.everyday.school-and-childhood.school-year` · summary · verified
+
+> The school year: The average school term was about 144 days, and a pupil attended about 99 of them.
+
+- **Note:** NCES gives 144.3 days (term), 99.0 days attended and 68.6 percent attending daily for 1899-1900; HSUS gives 143.7 and 98.0 for the year beginning 1900.
+- **Source:** [NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000](https://nces.ed.gov/programs/digest/d03/tables/dt036.asp) (primary, 2026-10-18)
+- **Source:** [Historical Statistics of the United States, Table Bc94-96: Public school attendance and term](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBc94-96.html) (primary, 2026-10-18)
+
+#### `world.1900.everyday.school-and-childhood.toys` · summary · verified
+
+> Toys: Children played with rag dolls, toy soldiers, doll furniture, tea sets and simple mechanical toys.
+
+- **Note:** Sources agree.
+- **Source:** [Rosenberg Library Museum: Toys, 1890s-1940s](https://www.rosenberg-library-museum.org/exhibits/toys-1890s-1940s) (reference, 2026-10-18)
+
+#### `world.1900.everyday.spotlight.benchmark-1940` · summary · verified
+
+> Forty years on: The 1940 census was the first to ask about home lighting and found 78.7 percent of occupied homes had electric light.
+
+- **Note:** Sources agree.
+- **Source:** [U.S. Census Bureau: History and the Census, Electricity](https://www.census.gov/about/history/stories/monthly/2026/september-2026.html) (primary, 2026-10-18)
+
+#### `world.1900.everyday.spotlight.electricians` · summary · verified
+
+> A new trade: The 1900 census was the first to count electricians as a separate occupation.
+
+- **Note:** Sources agree.
+- **Source:** [U.S. Census Bureau: History and the Census, Electricity](https://www.census.gov/about/history/stories/monthly/2026/september-2026.html) (primary, 2026-10-18)
+
+#### `world.1900.everyday.spotlight.kerosene` · summary · verified
+
+> The kerosene lamp: The kerosene lamp was the most important modern light source in 1900 and most widely used in the United States; electricity was comparatively unimportant for home lighting.
+
+- **Note:** Sources agree.
+- **Source:** [Business History Conference: The Global Supply of Lighting in 1900 (Leslie Hannah)](https://thebhc.org/node/939) (reference, 2026-10-18)
+
+#### `world.1900.everyday.spotlight.pearl-street` · summary · verified
+
+> Pearl Street, 1882: Edison's Pearl Street Station in New York began supplying 59 customers in 1882.
+
+- **Note:** Sources agree.
+- **Source:** [U.S. Census Bureau: History and the Census, Electricity](https://www.census.gov/about/history/stories/monthly/2026/september-2026.html) (primary, 2026-10-18)
+
+#### `world.1900.everyday.work-and-wages.child-workers` · summary · verified
+
+> Children at work: The census recorded more than 1.75 million children aged 10 to 15 as gainfully employed, about 18 percent of that age group.
+
+- **Note:** Sources agree.
+- **Source:** [University of Maryland, Gompers Papers: Children aged 10 to 15 engaged in gainful occupations (census data)](https://gompers.umd.edu/Census%20data.htm) (reference, 2026-10-18)
+- **Source:** [Carleton College Library: Census exhibit, Occupations and industry](https://www.carleton.edu/library-exhibitions/census/work/occupations-industry/) (reference, 2026-10-18)
+
+#### `world.1900.everyday.work-and-wages.factory-hours` · summary · verified
+
+> A factory week: A manufacturing wage earner worked well over fifty hours a week; estimates run from 55 to nearly 60.
+
+- **Note:** HSUS gives 55.0 actual hours; the Census of Manufactures-based figure is 59.6 (an estimate carried from the year before); the average legal maximum was 59.3 hours.
+- **Source:** [Robert Whaples, Hours of Work in U.S. History (EH.Net Encyclopedia)](https://eh.net/encyclopedia/hours-of-work-in-u-s-history/) (reference, 2026-10-18)
+- **Source:** [Historical Statistics of the United States, Table Ba4589-4591: Average weekly hours in manufacturing, 1900-1957](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4589-4591.html) (primary, 2026-10-18)
+
+#### `world.1900.everyday.work-and-wages.wash-day` · summary · verified
+
+> Monday was wash day: Household laundry was an all-day job, usually on Monday, with ironing on Tuesday; the day could shift with the weather.
+
+- **Note:** Sources agree.
+- **Source:** [Living History Farms: Blue Monday, wash day](https://www.lhf.org/2013/08/blue-monday-wash-day/) (reference, 2026-10-18)
+- **Source:** [University of Iowa DIY History: diary transcription, 1900](https://diyhistory.lib.uiowa.edu/transcribe/167/13887) (primary, 2026-10-18)
+
+### world/everyday · 1920
+
+#### `world.1920.everyday.by-the-numbers.cinema-attendance` · summary · unverifiable
+
+> A weekly trip to the pictures: About 38 million tickets a week were sold in 1920, against a population of 106 million.
+
+- **Note:** A secondary blog table. The official Historical Statistics series starts in 1922 at about 40 million a week.
+- **Source:** [Erik Lundegaard: Average weekly movie attendance for the last 100 years (citing George Lucas, Blockbusting)](https://eriklundegaard.com/item/box-office-stat-of-the-day-average-weekly-movie-attendance-for-the-last-100-years) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.by-the-numbers.telephone-households` · summary · unverifiable
+
+> Telephone in the house: More than a third of households had a telephone by the 1920s.
+
+- **Note:** A secondary paper says more than one third; a secondary page citing an FCC table says about 35 percent. The Historical Statistics table could not be read.
+- **Source:** [UBC ETEC 540: Multi-frequency signalling (paper on the telephone, 1920)](https://blogs.ubc.ca/etec540sept13/files/2013/10/Multi-frequency.pdf) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.by-the-numbers.urban-majority` · summary · unverifiable
+
+> A nation of towns: The 1920 census was the first in which more than half the population lived in places classed as urban, meaning 2,500 or more residents.
+
+- **Note:** Wikipedia states the first urban majority; an exact percentage was not found in a source we opened.
+- **Source:** [Wikipedia: 1920 United States census](https://en.wikipedia.org/wiki/1920_United_States_census) (reference, 2026-10-18)
+
+#### `world.1920.everyday.getting-around.model-t` · summary · unverifiable
+
+> The Model T: At its low prices the Model T at times made up as much as 40 percent of all cars sold in the United States.
+
+- **Note:** One source; the figure is a peak share, not specific to 1920.
+- **Source:** [Encyclopaedia Britannica: Model T](https://britannica.com/print/article/387041) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.health-and-medicine.death-rates` · summary · unverifiable
+
+> Influenza, pneumonia and tuberculosis: Influenza and pneumonia together killed 207.3 people per 100,000 and tuberculosis 113.1 in 1920, according to a table of Public Health Service series.
+
+- **Note:** One secondary table; rates differ between sources and by sex (a CDC analysis gives 276.1 for women).
+- **Source:** [VCU: Death rates by cause of death, 1900-2001](https://commed.vcu.edu/IntroPH/Introduction/deathrates_us.html) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.school-and-childhood.school-year` · summary · unverifiable
+
+> The school year: The average school term was 161.9 days, and a pupil attended 121.2 of them; three in four enrolled pupils were in school on a given day.
+
+- **Note:** One source (opened directly). In 1899-1900 the term was 144.3 days.
+- **Source:** [NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000](https://nces.ed.gov/programs/digest/d03/tables/dt036.asp) (primary, 2026-10-18)
+
+#### `world.1920.everyday.spotlight.election-1920` · summary · unverifiable
+
+> The first national vote with women: The presidential election of 2 November 1920 was the first in which women could vote in all 48 states; the popular vote rose from 18.5 million in 1916 to 26.8 million.
+
+- **Note:** One source; turnout is given as 49.2 percent in the same article.
+- **Source:** [Wikipedia: 1920 United States presidential election](https://en.wikipedia.org/wiki/1920_United_States_presidential_election) (reference, 2026-10-18)
+
+#### `world.1920.everyday.spotlight.suffrage-before` · summary · unverifiable
+
+> Women voters before 1920: Fifteen states had given women equal voting rights by 1918, so the amendment extended to the rest of the country a right many women already held.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: Nineteenth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution) (reference, 2026-10-18)
+
+#### `world.1920.everyday.work-and-wages.average-earnings` · summary · unverifiable
+
+> Average annual earnings: Across all non-farm employees a year's earnings averaged $1,426; across all employees, farm workers included, $1,342.
+
+- **Note:** One source (opened directly). The same series gives $483 and $418 for 1900; prices rose sharply in between, so compare with care.
+- **Source:** [Historical Statistics of the United States, Table Ba4280-4282: Daily and annual earnings of employees, 1860-1929](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4280-4282.html) (primary, 2026-10-18)
+
+#### `world.1920.everyday.work-and-wages.factory-hours` · summary · unverifiable
+
+> A factory week: A manufacturing worker averaged 48.1 hours a week, a railroad worker 48.0 and a coal miner 39.3.
+
+- **Note:** One source (opened directly). In 1900 the manufacturing figure was 55 (HSUS) to 59.6 (census estimate).
+- **Source:** [Historical Statistics of the United States, Table Ba4589-4591: Average weekly hours in manufacturing, 1900-1957](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4589-4591.html) (primary, 2026-10-18)
+
+#### `world.1920.everyday.by-the-numbers.motor-vehicles` · summary · verified
+
+> Motor vehicles: Registrations reached 9.24 million, of which 8.13 million were cars and 1.11 million trucks; in 1900 the figure was 8,000.
+
+- **Note:** Sources agree.
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+- **Source:** [FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations](https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf) (primary, 2026-10-18)
+
+#### `world.1920.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The 1920 census counted just over 106 million people, up 15 percent from 1910.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1920 United States census](https://en.wikipedia.org/wiki/1920_United_States_census) (reference, 2026-10-18)
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 1920](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1920.html) (primary, 2026-10-18)
+
+#### `world.1920.everyday.clothing-and-style.artificial-silk` · summary · verified
+
+> Jersey and artificial silk: Jersey and artificial silk made fashionable styles cheaper, and cotton and linen were common in girls' dresses.
+
+- **Note:** Sources agree.
+- **Source:** [Fashion History Timeline (FIT): 1920-1929](https://fashionhistory.fitnyc.edu/1920-1929/) (reference, 2026-10-18)
+
+#### `world.1920.everyday.clothing-and-style.bob-cloche` · summary · verified
+
+> The bob and the cloche: Many women wore a bob, a haircut that appeared early in the decade, and the close-fitting cloche hat suited the short styles.
+
+- **Note:** Sources agree.
+- **Source:** [Fashion History Timeline (FIT): 1920-1929](https://fashionhistory.fitnyc.edu/1920-1929/) (reference, 2026-10-18)
+
+#### `world.1920.everyday.clothing-and-style.dresses` · summary · verified
+
+> Lower waists: Waistlines dropped until 1923 and hemlines rose until 1926, before both turned.
+
+- **Note:** Both sources agree that hemlines peaked around 1926; they differ on how high.
+- **Source:** [Fashion History Timeline (FIT): 1920-1929](https://fashionhistory.fitnyc.edu/1920-1929/) (reference, 2026-10-18)
+- **Source:** [Vogue Philippines: 1920s fashion history lesson](https://vogue.ph/fashion/1920s-fashion-history-lesson/) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.clothing-and-style.home-sewing` · summary · verified
+
+> Copying fashion at home: Simple styles could be copied at home with patterns and cheaper materials, and department stores supplied both, so fashion reached women of all means.
+
+- **Note:** Sources agree.
+- **Source:** [Fashion History Timeline (FIT): 1920-1929](https://fashionhistory.fitnyc.edu/1920-1929/) (reference, 2026-10-18)
+
+#### `world.1920.everyday.clothing-and-style.soft-collars` · summary · verified
+
+> Soft collars for men: Men's day wear moved away from starched collars and three-piece suits to soft collars and one- or two-button jackets, and sportswear became acceptable for everyday.
+
+- **Note:** Sources agree.
+- **Source:** [Fashion History Timeline (FIT): 1920-1929](https://fashionhistory.fitnyc.edu/1920-1929/) (reference, 2026-10-18)
+
+#### `world.1920.everyday.food-and-kitchen.chicken-a-la-king` · summary · verified
+
+> Dinner at home: A typical home dinner of the 1920s was chicken a la king with vegetables and a salad, finished with icebox cake, devil's food cake or pineapple upside-down cake.
+
+- **Note:** Describes the 1920s generally.
+- **Source:** [The Saturday Evening Post: What We Ate 100 Years Ago](https://www.saturdayeveningpost.com/2024/09/what-we-ate-100-years-ago/) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.food-and-kitchen.cocktail-party` · summary · verified
+
+> The cocktail party at home: Cocktail parties at home became fashionable and popularised finger foods: lobster canapés, caviar rolls, crabmeat cocktails, oyster toast, devilled eggs and savory cheese balls.
+
+- **Note:** Sources agree.
+- **Source:** [History.com: Prohibition, speakeasies and finger foods](https://history.com/news/prohibition-speakeasies-and-finger-foods) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.food-and-kitchen.jello-salad` · summary · verified
+
+> Lunch with a jellied salad: Lunch was salads, sandwiches and soup, and creative cooks served Jell-O salads on lettuce, with celery, cabbage, cottage cheese or fruit cocktail set in the lime gelatin.
+
+- **Note:** Describes the 1920s generally.
+- **Source:** [The Saturday Evening Post: What We Ate 100 Years Ago](https://www.saturdayeveningpost.com/2024/09/what-we-ate-100-years-ago/) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.food-and-kitchen.light-breakfast` · summary · verified
+
+> A lighter breakfast: Breakfast shifted from heavy meat and potatoes to an egg, toast and a processed cereal such as Corn Flakes, on sale since 1898.
+
+- **Note:** Describes the 1920s generally.
+- **Source:** [The Saturday Evening Post: What We Ate 100 Years Ago](https://www.saturdayeveningpost.com/2024/09/what-we-ate-100-years-ago/) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.food-and-kitchen.speakeasy-snacks` · summary · verified
+
+> Snacks at the speakeasy: After Prohibition began, speakeasies served bite-sized snacks such as canapés, crab cakes and deviled eggs instead of heavy meals; by 1925 tens of thousands had opened in New York City alone.
+
+- **Note:** Both sources describe the Prohibition years (1920-33); the 1925 count is the History.com figure.
+- **Source:** [History.com: Prohibition, speakeasies and finger foods](https://history.com/news/prohibition-speakeasies-and-finger-foods) (secondary, 2026-10-18)
+- **Source:** [The Saturday Evening Post: What We Ate 100 Years Ago](https://www.saturdayeveningpost.com/2024/09/what-we-ate-100-years-ago/) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.keeping-in-touch.kdka` · summary · verified
+
+> The first scheduled broadcast: KDKA in Pittsburgh began regular broadcasting on 2 November 1920 with the Harding-Cox election returns, on the air from 6 p.m. until noon the next day.
+
+- **Note:** Other experimental stations had broadcast earlier; sources call KDKA the first with a regular schedule.
+- **Source:** [ETHW: Milestones, Westinghouse Radio Station KDKA, 1920](https://ethw.org/Milestones:Westinghouse_Radio_Station_KDKA,_1920) (reference, 2026-10-18)
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 1920](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1920.html) (primary, 2026-10-18)
+
+#### `world.1920.everyday.keeping-in-touch.letter-rate` · summary · verified
+
+> Two cents again: The first-class letter rate, raised to 3 cents on 2 November 1917 as a temporary tax, went back to 2 cents on 30 June 1919.
+
+- **Note:** The 1917 increase was a World War I revenue measure. Sources date the reduction to 30 June 1919, so a first-class letter was 2 cents in 1920.
+- **Source:** [Wikipedia: War tax stamp](https://en.wikipedia.org/wiki/War_tax_stamp) (reference, 2026-10-18)
+- **Source:** [Mystic Stamp Company: Mail during World War I](https://info.mysticstamp.com/this-day-in-history-november-2-1917/) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.leisure-and-fun.speakeasies` · summary · verified
+
+> Drinking underground: Prohibition drove drinking into illegal speakeasies in small towns and cities, from drab basements to upscale restaurants such as the 21 Club.
+
+- **Note:** Sources agree.
+- **Source:** [History.com: Prohibition, speakeasies and finger foods](https://history.com/news/prohibition-speakeasies-and-finger-foods) (secondary, 2026-10-18)
+
+#### `world.1920.everyday.spotlight.eighteenth` · summary · verified
+
+> Prohibition takes effect: The Eighteenth Amendment was ratified on 16 January 1919 when Nebraska became the 36th state, and took effect on 17 January 1920.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Eighteenth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution) (reference, 2026-10-18)
+- **Source:** [Smithsonian Institution: 1920, a year in the collections](https://www.si.edu/spotlight/1920) (reference, 2026-10-18)
+
+#### `world.1920.everyday.spotlight.nineteenth` · summary · verified
+
+> The vote for women: The Nineteenth Amendment was ratified on 18 August 1920 when Tennessee became the 36th state, and proclaimed by the Secretary of State on 26 August.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Nineteenth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution) (reference, 2026-10-18)
+- **Source:** [National Archives: Constitutional Amendments series, Amendment XIX](https://reagan.blogs.archives.gov/category/constitutional-amendments/page/2) (primary, 2026-10-18)
+
+#### `world.1920.everyday.spotlight.volstead` · summary · verified
+
+> The Volstead Act: Congress passed the Volstead Act on 28 October 1919, overriding President Wilson's veto; it defined an intoxicating drink as one with 0.5 percent alcohol or more.
+
+- **Note:** Sources agree.
+- **Source:** [TribLive: Timeline of events important to Prohibition](https://naviga.triblive.com/local/regional/timeline-of-events-important-to-prohibition) (secondary, 2026-10-18)
+- **Source:** [History.com: Prohibition, speakeasies and finger foods](https://history.com/news/prohibition-speakeasies-and-finger-foods) (secondary, 2026-10-18)
+
+### world/everyday · 1930
+
+#### `world.1930.everyday.by-the-numbers.unemployment` · summary · unverifiable
+
+> Out of work: Unemployment averaged 8.9 percent in 1930; one source counts 3.2 million jobless and another 4.3 million.
+
+- **Note:** Both are secondary and they disagree on the count (3.2 and 4.3 million); the Historical Statistics unemployment series was not opened.
+- **Source:** [Shmoop: The Great Depression timeline](https://www.shmoop.com/study-guides/great-depression/timeline.html) (secondary, 2026-10-18)
+- **Source:** [University of M'sila (Algeria) e-learning: The Great Depression](https://elearning.univ-msila.dz/moodle/mod/resource/view.php?id=51667) (secondary, 2026-10-18)
+
+#### `world.1930.everyday.getting-around.trucks-buses` · summary · unverifiable
+
+> Trucks and buses: Besides 23 million cars, the roads carried 3.67 million trucks and 40,500 buses.
+
+- **Note:** One source (opened directly).
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+
+#### `world.1930.everyday.keeping-in-touch.amos-andy` · summary · unverifiable
+
+> Amos 'n' Andy: The fifteen-minute radio serial Amos 'n' Andy topped the national ratings in 1930-31 and 1931-32.
+
+- **Note:** One source, read through a search summary.
+- **Source:** [Encyclopedia.com: 1930s TV and radio](https://encyclopedia.com/history/culture-magazines/1930s-tv-and-radio) (reference, 2026-10-18)
+
+#### `world.1930.everyday.keeping-in-touch.evening-listening` · summary · unverifiable
+
+> A family affair: Radio listening was largely a family affair, mostly in the evening.
+
+- **Note:** One source; the study's date is not stated.
+- **Source:** [Museum of Broadcast Communications: Radio audience](https://museum.tv/radio-encyclopedia/audience) (reference, 2026-10-18)
+
+#### `world.1930.everyday.school-and-childhood.school-year` · summary · unverifiable
+
+> The school year: The average school term was 172.7 days and a pupil attended 143.0 of them; 82.8 percent of enrolled pupils were present on a given day.
+
+- **Note:** One source (opened directly); 161.9 days in 1919-20.
+- **Source:** [NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000](https://nces.ed.gov/programs/digest/d03/tables/dt036.asp) (primary, 2026-10-18)
+
+#### `world.1930.everyday.spotlight.clothes-spending` · summary · unverifiable
+
+> Spending on clothes halves: National spending on clothing, accessories and jewellery fell from $11.2 billion in 1929 to $5.4 billion in 1933.
+
+- **Note:** One source; the figures are for 1929 and 1933, not 1930.
+- **Source:** [The Saturday Evening Post: Common threads, how Depression-era women turned feed sacks into fashion](https://www.saturdayeveningpost.com/2024/07/common-threads-how-depression-era-women-turned-feed-sacks-into-fashion/) (secondary, 2026-10-18)
+
+#### `world.1930.everyday.spotlight.jobless` · summary · unverifiable
+
+> The jobless: Unemployment averaged about 8.9 percent in 1930, and sources count between 3.2 and 4.3 million people out of work.
+
+- **Note:** Linked to the figure in The year in numbers; not a separate count.
+- **Source:** [Shmoop: The Great Depression timeline](https://www.shmoop.com/study-guides/great-depression/timeline.html) (secondary, 2026-10-18)
+
+#### `world.1930.everyday.spotlight.radio-lifeline` · summary · unverifiable
+
+> Radio before the icebox: Social workers observed that some poor families would give up their iceboxes before they gave up their radios.
+
+- **Note:** One source, read through a search summary.
+- **Source:** [Encyclopedia.com: 1930s TV and radio](https://encyclopedia.com/history/culture-magazines/1930s-tv-and-radio) (reference, 2026-10-18)
+
+#### `world.1930.everyday.work-and-wages.factory-hours` · summary · unverifiable
+
+> A factory week: A manufacturing worker averaged 43.6 hours a week, a railroad worker 42.9 and a coal miner 33.3.
+
+- **Note:** One source (opened directly); 48.1 in 1920.
+- **Source:** [Historical Statistics of the United States, Table Ba4589-4591: Average weekly hours in manufacturing, 1900-1957](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4589-4591.html) (primary, 2026-10-18)
+
+#### `world.1930.everyday.by-the-numbers.motor-vehicles` · summary · verified
+
+> Motor vehicles: Registrations reached 26.7 million: 23.0 million cars, 3.7 million trucks and 40,500 buses.
+
+- **Note:** Sources agree.
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+- **Source:** [FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations](https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf) (primary, 2026-10-18)
+
+#### `world.1930.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The 1930 census counted 123.2 million people, 16.2 percent more than in 1920 and 34.7 to the square mile.
+
+- **Note:** The Census Bureau's facts page gives 123,202,624; Wikipedia's article gives 122,775,046 for the resident population of the 48 states. The first is used.
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 1930](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1930.html) (primary, 2026-10-18)
+- **Source:** [Wikipedia: 1930 United States census](https://en.wikipedia.org/wiki/1930_United_States_census) (reference, 2026-10-18)
+
+#### `world.1930.everyday.by-the-numbers.radio-homes` · summary · verified
+
+> Radio in the home: About 40 percent of households had at least one radio in April 1930, ranging from 63 percent of homes in New Jersey to 5 percent in Mississippi.
+
+- **Note:** Sources agree.
+- **Source:** [National Archives, Prologue: The 1930 census](https://www.archives.gov/publications/prologue/2002/spring/1930-census-1) (primary, 2026-10-18)
+- **Source:** [Museum of Broadcast Communications: Radio audience](https://museum.tv/radio-encyclopedia/audience) (reference, 2026-10-18)
+
+#### `world.1930.everyday.clothing-and-style.catalogue-accessories` · summary · verified
+
+> Glamour on a budget: Cheap but glamorous accessories such as diamanté clips, bracelets and brooches were sold to budget-conscious women through catalogues, and hemlines stayed long despite the Depression.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1930s in Western fashion](https://en.wikipedia.org/wiki/1930s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1930.everyday.clothing-and-style.feed-sacks` · summary · verified
+
+> Dresses from feed sacks: Cotton feed sacks became free fabric for poor families, and women traded them; by the 1920s and 1930s manufacturers printed patterned and coloured sacks for home seamstresses.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Feed sack dress](https://en.wikipedia.org/wiki/Feed_sack_dress) (reference, 2026-10-18)
+- **Source:** [The Saturday Evening Post: Common threads, how Depression-era women turned feed sacks into fashion](https://www.saturdayeveningpost.com/2024/07/common-threads-how-depression-era-women-turned-feed-sacks-into-fashion/) (secondary, 2026-10-18)
+- **Source:** [Piecework Magazine: Make do, feed sack fashion in the first half of the twentieth century](https://pieceworkmagazine.com/make-do-feed-sack-fashion-in-the-first-half-of-the-twentieth-century/) (secondary, 2026-10-18)
+
+#### `world.1930.everyday.clothing-and-style.garbo-hat` · summary · verified
+
+> The year of the hat: A hat Adrian designed for Greta Garbo in the 1930 film Romance set off a nationwide buying craze, and Vogue called 1931 the Great Hat Year as tight cloches gave way to other shapes.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1930s in Western fashion](https://en.wikipedia.org/wiki/1930s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1930.everyday.clothing-and-style.mending` · summary · verified
+
+> Patching and darning: Patches, darning and other mending extended the life of clothes, and households focused on durable, practical wardrobes.
+
+- **Note:** Sources agree.
+- **Source:** [The Saturday Evening Post: Common threads, how Depression-era women turned feed sacks into fashion](https://www.saturdayeveningpost.com/2024/07/common-threads-how-depression-era-women-turned-feed-sacks-into-fashion/) (secondary, 2026-10-18)
+- **Source:** [Piecework Magazine: Make do, feed sack fashion in the first half of the twentieth century](https://pieceworkmagazine.com/make-do-feed-sack-fashion-in-the-first-half-of-the-twentieth-century/) (secondary, 2026-10-18)
+
+#### `world.1930.everyday.clothing-and-style.white-for-black` · summary · verified
+
+> White for black: In June 1931 Vogue observed that white had replaced black as the favoured shade for evening and formal day wear.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1930s in Western fashion](https://en.wikipedia.org/wiki/1930s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1930.everyday.food-and-kitchen.sliced-bread` · summary · verified
+
+> Sliced bread goes national: Wonder Bread was marketing sliced bread nationwide by 1930, two years after a Missouri bakery first sold it on 7 July 1928.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Sliced bread](https://en.wikipedia.org/wiki/Sliced_bread) (reference, 2026-10-18)
+- **Source:** [Smithsonian National Museum of American History: sliced bread object record](https://www.si.edu/object/nmah_1317263) (primary, 2026-10-18)
+
+#### `world.1930.everyday.food-and-kitchen.soup-kitchens` · summary · verified
+
+> Soup kitchens: Cities fell back on the cheapest relief, soup kitchens giving free meals to anyone who turned up, and unemployed men queued outside them in Chicago in 1931.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Great Depression in the United States](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1930.everyday.keeping-in-touch.painted-dreams` · summary · verified
+
+> The first daytime serial: Painted Dreams, which premiered on WGN on 20 October 1930, is generally considered the first daytime serial drama on radio.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Golden Age of Radio](https://en.wikipedia.org/wiki/Golden_Age_of_Radio) (reference, 2026-10-18)
+
+#### `world.1930.everyday.spotlight.bank-crisis` · summary · verified
+
+> The first banking crisis: Rural banks began failing in October 1930 after farmers defaulted on loans, and over 800 banks had closed by January 1931.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Great Depression in the United States](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1930.everyday.work-and-wages.wage-cuts` · summary · verified
+
+> Wages hold, then fall: President Hoover urged businesses to keep wage rates high, and it was not until 1931 that owners began cutting wages to stay afloat.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Great Depression in the United States](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) (reference, 2026-10-18)
+
+### world/everyday · 1945
+
+#### `world.1945.everyday.by-the-numbers.penicillin-output` · summary · unverifiable
+
+> Penicillin output: By June 1945 over 646 billion units of penicillin a year were being produced.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: Penicillin](https://en.wikipedia.org/wiki/Penicillin) (reference, 2026-10-18)
+
+#### `world.1945.everyday.by-the-numbers.real-wages` · summary · unverifiable
+
+> Wages over the war years: Real wages rose 44 percent and average weekly earnings about 70 percent over the four war years.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.by-the-numbers.victory-gardens` · summary · unverifiable
+
+> Victory gardens: By May 1943 there were 18 million victory gardens, 12 million in cities and suburbs and 6 million on farms.
+
+- **Note:** One source (Wikipedia, opened directly); the figure is for 1943.
+- **Source:** [Wikipedia: Victory garden](https://en.wikipedia.org/wiki/Victory_garden) (reference, 2026-10-18)
+
+#### `world.1945.everyday.by-the-numbers.women-labour` · summary · unverifiable
+
+> Women in the labour force: The female labour force grew from 14.2 million in 1940 to 19.3 million in 1945, 29.2 percent of the total.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.health-and-medicine.penicillin-1944` · summary · unverifiable
+
+> Millions of doses by 1944: Research on fermentation let the United States produce 2.3 million doses of penicillin by spring 1944, and a mouldy cantaloupe from a Peoria market yielded the strain used.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: Penicillin](https://en.wikipedia.org/wiki/Penicillin) (reference, 2026-10-18)
+
+#### `world.1945.everyday.health-and-medicine.penicillin-public` · summary · unverifiable
+
+> Penicillin for everyone: Penicillin was made available to the general public in the United States on 15 March 1945.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: Penicillin](https://en.wikipedia.org/wiki/Penicillin) (reference, 2026-10-18)
+
+#### `world.1945.everyday.work-and-wages.factory-hours` · summary · unverifiable
+
+> A factory week: A manufacturing worker averaged 42.4 hours a week, a railroad worker 46.4 and a coal miner 38.4.
+
+- **Note:** One source (opened directly); 43.6 in 1930.
+- **Source:** [Historical Statistics of the United States, Table Ba4589-4591: Average weekly hours in manufacturing, 1900-1957](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4589-4591.html) (primary, 2026-10-18)
+
+#### `world.1945.everyday.by-the-numbers.motor-vehicles` · summary · verified
+
+> Motor vehicles: Registrations stood at 31.0 million (25.8 million cars, 5.1 million trucks), only 4.3 million more than in 1930 as new cars were not built for civilians.
+
+- **Note:** Sources agree.
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+- **Source:** [FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations](https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf) (primary, 2026-10-18)
+
+#### `world.1945.everyday.clothing-and-style.american-look` · summary · verified
+
+> The American Look: Dorothy Shaver trademarked 'The American Look' in 1945, and designer Claire McCardell predicted rounder shoulders and fuller skirts to come.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1940s in Western fashion](https://en.wikipedia.org/wiki/1940s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1945.everyday.clothing-and-style.fighting-red` · summary · verified
+
+> Lipstick as morale: Lipstick was promoted as a morale builder, in shades such as 'Fighting Red' and 'Jeep Red'.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1940s in Western fashion](https://en.wikipedia.org/wiki/1940s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1945.everyday.clothing-and-style.headscarves` · summary · verified
+
+> Turbans and snoods in the factory: Snoods, turbans and headscarves were popular partly for safety at the factory, where long hair could catch in machinery.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1940s in Western fashion](https://en.wikipedia.org/wiki/1940s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1945.everyday.clothing-and-style.l85` · summary · verified
+
+> Order L-85: From 8 April 1942 General Limitation Order L-85 limited fabric: wool jackets could be no longer than 25 inches, skirts no longer than 28 inches with 2-inch hems.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1940s in Western fashion](https://en.wikipedia.org/wiki/1940s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1945.everyday.clothing-and-style.nylon-gone` · summary · verified
+
+> No stockings, so leg makeup: Nylon was short by October 1942 and virtually unobtainable by 1943, so women wore wool, cotton or rayon stockings or painted on leg makeup, drawing seams with eye pencil.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1940s in Western fashion](https://en.wikipedia.org/wiki/1940s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1945.everyday.clothing-and-style.victory-suit` · summary · verified
+
+> The Victory suit: Men's Victory suits had no patch pockets, trouser cuffs or pleats, double-breasted suits lost their vests, and jackets had a maximum length.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1940s in Western fashion](https://en.wikipedia.org/wiki/1940s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1945.everyday.food-and-kitchen.coffee` · summary · verified
+
+> Coffee rationed: From 29 November 1942 coffee was rationed to one pound every five weeks, about half of normal consumption.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1945.everyday.food-and-kitchen.cooking-fat` · summary · verified
+
+> Saving cooking fat: Families saved used cooking fat to be made into soap, one of the household's contributions to scrap and salvage drives.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.food-and-kitchen.points-foods` · summary · verified
+
+> Red stamps and blue stamps: Red stamps rationed meat and butter and blue stamps processed foods; by November 1943 meat, lard, cheese, butter, margarine, canned goods, dried fruit, jams and canned milk were all rationed.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1945.everyday.food-and-kitchen.sugar-book` · summary · verified
+
+> Sugar by the book: Sugar sales stopped on 27 April 1942 and restarted on 5 May at half a pound per person per week, about half of normal use, against War Ration Book One, the 'Sugar Book', issued from 4 May.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1945.everyday.food-and-kitchen.victory-gardens-third` · summary · verified
+
+> Grow your own, can your own: About one third of the vegetables produced in the United States came from victory gardens, and a poll found 54 percent of Americans gardened for economic reasons and 20 percent out of patriotism.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Victory garden](https://en.wikipedia.org/wiki/Victory_garden) (reference, 2026-10-18)
+
+#### `world.1945.everyday.getting-around.gas-stickers` · summary · verified
+
+> A, B and X: Gasoline stickers ranked drivers by priority: an A sticker meant 3 to 4 gallons a week, a B up to 8, and an X unlimited.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1945.everyday.getting-around.home-delivery` · summary · verified
+
+> Deliveries stop: Stores that had delivered goods to the door mostly stopped, because of labour shortages and gasoline and tire rationing.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.getting-around.no-new-cars` · summary · verified
+
+> No new cars: Civilian car sales were halted on 1 January 1942 and sightseeing and pleasure driving were banned, so many Americans rode bicycles.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.getting-around.speed-limit` · summary · verified
+
+> Thirty-five miles an hour: A national 35 mph limit saved fuel and rubber; a January 1942 Public Roads study found tires lasted four times as long at 35 mph as at 65.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.school-and-childhood.emic` · summary · verified
+
+> Care for newborns: The EMIC programme gave free maternity and infant care to about 1.2 million wives and children of enlisted men in the four lowest pay grades, and home births fell sharply as more mothers had paid hospital care.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.school-and-childhood.scrap-drives` · summary · verified
+
+> Children's scrap drives: Children peeled aluminium foil from gum wrappers into balls, collected rubber bands and gathered milkweed, said to be for life jackets.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.spotlight.coupons-end-1942` · summary · verified
+
+> What took coupons: By the end of 1942 coupons covered typewriters, gasoline, bicycles, shoes, rubber footwear, silk, nylon, fuel oil and stoves.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1945.everyday.spotlight.housing` · summary · verified
+
+> Doubling up: In industrial areas families doubled up in cramped quarters, and the shortage of housing, because non-military building had stopped, lasted until about 1949.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.spotlight.ration-books` · summary · verified
+
+> A book for every person: Each member of a household, babies included, received a ration book, issued through some 5,500 mostly volunteer local ration boards.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1945.everyday.spotlight.rationing-ends` · summary · verified
+
+> Rationing ends: The OPA stopped printing 1946 ration books on 13 August 1945; most rationing ended that August, though sugar continued in some areas into 1946.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1945.everyday.spotlight.stamps-tokens` · summary · verified
+
+> Stamps and wooden tokens: Most stamps did not name the goods or amount, which local newspapers announced; red and blue tokens made of compressed wood fibre were given as change because metal was scarce.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Rationing in the United States](https://en.wikipedia.org/wiki/Rationing_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1945.everyday.work-and-wages.median-income` · summary · verified
+
+> Pay before the war: In 1941 the median income was $2,000 a year and 8 million workers earned less than the legal minimum.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.work-and-wages.overtime` · summary · verified
+
+> Overtime and untaxed benefits: Overtime paid time and a half, wages were controlled, and employers offered untaxed benefits such as vacation, pensions and health insurance.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.work-and-wages.rosie` · summary · verified
+
+> Women's jobs open and close: Manufacturing employed more than 2.5 million additional women by 1944, a 140 percent rise; by 1946 women's employment was about 87 percent of the 1944 level as returning veterans took back jobs.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+#### `world.1945.everyday.work-and-wages.ten-percent` · summary · verified
+
+> The Ten Percent Club: Workers were urged to put at least 10 percent of every pay packet into war bonds, which cost three quarters of face value; factories with more than 90 percent taking part flew a 'Minuteman' flag.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: American home front during World War II](https://en.wikipedia.org/wiki/American_home_front_during_World_War_II) (reference, 2026-10-18)
+
+### world/everyday · 1960
+
+#### `world.1960.everyday.by-the-numbers.fertility` · summary · unverifiable
+
+> Births per woman: The fertility rate was 3.65 births per woman, near the peak of the baby boom.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Fertility rate, total (births per woman)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.1960.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 26 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.1960.everyday.by-the-numbers.urban-share` · summary · unverifiable
+
+> Town and city: About 70 percent of Americans lived in urban areas.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Urban population (% of total)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.1960.everyday.school-and-childhood.school-year` · summary · unverifiable
+
+> The school year: The average school term was 178.0 days, a pupil attended 160.2 of them, and 90 percent of enrolled pupils were present on a given day.
+
+- **Note:** One source (opened directly); 172.7 days in 1929-30.
+- **Source:** [NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000](https://nces.ed.gov/programs/digest/d03/tables/dt036.asp) (primary, 2026-10-18)
+
+#### `world.1960.everyday.work-and-wages.factory-weekly` · summary · unverifiable
+
+> A manufacturing paycheque: A production worker in manufacturing earned $2.26 an hour, or $89.72 a week, on average; in durable goods $97.44 and in non-durable goods $80.36.
+
+- **Note:** One source (opened directly).
+- **Source:** [Historical Statistics of the United States, Table Ba4361-4366: Hourly and weekly earnings of production workers in manufacturing, 1909-1995](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4361-4366.html) (primary, 2026-10-18)
+
+#### `world.1960.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A baby born in 1960 could expect to live nearly 70 years.
+
+- **Note:** World Bank 69.8, Our World in Data 69.8; both draw on UN estimates.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `world.1960.everyday.by-the-numbers.motor-vehicles` · summary · verified
+
+> Motor vehicles: Registrations reached 73.9 million: 61.7 million cars, 11.9 million trucks and 272,000 buses.
+
+- **Note:** Sources agree.
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+- **Source:** [FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations](https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf) (primary, 2026-10-18)
+
+#### `world.1960.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The 1960 census counted 179.3 million people, 50.6 to the square mile.
+
+- **Note:** The census count is for 1 April; World Bank and Our World in Data mid-year estimates are 180.7 and 180.3 million.
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 1960](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1960.html) (primary, 2026-10-18)
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+
+#### `world.1960.everyday.clothing-and-style.bouffant` · summary · verified
+
+> Bouffant and beehive: Bouffant hair dominated, with beehives early in the decade, and pumps with lower heels and squared toes were the usual shoe.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960s in Western fashion](https://en.wikipedia.org/wiki/1960s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1960.everyday.clothing-and-style.casual` · summary · verified
+
+> Plaid shirts and blue jeans: Teens and casual wearers favoured plaid button-down shirts with slim blue jeans, and capri pants and stretch ski pants appeared.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960s in Western fashion](https://en.wikipedia.org/wiki/1960s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1960.everyday.clothing-and-style.pillbox` · summary · verified
+
+> The pillbox hat: The pillbox hat was popularised largely through Jacqueline Kennedy, who favoured tailored suits and long gloves.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960s in Western fashion](https://en.wikipedia.org/wiki/1960s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1960.everyday.clothing-and-style.shift-dress` · summary · verified
+
+> The shift dress: Simple knee-length shift dresses were in style, while André Courrèges began experimenting with hemlines in the early 1960s.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960s in Western fashion](https://en.wikipedia.org/wiki/1960s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1960.everyday.clothing-and-style.slim-suits` · summary · verified
+
+> Slim continental suits: By 1962 slim, single-breasted continental suits and skinny ties, often in grey flannel, mohair or sharkskin, were fashionable in the United States and Britain; Pierre Cardin showed collarless suits in 1960.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960s in Western fashion](https://en.wikipedia.org/wiki/1960s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1960.everyday.clothing-and-style.synthetics` · summary · verified
+
+> Wrinkle-free fabrics: Nylon, orlon and terylene were promoted as cheap and wrinkle-free.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960s in Western fashion](https://en.wikipedia.org/wiki/1960s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1960.everyday.food-and-kitchen.dessert-tray` · summary · verified
+
+> A tray with dessert: In 1960 Swanson added desserts such as apple cobbler and brownies to a new four-compartment tray, and Banquet and Morton also began selling frozen dinners.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: TV dinner](https://en.wikipedia.org/wiki/TV_dinner) (reference, 2026-10-18)
+
+#### `world.1960.everyday.food-and-kitchen.domino` · summary · verified
+
+> The first Domino's: The first Domino's Pizza opened in Ypsilanti, Michigan, on 9 December 1960.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.getting-around.boynton` · summary · verified
+
+> Boynton v. Virginia: On 5 December 1960 the Supreme Court ruled in Boynton v. Virginia that segregation in public transit was illegal.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.health-and-medicine.enovid` · summary · verified
+
+> The pill is approved: On 9 May 1960 the FDA announced approval of Searle's Enovid for contraception, the first oral contraceptive pill.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.leisure-and-fun.debate` · summary · verified
+
+> The first televised debate: Richard Nixon and John F. Kennedy held the first televised presidential debate on 26 September 1960.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.leisure-and-fun.flintstones` · summary · verified
+
+> The Flintstones: The Flintstones aired its first episode on ABC on 30 September 1960.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.leisure-and-fun.oz-rerun` · summary · verified
+
+> The annual Wizard of Oz: CBS reran The Wizard of Oz on 11 December 1960, a year after its previous telecast, starting the tradition of annual showings.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.leisure-and-fun.psycho` · summary · verified
+
+> A trip to see Psycho: Alfred Hitchcock's Psycho was released on 16 June 1960 and Ben-Hur won eleven Academy Awards that April.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.leisure-and-fun.world-series` · summary · verified
+
+> A walk-off in the World Series: The Pittsburgh Pirates beat the New York Yankees in Game 7 of the World Series on 13 October 1960 on Bill Mazeroski's home run.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.school-and-childhood.ruby-bridges` · summary · verified
+
+> Desegregating the first grade: On 14 November 1960 Ruby Bridges and the three girls known as the McDonogh Three became the first Black children to attend an all-white elementary school in Louisiana.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1960 in the United States](https://en.wikipedia.org/wiki/1960_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1960.everyday.spotlight.cities-shrink` · summary · verified
+
+> Big cities lose people: Between the 1960 and 1970 censuses Detroit fell from 1,670,144 to 1,511,482, Cleveland from 876,050 to 750,903, Chicago from 3,550,404 to 3,366,957 and New York from 8,175,133 to 7,894,862.
+
+- **Note:** The census pages list the ten largest places; they do not give reasons for the fall.
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 1960](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1960.html) (primary, 2026-10-18)
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 1970](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1970.html) (primary, 2026-10-18)
+
+#### `world.1960.everyday.spotlight.tv-dinner` · summary · verified
+
+> The TV dinner: Swanson's TV dinner, developed in 1953 and first sold for 98 cents, was a turkey, cornbread-stuffing, peas and sweet-potato meal with each food in its own compartment.
+
+- **Note:** One source; the 1953 date and 98-cent price are from Wikipedia.
+- **Source:** [Wikipedia: TV dinner](https://en.wikipedia.org/wiki/TV_dinner) (reference, 2026-10-18)
+
+### world/everyday · 1970
+
+#### `world.1970.everyday.by-the-numbers.fertility` · summary · unverifiable
+
+> Births per woman: The fertility rate was 2.48 births per woman, down from 3.65 in 1960.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Fertility rate, total (births per woman)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.1970.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 20 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.1970.everyday.by-the-numbers.urban-share` · summary · unverifiable
+
+> Town and city: About 73.5 percent of Americans lived in urban areas.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Urban population (% of total)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.1970.everyday.school-and-childhood.school-year` · summary · unverifiable
+
+> The school year: The average school term was 178.9 days, a pupil attended 161.7 of them, and 90.4 percent of enrolled pupils were present on a given day.
+
+- **Note:** One source (opened directly); 178.0 days in 1959-60.
+- **Source:** [NCES Digest of Education Statistics 2003, Table 36: school term and attendance, 1869-70 to 1999-2000](https://nces.ed.gov/programs/digest/d03/tables/dt036.asp) (primary, 2026-10-18)
+
+#### `world.1970.everyday.spotlight.schools` · summary · unverifiable
+
+> Schools join in: More than 10,000 primary and secondary schools took part, mostly in beach clean-ups, tree planting and recycling.
+
+- **Note:** The article marks this figure 'citation needed'.
+- **Source:** [Wikipedia: Earth Day](https://en.wikipedia.org/wiki/Earth_Day) (reference, 2026-10-18)
+
+#### `world.1970.everyday.work-and-wages.factory-weekly` · summary · unverifiable
+
+> A manufacturing paycheque: A production worker in manufacturing earned $3.35 an hour, or $133.33 a week, on average; in durable goods $143.07 and in non-durable goods $120.43.
+
+- **Note:** One source (opened directly); $89.72 a week in 1960.
+- **Source:** [Historical Statistics of the United States, Table Ba4361-4366: Hourly and weekly earnings of production workers in manufacturing, 1909-1995](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4361-4366.html) (primary, 2026-10-18)
+
+#### `world.1970.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A baby born in 1970 could expect to live nearly 71 years.
+
+- **Note:** World Bank 70.8, Our World in Data 70.7.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `world.1970.everyday.by-the-numbers.motor-vehicles` · summary · verified
+
+> Motor vehicles: Registrations reached 108.4 million: 89.2 million cars, 18.8 million trucks and 378,000 buses.
+
+- **Note:** Sources agree.
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+- **Source:** [FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations](https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf) (primary, 2026-10-18)
+
+#### `world.1970.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The 1970 census counted 203.3 million people, 57.5 to the square mile.
+
+- **Note:** Census 203,302,031 (the 1970 in the United States article misprints 203,392,031); World Bank mid-year estimate 205.1 million.
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 1970](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1970.html) (primary, 2026-10-18)
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+
+#### `world.1970.everyday.clothing-and-style.bell-bottoms` · summary · verified
+
+> Bell-bottoms, hot pants and sideburns: Bell-bottoms were popular for women and men, hot pants and long sideburns were popular in 1971, and platform shoes were widespread among women and young people.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970s in Western fashion](https://en.wikipedia.org/wiki/1970s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1970.everyday.clothing-and-style.midi-debacle` · summary · verified
+
+> The midi that did not sell: In 1970 the industry tried to move women from miniskirts to calf-length midi skirts; women, especially in the United States, refused to buy them, which the article says almost ruined the American fashion industry.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970s in Western fashion](https://en.wikipedia.org/wiki/1970s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1970.everyday.clothing-and-style.mini-lingers` · summary · verified
+
+> Minis through 1972: Many women kept wearing miniskirts through 1972; more switched to trousers and jeans than to the longer skirts.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970s in Western fashion](https://en.wikipedia.org/wiki/1970s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1970.everyday.clothing-and-style.synthetics` · summary · verified
+
+> A flood of synthetics: Overproduction flooded the market with affordable synthetic clothing; Vogue noted in the early 1970s that 'there are no rules in the fashion game now'.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970s in Western fashion](https://en.wikipedia.org/wiki/1970s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1970.everyday.clothing-and-style.trousers` · summary · verified
+
+> Trousers everywhere: By the early 1970s women wore pants in every setting, jeans included, making it the first decade in Western fashion when they wore more trousers than skirts.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970s in Western fashion](https://en.wikipedia.org/wiki/1970s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1970.everyday.getting-around.boeing-747` · summary · verified
+
+> The jumbo jet: Pan Am began the first Boeing 747 service, New York to London, on 22 January 1970; the aircraft typically seats 366 passengers in three classes and 92 were delivered during 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Boeing 747](https://en.wikipedia.org/wiki/Boeing_747) (reference, 2026-10-18)
+
+#### `world.1970.everyday.getting-around.small-cars` · summary · verified
+
+> Three small cars: AMC introduced the Gremlin on 1 April, Chevrolet the Vega on 10 September and Ford the Pinto on 11 September 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.health-and-medicine.cigarette-ads` · summary · verified
+
+> Cigarettes off the screen: The Public Health Cigarette Smoking Act, signed on 1 April 1970, banned cigarette advertising on television from 1 January 1971.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.keeping-in-touch.postal-strike` · summary · verified
+
+> The postal strike: A U.S. Postal Service strike began in New York City on 18 March 1970, spread to other cities and lasted about two weeks.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.leisure-and-fun.all-my-children` · summary · verified
+
+> All My Children: The soap opera All My Children premiered on ABC on 5 January 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.leisure-and-fun.monday-night-football` · summary · verified
+
+> Monday Night Football: Monday Night Football debuted on ABC on 21 September 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.leisure-and-fun.nyc-marathon` · summary · verified
+
+> The first New York City Marathon: The first New York City Marathon was run on 13 September 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.leisure-and-fun.odd-couple` · summary · verified
+
+> The Odd Couple: The Odd Couple premiered on ABC on 24 September 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.leisure-and-fun.pbs` · summary · verified
+
+> PBS: National Educational Television closed and was succeeded by PBS, which began broadcasting on 5 October 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.spotlight.earth-day` · summary · verified
+
+> Twenty million on 22 April: An estimated 20 million Americans took part in rallies, marches and teach-ins on the first Earth Day, 22 April 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Earth Day](https://en.wikipedia.org/wiki/Earth_Day) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.spotlight.epa` · summary · verified
+
+> The EPA begins: The Environmental Protection Agency began operating on 2 December 1970, after Nixon proposed it on 9 July; in its first year it had a budget of $1.4 billion and 5,800 employees.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Environmental Protection Agency](https://en.wikipedia.org/wiki/Environmental_Protection_Agency) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1970.everyday.spotlight.legislation` · summary · verified
+
+> A wave of laws: After a campaign against a 'Dirty Dozen' of legislators, seven of whom lost, a wave of laws followed, including the Clean Air Act, the Clean Water Act and the Endangered Species Act; a major expansion of the Clean Air Act was approved in December 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Earth Day](https://en.wikipedia.org/wiki/Earth_Day) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Environmental Protection Agency](https://en.wikipedia.org/wiki/Environmental_Protection_Agency) (reference, 2026-10-18)
+
+#### `world.1970.everyday.spotlight.nelson-hayes` · summary · verified
+
+> A teach-in for campuses: Senator Gaylord Nelson proposed the nationwide teach-in and hired Harvard graduate student Denis Hayes as national coordinator, choosing the date to draw college students.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Earth Day](https://en.wikipedia.org/wiki/Earth_Day) (reference, 2026-10-18)
+
+#### `world.1970.everyday.work-and-wages.osha` · summary · verified
+
+> A law for safety at work: President Nixon signed the Occupational Safety and Health Act on 29 December 1970.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1970 in the United States](https://en.wikipedia.org/wiki/1970_in_the_United_States) (reference, 2026-10-18)
+
+### world/everyday · 1984
+
+#### `world.1984.everyday.by-the-numbers.fertility` · summary · unverifiable
+
+> Births per woman: The fertility rate was 1.81 births per woman.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Fertility rate, total (births per woman)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.1984.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 11 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.1984.everyday.by-the-numbers.urban-share` · summary · unverifiable
+
+> Town and city: About 74 percent of Americans lived in urban areas.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Urban population (% of total)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.1984.everyday.spotlight.mac-sales` · summary · unverifiable
+
+> Seventy thousand: The Macintosh reached 70,000 units on 3 May 1984, a hundred days after launch.
+
+- **Note:** The article marks this figure 'citation needed'.
+- **Source:** [Wikipedia: Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K) (reference, 2026-10-18)
+
+#### `world.1984.everyday.spotlight.macintosh` · summary · unverifiable
+
+> The Macintosh: The Macintosh went on sale on 24 January 1984 for $2,495, with 128 KB of memory, a built-in 9-inch screen of 512 by 342 pixels and a single 400 KB floppy drive.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K) (reference, 2026-10-18)
+
+#### `world.1984.everyday.work-and-wages.factory-weekly` · summary · unverifiable
+
+> A manufacturing paycheque: A production worker in manufacturing earned $9.19 an hour, or $374.03 a week, on average; in durable goods $402.82 and in non-durable goods $333.08.
+
+- **Note:** One source (opened directly); $133.33 a week in 1970.
+- **Source:** [Historical Statistics of the United States, Table Ba4361-4366: Hourly and weekly earnings of production workers in manufacturing, 1909-1995](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4361-4366.html) (primary, 2026-10-18)
+
+#### `world.1984.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A baby born in 1984 could expect to live about 74.6 years.
+
+- **Note:** World Bank 74.6, Our World in Data 74.7.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `world.1984.everyday.by-the-numbers.motor-vehicles` · summary · verified
+
+> Motor vehicles: Registrations reached 166.2 million: 128.2 million cars, 37.5 million trucks and 584,000 buses.
+
+- **Note:** Sources agree.
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+- **Source:** [FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations](https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf) (primary, 2026-10-18)
+
+#### `world.1984.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The United States had about 236 to 239 million people in 1984.
+
+- **Note:** Estimates: World Bank 235.8 million, Our World in Data 239.4 million; 1984 fell between the 1980 and 1990 censuses.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `world.1984.everyday.clothing-and-style.athletic` · summary · verified
+
+> Leg warmers and tracksuits: Athletic accessories such as leg warmers, wide belts and elastic headbands were a massive trend in the early 1980s, and ripped sweatshirts, tights and velour tracksuits were worn on the street.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1980s in Western fashion](https://en.wikipedia.org/wiki/1980s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1984.everyday.clothing-and-style.madonna` · summary · verified
+
+> The Madonna look: Many of the clothes Madonna wore in 1983-85, including tube skirts, oversized tops and 'Boy Toy' belt buckles, were widely copied, and jelly bracelets were inspired by her in 1983.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1980s in Western fashion](https://en.wikipedia.org/wiki/1980s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1984.everyday.clothing-and-style.miami-vice` · summary · verified
+
+> Miami Vice: Colourful men's styles, prompted by series such as Miami Vice, were an explosion of the mid-1980s, and Don Johnson's Ray-Ban Wayfarers lifted sales to 720,000 units in 1984.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1980s in Western fashion](https://en.wikipedia.org/wiki/1980s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1984.everyday.clothing-and-style.new-wave` · summary · verified
+
+> Members Only: New-wave influence, including Members Only jackets, shaped fashion from the early to mid-1980s, and women's fashion became more colourful around 1982.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1980s in Western fashion](https://en.wikipedia.org/wiki/1980s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1984.everyday.clothing-and-style.shoulder-pads` · summary · verified
+
+> Shoulder pads: Shoulder pads became common among career-driven women, popularised by Dynasty, from the mid-1980s to the early 1990s.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1980s in Western fashion](https://en.wikipedia.org/wiki/1980s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1984.everyday.food-and-kitchen.papa-johns` · summary · verified
+
+> The first Papa John's: John Schnatter opened the first Papa John's Pizza in Jeffersonville, Indiana, on 2 October 1984.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1984 in the United States](https://en.wikipedia.org/wiki/1984_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1984.everyday.getting-around.747-captain` · summary · verified
+
+> A woman in command of a 747: Beverly Burns became the first female Boeing 747 captain in the world on 18 July 1984.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1984 in the United States](https://en.wikipedia.org/wiki/1984_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1984.everyday.health-and-medicine.embryo-transfer` · summary · verified
+
+> A first embryo transfer: Dr John Buster's team announced the first embryo transfer from one woman to another that resulted in a live birth, on 3 February 1984.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1984 in the United States](https://en.wikipedia.org/wiki/1984_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1984.everyday.health-and-medicine.htlv-iii` · summary · verified
+
+> The cause of AIDS: On 23 April 1984 Health Secretary Margaret Heckler announced that the virus HTLV-III was the cause of AIDS.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1984 in the United States](https://en.wikipedia.org/wiki/1984_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1984.everyday.keeping-in-touch.bell-breakup` · summary · verified
+
+> The Bell System breaks up: The U.S. Bell System was broken up on 1 January 1984.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1984 in the United States](https://en.wikipedia.org/wiki/1984_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1984.everyday.leisure-and-fun.aerobics` · summary · verified
+
+> The aerobics boom: Jane Fonda's Workout video of 1982 helped spread aerobics worldwide and sparked an industry boom; aerobic dancing dated from Jacki Sorensen in 1969 and Kenneth Cooper's book Aerobics of 1968.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Aerobics](https://en.wikipedia.org/wiki/Aerobics) (reference, 2026-10-18)
+
+#### `world.1984.everyday.leisure-and-fun.la-olympics` · summary · verified
+
+> The Los Angeles Olympics: The Summer Olympics were held in Los Angeles from 28 July to 12 August 1984, after the Soviet Union announced a boycott on 8 May.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1984 in the United States](https://en.wikipedia.org/wiki/1984_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1984.everyday.leisure-and-fun.miami-vice-tv` · summary · verified
+
+> New on television: Jeopardy! began its syndicated run on 10 September, Miami Vice premiered on NBC on 16 September, The Transformers debuted on 17 September and American Movie Classics launched on 1 October 1984.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1984 in the United States](https://en.wikipedia.org/wiki/1984_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1984.everyday.leisure-and-fun.summer-films` · summary · verified
+
+> A summer at the cinema: Ghostbusters and Gremlins were released on 8 June 1984, The Karate Kid on 22 June and Purple Rain on 25 June.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1984 in the United States](https://en.wikipedia.org/wiki/1984_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1984.everyday.leisure-and-fun.video-rental` · summary · verified
+
+> Renting a tape: By mid-1985 the United States had 15,000 video rental stores; the first professionally managed one, Video Station, opened in Los Angeles in December 1977.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Video rental shop](https://en.wikipedia.org/wiki/Video_rental_shop) (reference, 2026-10-18)
+
+#### `world.1984.everyday.leisure-and-fun.walkman` · summary · verified
+
+> The Walkman: Sony's Walkman reached the United States in June 1980; cassettes outsold vinyl for the first time in 1983 and over 100 million Walkmans had been sold by 1989.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Walkman](https://en.wikipedia.org/wiki/Walkman) (reference, 2026-10-18)
+
+#### `world.1984.everyday.spotlight.households` · summary · verified
+
+> Few homes had one: By 1982 about 621,000 American households had a home computer at an average price of $530, and in 1987 only 15 percent of homes had one; the Commodore 64 was among the most popular.
+
+- **Note:** The article gives no 1984 share.
+- **Source:** [Wikipedia: Home computer](https://en.wikipedia.org/wiki/Home_computer) (reference, 2026-10-18)
+
+#### `world.1984.everyday.spotlight.ibm-pc` · summary · verified
+
+> The IBM PC: IBM introduced its Personal Computer in August 1981, and the PCjr followed in 1983 or early 1984 (the article gives both dates).
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Home computer](https://en.wikipedia.org/wiki/Home_computer) (reference, 2026-10-18)
+
+#### `world.1984.everyday.spotlight.super-bowl-ad` · summary · verified
+
+> The '1984' advertisement: Apple's '1984' commercial, directed by Ridley Scott at a cost of $1.5 million, ran during the third quarter of Super Bowl XVIII on 22 January 1984.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K) (reference, 2026-10-18)
+
+### world/everyday · 1995
+
+#### `world.1995.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 8 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.1995.everyday.by-the-numbers.internet-users` · summary · unverifiable
+
+> Online: About 9 percent of Americans used the internet in 1995.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.1995.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 13 mobile subscriptions for every 100 people.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `world.1995.everyday.spotlight.home-computers` · summary · unverifiable
+
+> Computers at home: 22.8 percent of households had a computer in 1993 and 36.6 percent in October 1997; the Census Bureau did not ask in 1995.
+
+- **Note:** One source, read through a search summary.
+- **Source:** [U.S. Census Bureau: Computer use and ownership (Current Population Survey, 1993 and 1997)](https://census.gov/library/publications/1999/demo/p20-522.html) (primary, 2026-10-18)
+
+#### `world.1995.everyday.work-and-wages.factory-weekly` · summary · unverifiable
+
+> A manufacturing paycheque: A production worker in manufacturing earned $12.37 an hour, or $514.49 a week, on average; in durable goods $548.23 and in non-durable goods $468.99.
+
+- **Note:** One source (opened directly); $374.03 a week in 1984.
+- **Source:** [Historical Statistics of the United States, Table Ba4361-4366: Hourly and weekly earnings of production workers in manufacturing, 1909-1995](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4361-4366.html) (primary, 2026-10-18)
+
+#### `world.1995.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A baby born in 1995 could expect to live about 75.6 years.
+
+- **Note:** World Bank 75.6, Our World in Data 75.9.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `world.1995.everyday.by-the-numbers.motor-vehicles` · summary · verified
+
+> Motor vehicles: Registrations reached 201.5 million: 128.4 million cars, 72.5 million trucks (including pickups and vans) and 686,000 buses.
+
+- **Note:** Sources agree.
+- **Source:** [Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations](https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html) (primary, 2026-10-18)
+- **Source:** [FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations](https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf) (primary, 2026-10-18)
+
+#### `world.1995.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The United States had about 266 to 268 million people in 1995.
+
+- **Note:** Estimates: World Bank 266.3 million, Our World in Data 268.2 million; 1995 fell between the 1990 and 2000 censuses.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `world.1995.everyday.clothing-and-style.athletic` · summary · verified
+
+> Leggings and sneakers: In 1994 loungewear for young women was typically black Lycra leggings or bike shorts, large T-shirts, sweatshirts and athletic sneakers, and sportswear became acceptable in public over the mid- to late 1990s.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1995.everyday.clothing-and-style.baby-tees` · summary · verified
+
+> Baby tees and tartan: In 1994-95 the 'school girl' look included baby doll tees, tartan minikilts and knee-high socks.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1995.everyday.clothing-and-style.grunge-fades` · summary · verified
+
+> Grunge fades: Grunge dress, which peaked in late 1993 and early 1994, rapidly declined in 1994 as fashion became more feminine and form-fitting; flannel shirts stayed popular from 1991 to 1997.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1995.everyday.clothing-and-style.mens-1995` · summary · verified
+
+> Men's clothes: From 1995 men wore overalls, straight-leg jeans, plaid pants and flat-front chinos, and black or neon high-top sneakers replaced combat boots in a mid-1990s trend list.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1995.everyday.clothing-and-style.piercing` · summary · verified
+
+> Navel piercing: Tattoos and body piercing beyond the ears became mainstream in the 1990s, and navel piercings were gaining popularity around the mid-1990s.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1995.everyday.clothing-and-style.slip-dress` · summary · verified
+
+> The slip dress: Slip dresses first became widely worn in the mid-1990s, and in 1994 the commonest young women's look was a short black slip dress over a tight white T-shirt.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1995.everyday.spotlight.amazon` · summary · verified
+
+> Amazon opens its shop: Amazon's website launched on 16 July 1995, initially selling books sourced from wholesalers and publishers.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Amazon (company)](https://en.wikipedia.org/wiki/Amazon_(company)) (reference, 2026-10-18)
+
+#### `world.1995.everyday.spotlight.nsfnet` · summary · verified
+
+> The backbone goes commercial: The optical backbone of the NSFNET was decommissioned in 1995, removing the last restrictions on commercial traffic, and its traffic was handed to commercial providers including MCI, PSINet and Sprint.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: History of the Internet](https://en.wikipedia.org/wiki/History_of_the_Internet) (reference, 2026-10-18)
+
+#### `world.1995.everyday.spotlight.school-internet` · summary · verified
+
+> Schools online: Internet access in public schools rose from 35 percent in fall 1994 to 50 percent in 1995, but only 8 percent of instructional rooms were connected in 1995, up from 3 percent.
+
+- **Note:** Both NCES pages were read through a search summary.
+- **Source:** [NCES: Internet Access in Public Schools and Classrooms, 1994-98](https://nces.ed.gov/surveys/frss/publications/1999017/index.asp) (primary, 2026-10-18)
+- **Source:** [NCES: Indicator of the Month, Internet Access in Public and Private Schools](https://nces.ed.gov/surveys/frss/publications/1999005/) (primary, 2026-10-18)
+
+#### `world.1995.everyday.spotlight.windows-95` · summary · verified
+
+> Windows 95: Windows 95 went on sale on 24 August 1995; it shipped with Dial-Up Networking and the Microsoft Network but without Internet Explorer, which came in the Plus! pack, and one million copies shipped worldwide in four days.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Windows 95](https://en.wikipedia.org/wiki/Windows_95) (reference, 2026-10-18)
+
+### world/everyday · 1999
+
+#### `world.1999.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 7 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.1999.everyday.by-the-numbers.internet-users` · summary · unverifiable
+
+> Online: About 36 percent of Americans used the internet in 1999.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.1999.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 31 mobile subscriptions for every 100 people.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `world.1999.everyday.by-the-numbers.unemployment` · summary · unverifiable
+
+> Out of work: The unemployment rate fell to 4 percent in December 1999, its lowest since January 1970.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.spotlight.cost` · summary · unverifiable
+
+> What it cost: IDC estimated about $134 billion for Y2K preparation in the United States and another $13 billion for fixes in 2000 and 2001; the page puts the worldwide cost at about $308 billion.
+
+- **Note:** One source; estimates vary and the debate over whether the spending was justified continues.
+- **Source:** [Wikipedia: Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem) (reference, 2026-10-18)
+
+#### `world.1999.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A baby born in 1999 could expect to live about 76.6 years.
+
+- **Note:** World Bank 76.6, Our World in Data 76.7.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `world.1999.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The United States had about 279 million people in 1999.
+
+- **Note:** World Bank 279.0 million, Our World in Data 278.8 million; the 2000 census counted 281.4 million.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `world.1999.everyday.clothing-and-style.cargo` · summary · verified
+
+> Cargo pants: Khaki cargo pants were among hip-hop-influenced sportswear of the mid- to late 1990s.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1999.everyday.clothing-and-style.relaxed-work` · summary · verified
+
+> A relaxed office: By 1996 professional women in America wore more relaxed styles and muted colours.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1999.everyday.clothing-and-style.sportswear` · summary · verified
+
+> Sportswear in public: Sportswear became acceptable in public over the mid- to late 1990s, partly through its association with rappers.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1990s in Western fashion](https://en.wikipedia.org/wiki/1990s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.1999.everyday.getting-around.checker` · summary · verified
+
+> The last Checker taxi: The last Checker taxi was retired in New York City on 26 July 1999 and auctioned for about $135,000.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.keeping-in-touch.msn-messenger` · summary · verified
+
+> MSN Messenger: The first version of MSN Messenger was released on 22 July 1999.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.keeping-in-touch.napster` · summary · verified
+
+> Napster: Napster launched in June 1999 as a peer-to-peer service for sharing MP3 files, and the record industry sued it in December 1999.
+
+- **Note:** Unofficial estimates put its peak at 80 million registered users; verified use peaked at 26.4 million in February 2001.
+- **Source:** [Wikipedia: Napster](https://en.wikipedia.org/wiki/Napster) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.leisure-and-fun.cartoons` · summary · verified
+
+> New cartoons: Family Guy debuted on Fox on 31 January 1999, Futurama on 28 March and SpongeBob SquarePants on Nickelodeon on 1 May.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.leisure-and-fun.dreamcast` · summary · verified
+
+> Dreamcast: Sega introduced the Dreamcast console in the United States on 9 September 1999.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.leisure-and-fun.matrix` · summary · verified
+
+> The Matrix: The Matrix was released on 31 March 1999, followed by Tarzan on 18 June and Toy Story 2 on 24 November.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.leisure-and-fun.world-cup` · summary · verified
+
+> The Women's World Cup: Brandi Chastain scored the winning penalty kick for the United States in the Women's World Cup on 10 July 1999.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.leisure-and-fun.yankees` · summary · verified
+
+> A Yankees sweep: The New York Yankees swept the Atlanta Braves to win the World Series on 27 October 1999.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.school-and-childhood.columbine` · summary · verified
+
+> Columbine: On 20 April 1999 two students killed 12 students and a teacher at Columbine High School in Littleton, Colorado, the deadliest high-school shooting in the United States at the time.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 1999 in the United States](https://en.wikipedia.org/wiki/1999_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.1999.everyday.spotlight.belvoir` · summary · verified
+
+> A last-minute glitch: On 31 December 1999 the Fort Belvoir ground station crashed after a patch, interrupting five spy satellites.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem) (reference, 2026-10-18)
+
+#### `world.1999.everyday.spotlight.rollover` · summary · verified
+
+> The rollover: On 1 January 2000 few major failures occurred and those reported were minor, such as taxi meters in Singapore and Sweden and 150 slot machines at the Delaware Lottery.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem) (reference, 2026-10-18)
+
+#### `world.1999.everyday.spotlight.stockpiling` · summary · verified
+
+> Stockpiles and cash: Some people stockpiled food and water, bought generators and withdrew large sums of cash, and survivalist businesses expected more sales in late 1999, a trend called the Y2K scare.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem) (reference, 2026-10-18)
+
+#### `world.1999.everyday.spotlight.the-problem` · summary · verified
+
+> Two digits for the year: Many programs stored years as two digits to save memory, so 2000 risked being read as 1900 and machines might fail or give wrong results.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem) (reference, 2026-10-18)
+
+#### `world.1999.everyday.spotlight.us-preparation` · summary · verified
+
+> Preparing the country: President Clinton signed the Year 2000 Information and Readiness Disclosure Act on 19 October 1998, and the President's Council on Year 2000 Conversion, headed by John Koskinen, coordinated the federal effort.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem) (reference, 2026-10-18)
+
+### world/everyday · 2005
+
+#### `world.2005.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 7 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.2005.everyday.by-the-numbers.internet-users` · summary · unverifiable
+
+> Online: About 68 percent of Americans used the internet in 2005.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.2005.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 69 mobile subscriptions for every 100 people.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `world.2005.everyday.by-the-numbers.urban-share` · summary · unverifiable
+
+> Town and city: About 80 percent of Americans lived in urban areas.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Urban population (% of total)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.2005.everyday.spotlight.eight-million` · summary · unverifiable
+
+> Eight million a day: When YouTube left beta in December 2005 it was getting 8 million views a day; by July 2006 it had 100 million views a day and 65,000 new videos uploaded daily.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: YouTube](https://en.wikipedia.org/wiki/YouTube) (reference, 2026-10-18)
+
+#### `world.2005.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A baby born in 2005 could expect to live about 77.5 years.
+
+- **Note:** World Bank 77.5, Our World in Data 77.5.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `world.2005.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The United States had about 296 million people in 2005.
+
+- **Note:** World Bank 295.5 million, Our World in Data 295.7 million.
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Population (UN World Population Prospects, HYDE)](https://ourworldindata.org/grapher/population) (reference, 2026-10-18)
+
+#### `world.2005.everyday.clothing-and-style.crocs-hoodies` · summary · verified
+
+> Hoodies and Crocs: Hoodies were a staple of casual dress, and Crocs were a brief fad for all sexes in summer 2006.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2000s in Western fashion](https://en.wikipedia.org/wiki/2000s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.2005.everyday.clothing-and-style.fast-fashion` · summary · verified
+
+> Fast fashion: In 2004 the fast-fashion retailer H&M collaborated with Karl Lagerfeld on a one-time collection that was a major success; fast fashion consumption was rising, with Zara among the new giants.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2000s in Western fashion](https://en.wikipedia.org/wiki/2000s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.2005.everyday.clothing-and-style.it-items` · summary · verified
+
+> The 'It' items: Velour tracksuits, Ugg boots, Von Dutch trucker hats and boldly logoed purses and sunglasses were sought-after in the mid-2000s, with fast-fashion copies widely available.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2000s in Western fashion](https://en.wikipedia.org/wiki/2000s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.2005.everyday.clothing-and-style.low-rise` · summary · verified
+
+> Low-rise jeans: Embroidered low-rise jeans were a popular women's trend from 2003 to 2006, worn with belly shirts and newsboy caps.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2000s in Western fashion](https://en.wikipedia.org/wiki/2000s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.2005.everyday.clothing-and-style.skinny-jeans` · summary · verified
+
+> Skinny jeans: Skinny jeans were introduced in 2005 and became popular in 2006.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2000s in Western fashion](https://en.wikipedia.org/wiki/2000s_in_Western_fashion) (reference, 2026-10-18)
+
+#### `world.2005.everyday.getting-around.katrina-evacuation` · summary · verified
+
+> Leaving New Orleans: Before Hurricane Katrina made landfall on 29 August 2005, a mandatory evacuation of New Orleans was ordered on 28 August and a contraflow plan moved about one million people; about 80 percent of the city left, and Katrina displaced over a million people in all.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Hurricane Katrina](https://en.wikipedia.org/wiki/Hurricane_Katrina) (reference, 2026-10-18)
+
+#### `world.2005.everyday.leisure-and-fun.armstrong` · summary · verified
+
+> A seventh Tour: Lance Armstrong won a record seventh straight Tour de France on 24 July 2005.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2005 in the United States](https://en.wikipedia.org/wiki/2005_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2005.everyday.leisure-and-fun.cinema-2005` · summary · verified
+
+> At the cinema: Million Dollar Baby won Best Picture at the Academy Awards on 27 February; Star Wars: Episode III opened on 19 May and Madagascar on 27 May 2005.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2005 in the United States](https://en.wikipedia.org/wiki/2005_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2005.everyday.leisure-and-fun.idol` · summary · verified
+
+> American Idol: Carrie Underwood won the fourth season of American Idol on 25 May 2005.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2005 in the United States](https://en.wikipedia.org/wiki/2005_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2005.everyday.leisure-and-fun.super-bowl` · summary · verified
+
+> Super Bowl XXXIX: The New England Patriots beat the Philadelphia Eagles 24-21 in Super Bowl XXXIX on 6 February 2005.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2005 in the United States](https://en.wikipedia.org/wiki/2005_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2005.everyday.leisure-and-fun.tv-debuts` · summary · verified
+
+> New shows: American Dad! debuted on 6 February, Avatar: The Last Airbender on 21 February, The Office on 24 March and It's Always Sunny in Philadelphia on 4 August 2005.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2005 in the United States](https://en.wikipedia.org/wiki/2005_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2005.everyday.spotlight.first-video` · summary · verified
+
+> The first video: The first video, 'Me at the zoo', showing Jawed Karim at the San Diego Zoo, was uploaded on 23 April 2005, when the public beta began; early clips were capped at 100 megabytes, about 30 seconds.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: YouTube](https://en.wikipedia.org/wiki/YouTube) (reference, 2026-10-18)
+
+#### `world.2005.everyday.spotlight.million-views` · summary · verified
+
+> One million views: By November 2005 a Nike advertisement featuring Ronaldinho was the first video to reach one million views.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: YouTube](https://en.wikipedia.org/wiki/YouTube) (reference, 2026-10-18)
+
+#### `world.2005.everyday.spotlight.reddit` · summary · verified
+
+> Reddit: Reddit launched on 23 June 2005.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2005 in the United States](https://en.wikipedia.org/wiki/2005_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2005.everyday.spotlight.youtube-founded` · summary · verified
+
+> YouTube goes online: YouTube was founded on 14 February 2005 by Chad Hurley, Jawed Karim and Steve Chen, former PayPal employees, and went online that month.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: YouTube](https://en.wikipedia.org/wiki/YouTube) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2005 in the United States](https://en.wikipedia.org/wiki/2005_in_the_United_States) (reference, 2026-10-18)
+
+### world/everyday · 2010
+
+#### `world.2010.everyday.by-the-numbers.infant-mortality` · summary · unverifiable
+
+> Infant deaths: About 6 of every 1,000 babies died before their first birthday.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json) (primary, 2026-10-18)
+
+#### `world.2010.everyday.by-the-numbers.internet-users` · summary · unverifiable
+
+> Online: About 72 percent of Americans used the internet in 2010.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.2010.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 92 mobile subscriptions for every 100 people.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `world.2010.everyday.by-the-numbers.payrolls` · summary · unverifiable
+
+> Jobs: In February 2010 payroll employment hit a post-recession low of 129,655,000.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.spotlight.ipad-sales` · summary · unverifiable
+
+> A million in a month: Apple had sold a million iPads by 3 May 2010 and 3 million after 80 days.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: iPad (1st generation)](https://en.wikipedia.org/wiki/IPad_(1st_generation)) (reference, 2026-10-18)
+
+#### `world.2010.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: A baby born in 2010 could expect to live about 78.5 years.
+
+- **Note:** World Bank 78.5, Our World in Data 78.7.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `world.2010.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The 2010 census counted 308.7 million people, 87.4 to the square mile.
+
+- **Note:** World Bank mid-year estimate 309.4 million.
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 2010](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.2010.html) (primary, 2026-10-18)
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+
+#### `world.2010.everyday.clothing-and-style.fast-fashion` · summary · verified
+
+> Vintage by the rack: Fast-fashion retailers such as Topshop, Forever 21 and H&M popularised vintage-inspired styles in the early 2010s.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010s in fashion](https://en.wikipedia.org/wiki/2010s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2010.everyday.clothing-and-style.hipster` · summary · verified
+
+> Indie and hipster: By the early 2010s indie clothing in the United States and elsewhere had moved to a more grown-up look in earth tones, with leggings and beanies; Ugg boots were among the early-to-mid 2010s accessories.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010s in fashion](https://en.wikipedia.org/wiki/2010s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2010.everyday.clothing-and-style.hoodies` · summary · verified
+
+> Hoodies: Slim-fitting men's hoodies, often V-necked, and women's zip-up hoodies were popular, and American teens wore logo hoodies from Abercrombie & Fitch, Hollister and Aéropostale.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010s in fashion](https://en.wikipedia.org/wiki/2010s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2010.everyday.clothing-and-style.plaid` · summary · verified
+
+> Plaid shirts and cutoffs: Teens in 2010 wore plaid shirts, cutoff shorts and studded accessories.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010s in fashion](https://en.wikipedia.org/wiki/2010s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2010.everyday.clothing-and-style.skinny-jeans` · summary · verified
+
+> Skinny jeans: Low-rise skinny jeans, often in acid wash or bright denim, stayed a dominant women's silhouette in the early 2010s, and men's skinny jeans rose in popularity.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010s in fashion](https://en.wikipedia.org/wiki/2010s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2010.everyday.clothing-and-style.slim-suits` · summary · verified
+
+> The Mad Men suit: Mad Men-inspired slim grey two-piece suits made a comeback in the workplace in the early 2010s.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010s in fashion](https://en.wikipedia.org/wiki/2010s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2010.everyday.food-and-kitchen.tomato-shortage` · summary · verified
+
+> A tomato shortage: A U.S. tomato shortage began in March 2010 and lasted until April.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.getting-around.texting-bans` · summary · verified
+
+> No texting at the wheel: Illinois' texting-while-driving ban took effect on 1 January 2010 and bans began on 1 July in several states, including Iowa and Wyoming.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.getting-around.toyota` · summary · verified
+
+> The Toyota recall: On 1 February 2010 Toyota announced a fix for accelerator problems and recalled cars in the United States.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.health-and-medicine.aca` · summary · verified
+
+> The Affordable Care Act: President Obama signed the Patient Protection and Affordable Care Act on 23 March 2010; from 23 September 2010 young adults could stay on a parent's plan until age 26.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Patient Protection and Affordable Care Act](https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.health-and-medicine.nc-smoking` · summary · verified
+
+> Smoke-free bars: North Carolina banned smoking in bars, restaurants and other public places on 2 January 2010, with exemptions for cigar bars, private clubs and some hotels.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.leisure-and-fun.adventure-time` · summary · verified
+
+> Adventure Time: Adventure Time premiered on Cartoon Network on 5 April 2010.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.leisure-and-fun.films-2010` · summary · verified
+
+> At the cinema: How to Train Your Dragon opened on 26 March, Iron Man 2 on 7 May and Toy Story 3 on 18 June 2010, becoming Pixar's biggest financial success to that point.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.leisure-and-fun.olympics` · summary · verified
+
+> Vancouver Winter Olympics: The Winter Olympics were held in Vancouver from 12 to 28 February 2010.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.leisure-and-fun.oscars` · summary · verified
+
+> The Hurt Locker: The Hurt Locker won six Academy Awards, including Best Picture and Best Director, on 7 March 2010.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.leisure-and-fun.super-bowl` · summary · verified
+
+> Super Bowl XLIV: The New Orleans Saints beat the Indianapolis Colts 31-17 in Super Bowl XLIV on 7 February 2010.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.spotlight.google-china` · summary · verified
+
+> Google and the cyber attack: On 13 January 2010 Google said it had been the target of a cyber attack from China, which led it to consider leaving China.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2010.everyday.spotlight.instagram` · summary · verified
+
+> Instagram: Kevin Systrom and Mike Krieger launched Instagram for iOS on 6 October 2010, after refocusing a check-in app called Burbn on photo sharing.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Instagram](https://en.wikipedia.org/wiki/Instagram) (reference, 2026-10-18)
+
+#### `world.2010.everyday.spotlight.instagram-growth` · summary · verified
+
+> A million in two months: Instagram reached 1 million registered users in two months and 10 million in a year; its first post, from South Beach Harbor, was on 16 July 2010.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Instagram](https://en.wikipedia.org/wiki/Instagram) (reference, 2026-10-18)
+
+#### `world.2010.everyday.spotlight.ipad` · summary · verified
+
+> The iPad: Apple's first iPad, announced on 27 January 2010, went on sale on 3 April for $499 with a 9.7-inch touchscreen; 300,000 were sold on the first day.
+
+- **Note:** The Wi-Fi + 3G model followed on 30 April 2010.
+- **Source:** [Wikipedia: iPad (1st generation)](https://en.wikipedia.org/wiki/IPad_(1st_generation)) (reference, 2026-10-18)
+- **Source:** [Wikipedia: 2010 in the United States](https://en.wikipedia.org/wiki/2010_in_the_United_States) (reference, 2026-10-18)
+
+### world/everyday · 2020
+
+#### `world.2020.everyday.by-the-numbers.gdp` · summary · unverifiable
+
+> The economy shrank: Real GDP contracted 3.5 percent in 2020, the biggest contraction since 1946.
+
+- **Note:** One source.
+- **Source:** [Wikipedia: Economic impact of the COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.by-the-numbers.internet-users` · summary · unverifiable
+
+> Online: About 90 percent of Americans used the internet in 2020.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Individuals using the Internet (% of population)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json) (primary, 2026-10-18)
+
+#### `world.2020.everyday.by-the-numbers.mobile` · summary · unverifiable
+
+> Mobile phones: There were about 104 mobile subscriptions for every 100 people.
+
+- **Note:** World Bank only.
+- **Source:** [World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)](https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json) (primary, 2026-10-18)
+
+#### `world.2020.everyday.by-the-numbers.unemployment` · summary · unverifiable
+
+> Out of work: Unemployment reached 14.7 percent in April 2020, when 20.5 million nonfarm jobs were lost, as reported by the Bureau of Labor Statistics on 8 May.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: Economic impact of the COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.clothing-and-style.clothing-sales` · summary · unverifiable
+
+> Clothes shops empty: Clothing sales fell 89 percent in the two months to April 2020, and retail sales overall fell 8.3 percent in March and 16.4 percent in April.
+
+- **Note:** One source (Commerce Department figures as given in Wikipedia).
+- **Source:** [Wikipedia: Economic impact of the COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.health-and-medicine.deaths-2020` · summary · unverifiable
+
+> Deaths through the year: U.S. deaths from COVID-19 passed 100,000 by 27 May, 200,000 on 22 September and 300,000 on 14 December 2020; vaccines became available under emergency use in December.
+
+- **Note:** One source (Wikipedia, opened directly).
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.keeping-in-touch.zoom-growth` · summary · unverifiable
+
+> Ten million to two hundred million: Zoom had a maximum of 10 million daily meeting participants in December 2019 and more than 200 million in March 2020.
+
+- **Note:** One source; figures are the company's.
+- **Source:** [Wikipedia: Zoom (software)](https://en.wikipedia.org/wiki/Zoom_(software)) (reference, 2026-10-18)
+
+#### `world.2020.everyday.by-the-numbers.life-expectancy` · summary · verified
+
+> Life expectancy at birth: Life expectancy at birth fell to about 77 years in 2020, from 78.5 in 2010.
+
+- **Note:** World Bank 77.0, Our World in Data 77.0.
+- **Source:** [World Bank, World Development Indicators: Life expectancy at birth, total (years)](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json) (primary, 2026-10-18)
+- **Source:** [Our World in Data: Life expectancy (UN World Population Prospects and other series)](https://ourworldindata.org/grapher/life-expectancy) (reference, 2026-10-18)
+
+#### `world.2020.everyday.by-the-numbers.population` · summary · verified
+
+> Population: The 2020 census counted 331.4 million people, 93.8 to the square mile.
+
+- **Note:** World Bank mid-year estimate 331.6 million.
+- **Source:** [U.S. Census Bureau: Decennial census historical facts, 2020](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.2020.html) (primary, 2026-10-18)
+- **Source:** [World Bank, World Development Indicators: Population, total](https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json) (primary, 2026-10-18)
+
+#### `world.2020.everyday.clothing-and-style.cottagecore` · summary · verified
+
+> Cottagecore: Taylor Swift's 2020 albums Folklore and Evermore reinforced the cottagecore trend.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020s in fashion](https://en.wikipedia.org/wiki/2020s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2020.everyday.clothing-and-style.loungewear` · summary · verified
+
+> Comfort at home: Lockdowns led a generation of women to prefer comfortable clothes at home, and 'comfortcore' trends followed from 2020 to 2022.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020s in fashion](https://en.wikipedia.org/wiki/2020s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2020.everyday.clothing-and-style.masks` · summary · verified
+
+> The mask as accessory: At the start of the pandemic wearing a face mask became common and often mandatory; shortages and easy home-made designs led to many styles, and people matched masks to their outfits.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020s in fashion](https://en.wikipedia.org/wiki/2020s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2020.everyday.clothing-and-style.remote-school-wear` · summary · verified
+
+> Pajamas for class: K-12 and university students favoured pajamas, sweatpants and athleisure during remote learning.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020s in fashion](https://en.wikipedia.org/wiki/2020s_in_fashion) (reference, 2026-10-18)
+
+#### `world.2020.everyday.getting-around.canada-border` · summary · verified
+
+> The Canadian border: On 18 March 2020 the United States temporarily closed its border with Canada to non-trade travel.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.health-and-medicine.first-death` · summary · verified
+
+> The first deaths: The first U.S. death from COVID-19 was reported in Washington state on 29 February 2020; deaths passed 1,000 on 25 March and 10,000 on 6 April.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.health-and-medicine.masks-cdc` · summary · verified
+
+> Cloth face coverings: On 3 April 2020 the CDC recommended cloth face coverings in public.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.keeping-in-touch.free-limit` · summary · verified
+
+> The 40-minute limit: Zoom's free plan allowed up to 100 participants with a 40-minute limit per meeting, and in April 2020 the company raised its default security settings against 'Zoombombing'.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Zoom (software)](https://en.wikipedia.org/wiki/Zoom_(software)) (reference, 2026-10-18)
+
+#### `world.2020.everyday.keeping-in-touch.zoom-retraction` · summary · verified
+
+> A claim walked back: Zoom's April 2020 claim of 300 million daily meeting participants was later retracted, since the metric counts joins, which can happen several times a day.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Zoom (software)](https://en.wikipedia.org/wiki/Zoom_(software)) (reference, 2026-10-18)
+
+#### `world.2020.everyday.leisure-and-fun.box-office-zero` · summary · verified
+
+> Zero at the box office: U.S. box office revenue was zero on 24 March 2020, a first.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.leisure-and-fun.closures` · summary · verified
+
+> The lights go out: SXSW was cancelled for the first time in 34 years on 6 March, the NBA suspended its season on 11 March, and the NCAA cancelled its March tournaments and Broadway theatres closed on 12 March 2020.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.leisure-and-fun.derby` · summary · verified
+
+> The Derby moves: The Kentucky Derby was postponed from May to 5 September on 16 March 2020.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.leisure-and-fun.parasite` · summary · verified
+
+> Parasite: Parasite won Best Picture at the Oscars on 9 February 2020.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.leisure-and-fun.super-bowl` · summary · verified
+
+> Super Bowl LIV: The Kansas City Chiefs beat the San Francisco 49ers 31-20 in Super Bowl LIV on 2 February 2020.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.school-and-childhood.nyc-zoom` · summary · verified
+
+> Zoom in class: Zoom use for distance education surged; New York City's Department of Education banned Zoom over security and privacy concerns and lifted the ban in May 2020 after the company addressed them.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Zoom (software)](https://en.wikipedia.org/wiki/Zoom_(software)) (reference, 2026-10-18)
+
+#### `world.2020.everyday.school-and-childhood.schools-close` · summary · verified
+
+> Schools close: Most schools nationwide were closed by 16 March 2020.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.spotlight.emergency` · summary · verified
+
+> A national emergency: On 13 March 2020 the president declared a national emergency and freed $50 billion in disaster relief funds.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.spotlight.first-case` · summary · verified
+
+> The first case: The CDC confirmed the first U.S. case on 21 January 2020 (another page dates it to 20 January); the Health Secretary declared a public health emergency on 31 January.
+
+- **Note:** The two Wikipedia pages differ by a day.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.spotlight.markets` · summary · verified
+
+> A record fall and rise: The Dow fell a record 2,997.10 points on 16 March and rose 11.3 percent on 24 March, its biggest one-day percentage gain since 1933.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: 2020 in the United States](https://en.wikipedia.org/wiki/2020_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.spotlight.stimulus` · summary · verified
+
+> Relief: Congress approved $8.3 billion on 6 March and the president signed the CARES Act on 27 March 2020.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.work-and-wages.cares` · summary · verified
+
+> The CARES Act: The CARES Act, signed on 27 March 2020, raised unemployment benefits by $600 a week, in a relief package of roughly $2 trillion.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Economic impact of the COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.work-and-wages.claims` · summary · verified
+
+> Claims by the million: On 19 March 281,000 Americans filed for unemployment, then 3.28 million on 26 March, the largest weekly increase in U.S. history; weekly claims peaked at 6.9 million on 28 March.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+- **Source:** [Wikipedia: Economic impact of the COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.work-and-wages.eviction` · summary · verified
+
+> A pause on evictions: The CARES Act gave a 120-day eviction moratorium for federally backed properties from 27 March to 24 July 2020, covering about 28 percent of rental units; a CDC nationwide moratorium ran from 1 September to the end of 2020.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: Economic impact of the COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)
+
+#### `world.2020.everyday.work-and-wages.stay-home-orders` · summary · verified
+
+> Stay at home: On 20 March New York ordered staff at non-essential businesses to stay home, and by 31 March about three-quarters of the U.S. population was under lockdown restrictions.
+
+- **Note:** Sources agree.
+- **Source:** [Wikipedia: COVID-19 pandemic in the United States](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States) (reference, 2026-10-18)

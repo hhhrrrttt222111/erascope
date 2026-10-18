@@ -1,0 +1,565 @@
+{
+  "country": "world",
+  "year": 1984,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "166 million motor vehicles, nearly three in four Americans in towns and cities, and a baby born in 1984 could expect to live to 75.",
+      "items": [
+        {
+          "id": "world.1984.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The United States had about 236 to 239 million people in 1984.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "U.S. population (mid-year estimate)",
+          "value": "about 236 million",
+          "unit": "people",
+          "asOf": "1984",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A baby born in 1984 could expect to live about 74.6 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "74.6",
+          "unit": "years",
+          "asOf": "1984",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and city",
+          "summary": "About 74 percent of Americans lived in urban areas.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Urban population (% of total)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Urban share of the population",
+          "value": "74.2",
+          "unit": "percent",
+          "asOf": "1984",
+          "todo": true
+        },
+        {
+          "id": "world.1984.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 11 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Infant mortality",
+          "value": "10.9",
+          "unit": "per 1,000 live births",
+          "asOf": "1984",
+          "todo": true
+        },
+        {
+          "id": "world.1984.everyday.by-the-numbers.fertility",
+          "kind": "stat",
+          "title": "Births per woman",
+          "summary": "The fertility rate was 1.81 births per woman.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Fertility rate, total (births per woman)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Total fertility rate",
+          "value": "1.81",
+          "unit": "births per woman",
+          "asOf": "1984",
+          "todo": true
+        },
+        {
+          "id": "world.1984.everyday.by-the-numbers.motor-vehicles",
+          "kind": "stat",
+          "title": "Motor vehicles",
+          "summary": "Registrations reached 166.2 million: 128.2 million cars, 37.5 million trucks and 584,000 buses.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Df339-342: Motor vehicle registrations",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdDf339-342.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "FHWA Highway Statistics Summary to 1995, Table MV-200: Motor vehicle registrations",
+              "url": "https://www.fhwa.dot.gov/ohim/Summary95/mv200.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Registered motor vehicles",
+          "value": "166,248,800",
+          "unit": "vehicles",
+          "asOf": "1984",
+          "checked": "2026-10-18"
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy and household size were not found for 1984. There was no census; population figures are mid-year estimates."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "",
+      "items": [
+        {
+          "id": "world.1984.everyday.food-and-kitchen.papa-johns",
+          "kind": "fact",
+          "title": "The first Papa John's",
+          "summary": "John Schnatter opened the first Papa John's Pizza in Jeffersonville, Indiana, on 2 October 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-10-02",
+          "place": "Jeffersonville, Indiana",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1984 food prices, appliance counts or meals; the pages we opened on fast food had no 1984 figures."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Athletic wear went out on the street, shoulder pads went into jackets and Miami Vice put pastel jackets on men.",
+      "items": [
+        {
+          "id": "world.1984.everyday.clothing-and-style.athletic",
+          "kind": "fact",
+          "title": "Leg warmers and tracksuits",
+          "summary": "Athletic accessories such as leg warmers, wide belts and elastic headbands were a massive trend in the early 1980s, and ripped sweatshirts, tights and velour tracksuits were worn on the street.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1980s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1980s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.clothing-and-style.madonna",
+          "kind": "fact",
+          "title": "The Madonna look",
+          "summary": "Many of the clothes Madonna wore in 1983-85, including tube skirts, oversized tops and 'Boy Toy' belt buckles, were widely copied, and jelly bracelets were inspired by her in 1983.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1980s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1980s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1983",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.clothing-and-style.shoulder-pads",
+          "kind": "fact",
+          "title": "Shoulder pads",
+          "summary": "Shoulder pads became common among career-driven women, popularised by Dynasty, from the mid-1980s to the early 1990s.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1980s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1980s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.clothing-and-style.miami-vice",
+          "kind": "fact",
+          "title": "Miami Vice",
+          "summary": "Colourful men's styles, prompted by series such as Miami Vice, were an explosion of the mid-1980s, and Don Johnson's Ray-Ban Wayfarers lifted sales to 720,000 units in 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1980s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1980s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.clothing-and-style.new-wave",
+          "kind": "fact",
+          "title": "Members Only",
+          "summary": "New-wave influence, including Members Only jackets, shaped fashion from the early to mid-1980s, and women's fashion became more colourful around 1982.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1980s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/1980s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A production worker in manufacturing earned about $374 a week.",
+      "items": [
+        {
+          "id": "world.1984.everyday.work-and-wages.factory-weekly",
+          "kind": "wage",
+          "title": "A manufacturing paycheque",
+          "summary": "A production worker in manufacturing earned $9.19 an hour, or $374.03 a week, on average; in durable goods $402.82 and in non-durable goods $333.08.",
+          "sources": [
+            {
+              "label": "Historical Statistics of the United States, Table Ba4361-4366: Hourly and weekly earnings of production workers in manufacturing, 1909-1995",
+              "url": "https://hsus.cambridge.org/HSUSWeb/toc/treeTablePathIdBa4361-4366.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "job": "Production worker, manufacturing, average",
+          "amount": "$374.03",
+          "per": "week",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures for 1984 hours, women's work or the minimum wage."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced school-year, enrolment or toy figures for 1984: the NCES table we opened has an estimate only to 1979-80."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The first woman captain of a Boeing 747 took command in July.",
+      "items": [
+        {
+          "id": "world.1984.everyday.getting-around.747-captain",
+          "kind": "fact",
+          "title": "A woman in command of a 747",
+          "summary": "Beverly Burns became the first female Boeing 747 captain in the world on 18 July 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-07-18",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1984 fares or journey times; the vehicle count is under The year in numbers."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "The Bell System was broken up on New Year's Day.",
+      "items": [
+        {
+          "id": "world.1984.everyday.keeping-in-touch.bell-breakup",
+          "kind": "fact",
+          "title": "The Bell System breaks up",
+          "summary": "The U.S. Bell System was broken up on 1 January 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-01-01",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1984 postage rates or telephone and modem counts."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "The virus that causes AIDS was named in April.",
+      "items": [
+        {
+          "id": "world.1984.everyday.health-and-medicine.htlv-iii",
+          "kind": "fact",
+          "title": "The cause of AIDS",
+          "summary": "On 23 April 1984 Health Secretary Margaret Heckler announced that the virus HTLV-III was the cause of AIDS.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-04-23",
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns a disease that caused many deaths."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.health-and-medicine.embryo-transfer",
+          "kind": "fact",
+          "title": "A first embryo transfer",
+          "summary": "Dr John Buster's team announced the first embryo transfer from one woman to another that resulted in a live birth, on 3 February 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-02-03",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1984 doctor fees, hospital costs or vaccination figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Workouts, headphones and rented videotapes, with summer blockbusters and an Olympics in Los Angeles.",
+      "items": [
+        {
+          "id": "world.1984.everyday.leisure-and-fun.aerobics",
+          "kind": "fact",
+          "title": "The aerobics boom",
+          "summary": "Jane Fonda's Workout video of 1982 helped spread aerobics worldwide and sparked an industry boom; aerobic dancing dated from Jacki Sorensen in 1969 and Kenneth Cooper's book Aerobics of 1968.",
+          "sources": [
+            {
+              "label": "Wikipedia: Aerobics",
+              "url": "https://en.wikipedia.org/wiki/Aerobics",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1982",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.leisure-and-fun.walkman",
+          "kind": "fact",
+          "title": "The Walkman",
+          "summary": "Sony's Walkman reached the United States in June 1980; cassettes outsold vinyl for the first time in 1983 and over 100 million Walkmans had been sold by 1989.",
+          "sources": [
+            {
+              "label": "Wikipedia: Walkman",
+              "url": "https://en.wikipedia.org/wiki/Walkman",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1983",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.leisure-and-fun.video-rental",
+          "kind": "fact",
+          "title": "Renting a tape",
+          "summary": "By mid-1985 the United States had 15,000 video rental stores; the first professionally managed one, Video Station, opened in Los Angeles in December 1977.",
+          "sources": [
+            {
+              "label": "Wikipedia: Video rental shop",
+              "url": "https://en.wikipedia.org/wiki/Video_rental_shop",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1985",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.leisure-and-fun.summer-films",
+          "kind": "fact",
+          "title": "A summer at the cinema",
+          "summary": "Ghostbusters and Gremlins were released on 8 June 1984, The Karate Kid on 22 June and Purple Rain on 25 June.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-06",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.leisure-and-fun.la-olympics",
+          "kind": "fact",
+          "title": "The Los Angeles Olympics",
+          "summary": "The Summer Olympics were held in Los Angeles from 28 July to 12 August 1984, after the Soviet Union announced a boycott on 8 May.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-07-28",
+          "place": "Los Angeles",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.leisure-and-fun.miami-vice-tv",
+          "kind": "fact",
+          "title": "New on television",
+          "summary": "Jeopardy! began its syndicated run on 10 September, Miami Vice premiered on NBC on 16 September, The Transformers debuted on 17 September and American Movie Classics launched on 1 October 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1984 in the United States",
+              "url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-09",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Computers come home",
+      "standfirst": "On 24 January 1984 Apple put a $2,495 computer with a mouse on sale after a Super Bowl advertisement, in a year when fewer than one in ten homes had a computer.",
+      "items": [
+        {
+          "id": "world.1984.everyday.spotlight.macintosh",
+          "kind": "stat",
+          "title": "The Macintosh",
+          "summary": "The Macintosh went on sale on 24 January 1984 for $2,495, with 128 KB of memory, a built-in 9-inch screen of 512 by 342 pixels and a single 400 KB floppy drive.",
+          "sources": [
+            {
+              "label": "Wikipedia: Macintosh 128K",
+              "url": "https://en.wikipedia.org/wiki/Macintosh_128K",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Price of the Macintosh at launch",
+          "value": "$2,495",
+          "unit": "US dollars",
+          "asOf": "1984-01-24",
+          "todo": true
+        },
+        {
+          "id": "world.1984.everyday.spotlight.super-bowl-ad",
+          "kind": "fact",
+          "title": "The '1984' advertisement",
+          "summary": "Apple's '1984' commercial, directed by Ridley Scott at a cost of $1.5 million, ran during the third quarter of Super Bowl XVIII on 22 January 1984.",
+          "sources": [
+            {
+              "label": "Wikipedia: Macintosh 128K",
+              "url": "https://en.wikipedia.org/wiki/Macintosh_128K",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-01-22",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.spotlight.mac-sales",
+          "kind": "fact",
+          "title": "Seventy thousand",
+          "summary": "The Macintosh reached 70,000 units on 3 May 1984, a hundred days after launch.",
+          "sources": [
+            {
+              "label": "Wikipedia: Macintosh 128K",
+              "url": "https://en.wikipedia.org/wiki/Macintosh_128K",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1984-05-03",
+          "todo": true
+        },
+        {
+          "id": "world.1984.everyday.spotlight.households",
+          "kind": "fact",
+          "title": "Few homes had one",
+          "summary": "By 1982 about 621,000 American households had a home computer at an average price of $530, and in 1987 only 15 percent of homes had one; the Commodore 64 was among the most popular.",
+          "sources": [
+            {
+              "label": "Wikipedia: Home computer",
+              "url": "https://en.wikipedia.org/wiki/Home_computer",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.1984.everyday.spotlight.ibm-pc",
+          "kind": "fact",
+          "title": "The IBM PC",
+          "summary": "IBM introduced its Personal Computer in August 1981, and the PCjr followed in 1983 or early 1984 (the article gives both dates).",
+          "sources": [
+            {
+              "label": "Wikipedia: Home computer",
+              "url": "https://en.wikipedia.org/wiki/Home_computer",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1981-08",
+          "checked": "2026-10-18"
+        }
+      ]
+    }
+  }
+}

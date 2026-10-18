@@ -256,7 +256,7 @@ export type DeepDiveItem =
   | (DeepDiveItemBase & { kind: "tech"; availability: "lab-or-official" | "elite-urban" | "urban" | "widespread"; firstInIndia?: string })
   | (DeepDiveItemBase & { kind: "governance"; office?: string; holder?: string; instrument?: string })
   | (DeepDiveItemBase & { kind: "event"; eventType: "movement" | "law" | "election" | "treaty" | "conflict" | "disaster" | "reform" | "founding" | "other" })
-  | (DeepDiveItemBase & { kind: "person"; field: string; born?: string; died?: string; whyThisYear: string; quote?: VerifiedQuote })
+  | (DeepDiveItemBase & { kind: "person"; field: string; born?: string; died?: string; gender?: string; whyThisYear: string; quote?: VerifiedQuote })
   | (DeepDiveItemBase & { kind: "achievement"; domain: "science" | "space" | "sport" | "arts" | "engineering" | "public-health" | "social" | "economy"; firstOfKind?: boolean })
   | (DeepDiveItemBase & { kind: "sport"; sport: string; competition: string; result: string; scoreline?: string; athletes?: string[] })
   | (DeepDiveItemBase & {
@@ -295,4 +295,51 @@ export interface DeepDiveThread {
   description: string;
   section?: DeepDiveSectionId;
   itemIds: string[];
+}
+
+// ---- Everyday sections (main year page) ----
+
+export type EverydaySectionId =
+  | "byTheNumbers" | "foodAndKitchen" | "clothingAndStyle" | "workAndWages" | "schoolAndChildhood"
+  | "gettingAround" | "keepingInTouch" | "healthAndMedicine" | "leisureAndFun" | "spotlight";
+
+export interface EverydaySection {
+  title: string;
+  standfirst: string;
+  layout?: "cards" | "stats" | "journeys" | "timeline" | "compare";
+  items: EverydayItem[];
+  scarcityNote?: string;
+}
+
+interface EverydayItemBase {
+  id: string; // "<country>.<year>.everyday.<section-kebab>.<slug>"
+  title: string;
+  summary: string;
+  body?: string[];
+  date?: string;
+  place?: string;
+  regionTag?: "north" | "south" | "east" | "west" | "central" | "north-east" | "national" | "overseas";
+  languages?: string[];
+  sources: Source[];
+  relatedIds?: string[];
+  sensitivity?: { level: SensitivityLevel; note?: string };
+  media?: MediaRef;
+  todo?: boolean;
+  checked?: string;
+}
+
+export type EverydayItem =
+  | (EverydayItemBase & { kind: "fact" })
+  | (EverydayItemBase & { kind: "stat"; metric: string; value: string; unit: string; asOf: string; comparison2026?: string })
+  | (EverydayItemBase & { kind: "price"; price: string; originalUnits?: string; decimalINR?: string; adjusted2026?: string; adjustedMethod?: string })
+  | (EverydayItemBase & { kind: "wage"; job: string; amount: string; per: "day" | "week" | "month" | "year"; hours?: string; originalUnits?: string })
+  | (EverydayItemBase & { kind: "journey"; from: string; to: string; mode: string; duration: string; cost?: string; now?: { mode: string; duration: string; cost?: string } })
+  | (EverydayItemBase & { kind: "message"; medium: string; deliveryTime: string; seconds?: number; cost?: string })
+  | (EverydayItemBase & { kind: "meal"; mealTime: "morning" | "midday" | "evening" | "snack" | "festive"; dishes: string[] });
+
+export interface Everyday {
+  country: CountryId;
+  year: EraId;
+  speculative: boolean;
+  sections: Record<EverydaySectionId, EverydaySection>;
 }

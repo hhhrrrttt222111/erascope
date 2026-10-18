@@ -9,6 +9,7 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "validate": "node scripts/validate-eras.ts",
+    "validate:counts": "node scripts/check-counts.ts",
     "factcheck:report": "node scripts/factcheck-report.ts"
   },
   "dependencies": {

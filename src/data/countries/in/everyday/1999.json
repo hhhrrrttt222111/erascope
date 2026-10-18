@@ -1,0 +1,785 @@
+{
+  "country": "in",
+  "year": 1999,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "A billion people, six in ten of them with electricity at home, and only about one in 400 on the internet.",
+      "items": [
+        {
+          "id": "in.1999.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "India's population passed one billion in 1999 by mid-year estimates, about 1.04 billion.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "1,038,225,823",
+          "unit": "people",
+          "asOf": "1999",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1999.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A newborn in 1999 could expect to live about 62 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "62.3",
+          "unit": "years",
+          "asOf": "1999",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1999.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 0.27 percent of Indians used the internet, up from 0.03 percent in 1995.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Share of individuals using the internet",
+              "url": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "0.273",
+          "unit": "percent of the population",
+          "asOf": "1999",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1999.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 0.18 mobile subscriptions for every 100 people.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "0.18",
+          "unit": "per 100 people",
+          "asOf": "1999",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.by-the-numbers.electricity",
+          "kind": "stat",
+          "title": "Electricity at home",
+          "summary": "About 60 percent of the population had access to electricity.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Access to electricity (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/EG.ELC.ACCS.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Access to electricity",
+          "value": "60.1",
+          "unit": "percent of the population",
+          "asOf": "1999",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 68 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns the deaths of infants."
+          },
+          "metric": "Infant mortality",
+          "value": "68.3",
+          "unit": "per 1,000 live births",
+          "asOf": "1999",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy, urban share and household size are not given for 1999: the censuses fell in 1991 and 2001."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Domino's and Pizza Hut opened outlets in Indian cities in 1996, selling vegetarian pizzas.",
+      "items": [
+        {
+          "id": "in.1999.everyday.food-and-kitchen.dominos-pizza",
+          "kind": "fact",
+          "title": "Pizza arrives",
+          "summary": "Domino's and Pizza Hut opened outlets in Indian cities in 1996, selling vegetarian pizzas.",
+          "sources": [
+            {
+              "label": "Wikipedia: Domino's",
+              "url": "https://en.wikipedia.org/wiki/Domino's",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.food-and-kitchen.ccd",
+          "kind": "fact",
+          "title": "Café Coffee Day",
+          "summary": "Café Coffee Day opened its first cafe in Bangalore in 1996 and spread across cities.",
+          "sources": [
+            {
+              "label": "Wikipedia: Café Coffee Day",
+              "url": "https://en.wikipedia.org/wiki/Café_Coffee_Day",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.food-and-kitchen.kurkure",
+          "kind": "fact",
+          "title": "Kurkure",
+          "summary": "PepsiCo launched Kurkure, a spicy corn snack, in 1999.",
+          "sources": [
+            {
+              "label": "Wikipedia: Kurkure",
+              "url": "https://en.wikipedia.org/wiki/Kurkure",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.food-and-kitchen.mcdonalds-india",
+          "kind": "fact",
+          "title": "McDonald's without beef",
+          "summary": "McDonald's opened in India in 1996 with a menu of vegetarian items and chicken, mutton and fish.",
+          "sources": [
+            {
+              "label": "Wikipedia: McDonald's in India",
+              "url": "https://en.wikipedia.org/wiki/McDonald's_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "The first Pantaloons store opened in Kolkata in 1997 as a family clothing chain.",
+      "items": [
+        {
+          "id": "in.1999.everyday.clothing-and-style.pantaloons",
+          "kind": "fact",
+          "title": "Pantaloons",
+          "summary": "The first Pantaloons store opened in Kolkata in 1997 as a family clothing chain.",
+          "sources": [
+            {
+              "label": "Wikipedia: Pantaloons (India)",
+              "url": "https://en.wikipedia.org/wiki/Pantaloons_(India)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.clothing-and-style.jeans-youth",
+          "kind": "fact",
+          "title": "Jeans for all",
+          "summary": "Jeans became everyday wear for college students in cities.",
+          "sources": [
+            {
+              "label": "Wikipedia: Jeans",
+              "url": "https://en.wikipedia.org/wiki/Jeans",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.clothing-and-style.fabindia",
+          "kind": "fact",
+          "title": "Fabindia",
+          "summary": "Fabindia sold handloom cotton clothes to urban buyers.",
+          "sources": [
+            {
+              "label": "Wikipedia: Fabindia",
+              "url": "https://en.wikipedia.org/wiki/Fabindia",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "A new kind of job, in software, was growing quickly; see the spotlight.",
+      "items": [
+        {
+          "id": "in.1999.everyday.work-and-wages.infosys-nasdaq",
+          "kind": "fact",
+          "title": "Infosys on Nasdaq",
+          "summary": "In March 1999 Infosys became the first Indian company listed on Nasdaq.",
+          "sources": [
+            {
+              "label": "Wikipedia: Infosys",
+              "url": "https://en.wikipedia.org/wiki/Infosys",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.work-and-wages.hotmail",
+          "kind": "fact",
+          "title": "Hotmail's founder",
+          "summary": "Sabeer Bhatia, an Indian-born engineer, sold Hotmail to Microsoft in 1998, an example for young engineers.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hotmail",
+              "url": "https://en.wikipedia.org/wiki/Hotmail",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.work-and-wages.y2k-jobs",
+          "kind": "fact",
+          "title": "Y2K work",
+          "summary": "Indian firms fixed date bugs for foreign clients as the year 2000 approached, which brought jobs and foreign exchange.",
+          "sources": [
+            {
+              "label": "Wikipedia: Year 2000 problem",
+              "url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "Coaching institutes, notably in Kota, trained students for IIT entrance exams.",
+      "items": [
+        {
+          "id": "in.1999.everyday.school-and-childhood.kota-coaching",
+          "kind": "fact",
+          "title": "Coaching for IIT",
+          "summary": "Coaching institutes, notably in Kota, trained students for IIT entrance exams.",
+          "sources": [
+            {
+              "label": "Wikipedia: Kota, Rajasthan",
+              "url": "https://en.wikipedia.org/wiki/Kota,_Rajasthan",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.school-and-childhood.computer-courses",
+          "kind": "fact",
+          "title": "Computer courses",
+          "summary": "NIIT and Aptech centres taught programming and computer basics.",
+          "sources": [
+            {
+              "label": "Wikipedia: NIIT",
+              "url": "https://en.wikipedia.org/wiki/NIIT",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.school-and-childhood.cbse-class-10",
+          "kind": "fact",
+          "title": "Board exam pressure",
+          "summary": "The class 10 and 12 exams carried heavy family expectations.",
+          "sources": [
+            {
+              "label": "Wikipedia: Central Board of Secondary Education",
+              "url": "https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "A bus ran from Delhi to Lahore in February.",
+      "items": [
+        {
+          "id": "in.1999.everyday.getting-around.konkan-railway",
+          "kind": "fact",
+          "title": "Konkan Railway",
+          "summary": "The Konkan Railway between Mumbai and Mangalore was opened in 1998 after being built through hills.",
+          "sources": [
+            {
+              "label": "Wikipedia: Konkan Railway",
+              "url": "https://en.wikipedia.org/wiki/Konkan_Railway",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.getting-around.lahore-bus",
+          "kind": "fact",
+          "title": "Delhi-Lahore bus",
+          "summary": "In February 1999 a bus service began between Delhi and Lahore, with the prime ministers meeting at Wagah.",
+          "sources": [
+            {
+              "label": "Wikipedia: Delhi–Lahore Bus",
+              "url": "https://en.wikipedia.org/wiki/Delhi–Lahore_Bus",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.getting-around.ambassador",
+          "kind": "fact",
+          "title": "The Ambassador",
+          "summary": "The Hindustan Ambassador was the usual taxi and official car.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hindustan Ambassador",
+              "url": "https://en.wikipedia.org/wiki/Hindustan_Ambassador",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "VSNL began public internet access in August 1995, and cyber cafés spread in towns by 1999.",
+      "items": [
+        {
+          "id": "in.1999.everyday.keeping-in-touch.vsnl-internet",
+          "kind": "fact",
+          "title": "Internet for the public",
+          "summary": "VSNL began public internet access in August 1995, and cyber cafés spread in towns by 1999.",
+          "sources": [
+            {
+              "label": "Wikipedia: Videsh Sanchar Nigam Limited",
+              "url": "https://en.wikipedia.org/wiki/Videsh_Sanchar_Nigam_Limited",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.keeping-in-touch.pager",
+          "kind": "fact",
+          "title": "Pagers",
+          "summary": "Pagers were used by doctors and business people before mobiles were cheap.",
+          "sources": [
+            {
+              "label": "Wikipedia: Pager",
+              "url": "https://en.wikipedia.org/wiki/Pager",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.keeping-in-touch.std-booth",
+          "kind": "fact",
+          "title": "STD/ISD booths",
+          "summary": "Yellow-signed STD/ISD booths let people make calls and pay by the minute.",
+          "sources": [
+            {
+              "label": "Wikipedia: Public call office",
+              "url": "https://en.wikipedia.org/wiki/Public_call_office",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Pulse Polio drives, begun in 1995, gave drops to all children under five on fixed days.",
+      "items": [
+        {
+          "id": "in.1999.everyday.health-and-medicine.pulse-polio",
+          "kind": "fact",
+          "title": "Pulse Polio",
+          "summary": "Pulse Polio drives, begun in 1995, gave drops to all children under five on fixed days.",
+          "sources": [
+            {
+              "label": "Wikipedia: Pulse Polio",
+              "url": "https://en.wikipedia.org/wiki/Pulse_Polio",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.health-and-medicine.naco",
+          "kind": "fact",
+          "title": "NACO",
+          "summary": "The National AIDS Control Organisation was set up in 1992 and ran awareness campaigns.",
+          "sources": [
+            {
+              "label": "Wikipedia: National AIDS Control Organisation",
+              "url": "https://en.wikipedia.org/wiki/National_AIDS_Control_Organisation",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.health-and-medicine.apollo",
+          "kind": "fact",
+          "title": "Corporate hospitals",
+          "summary": "Apollo Hospitals, founded in Chennai in 1983, led a wave of private hospitals.",
+          "sources": [
+            {
+              "label": "Wikipedia: Apollo Hospitals",
+              "url": "https://en.wikipedia.org/wiki/Apollo_Hospitals",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.health-and-medicine.orissa-cyclone",
+          "kind": "fact",
+          "title": "Odisha super cyclone",
+          "summary": "A super cyclone in October 1999 struck Odisha and killed thousands.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 Odisha cyclone",
+              "url": "https://en.wikipedia.org/wiki/1999_Odisha_cyclone",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "Indians followed the 1999 cricket World Cup in England on satellite television.",
+      "items": [
+        {
+          "id": "in.1999.everyday.leisure-and-fun.wc-1999",
+          "kind": "fact",
+          "title": "World Cup 1999",
+          "summary": "Indians followed the 1999 cricket World Cup in England on satellite television.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1999 Cricket World Cup",
+              "url": "https://en.wikipedia.org/wiki/1999_Cricket_World_Cup",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.leisure-and-fun.zee-star",
+          "kind": "fact",
+          "title": "Satellite channels",
+          "summary": "Zee TV (1992) and Star Plus offered serials and film shows across the country.",
+          "sources": [
+            {
+              "label": "Wikipedia: Zee Entertainment Enterprises",
+              "url": "https://en.wikipedia.org/wiki/Zee_Entertainment_Enterprises",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.leisure-and-fun.hddcs",
+          "kind": "fact",
+          "title": "Hum Dil De Chuke Sanam",
+          "summary": "The film Hum Dil De Chuke Sanam (1999) was a hit with its songs.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hum Dil De Chuke Sanam",
+              "url": "https://en.wikipedia.org/wiki/Hum_Dil_De_Chuke_Sanam",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.leisure-and-fun.cyber-cafe-fun",
+          "kind": "fact",
+          "title": "Chatting at the cyber café",
+          "summary": "Young people used cyber cafés to chat and email.",
+          "sources": [
+            {
+              "label": "Wikipedia: Internet cafe",
+              "url": "https://en.wikipedia.org/wiki/Internet_cafe",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Cyber cafés and the IT jobs boom",
+      "standfirst": "In 1999 the web was something most people reached by the hour in a café, and the software industry that served the world's Y2K work was multiplying its exports.",
+      "items": [
+        {
+          "id": "in.1999.everyday.spotlight.software-exports",
+          "kind": "stat",
+          "title": "Software exports",
+          "summary": "India's software exports grew from 734 million US dollars in 1995 to 3.9 billion US dollars in 1999-2000, NASSCOM's figure, from 2.65 billion the year before.",
+          "sources": [
+            {
+              "label": "IndiaMart: article on the Indian software industry (27 November 2000)",
+              "url": "https://corporate.indiamart.com/2000/11/27/while-various-industries-including-hardware-have-been-going-through-a-rough-patch-peeyush-agnihotri-finds-out-that",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Tech Monitor: Indian software exports",
+              "url": "https://www.techmonitor.ai/?p=94579",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "metric": "Software exports",
+          "value": "3.9 billion US dollars (1999-2000)",
+          "unit": "US dollars",
+          "asOf": "1999-2000",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1999.everyday.spotlight.y2k-share",
+          "kind": "fact",
+          "title": "How much was Y2K work",
+          "summary": "One source puts Y2K contracts at 560 million US dollars, 21.1 percent of exports, in the prior year; another has NASSCOM putting Y2K at about 12 percent of software revenue in 1999-2000, and NASSCOM expected the work to fall off after 1999.",
+          "sources": [
+            {
+              "label": "Tech Monitor: Indian software exports",
+              "url": "https://www.techmonitor.ai/?p=94579",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.spotlight.it-share",
+          "kind": "fact",
+          "title": "A small share of the economy",
+          "summary": "The IT sector's share of India's exports was under 4 percent in FY1998, and its contribution to GDP was 1.2 percent in 1998; Chennai's TIDEL Park was the largest IT park in Asia when it opened in 1999.",
+          "sources": [
+            {
+              "label": "Wikipedia: Information technology in India",
+              "url": "https://en.wikipedia.org/wiki/Information_technology_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Chennai",
+          "regionTag": "south",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1999.everyday.spotlight.cafe-rates",
+          "kind": "price",
+          "title": "An hour at the café",
+          "summary": "In late 1999 an hour of surfing cost roughly Rs 30 to 60 in Bangalore and Chennai and Rs 10 to 30 in Hyderabad.",
+          "sources": [
+            {
+              "label": "Voice&Data: Andhra Pradesh, from tea cafes to cyber cafes",
+              "url": "https://www.voicendata.com/andhra-pradesh-from-tea-cafes-cyber-cafes",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1999",
+          "regionTag": "south",
+          "price": "Rs 10 to 60 an hour",
+          "originalUnits": "Rs 30-60 an hour in Bangalore and Chennai; Rs 10-30 in Hyderabad",
+          "decimalINR": "₹10 to ₹60",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.spotlight.hyderabad-cafes",
+          "kind": "fact",
+          "title": "190 cafés in Hyderabad",
+          "summary": "Hyderabad had about 190 cyber cafés by the end of November 1999, more than Bangalore or Chennai.",
+          "sources": [
+            {
+              "label": "Voice&Data: Andhra Pradesh, from tea cafes to cyber cafes",
+              "url": "https://www.voicendata.com/andhra-pradesh-from-tea-cafes-cyber-cafes",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1999-11",
+          "place": "Hyderabad",
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.spotlight.first-cafe",
+          "kind": "fact",
+          "title": "The first café",
+          "summary": "The first Indian internet café is described as opening in July 1996 at a Mumbai hotel, charging Rs 800 for an hour.",
+          "sources": [
+            {
+              "label": "I Want To Know: The fascinating history of the internet in India",
+              "url": "https://iwtkquiz.substack.com/p/166-the-fascinating-history-of-the-internet",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1996-07",
+          "place": "Mumbai",
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1999.everyday.spotlight.users-1997",
+          "kind": "fact",
+          "title": "Few users",
+          "summary": "India had just over 30,000 internet users in 1997 and about 50,000 connections in early 1998, and dial-up tariffs were falling to as low as Rs 20 an hour from January 1998.",
+          "sources": [
+            {
+              "label": "Christian Science Monitor: India's e-mail evangelist hopes to win converts to the internet (1997)",
+              "url": "https://www.csmonitor.com/1997/1112/111297.intl.intl.4.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "ICMR: Satyam Iway, changing the Indian internet browsing experience",
+              "url": "https://icmrindia.org/Casestudies/catalogue/Marketing/Satyam%20Iway%20-%20Marketing%20Case.htm",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Emergic: NET.COLUMNS, The state of the Indian internet (1997)",
+              "url": "https://emergic.org/1997/12/31/netcolumns-the-state-of-the-indian-internet/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find a sourced count of cyber cafés or software professionals across India for 1999."
+    }
+  }
+}

@@ -26,12 +26,24 @@ export default function ReadingRoom(props: InteractiveProps) {
           <Typography aria-live="polite" sx={{ fontWeight: 700, mb: 1 }}>
             Budget left: {left} {budget.unit} of {budget.amount}
           </Typography>
-          <Box component="ul" sx={{ m: 0, p: 0, display: "grid", gap: 1, gridTemplateColumns: { xs: "1fr", md: "1fr 1fr" } }}>
+          <Box
+            component="ul"
+            aria-label="Things to read"
+            onKeyDown={(e) => {
+              const d = e.key === "ArrowRight" ? 1 : e.key === "ArrowLeft" ? -1 : 0;
+              if (!d) return;
+              const btns = Array.from(e.currentTarget.querySelectorAll<HTMLButtonElement>("button:not(:disabled)"));
+              const at = btns.indexOf(document.activeElement as HTMLButtonElement);
+              const next = btns[at + d];
+              if (next) { e.preventDefault(); next.focus(); next.closest("li")?.scrollIntoView({ inline: "center", block: "nearest" }); }
+            }}
+            sx={{ m: 0, p: 0, display: "flex", gap: 1, overflowX: "auto", scrollSnapType: "x mandatory", pb: 1 }}
+          >
             {stock.map((s) => {
               const has = basket.includes(s.id);
               return (
-                <li key={s.id} style={{ listStyle: "none" }}>
-                  <Box sx={{ p: 1.5, border: "1px solid currentColor" }}>
+                <li key={s.id} style={{ listStyle: "none", flex: "0 0 min(280px, 85%)", scrollSnapAlign: "start" }}>
+                  <Box sx={{ p: 1.5, border: "1px solid currentColor", height: "100%" }}>
                     <Typography sx={{ fontWeight: 700 }}>{s.label}</Typography>
                     <Typography variant="body2">
                       {s.price} {budget.unit}

@@ -1,0 +1,678 @@
+{
+  "country": "world",
+  "year": 2020,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "331 million people counted, nine in ten online, and an unemployment rate that touched 14.7 percent in April.",
+      "items": [
+        {
+          "id": "world.2020.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 2020 census counted 331.4 million people, 93.8 to the square mile.",
+          "sources": [
+            {
+              "label": "U.S. Census Bureau: Decennial census historical facts, 2020",
+              "url": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.2020.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "U.S. resident population",
+          "value": "331,449,281",
+          "unit": "people",
+          "asOf": "2020",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "Life expectancy at birth fell to about 77 years in 2020, from 78.5 in 2010.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "sensitivity": {
+            "level": "content-note",
+            "note": "The fall reflects deaths in the pandemic."
+          },
+          "metric": "Life expectancy at birth",
+          "value": "77.0",
+          "unit": "years",
+          "asOf": "2020",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 90 percent of Americans used the internet in 2020.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "90.3",
+          "unit": "percent of the population",
+          "asOf": "2020",
+          "todo": true
+        },
+        {
+          "id": "world.2020.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 104 mobile subscriptions for every 100 people.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "103.9",
+          "unit": "per 100 people",
+          "asOf": "2020",
+          "todo": true
+        },
+        {
+          "id": "world.2020.everyday.by-the-numbers.unemployment",
+          "kind": "stat",
+          "title": "Out of work",
+          "summary": "Unemployment reached 14.7 percent in April 2020, when 20.5 million nonfarm jobs were lost, as reported by the Bureau of Labor Statistics on 8 May.",
+          "sources": [
+            {
+              "label": "Wikipedia: Economic impact of the COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Unemployment rate",
+          "value": "14.7",
+          "unit": "percent",
+          "asOf": "2020-04",
+          "todo": true
+        },
+        {
+          "id": "world.2020.everyday.by-the-numbers.gdp",
+          "kind": "stat",
+          "title": "The economy shrank",
+          "summary": "Real GDP contracted 3.5 percent in 2020, the biggest contraction since 1946.",
+          "sources": [
+            {
+              "label": "Wikipedia: Economic impact of the COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Real GDP growth",
+          "value": "-3.5",
+          "unit": "percent",
+          "asOf": "2020",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy, household size and vehicle counts were not found for 2020 from a source we opened."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2020 food prices or home-baking figures from a page we opened."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Face masks became part of the outfit, and comfort beat formality at home.",
+      "items": [
+        {
+          "id": "world.2020.everyday.clothing-and-style.masks",
+          "kind": "fact",
+          "title": "The mask as accessory",
+          "summary": "At the start of the pandemic wearing a face mask became common and often mandatory; shortages and easy home-made designs led to many styles, and people matched masks to their outfits.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2020s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.clothing-and-style.loungewear",
+          "kind": "fact",
+          "title": "Comfort at home",
+          "summary": "Lockdowns led a generation of women to prefer comfortable clothes at home, and 'comfortcore' trends followed from 2020 to 2022.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2020s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.clothing-and-style.remote-school-wear",
+          "kind": "fact",
+          "title": "Pajamas for class",
+          "summary": "K-12 and university students favoured pajamas, sweatpants and athleisure during remote learning.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2020s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.clothing-and-style.cottagecore",
+          "kind": "fact",
+          "title": "Cottagecore",
+          "summary": "Taylor Swift's 2020 albums Folklore and Evermore reinforced the cottagecore trend.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020s in fashion",
+              "url": "https://en.wikipedia.org/wiki/2020s_in_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.clothing-and-style.clothing-sales",
+          "kind": "stat",
+          "title": "Clothes shops empty",
+          "summary": "Clothing sales fell 89 percent in the two months to April 2020, and retail sales overall fell 8.3 percent in March and 16.4 percent in April.",
+          "sources": [
+            {
+              "label": "Wikipedia: Economic impact of the COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Fall in clothing sales over March and April",
+          "value": "89",
+          "unit": "percent",
+          "asOf": "2020-04",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "Millions lost their jobs in weeks, and many who kept them worked from home.",
+      "items": [
+        {
+          "id": "world.2020.everyday.work-and-wages.claims",
+          "kind": "fact",
+          "title": "Claims by the million",
+          "summary": "On 19 March 281,000 Americans filed for unemployment, then 3.28 million on 26 March, the largest weekly increase in U.S. history; weekly claims peaked at 6.9 million on 28 March.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Economic impact of the COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-26",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.work-and-wages.cares",
+          "kind": "fact",
+          "title": "The CARES Act",
+          "summary": "The CARES Act, signed on 27 March 2020, raised unemployment benefits by $600 a week, in a relief package of roughly $2 trillion.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: Economic impact of the COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-27",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.work-and-wages.stay-home-orders",
+          "kind": "fact",
+          "title": "Stay at home",
+          "summary": "On 20 March New York ordered staff at non-essential businesses to stay home, and by 31 March about three-quarters of the U.S. population was under lockdown restrictions.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-20",
+          "place": "New York",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.work-and-wages.eviction",
+          "kind": "fact",
+          "title": "A pause on evictions",
+          "summary": "The CARES Act gave a 120-day eviction moratorium for federally backed properties from 27 March to 24 July 2020, covering about 28 percent of rental units; a CDC nationwide moratorium ran from 1 September to the end of 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: Economic impact of the COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-27",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2020 wages, hours or the share working from home."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "Most schools closed in mid-March, and classes moved to video calls.",
+      "items": [
+        {
+          "id": "world.2020.everyday.school-and-childhood.schools-close",
+          "kind": "fact",
+          "title": "Schools close",
+          "summary": "Most schools nationwide were closed by 16 March 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-16",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.school-and-childhood.nyc-zoom",
+          "kind": "fact",
+          "title": "Zoom in class",
+          "summary": "Zoom use for distance education surged; New York City's Department of Education banned Zoom over security and privacy concerns and lifted the ban in May 2020 after the company addressed them.",
+          "sources": [
+            {
+              "label": "Wikipedia: Zoom (software)",
+              "url": "https://en.wikipedia.org/wiki/Zoom_(software)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-05",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find a sourced count of students affected or of school-year length for 2020."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The border with Canada closed to non-essential travel.",
+      "items": [
+        {
+          "id": "world.2020.everyday.getting-around.canada-border",
+          "kind": "fact",
+          "title": "The Canadian border",
+          "summary": "On 18 March 2020 the United States temporarily closed its border with Canada to non-trade travel.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-18",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2020 traffic, fare or vehicle figures."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "Video calls replaced the office, the classroom and the family gathering.",
+      "items": [
+        {
+          "id": "world.2020.everyday.keeping-in-touch.zoom-growth",
+          "kind": "stat",
+          "title": "Ten million to two hundred million",
+          "summary": "Zoom had a maximum of 10 million daily meeting participants in December 2019 and more than 200 million in March 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: Zoom (software)",
+              "url": "https://en.wikipedia.org/wiki/Zoom_(software)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Zoom daily meeting participants",
+          "value": "over 200 million (March 2020)",
+          "unit": "participants",
+          "asOf": "2020-03",
+          "todo": true
+        },
+        {
+          "id": "world.2020.everyday.keeping-in-touch.zoom-retraction",
+          "kind": "fact",
+          "title": "A claim walked back",
+          "summary": "Zoom's April 2020 claim of 300 million daily meeting participants was later retracted, since the metric counts joins, which can happen several times a day.",
+          "sources": [
+            {
+              "label": "Wikipedia: Zoom (software)",
+              "url": "https://en.wikipedia.org/wiki/Zoom_(software)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-04",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.keeping-in-touch.free-limit",
+          "kind": "fact",
+          "title": "The 40-minute limit",
+          "summary": "Zoom's free plan allowed up to 100 participants with a 40-minute limit per meeting, and in April 2020 the company raised its default security settings against 'Zoombombing'.",
+          "sources": [
+            {
+              "label": "Wikipedia: Zoom (software)",
+              "url": "https://en.wikipedia.org/wiki/Zoom_(software)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-04",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2020 postage, call or text figures."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "By year's end more than 300,000 people had died, and the first vaccines were authorised.",
+      "items": [
+        {
+          "id": "world.2020.everyday.health-and-medicine.first-death",
+          "kind": "fact",
+          "title": "The first deaths",
+          "summary": "The first U.S. death from COVID-19 was reported in Washington state on 29 February 2020; deaths passed 1,000 on 25 March and 10,000 on 6 April.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-02-29",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.health-and-medicine.masks-cdc",
+          "kind": "fact",
+          "title": "Cloth face coverings",
+          "summary": "On 3 April 2020 the CDC recommended cloth face coverings in public.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-04-03",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.health-and-medicine.deaths-2020",
+          "kind": "stat",
+          "title": "Deaths through the year",
+          "summary": "U.S. deaths from COVID-19 passed 100,000 by 27 May, 200,000 on 22 September and 300,000 on 14 December 2020; vaccines became available under emergency use in December.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "U.S. COVID-19 deaths",
+          "value": "over 300,000 (14 December)",
+          "unit": "deaths",
+          "asOf": "2020-12-14",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2020 doctor fees, telehealth counts or hospital capacity figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "In March the cinemas, theatres and stadiums emptied, and by 24 March the national box office was zero.",
+      "items": [
+        {
+          "id": "world.2020.everyday.leisure-and-fun.closures",
+          "kind": "fact",
+          "title": "The lights go out",
+          "summary": "SXSW was cancelled for the first time in 34 years on 6 March, the NBA suspended its season on 11 March, and the NCAA cancelled its March tournaments and Broadway theatres closed on 12 March 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-12",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.leisure-and-fun.box-office-zero",
+          "kind": "fact",
+          "title": "Zero at the box office",
+          "summary": "U.S. box office revenue was zero on 24 March 2020, a first.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-24",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.leisure-and-fun.parasite",
+          "kind": "fact",
+          "title": "Parasite",
+          "summary": "Parasite won Best Picture at the Oscars on 9 February 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-02-09",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.leisure-and-fun.super-bowl",
+          "kind": "fact",
+          "title": "Super Bowl LIV",
+          "summary": "The Kansas City Chiefs beat the San Francisco 49ers 31-20 in Super Bowl LIV on 2 February 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-02-02",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.leisure-and-fun.derby",
+          "kind": "fact",
+          "title": "The Derby moves",
+          "summary": "The Kentucky Derby was postponed from May to 5 September on 16 March 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-16",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Lockdown life",
+      "standfirst": "In March 2020 an emergency was declared, schools and offices closed, and within weeks about three in four Americans were under stay-at-home restrictions.",
+      "items": [
+        {
+          "id": "world.2020.everyday.spotlight.first-case",
+          "kind": "fact",
+          "title": "The first case",
+          "summary": "The CDC confirmed the first U.S. case on 21 January 2020 (another page dates it to 20 January); the Health Secretary declared a public health emergency on 31 January.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-01-21",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.spotlight.emergency",
+          "kind": "fact",
+          "title": "A national emergency",
+          "summary": "On 13 March 2020 the president declared a national emergency and freed $50 billion in disaster relief funds.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-13",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.spotlight.stimulus",
+          "kind": "fact",
+          "title": "Relief",
+          "summary": "Congress approved $8.3 billion on 6 March and the president signed the CARES Act on 27 March 2020.",
+          "sources": [
+            {
+              "label": "Wikipedia: COVID-19 pandemic in the United States",
+              "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-06",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2020.everyday.spotlight.markets",
+          "kind": "fact",
+          "title": "A record fall and rise",
+          "summary": "The Dow fell a record 2,997.10 points on 16 March and rose 11.3 percent on 24 March, its biggest one-day percentage gain since 1933.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2020 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2020_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2020-03-16",
+          "checked": "2026-10-18"
+        }
+      ]
+    }
+  }
+}

@@ -203,3 +203,23 @@ selected the same links fall back to the era page, and no deep-dive code is down
   Rupee prices give `adjusted2026` only from 1960 on (World Bank CPI, 2025 rupees); earlier prices stay in original units.
 - Content status: all 13 years have researched deep-dive items and era pages. `docs/RESEARCH.md` lists the weak spots;
   no India item is marked `todo`; unverified items were removed. 2050 is a clearly labelled set of scenarios built on named targets and projections.
+
+## Everyday sections, page layout and deep-dive top-ups
+
+The year page has nine everyday sections plus a spotlight, for every country and year, in `src/data/countries/<country>/everyday/<year>.json`.
+
+- **Add an item:** append to the section's `items` (schema: `EverydayItem` in `src/data/types.ts`). The id is `<country>.<year>.everyday.<section-kebab>.<slug>`, and the item needs a row in `docs/fact-check.json`. Stats, prices, wages, journeys and messages need two sources, or `todo: true`.
+- **Change the page grouping or order:** edit `PAGE_GROUPS` in `src/data/pageLayout.ts`. Nothing else needs to change; each era chrome builds its own navigation from the list.
+- **Top up a deep-dive section:** add items to `countries/in/deepdive/<year>.json` until the section has 6 to 8, prefer missing regions, women and item kinds, and re-check the existing items first. `npm run validate:counts` lists what is short and writes `docs/COVERAGE.md`.
+- **Deep links:** `#/in/1945/food-and-kitchen` scrolls to that section.
+- **Checks:** `npm run validate` (schema, sources, fact-check rows) and `npm run validate:counts` (item counts, coverage table). `validate:counts` is not part of `npm run build` yet; add it once the content has caught up.
+
+### Bundle size (initial JS, gzipped)
+
+| | Before | After |
+|---|---|---|
+| `index-*.js` | 99.26 kB | 100.29 kB |
+
+Everyday data, the three everyday interactives and the deep dive are separate lazy chunks. Lighthouse (mobile, year page): accessibility 100, best practices 100, SEO 100. Era first-paint timings and CLS were not measured.
+
+Content status (18 October 2026): everyday sections are filled, thinly, for 1900, 1920, 1930, 1945, 1960, 1970, 1984, 1995, 1999, 2005, 2010 and 2020 in both countries; 2050 is empty. `docs/COVERAGE.md` shows what is missing, and `docs/RESEARCH.md` lists the scarcity notes, the sources and the corrections found while checking.

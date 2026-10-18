@@ -119,7 +119,7 @@
       "interactive": {
         "component": "TechThenNow"
       },
-      "scarcityNote": "Only 3 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -278,7 +278,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "freedom-history": {
       "title": "Independence & history",
@@ -398,6 +399,59 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.freedom-history.meghdoot",
+          "kind": "event",
+          "title": "Operation Meghdoot",
+          "summary": "On 13 April 1984 Indian troops marched through the snowbound Zoji La to occupy the peaks and passes of the Siachen Glacier ahead of a planned Pakistani operation, bringing the whole glacier under Indian control.",
+          "eventType": "conflict",
+          "date": "1984-04-13",
+          "place": "Siachen Glacier, Ladakh",
+          "regionTag": "north",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns a military operation and loss of life."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Operation Meghdoot",
+              "url": "https://en.wikipedia.org/wiki/Operation_Meghdoot",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.dd.freedom-history.bsp-founded",
+          "kind": "event",
+          "title": "The Bahujan Samaj Party is founded",
+          "summary": "Kanshi Ram founded the Bahujan Samaj Party on 14 April 1984, Ambedkar's birth anniversary, to represent Scheduled Castes, Scheduled Tribes, Other Backward Classes and minorities.",
+          "eventType": "founding",
+          "date": "1984-04-14",
+          "regionTag": "north",
+          "sources": [
+            {
+              "label": "Wikipedia: Bahujan Samaj Party",
+              "url": "https://en.wikipedia.org/wiki/Bahujan_Samaj_Party",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -416,7 +470,7 @@
           "field": "Politics",
           "born": "1917",
           "whyThisYear": "She was assassinated on 31 October 1984.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "1984",
           "sensitivity": {
             "level": "care",
@@ -436,7 +490,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.1984.dd.personalities.rajiv-gandhi",
@@ -446,7 +501,7 @@
           "field": "Politics",
           "born": "1944",
           "whyThisYear": "He became Prime Minister on 31 October and led Congress to 414 seats in December.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "1991",
           "sources": [
             {
@@ -462,7 +517,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1984.dd.personalities.pt-usha",
@@ -472,7 +528,7 @@
           "field": "Athletics",
           "born": "1964",
           "whyThisYear": "She finished fourth in the Olympic 400 m hurdles, a hundredth of a second behind a bronze.",
-          "regionTag": "national",
+          "regionTag": "south",
           "sources": [
             {
               "label": "Wikipedia: P. T. Usha",
@@ -487,7 +543,8 @@
               "quality": "primary"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.1984.dd.personalities.rakesh-sharma",
@@ -497,7 +554,7 @@
           "field": "Space flight",
           "born": "1949",
           "whyThisYear": "He became the first Indian in space in April 1984.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Rakesh Sharma",
@@ -506,7 +563,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1984.dd.personalities.bachendri-pal",
@@ -516,7 +574,7 @@
           "field": "Mountaineering",
           "born": "1954",
           "whyThisYear": "She became the first Indian woman to reach the summit of Mount Everest, on 23 May 1984.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Bachendri Pal",
@@ -531,33 +589,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
-        },
-        {
-          "id": "in.1984.dd.personalities.zail-singh",
-          "kind": "person",
-          "title": "Zail Singh",
-          "summary": "President, born in 1916.",
-          "field": "Politics",
-          "born": "1916",
-          "whyThisYear": "He was President when Operation Blue Star and the assassination took place.",
-          "regionTag": "national",
-          "died": "1994",
-          "sources": [
-            {
-              "label": "Wikipedia: Zail Singh",
-              "url": "https://en.wikipedia.org/wiki/Zail_Singh",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            },
-            {
-              "label": "Wikipedia: 1984 in India",
-              "url": "https://en.wikipedia.org/wiki/1984_in_India",
-              "accessed": "2026-10-13",
-              "quality": "reference"
-            }
-          ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.1984.dd.personalities.thakazhi",
@@ -567,7 +600,7 @@
           "field": "Literature",
           "born": "1912",
           "whyThisYear": "He was given the 20th Jnanpith Award for lifetime contribution, in 1984.",
-          "regionTag": "national",
+          "regionTag": "south",
           "died": "1999",
           "sources": [
             {
@@ -583,7 +616,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1984.dd.personalities.manohar-shyam-joshi",
@@ -593,7 +627,7 @@
           "field": "Writing for television",
           "born": "1933",
           "whyThisYear": "He wrote Hum Log, India's first soap opera, which began on 7 July 1984.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "2006",
           "sources": [
             {
@@ -609,7 +643,34 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
+        },
+        {
+          "id": "in.1984.dd.personalities.satyajit-ray",
+          "kind": "person",
+          "title": "Satyajit Ray",
+          "summary": "Film-maker, writer and composer of Calcutta.",
+          "field": "Cinema",
+          "gender": "male",
+          "regionTag": "east",
+          "place": "Calcutta (now Kolkata)",
+          "whyThisYear": "His Ghare Baire, after Tagore's novel and finished with his son Sandip's help after two heart attacks in 1983, was released on 22 May 1984 and competed for the Palme d'Or at Cannes.",
+          "sources": [
+            {
+              "label": "Wikipedia: Ghare Baire (film)",
+              "url": "https://en.wikipedia.org/wiki/Ghare_Baire_(film)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -751,7 +812,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -909,7 +971,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -988,7 +1051,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 3 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -1040,7 +1103,7 @@
       "interactive": {
         "component": "ReadingRoom"
       },
-      "scarcityNote": "Only 2 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -1122,12 +1185,72 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1984.dd.cinema.kuttichathan",
+          "kind": "film",
+          "title": "My Dear Kuttichathan",
+          "summary": "India's first 3D film, a Malayalam children's fantasy directed by Jijo Punnoose, was released on 24 August 1984.",
+          "language": "Malayalam",
+          "releaseDate": "1984-08-24",
+          "director": "Jijo Punnoose",
+          "notable": "The first Indian film shot in 3D; a goblin freed from a talisman befriends three children.",
+          "languages": [
+            "Malayalam"
+          ],
+          "regionTag": "south",
+          "date": "1984-08-24",
+          "sources": [
+            {
+              "label": "Wikipedia: My Dear Kuttichathan",
+              "url": "https://en.wikipedia.org/wiki/My_Dear_Kuttichathan",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1984 in India",
+              "url": "https://en.wikipedia.org/wiki/1984_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1984.dd.cinema.ghare-baire",
+          "kind": "film",
+          "title": "Ghare Baire",
+          "summary": "Satyajit Ray's film of Tagore's novel, with Soumitra Chatterjee, Victor Banerjee and Swatilekha Sengupta, released on 22 May 1984.",
+          "language": "Bengali",
+          "releaseDate": "1984-05-22",
+          "director": "Satyajit Ray",
+          "cast": [
+            "Soumitra Chatterjee",
+            "Victor Banerjee",
+            "Swatilekha Sengupta",
+            "Jennifer Kendal"
+          ],
+          "notable": "Competed for the Palme d'Or at Cannes in 1984; the first full kiss in a Ray film.",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "date": "1984-05-22",
+          "sources": [
+            {
+              "label": "Wikipedia: Ghare Baire (film)",
+              "url": "https://en.wikipedia.org/wiki/Ghare_Baire_(film)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
         "component": "ProjectorReel"
       },
-      "scarcityNote": "Only 3 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -1178,7 +1301,7 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "Only 2 items for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
@@ -1246,7 +1369,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 1 item for 1984 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1984 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

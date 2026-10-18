@@ -1,4 +1,4 @@
-import type { CountryId, DeepDive, Era, EraBase, EraId, ResolvedEra } from "./types";
+import type { CountryId, DeepDive, Everyday, Era, EraBase, EraId, ResolvedEra } from "./types";
 import { ERA_YEARS, validateCollection, validateEra } from "./validate.ts";
 import { resolveEra } from "./resolve.ts";
 import { countryById, DEFAULT_COUNTRY } from "./countries/registry";
@@ -18,6 +18,10 @@ export async function getEra(country: CountryId, year: EraId): Promise<ResolvedE
   const entry = countryById(country) ?? countryById(DEFAULT_COUNTRY)!;
   return resolveEra(baseByYear[year], await entry.loadEra(year));
 }
+
+/** One country-year of everyday-life sections (own chunk). */
+export const getEveryday = (country: CountryId, year: EraId): Promise<Everyday> =>
+  (countryById(country) ?? countryById(DEFAULT_COUNTRY)!).loadEveryday(year);
 
 /** A country's deep dive for a year, or null when that country has none (World). */
 export async function getDeepDive(country: CountryId, year: EraId): Promise<DeepDive | null> {

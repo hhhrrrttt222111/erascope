@@ -1,0 +1,466 @@
+{
+  "country": "world",
+  "year": 2005,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "Two in three Americans were online and seven in ten had a mobile phone, a long way from the flip phone's first years.",
+      "items": [
+        {
+          "id": "world.2005.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The United States had about 296 million people in 2005.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "U.S. population (mid-year estimate)",
+          "value": "about 296 million",
+          "unit": "people",
+          "asOf": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A baby born in 2005 could expect to live about 77.5 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "77.5",
+          "unit": "years",
+          "asOf": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "About 68 percent of Americans used the internet in 2005.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "68.0",
+          "unit": "percent of the population",
+          "asOf": "2005",
+          "todo": true
+        },
+        {
+          "id": "world.2005.everyday.by-the-numbers.mobile",
+          "kind": "stat",
+          "title": "Mobile phones",
+          "summary": "There were about 69 mobile subscriptions for every 100 people.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mobile cellular subscriptions (per 100 people)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.CEL.SETS.P2?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Mobile cellular subscriptions",
+          "value": "68.9",
+          "unit": "per 100 people",
+          "asOf": "2005",
+          "todo": true
+        },
+        {
+          "id": "world.2005.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 7 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Infant mortality",
+          "value": "6.8",
+          "unit": "per 1,000 live births",
+          "asOf": "2005",
+          "todo": true
+        },
+        {
+          "id": "world.2005.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and city",
+          "summary": "About 80 percent of Americans lived in urban areas.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Urban population (% of total)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Urban share of the population",
+          "value": "80.2",
+          "unit": "percent",
+          "asOf": "2005",
+          "todo": true
+        }
+      ],
+      "layout": "stats",
+      "scarcityNote": "Literacy, household size, vehicle counts and wages were not found for 2005 from a source we opened. There was no census; population figures are mid-year estimates."
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2005 food prices, appliance counts or meals."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Low-rise jeans and belly shirts ruled the mid-decade, and skinny jeans arrived.",
+      "items": [
+        {
+          "id": "world.2005.everyday.clothing-and-style.low-rise",
+          "kind": "fact",
+          "title": "Low-rise jeans",
+          "summary": "Embroidered low-rise jeans were a popular women's trend from 2003 to 2006, worn with belly shirts and newsboy caps.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2000s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/2000s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.clothing-and-style.skinny-jeans",
+          "kind": "fact",
+          "title": "Skinny jeans",
+          "summary": "Skinny jeans were introduced in 2005 and became popular in 2006.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2000s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/2000s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.clothing-and-style.fast-fashion",
+          "kind": "fact",
+          "title": "Fast fashion",
+          "summary": "In 2004 the fast-fashion retailer H&M collaborated with Karl Lagerfeld on a one-time collection that was a major success; fast fashion consumption was rising, with Zara among the new giants.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2000s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/2000s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2004",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.clothing-and-style.it-items",
+          "kind": "fact",
+          "title": "The 'It' items",
+          "summary": "Velour tracksuits, Ugg boots, Von Dutch trucker hats and boldly logoed purses and sunglasses were sought-after in the mid-2000s, with fast-fashion copies widely available.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2000s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/2000s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.clothing-and-style.crocs-hoodies",
+          "kind": "fact",
+          "title": "Hoodies and Crocs",
+          "summary": "Hoodies were a staple of casual dress, and Crocs were a brief fad for all sexes in summer 2006.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2000s in Western fashion",
+              "url": "https://en.wikipedia.org/wiki/2000s_in_Western_fashion",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2006",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2005 wage, hours or minimum-wage figures."
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2005 school-year or enrolment figures."
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "In late August a million people left the Gulf Coast ahead of a hurricane.",
+      "items": [
+        {
+          "id": "world.2005.everyday.getting-around.katrina-evacuation",
+          "kind": "fact",
+          "title": "Leaving New Orleans",
+          "summary": "Before Hurricane Katrina made landfall on 29 August 2005, a mandatory evacuation of New Orleans was ordered on 28 August and a contraflow plan moved about one million people; about 80 percent of the city left, and Katrina displaced over a million people in all.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hurricane Katrina",
+              "url": "https://en.wikipedia.org/wiki/Hurricane_Katrina",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-08-29",
+          "place": "New Orleans",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns a hurricane that killed more than a thousand people."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 2005 fares, journey times or vehicle counts."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "A video site went online in February.",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2005 postage, text-message or call-rate figures; the sharing sites are in the spotlight."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "",
+      "items": [],
+      "scarcityNote": "We could not find sourced 2005 health figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "New on television: a workplace comedy, an animated Last Airbender and a season of American Idol won by Carrie Underwood.",
+      "items": [
+        {
+          "id": "world.2005.everyday.leisure-and-fun.tv-debuts",
+          "kind": "fact",
+          "title": "New shows",
+          "summary": "American Dad! debuted on 6 February, Avatar: The Last Airbender on 21 February, The Office on 24 March and It's Always Sunny in Philadelphia on 4 August 2005.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.leisure-and-fun.idol",
+          "kind": "fact",
+          "title": "American Idol",
+          "summary": "Carrie Underwood won the fourth season of American Idol on 25 May 2005.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-05-25",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.leisure-and-fun.cinema-2005",
+          "kind": "fact",
+          "title": "At the cinema",
+          "summary": "Million Dollar Baby won Best Picture at the Academy Awards on 27 February; Star Wars: Episode III opened on 19 May and Madagascar on 27 May 2005.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.leisure-and-fun.super-bowl",
+          "kind": "fact",
+          "title": "Super Bowl XXXIX",
+          "summary": "The New England Patriots beat the Philadelphia Eagles 24-21 in Super Bowl XXXIX on 6 February 2005.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-02-06",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.leisure-and-fun.armstrong",
+          "kind": "fact",
+          "title": "A seventh Tour",
+          "summary": "Lance Armstrong won a record seventh straight Tour de France on 24 July 2005.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-07-24",
+          "checked": "2026-10-18"
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Sharing online and the camera phone",
+      "standfirst": "In 2005 a site for uploading and watching home video opened to the public, and by the end of the year it was serving 8 million views a day.",
+      "items": [
+        {
+          "id": "world.2005.everyday.spotlight.youtube-founded",
+          "kind": "fact",
+          "title": "YouTube goes online",
+          "summary": "YouTube was founded on 14 February 2005 by Chad Hurley, Jawed Karim and Steve Chen, former PayPal employees, and went online that month.",
+          "sources": [
+            {
+              "label": "Wikipedia: YouTube",
+              "url": "https://en.wikipedia.org/wiki/YouTube",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-02-14",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.spotlight.first-video",
+          "kind": "fact",
+          "title": "The first video",
+          "summary": "The first video, 'Me at the zoo', showing Jawed Karim at the San Diego Zoo, was uploaded on 23 April 2005, when the public beta began; early clips were capped at 100 megabytes, about 30 seconds.",
+          "sources": [
+            {
+              "label": "Wikipedia: YouTube",
+              "url": "https://en.wikipedia.org/wiki/YouTube",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-04-23",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.spotlight.million-views",
+          "kind": "fact",
+          "title": "One million views",
+          "summary": "By November 2005 a Nike advertisement featuring Ronaldinho was the first video to reach one million views.",
+          "sources": [
+            {
+              "label": "Wikipedia: YouTube",
+              "url": "https://en.wikipedia.org/wiki/YouTube",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-11",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "world.2005.everyday.spotlight.eight-million",
+          "kind": "stat",
+          "title": "Eight million a day",
+          "summary": "When YouTube left beta in December 2005 it was getting 8 million views a day; by July 2006 it had 100 million views a day and 65,000 new videos uploaded daily.",
+          "sources": [
+            {
+              "label": "Wikipedia: YouTube",
+              "url": "https://en.wikipedia.org/wiki/YouTube",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "YouTube views per day",
+          "value": "8 million (December 2005)",
+          "unit": "views per day",
+          "asOf": "2005-12",
+          "todo": true
+        },
+        {
+          "id": "world.2005.everyday.spotlight.reddit",
+          "kind": "fact",
+          "title": "Reddit",
+          "summary": "Reddit launched on 23 June 2005.",
+          "sources": [
+            {
+              "label": "Wikipedia: 2005 in the United States",
+              "url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2005-06-23",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures for camera-phone ownership or photo sharing in 2005, so the section is about video."
+    }
+  }
+}

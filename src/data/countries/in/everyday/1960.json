@@ -1,0 +1,669 @@
+{
+  "country": "in",
+  "year": 1960,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "About 436 million people, nine in ten of them in villages, a quarter of them able to read, and a baby had a one-in-seven chance of dying in its first year.",
+      "items": [
+        {
+          "id": "in.1960.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "How many Indians",
+          "summary": "India's population was about 436 million in 1960; the census of 1961 counted a little over 439 million.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "435,990,338",
+          "unit": "people",
+          "asOf": "1960",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A newborn in 1960 could expect to live about 46 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "45.6",
+          "unit": "years",
+          "asOf": "1960",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.everyday.by-the-numbers.literacy",
+          "kind": "stat",
+          "title": "Who could read",
+          "summary": "At the 1961 census about a quarter to 28 percent of people could read and write, 34 to 40 percent of men and 13 to 15 percent of women.",
+          "sources": [
+            {
+              "label": "Wikipedia: Literacy in India",
+              "url": "https://en.wikipedia.org/wiki/Literacy_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2011 Census of India",
+              "url": "https://en.wikipedia.org/wiki/2011_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Literacy rate (census 1961)",
+          "value": "24.0 to 28.3",
+          "unit": "percent",
+          "asOf": "1961",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.everyday.by-the-numbers.urban-share",
+          "kind": "stat",
+          "title": "Town and village",
+          "summary": "About 18 percent of Indians lived in towns and cities.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Urban population (% of total)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.URB.TOTL.IN.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Urban share of the population",
+          "value": "17.9",
+          "unit": "percent",
+          "asOf": "1960",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 150 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns the deaths of infants."
+          },
+          "metric": "Infant mortality",
+          "value": "150.4",
+          "unit": "per 1,000 live births",
+          "asOf": "1960",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.by-the-numbers.fertility",
+          "kind": "stat",
+          "title": "Births per woman",
+          "summary": "The fertility rate was 5.9 births per woman.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Fertility rate, total (births per woman)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Total fertility rate",
+          "value": "5.92",
+          "unit": "births per woman",
+          "asOf": "1960",
+          "todo": true
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "India imported large amounts of wheat from the US under PL-480 agreements to cover shortfalls.",
+      "items": [
+        {
+          "id": "in.1960.everyday.food-and-kitchen.pl480-wheat",
+          "kind": "fact",
+          "title": "Imported wheat",
+          "summary": "India imported large amounts of wheat from the US under PL-480 agreements to cover shortfalls.",
+          "sources": [
+            {
+              "label": "Wikipedia: Public Law 480",
+              "url": "https://en.wikipedia.org/wiki/Public_Law_480",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.food-and-kitchen.vanaspati",
+          "kind": "fact",
+          "title": "Vanaspati ghee",
+          "summary": "Vanaspati, sold in tins as a cheaper substitute for ghee, was widely used in cooking.",
+          "sources": [
+            {
+              "label": "Wikipedia: Vanaspati",
+              "url": "https://en.wikipedia.org/wiki/Vanaspati",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.food-and-kitchen.coffee-house",
+          "kind": "fact",
+          "title": "India Coffee House",
+          "summary": "The Indian Coffee Workers' Co-operative opened the first India Coffee House chain outlets in the 1950s, with waiters in turbans.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian Coffee House",
+              "url": "https://en.wikipedia.org/wiki/Indian_Coffee_House",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.food-and-kitchen.kerosene-stove",
+          "kind": "fact",
+          "title": "Kerosene stoves",
+          "summary": "Kerosene and Primus stoves were spreading in towns, while villages still cooked on wood and dung.",
+          "sources": [
+            {
+              "label": "Wikipedia: Kerosene",
+              "url": "https://en.wikipedia.org/wiki/Kerosene",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "The bandhgala-style jacket, linked with Nehru, became formal wear for politicians and officials.",
+      "items": [
+        {
+          "id": "in.1960.everyday.clothing-and-style.nehru-jacket",
+          "kind": "fact",
+          "title": "The Nehru jacket",
+          "summary": "The bandhgala-style jacket, linked with Nehru, became formal wear for politicians and officials.",
+          "sources": [
+            {
+              "label": "Wikipedia: Nehru jacket",
+              "url": "https://en.wikipedia.org/wiki/Nehru_jacket",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.clothing-and-style.mill-cloth",
+          "kind": "fact",
+          "title": "Mill cloth and khadi",
+          "summary": "Mills made most of the cloth sold, and khadi was promoted by the Khadi and Village Industries Commission set up in 1957.",
+          "sources": [
+            {
+              "label": "Wikipedia: Khadi and Village Industries Commission",
+              "url": "https://en.wikipedia.org/wiki/Khadi_and_Village_Industries_Commission",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.clothing-and-style.bata-shoes",
+          "kind": "fact",
+          "title": "Bata shoes",
+          "summary": "Bata sold mass-made shoes, with a factory at Batanagar near Calcutta.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bata India",
+              "url": "https://en.wikipedia.org/wiki/Bata_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "The government built steel plants at Bhilai, Rourkela and Durgapur under the Second Five-Year Plan (1956-61).",
+      "items": [
+        {
+          "id": "in.1960.everyday.work-and-wages.steel-plants",
+          "kind": "fact",
+          "title": "Steel plants of the Second Plan",
+          "summary": "The government built steel plants at Bhilai, Rourkela and Durgapur under the Second Five-Year Plan (1956-61).",
+          "sources": [
+            {
+              "label": "Wikipedia: Second Five-Year Plan (India)",
+              "url": "https://en.wikipedia.org/wiki/Second_Five-Year_Plan_(India)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.work-and-wages.minimum-wages",
+          "kind": "fact",
+          "title": "Minimum Wages Act",
+          "summary": "The Minimum Wages Act of 1948 let governments fix minimum pay for listed jobs.",
+          "sources": [
+            {
+              "label": "Wikipedia: Minimum Wages Act, 1948",
+              "url": "https://en.wikipedia.org/wiki/Minimum_Wages_Act,_1948",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.work-and-wages.dabbawala",
+          "kind": "fact",
+          "title": "Bombay's dabbawalas",
+          "summary": "Dabbawalas carried home-cooked lunches to office workers in Bombay by train and bicycle.",
+          "sources": [
+            {
+              "label": "Wikipedia: Dabbawala",
+              "url": "https://en.wikipedia.org/wiki/Dabbawala",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "IIT Kharagpur (1951), Bombay (1958), Madras (1959) and Kanpur (1959) were set up with foreign help.",
+      "items": [
+        {
+          "id": "in.1960.everyday.school-and-childhood.iits",
+          "kind": "fact",
+          "title": "The first IITs",
+          "summary": "IIT Kharagpur (1951), Bombay (1958), Madras (1959) and Kanpur (1959) were set up with foreign help.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian Institutes of Technology",
+              "url": "https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.school-and-childhood.mid-day-meal-madras",
+          "kind": "fact",
+          "title": "Meals at school in Madras",
+          "summary": "Chief Minister Kamaraj began serving free midday meals in schools in Madras state in the 1950s to keep poor children in class.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mid-Day Meal Scheme",
+              "url": "https://en.wikipedia.org/wiki/Mid-Day_Meal_Scheme",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.school-and-childhood.art-45",
+          "kind": "fact",
+          "title": "Free schooling as a goal",
+          "summary": "Article 45 of the Constitution asked the state to provide free and compulsory education to age 14 by 1960, a target that was missed.",
+          "sources": [
+            {
+              "label": "Wikipedia: Education in India",
+              "url": "https://en.wikipedia.org/wiki/Education_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "Air India began flights to New York in 1960.",
+      "items": [
+        {
+          "id": "in.1960.everyday.getting-around.air-india-ny",
+          "kind": "fact",
+          "title": "Air India to New York",
+          "summary": "Air India began flights to New York in 1960.",
+          "sources": [
+            {
+              "label": "Wikipedia: 1960 in India",
+              "url": "https://en.wikipedia.org/wiki/1960_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1960 railway or bus fares, or journey times."
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "The radio was licensed, and its second national channel carried advertisements.",
+      "items": [
+        {
+          "id": "in.1960.everyday.keeping-in-touch.licence-fee",
+          "kind": "fact",
+          "title": "A licence for the radio",
+          "summary": "In 1956 a minister told the Rajya Sabha that the radio licence fee had been raised from Rs 10 to Rs 15 because of administrative costs.",
+          "sources": [
+            {
+              "label": "Rajya Sabha debates, 3 May 1956: radio licence fee (question)",
+              "url": "https://rsdebate.nic.in/bitstream/123456789/577820/1/PQ_13_03051956_S113_p1167_p1169.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1956",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.everyday.keeping-in-touch.vb-ads",
+          "kind": "fact",
+          "title": "Advertising on the air",
+          "summary": "Commercials were introduced on the Vividh Bharati service in 1957 on an experimental basis; its mix of film music, skits and short plays was meant to draw listeners from Radio Ceylon.",
+          "sources": [
+            {
+              "label": "Wikipedia: Vividh Bharati",
+              "url": "https://en.wikipedia.org/wiki/Vividh_Bharati",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1957",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.1960.technology.vividh-bharati"
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1960 postal, telegram or telephone figures."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "Smallpox was still common, and India accounted for most of the world's cases.",
+      "items": [
+        {
+          "id": "in.1960.everyday.health-and-medicine.smallpox-1960",
+          "kind": "stat",
+          "title": "Smallpox",
+          "summary": "A table in a 1962 newspaper lists about 31,052 attacks and 7,871 deaths from smallpox in India in 1960, down from about 106,500 attacks in 1958.",
+          "sources": [
+            {
+              "label": "Himalayan Times, 1962 (Heidelberg digital library): smallpox attacks and deaths table",
+              "url": "https://digi.ub.uni-heidelberg.de/diglit/himalayan_times1962/0292",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes deaths from disease."
+          },
+          "metric": "Smallpox attacks in India",
+          "value": "about 31,052",
+          "unit": "attacks",
+          "asOf": "1960",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.health-and-medicine.smallpox-share",
+          "kind": "fact",
+          "title": "A world share",
+          "summary": "In the early 1960s India accounted for nearly 60 percent of the reported smallpox cases in the world, and the national eradication programme began in 1961-62.",
+          "sources": [
+            {
+              "label": "University of Michigan Library: Smallpox in India, pre-1972",
+              "url": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/smallpox-eradication-india/indian-engages-pandemic/smallpox-in-india",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item describes deaths from disease."
+          },
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced figures on doctors, hospitals or other diseases for 1960."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "K. Asif's epic Mughal-e-Azam was released in August 1960 and broke box-office records.",
+      "items": [
+        {
+          "id": "in.1960.everyday.leisure-and-fun.mughal-e-azam",
+          "kind": "fact",
+          "title": "Mughal-e-Azam",
+          "summary": "K. Asif's epic Mughal-e-Azam was released in August 1960 and broke box-office records.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mughal-e-Azam",
+              "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.leisure-and-fun.binaca-geetmala",
+          "kind": "fact",
+          "title": "Binaca Geetmala",
+          "summary": "Ameen Sayani's countdown of film songs on Radio Ceylon, begun in 1952, was a weekly habit for listeners across India.",
+          "sources": [
+            {
+              "label": "Wikipedia: Binaca Geetmala",
+              "url": "https://en.wikipedia.org/wiki/Binaca_Geetmala",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.leisure-and-fun.milkha-rome",
+          "kind": "fact",
+          "title": "Milkha Singh at Rome",
+          "summary": "Milkha Singh finished fourth in the 400 metres at the 1960 Rome Olympics, just missing a medal.",
+          "sources": [
+            {
+              "label": "Wikipedia: Milkha Singh",
+              "url": "https://en.wikipedia.org/wiki/Milkha_Singh",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1960.everyday.leisure-and-fun.test-cricket-60",
+          "kind": "fact",
+          "title": "Cricket and the radio",
+          "summary": "Test series against Pakistan in 1960-61 were followed on radio commentary.",
+          "sources": [
+            {
+              "label": "Wikipedia: India cricket team",
+              "url": "https://en.wikipedia.org/wiki/India_cricket_team",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "The new steel and project towns of the Five-Year Plans",
+      "standfirst": "Three steel plants built with Soviet, British and West German help began producing in 1959, and around them grew planned townships.",
+      "items": [
+        {
+          "id": "in.1960.everyday.spotlight.three-partners",
+          "kind": "fact",
+          "title": "Three plants, three partners",
+          "summary": "Under the Second Five-Year Plan Bhilai was built with the Soviet Union, Durgapur with Britain and Rourkela with West Germany.",
+          "sources": [
+            {
+              "label": "Wikipedia: Second Five-Year Plan (India)",
+              "url": "https://en.wikipedia.org/wiki/Second_Five-Year_Plan_(India)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.everyday.spotlight.rourkela-parvati",
+          "kind": "fact",
+          "title": "Rourkela's first furnace",
+          "summary": "President Rajendra Prasad opened Rourkela's first blast furnace, 'Parvati', on 3 February 1959, the plant's official founding date.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rourkela Steel Plant",
+              "url": "https://en.wikipedia.org/wiki/Rourkela_Steel_Plant",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1959-02-03",
+          "place": "Rourkela",
+          "regionTag": "east",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.everyday.spotlight.rourkela-displaced",
+          "kind": "fact",
+          "title": "The villages that made way",
+          "summary": "More than 30 villages were displaced for Rourkela, and about 13,000 to 16,000 people, mostly Adivasi, were resettled in colonies such as Jalda, Jhirpani and Bondamunda; the article says compensation was inadequate and promised jobs were often delayed.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rourkela Steel Plant",
+              "url": "https://en.wikipedia.org/wiki/Rourkela_Steel_Plant",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns the forced resettlement of Adivasi families."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.everyday.spotlight.bhilai-township",
+          "kind": "fact",
+          "title": "A township of 13 sectors",
+          "summary": "Bhilai's planned township was laid out in 13 sectors, the plant provided subsidised education, healthcare and housing, and a once rural area became a cosmopolitan community with workers from across India.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bhilai Steel Plant",
+              "url": "https://en.wikipedia.org/wiki/Bhilai_Steel_Plant",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "place": "Bhilai",
+          "regionTag": "central",
+          "relatedIds": [
+            "in.1960.technology.bhilai"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1960.everyday.spotlight.durgapur-plant",
+          "kind": "fact",
+          "title": "Durgapur",
+          "summary": "Durgapur's plant, set up with British help, began operating in 1959 for a planned one million tonnes of crude steel a year, in what grew into the largest industrial unit in West Bengal.",
+          "sources": [
+            {
+              "label": "Wikipedia: Durgapur Steel Plant",
+              "url": "https://en.wikipedia.org/wiki/Durgapur_Steel_Plant",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1959",
+          "place": "Durgapur",
+          "regionTag": "east",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced wages, housing allotments or population for the steel towns in 1960."
+    }
+  }
+}

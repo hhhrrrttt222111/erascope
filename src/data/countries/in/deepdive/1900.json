@@ -120,6 +120,35 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.technology-science.sidrapong",
+          "kind": "tech",
+          "title": "Sidrapong, India's first hydroelectric station",
+          "summary": "Commissioned on 10 November 1897 near Darjeeling with two 65 kW units, it was the first hydroelectric power station in India.",
+          "availability": "urban",
+          "firstInIndia": "First hydroelectric power station in India",
+          "place": "Darjeeling",
+          "regionTag": "east",
+          "context": true,
+          "relatedIds": [
+            "in.1900.dd.technology-science.radio-waves"
+          ],
+          "sources": [
+            {
+              "label": "Wikipedia: Sidrapong Hydroelectric Power Station",
+              "url": "https://en.wikipedia.org/wiki/Sidrapong_Hydroelectric_Power_Station",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "IEEE Milestone proposal: Sidrapong Hydel Power Station, 1897 (ETHW)",
+              "url": "https://ieeemilestones.ethw.org/Milestone-Proposal:Sidrapong_Hydel_Power_Station,_1897",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -153,7 +182,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -262,6 +292,31 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.government-politics.prisoners-act",
+          "kind": "governance",
+          "title": "The Prisoners Act, 1900",
+          "summary": "Act No. 3 of 1900, dated 2 February 1900, consolidated the law on people confined by order of a court and set the duties of prison officers.",
+          "office": "Governor-General in Council",
+          "instrument": "Act No. 3 of 1900",
+          "date": "1900-02-02",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "India Code: The Prisoners Act, 1900",
+              "url": "https://www.indiacode.nic.in/bitstream/123456789/12898/3/prisoners.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Government of Gujarat Home Department: The Prisoners Act 1900",
+              "url": "https://home.gujarat.gov.in/Upload/The_Prisoners_Act_1900_home_1_1_1.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -453,7 +508,8 @@
       ],
       "interactive": {
         "component": "ChronicleScroll"
-      }
+      },
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice."
     },
     "personalities": {
       "title": "Famous personalities",
@@ -482,7 +538,8 @@
               "quality": "secondary"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1900.dd.personalities.swami-vivekananda",
@@ -501,7 +558,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1900.dd.personalities.rabindranath-tagore",
@@ -526,7 +584,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1900.dd.personalities.birsa-munda",
@@ -550,7 +609,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1900.dd.personalities.norman-pritchard",
@@ -576,7 +636,8 @@
               "quality": "primary"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1900.dd.personalities.waldemar-haffkine",
@@ -596,7 +657,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.1900.dd.personalities.mohandas-gandhi",
@@ -624,23 +686,36 @@
           "checked": "2026-10-13"
         },
         {
-          "id": "in.1900.dd.personalities.ranjitsinhji",
+          "id": "in.1900.dd.personalities.pandita-ramabai",
           "kind": "person",
-          "title": "Ranjitsinhji",
-          "summary": "Cricketer born in Kathiawar in 1872, later Jam Sahib of Nawanagar.",
-          "field": "Cricket",
-          "born": "1872",
-          "whyThisYear": "He scored 3,065 runs for Sussex in the 1900 English season.",
+          "title": "Pandita Ramabai",
+          "summary": "Scholar, social reformer and Christian missionary who sheltered destitute girls and widows at Mukti Mission, Kedgaon.",
+          "field": "Social reform and education",
+          "born": "1858-04-23",
+          "died": "1922-04-05",
+          "gender": "female",
           "regionTag": "west",
+          "place": "Kedgaon, near Pune",
+          "whyThisYear": "The famine of 1899-1900 filled her mission: by 1900 it held about 1,500 residents, and almost 2,000 by 1901, including people rescued from the Gujarat famine.",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item mentions famine and the rescue of destitute children."
+          },
           "sources": [
             {
-              "label": "Wikipedia: Ranjitsinhji",
-              "url": "https://en.wikipedia.org/wiki/Ranjitsinhji",
-              "accessed": "2026-10-13",
+              "label": "Wikipedia: Pandita Ramabai",
+              "url": "https://en.wikipedia.org/wiki/Pandita_Ramabai",
+              "accessed": "2026-10-18",
               "quality": "reference"
+            },
+            {
+              "label": "Mukti Mission (New Zealand): Pandita Ramabai's story",
+              "url": "https://mukti.org.nz/pandita-ramabai/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -770,7 +845,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -891,6 +967,33 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.sports.presidency-match",
+          "kind": "sport",
+          "title": "The Presidency Match",
+          "summary": "By 1900 the Europeans against Parsis match was the highlight of the Bombay cricket season; in 19 matches each side had won eight and three were drawn.",
+          "sport": "Cricket",
+          "competition": "Presidency Match (Europeans v Parsis), Bombay",
+          "result": "Series level: 8 wins each, 3 draws in 19 matches",
+          "athletes": [],
+          "regionTag": "west",
+          "place": "Bombay (now Mumbai)",
+          "sources": [
+            {
+              "label": "Wikipedia: Bombay Tournament (cricket)",
+              "url": "https://en.wikipedia.org/wiki/Bombay_Tournament_(cricket)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: History of cricket in India to 1918",
+              "url": "https://en.wikipedia.org/wiki/History_of_cricket_in_India_to_1918",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -930,7 +1033,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -1010,12 +1114,45 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.literature.kahini",
+          "kind": "work",
+          "title": "Kahini",
+          "summary": "Rabindranath Tagore's book of narrative poems, published in 1900.",
+          "workType": "poetry",
+          "creator": "Rabindranath Tagore",
+          "originalTitle": {
+            "text": "কাহিনী",
+            "lang": "bn"
+          },
+          "transliteration": "Kahini",
+          "translatedTitle": "Tales",
+          "languages": [
+            "Bengali"
+          ],
+          "regionTag": "east",
+          "sources": [
+            {
+              "label": "Wikipedia: Kahini (poetry collection)",
+              "url": "https://en.wikipedia.org/wiki/Kahini_(poetry_collection)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Visva-Bharati: Bengali works of Rabindranath Tagore",
+              "url": "https://visvabharati.ac.in/Bengali.html",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 3 items for 1900 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -1114,7 +1251,8 @@
       ],
       "interactive": {
         "component": "ReadingRoom"
-      }
+      },
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -1202,7 +1340,7 @@
       "interactive": {
         "component": "ProjectorReel"
       },
-      "scarcityNote": "No Indian film dated to 1900 itself was found in the sources opened; the items below are the earliest Indian film activity those sources describe."
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -1288,7 +1426,8 @@
       ],
       "interactive": {
         "component": "RiyaazRoom"
-      }
+      },
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
@@ -1343,6 +1482,26 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.1900.dd.economy-business.farm-wage",
+          "kind": "indicator",
+          "title": "An agricultural labourer's monthly wage",
+          "summary": "An able-bodied agricultural labourer earned on average Rs 6.5 to 7.0 a month across India in 1896-1900.",
+          "metric": "Average monthly wage of an able-bodied agricultural labourer",
+          "value": "6.5 to 7.0",
+          "unit": "rupees per month",
+          "asOf": "1896-1900",
+          "regionTag": "national",
+          "sources": [
+            {
+              "label": "The Imperial Gazetteer of India, The Indian Empire, vol. III: Economic (1907), ch. IX, Appendix table I, via the Internet Archive",
+              "url": "https://archive.org/details/the-imperial-gazetteer-of-india-volume-3",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "todo": true
         }
       ],
       "interactive": {
@@ -1385,7 +1544,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 2 items for 1900 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 1900 only items that could be checked against two sources were kept; documentation for this year is thin and the section is short by the sources, not by choice. Only one indicator is not already on the year page or in the Prices board."
     }
   }
 }

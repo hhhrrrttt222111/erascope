@@ -28,13 +28,13 @@ export default function ProjectorReel(props: InteractiveProps) {
         sx={{ position: "relative", background: "#0c0c0c", p: 2, borderRadius: 1, overflow: "hidden", outlineOffset: 3 }}
       >
         <Box aria-hidden sx={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", background: "radial-gradient(ellipse at 50% 0%, rgba(255,240,200,0.28), transparent 70%)", pointerEvents: "none" }} />
-        <Box sx={{ display: "flex", gap: 1, overflowX: "auto", position: "relative", pb: 1 }}>
-          {films.map((film, n) => (
+        <Box sx={{ display: "flex", gap: 1, overflowX: "auto", position: "relative", pb: 1, scrollSnapType: "x mandatory" }}>
+          {films.map((film, n) => Math.abs(n - i) <= 2 && (
             <Button
               key={film.id}
               onClick={() => setI(n)}
               aria-current={n === i}
-              sx={{ flex: "0 0 auto", minWidth: 120, height: 84, background: n === i ? accent : "#222", color: "#fff", border: "4px dashed #777", fontFamily: accentFamily, "&:hover": { background: n === i ? accent : "#333" } }}
+              sx={{ flex: "0 0 auto", scrollSnapAlign: "center", minWidth: 120, height: 84, background: n === i ? accent : "#222", color: "#fff", border: "4px dashed #777", fontFamily: accentFamily, "&:hover": { background: n === i ? accent : "#333" } }}
             >
               {film.title}
             </Button>
@@ -59,6 +59,12 @@ export default function ProjectorReel(props: InteractiveProps) {
       <Box sx={{ mt: 1 }}>
         <Button onClick={() => move(-1)}>Previous</Button>
         <Button onClick={() => move(1)}>Next</Button>
+        <Typography component="span" variant="caption" aria-live="polite" sx={{ ml: 1 }}>{i + 1} of {films.length}</Typography>
+      </Box>
+      <Box sx={{ display: "flex", gap: 0.5, mt: 0.5 }}>
+        {films.map((film, n) => (
+          <Box key={film.id} component="button" type="button" onClick={() => setI(n)} aria-label={`Film ${n + 1}: ${film.title}`} aria-current={n === i} sx={{ width: 14, height: 14, p: 0, borderRadius: "50%", border: `2px solid ${accent}`, background: n === i ? accent : "transparent", cursor: "pointer" }} />
+        ))}
       </Box>
     </InteractiveShell>
   );

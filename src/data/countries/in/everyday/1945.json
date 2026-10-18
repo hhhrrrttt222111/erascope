@@ -1,0 +1,669 @@
+{
+  "country": "in",
+  "year": 1945,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "The 1941 census counted about 319 million people in British India and the princely states.",
+      "items": [
+        {
+          "id": "in.1945.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "The 1941 census counted about 319 million people in British India and the princely states.",
+          "sources": [
+            {
+              "label": "Wikipedia: Demographics of India",
+              "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "about 319 million",
+          "unit": "people",
+          "asOf": "1941",
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.by-the-numbers.literacy",
+          "kind": "stat",
+          "title": "Who could read",
+          "summary": "About 16 percent of people were literate at the 1941 census.",
+          "sources": [
+            {
+              "label": "Wikipedia: Literacy in India",
+              "url": "https://en.wikipedia.org/wiki/Literacy_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Literacy rate",
+          "value": "about 16",
+          "unit": "percent",
+          "asOf": "1941",
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy",
+          "summary": "Life expectancy at birth was about 32 years around the 1940s.",
+          "sources": [
+            {
+              "label": "Wikipedia: Demographics of India",
+              "url": "https://en.wikipedia.org/wiki/Demographics_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "about 32",
+          "unit": "years",
+          "asOf": "1941-50",
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.by-the-numbers.soldiers",
+          "kind": "stat",
+          "title": "Volunteer army",
+          "summary": "India raised the largest all-volunteer army of the war, over 2.5 million men.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian Army during World War II",
+              "url": "https://en.wikipedia.org/wiki/Indian_Army_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Indian troops in WWII",
+          "value": "over 2.5 million",
+          "unit": "men",
+          "asOf": "1945",
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.by-the-numbers.famine-deaths",
+          "kind": "stat",
+          "title": "The Bengal famine",
+          "summary": "Estimates of deaths in the Bengal famine of 1943-44 run to between 2 and 3 million.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bengal famine of 1943",
+              "url": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Deaths in the Bengal famine",
+          "value": "2 to 3 million",
+          "unit": "people",
+          "asOf": "1943-44",
+          "regionTag": "east",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Wartime shortages reached the dining table, even at Bombay's Irani cafés.",
+      "items": [
+        {
+          "id": "in.1945.everyday.food-and-kitchen.britannia-one-dish",
+          "kind": "fact",
+          "title": "One dish per customer",
+          "summary": "At Britannia, the Irani restaurant in Ballard Estate, Bombay, wartime rules allowed one dish per customer and rationed the pav; the food commissioner's office was upstairs, so checks were common.",
+          "sources": [
+            {
+              "label": "Scroll.in: Britannia and Co. (Irani restaurant, Ballard Estate)",
+              "url": "https://scroll.in/magazine/835010/scroll_in",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1945 meals, kitchens or prices; wartime controls are in the spotlight."
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Mills had to make a fixed share of cheap standard cloth, sold at a controlled price, because of wartime shortage.",
+      "items": [
+        {
+          "id": "in.1945.everyday.clothing-and-style.controlled-cloth",
+          "kind": "fact",
+          "title": "Controlled cloth",
+          "summary": "Mills had to make a fixed share of cheap standard cloth, sold at a controlled price, because of wartime shortage.",
+          "sources": [
+            {
+              "label": "Wikipedia: Economy of India under British rule",
+              "url": "https://en.wikipedia.org/wiki/Economy_of_India_under_British_rule",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.clothing-and-style.uniform-cloth",
+          "kind": "fact",
+          "title": "Cloth for the army",
+          "summary": "Mills were turned to making uniforms and tents, leaving less cloth for homes.",
+          "sources": [
+            {
+              "label": "Wikipedia: Indian Army during World War II",
+              "url": "https://en.wikipedia.org/wiki/Indian_Army_during_World_War_II",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.clothing-and-style.khadi-1945",
+          "kind": "fact",
+          "title": "Khadi after Quit India",
+          "summary": "Khadi stayed a symbol of the nationalist movement, and Gandhi's followers spun yarn at charkhas.",
+          "sources": [
+            {
+              "label": "Wikipedia: Khadi",
+              "url": "https://en.wikipedia.org/wiki/Khadi",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "Ordnance factories, steel works and textile mills ran at full pace for the war.",
+      "items": [
+        {
+          "id": "in.1945.everyday.work-and-wages.war-factories",
+          "kind": "fact",
+          "title": "Factories at full pace",
+          "summary": "Ordnance factories, steel works and textile mills ran at full pace for the war.",
+          "sources": [
+            {
+              "label": "Wikipedia: Economy of India under British rule",
+              "url": "https://en.wikipedia.org/wiki/Economy_of_India_under_British_rule",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.work-and-wages.dearness-allowance",
+          "kind": "fact",
+          "title": "Dearness allowance",
+          "summary": "Wartime price rises led employers to pay a dearness allowance on top of wages.",
+          "sources": [
+            {
+              "label": "Wikipedia: Dearness allowance",
+              "url": "https://en.wikipedia.org/wiki/Dearness_allowance",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.work-and-wages.wac-i",
+          "kind": "fact",
+          "title": "Women in uniform",
+          "summary": "The Women's Auxiliary Corps (India) was formed in 1942, and women worked as drivers, clerks and nurses for the forces.",
+          "sources": [
+            {
+              "label": "Wikipedia: Women's Auxiliary Corps (India)",
+              "url": "https://en.wikipedia.org/wiki/Women's_Auxiliary_Corps_(India)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "The Sargent Report of 1944 proposed free and compulsory schooling for children from 6 to 14 over about 40 years.",
+      "items": [
+        {
+          "id": "in.1945.everyday.school-and-childhood.sargent-plan",
+          "kind": "fact",
+          "title": "The Sargent plan",
+          "summary": "The Sargent Report of 1944 proposed free and compulsory schooling for children from 6 to 14 over about 40 years.",
+          "sources": [
+            {
+              "label": "Wikipedia: Education in India",
+              "url": "https://en.wikipedia.org/wiki/Education_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.school-and-childhood.quit-india-colleges",
+          "kind": "fact",
+          "title": "Colleges and the Quit India movement",
+          "summary": "Students took part in the Quit India movement of 1942, and some colleges were closed.",
+          "sources": [
+            {
+              "label": "Wikipedia: Quit India Movement",
+              "url": "https://en.wikipedia.org/wiki/Quit_India_Movement",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.school-and-childhood.vernacular-schools",
+          "kind": "fact",
+          "title": "Village schools",
+          "summary": "Most children in rural schools learned the three Rs in their own language, and many dropped out early to work.",
+          "sources": [
+            {
+              "label": "Wikipedia: Education in India",
+              "url": "https://en.wikipedia.org/wiki/Education_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "The railways were pressed into carrying troops and supplies, and passenger services were cut.",
+      "items": [
+        {
+          "id": "in.1945.everyday.getting-around.rail-war",
+          "kind": "fact",
+          "title": "Railways at war",
+          "summary": "The railways were pressed into carrying troops and supplies, and passenger services were cut.",
+          "sources": [
+            {
+              "label": "Wikipedia: Rail transport in India",
+              "url": "https://en.wikipedia.org/wiki/Rail_transport_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.getting-around.howrah-bridge",
+          "kind": "fact",
+          "title": "Howrah Bridge",
+          "summary": "The Howrah Bridge across the Hooghly opened to traffic in 1943 during the war.",
+          "sources": [
+            {
+              "label": "Wikipedia: Howrah Bridge",
+              "url": "https://en.wikipedia.org/wiki/Howrah_Bridge",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.getting-around.hal-1940",
+          "kind": "fact",
+          "title": "Aircraft at Bangalore",
+          "summary": "Hindustan Aircraft was founded at Bangalore in 1940 to assemble and repair aircraft for the Allied war effort.",
+          "sources": [
+            {
+              "label": "Wikipedia: Hindustan Aeronautics Limited",
+              "url": "https://en.wikipedia.org/wiki/Hindustan_Aeronautics_Limited",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        }
+      ]
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "Wartime censors opened letters to and from soldiers and in some places the public.",
+      "items": [
+        {
+          "id": "in.1945.everyday.keeping-in-touch.postal-censorship",
+          "kind": "fact",
+          "title": "Letters were read",
+          "summary": "Wartime censors opened letters to and from soldiers and in some places the public.",
+          "sources": [
+            {
+              "label": "Wikipedia: Postal censorship",
+              "url": "https://en.wikipedia.org/wiki/Postal_censorship",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.keeping-in-touch.air-news",
+          "kind": "fact",
+          "title": "News on the radio",
+          "summary": "All India Radio broadcast war news, and the BBC began a Hindustani service in 1940.",
+          "sources": [
+            {
+              "label": "Wikipedia: All India Radio",
+              "url": "https://en.wikipedia.org/wiki/All_India_Radio",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.keeping-in-touch.newspaper-shortage",
+          "kind": "fact",
+          "title": "Newsprint was short",
+          "summary": "Paper shortages limited the size of newspapers during the war.",
+          "sources": [
+            {
+              "label": "Wikipedia: Newspapers in India",
+              "url": "https://en.wikipedia.org/wiki/Newspapers_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        }
+      ]
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "In 1943-44 malaria and cholera followed famine in Bengal and caused many deaths.",
+      "items": [
+        {
+          "id": "in.1945.everyday.health-and-medicine.famine-disease",
+          "kind": "fact",
+          "title": "Disease after famine",
+          "summary": "In 1943-44 malaria and cholera followed famine in Bengal and caused many deaths.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bengal famine of 1943",
+              "url": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        },
+        {
+          "id": "in.1945.everyday.health-and-medicine.bhore-committee",
+          "kind": "fact",
+          "title": "The Bhore Committee",
+          "summary": "A committee under Joseph Bhore, set up in 1943, reported in 1946 and recommended a national health service built on primary health centres.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bhore Committee",
+              "url": "https://en.wikipedia.org/wiki/Bhore_Committee",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.health-and-medicine.penicillin-war",
+          "kind": "fact",
+          "title": "Penicillin comes",
+          "summary": "Penicillin reached military hospitals in India during the war, but was not available to most civilians.",
+          "sources": [
+            {
+              "label": "Wikipedia: Penicillin",
+              "url": "https://en.wikipedia.org/wiki/Penicillin",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true,
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          }
+        }
+      ]
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "The film Kismet (1943) ran for over three years at a Calcutta cinema.",
+      "items": [
+        {
+          "id": "in.1945.everyday.leisure-and-fun.kismet",
+          "kind": "fact",
+          "title": "Kismet in Calcutta",
+          "summary": "The film Kismet (1943) ran for over three years at a Calcutta cinema.",
+          "sources": [
+            {
+              "label": "Wikipedia: Kismet (1943 film)",
+              "url": "https://en.wikipedia.org/wiki/Kismet_(1943_film)",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.leisure-and-fun.film-stock",
+          "kind": "fact",
+          "title": "Raw film was rationed",
+          "summary": "The government rationed raw film stock, which limited the length and number of films.",
+          "sources": [
+            {
+              "label": "Wikipedia: Cinema of India",
+              "url": "https://en.wikipedia.org/wiki/Cinema_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.leisure-and-fun.ranji",
+          "kind": "fact",
+          "title": "Ranji Trophy",
+          "summary": "The Ranji Trophy, begun in 1934, was India's main first-class cricket competition.",
+          "sources": [
+            {
+              "label": "Wikipedia: Ranji Trophy",
+              "url": "https://en.wikipedia.org/wiki/Ranji_Trophy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "spotlight": {
+      "title": "Ration cards and wartime controls",
+      "standfirst": "Rationing came to India's cities in 1943: a card for each family, a daily grain allowance and queues for what was scarce.",
+      "items": [
+        {
+          "id": "in.1945.everyday.spotlight.bombay-grain-ration",
+          "kind": "fact",
+          "title": "A ration card for Bombay",
+          "summary": "Rationing of foodgrains began in Bombay in 1943; the basic allowance was 16 ounces of grain a day, later cut to 12 ounces after a poor harvest, and every family in the city held a ration card, though villages were left out.",
+          "sources": [
+            {
+              "label": "International Labour Review, 1944: food rationing and wartime controls (ILO)",
+              "url": "https://webapps.ilo.org/public/libdoc/ilo/P/09602/09602(1944-50-6)736-750.pdf",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "date": "1943",
+          "place": "Bombay (now Mumbai)",
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1945.everyday.spotlight.priority-classes",
+          "kind": "fact",
+          "title": "Who came first",
+          "summary": "The Priority Classes Distribution Scheme favoured defence factory workers, soldiers and civil servants in industrial centres such as Calcutta, leaving rural people unprotected; statutory rationing in the big cities followed the Woodhead Commission of 1944-45 and became the base of the Public Distribution System.",
+          "sources": [
+            {
+              "label": "GKToday: War-time scarcity and colonial economy",
+              "url": "https://www.gktoday.in/war-time-scarcity-and-colonial-economy/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1945.everyday.spotlight.burma-rice",
+          "kind": "fact",
+          "title": "Rice from Burma stops",
+          "summary": "Rice imported from Burma, about 15 to 20 percent of what Bengal ate, was cut off after the fall of Rangoon in March 1942, while price caps, bans on moving grain between provinces and army stockpiling caused local scarcity, hoarding and black marketing.",
+          "sources": [
+            {
+              "label": "GKToday: War-time scarcity and colonial economy",
+              "url": "https://www.gktoday.in/war-time-scarcity-and-colonial-economy/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1942-03",
+          "regionTag": "east",
+          "relatedIds": [
+            "in.1945.dd.freedom-history.bengal-famine-aftermath"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1945.everyday.spotlight.cloth-kerosene",
+          "kind": "fact",
+          "title": "Cloth and kerosene",
+          "summary": "Industry was redirected to military goods, leaving a severe shortage of civilian goods such as cloth and kerosene.",
+          "sources": [
+            {
+              "label": "GKToday: War-time scarcity and colonial economy",
+              "url": "https://www.gktoday.in/war-time-scarcity-and-colonial-economy/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1945.everyday.spotlight.prices-rise",
+          "kind": "fact",
+          "title": "Prices and the paper rupee",
+          "summary": "Wartime spending was paid for by issuing paper currency against sterling securities held in London, and the price index of essential goods rose steeply from 1939 to 1945, hurting landless labourers, town wage-earners and fixed-income families.",
+          "sources": [
+            {
+              "label": "GKToday: War-time scarcity and colonial economy",
+              "url": "https://www.gktoday.in/war-time-scarcity-and-colonial-economy/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "todo": true
+        }
+      ],
+      "scarcityNote": "We could not find sourced allowances for sugar, cloth or kerosene, or prices, so the section describes the system rather than the quantities."
+    }
+  }
+}

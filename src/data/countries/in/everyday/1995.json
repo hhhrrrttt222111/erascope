@@ -1,0 +1,724 @@
+{
+  "country": "in",
+  "year": 1995,
+  "speculative": false,
+  "sections": {
+    "byTheNumbers": {
+      "title": "The year in numbers",
+      "standfirst": "960 million people, of whom half had electricity at home and fewer than one in a thousand used the internet.",
+      "items": [
+        {
+          "id": "in.1995.everyday.by-the-numbers.population",
+          "kind": "stat",
+          "title": "Population",
+          "summary": "India's population was about 960 million in 1995.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Population, total",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Population (UN World Population Prospects, HYDE)",
+              "url": "https://ourworldindata.org/grapher/population",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Population of India",
+          "value": "960,301,044",
+          "unit": "people",
+          "asOf": "1995",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.by-the-numbers.life-expectancy",
+          "kind": "stat",
+          "title": "Life expectancy at birth",
+          "summary": "A newborn in 1995 could expect to live about 61 years.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Life expectancy at birth, total (years)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Life expectancy (UN World Population Prospects and other series)",
+              "url": "https://ourworldindata.org/grapher/life-expectancy",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Life expectancy at birth",
+          "value": "60.6",
+          "unit": "years",
+          "asOf": "1995",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.by-the-numbers.literacy",
+          "kind": "stat",
+          "title": "Who could read",
+          "summary": "At the 1991 census 43 to 52 percent of people could read and write, 53 to 64 percent of men and 32 to 39 percent of women.",
+          "sources": [
+            {
+              "label": "Wikipedia: Literacy in India",
+              "url": "https://en.wikipedia.org/wiki/Literacy_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2011 Census of India",
+              "url": "https://en.wikipedia.org/wiki/2011_Census_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Literacy rate (census 1991)",
+          "value": "42.8 to 52.2",
+          "unit": "percent",
+          "asOf": "1991",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.by-the-numbers.electricity",
+          "kind": "stat",
+          "title": "Electricity at home",
+          "summary": "About 51 percent of the population had access to electricity.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Access to electricity (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/EG.ELC.ACCS.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "metric": "Access to electricity",
+          "value": "51.4",
+          "unit": "percent of the population",
+          "asOf": "1995",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.by-the-numbers.internet-users",
+          "kind": "stat",
+          "title": "Online",
+          "summary": "Only about 0.03 percent of Indians used the internet, a few years before it spread.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Individuals using the Internet (% of population)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/IT.NET.USER.ZS?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            },
+            {
+              "label": "Our World in Data: Share of individuals using the internet",
+              "url": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Individuals using the internet",
+          "value": "0.026",
+          "unit": "percent of the population",
+          "asOf": "1995",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.by-the-numbers.infant-mortality",
+          "kind": "stat",
+          "title": "Infant deaths",
+          "summary": "About 76 of every 1,000 babies died before their first birthday.",
+          "sources": [
+            {
+              "label": "World Bank, World Development Indicators: Mortality rate, infant (per 1,000 live births)",
+              "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.IMRT.IN?format=json",
+              "accessed": "2026-10-18",
+              "quality": "primary"
+            }
+          ],
+          "sensitivity": {
+            "level": "care",
+            "note": "This item concerns the deaths of infants."
+          },
+          "metric": "Infant mortality",
+          "value": "75.6",
+          "unit": "per 1,000 live births",
+          "asOf": "1995",
+          "todo": true
+        }
+      ],
+      "layout": "stats"
+    },
+    "foodAndKitchen": {
+      "title": "Food and the kitchen",
+      "standfirst": "Coca-Cola returned to India in 1993 after 16 years away, and it bought the Parle brands.",
+      "items": [
+        {
+          "id": "in.1995.everyday.food-and-kitchen.coke-return",
+          "kind": "fact",
+          "title": "Coca-Cola returns",
+          "summary": "Coca-Cola returned to India in 1993 after 16 years away, and it bought the Parle brands.",
+          "sources": [
+            {
+              "label": "Wikipedia: Coca-Cola",
+              "url": "https://en.wikipedia.org/wiki/Coca-Cola",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.food-and-kitchen.kfc-bangalore",
+          "kind": "fact",
+          "title": "KFC in Bangalore",
+          "summary": "KFC opened its first Indian outlet in Bangalore in 1995 and met protests from farmers' groups.",
+          "sources": [
+            {
+              "label": "Wikipedia: KFC",
+              "url": "https://en.wikipedia.org/wiki/KFC",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.food-and-kitchen.pepsi",
+          "kind": "fact",
+          "title": "Pepsi",
+          "summary": "Pepsi entered India in 1989 and was a big sponsor of cricket and film stars.",
+          "sources": [
+            {
+              "label": "Wikipedia: PepsiCo",
+              "url": "https://en.wikipedia.org/wiki/PepsiCo",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.food-and-kitchen.maggi-staple",
+          "kind": "fact",
+          "title": "Instant noodles",
+          "summary": "Maggi became a staple of school tiffins and late-night snacks.",
+          "sources": [
+            {
+              "label": "Wikipedia: Maggi",
+              "url": "https://en.wikipedia.org/wiki/Maggi",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "clothingAndStyle": {
+      "title": "What people wore",
+      "standfirst": "Levi's opened in India in 1994 as liberalisation brought foreign brands.",
+      "items": [
+        {
+          "id": "in.1995.everyday.clothing-and-style.levis",
+          "kind": "fact",
+          "title": "Levi's in India",
+          "summary": "Levi's opened in India in 1994 as liberalisation brought foreign brands.",
+          "sources": [
+            {
+              "label": "Wikipedia: Levi Strauss %26 Co.",
+              "url": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.clothing-and-style.reebok",
+          "kind": "fact",
+          "title": "Sports shoes",
+          "summary": "Foreign sportswear brands such as Reebok arrived in the mid-1990s.",
+          "sources": [
+            {
+              "label": "Wikipedia: Reebok",
+              "url": "https://en.wikipedia.org/wiki/Reebok",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.clothing-and-style.miss-world-94",
+          "kind": "fact",
+          "title": "Beauty queens",
+          "summary": "Aishwarya Rai won Miss World and Sushmita Sen Miss Universe in 1994, boosting interest in fashion.",
+          "sources": [
+            {
+              "label": "Wikipedia: Miss World 1994",
+              "url": "https://en.wikipedia.org/wiki/Miss_World_1994",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "workAndWages": {
+      "title": "Work and wages",
+      "standfirst": "Economic reforms from 1991 removed many licensing rules and let private firms and foreign companies expand.",
+      "items": [
+        {
+          "id": "in.1995.everyday.work-and-wages.liberalisation",
+          "kind": "fact",
+          "title": "After 1991",
+          "summary": "Economic reforms from 1991 removed many licensing rules and let private firms and foreign companies expand.",
+          "sources": [
+            {
+              "label": "Wikipedia: Economic liberalisation in India",
+              "url": "https://en.wikipedia.org/wiki/Economic_liberalisation_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.work-and-wages.infosys-ipo",
+          "kind": "fact",
+          "title": "Infosys goes public",
+          "summary": "Infosys listed on the stock market in 1993, an early sign of the software industry's growth.",
+          "sources": [
+            {
+              "label": "Wikipedia: Infosys",
+              "url": "https://en.wikipedia.org/wiki/Infosys",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.work-and-wages.stpi",
+          "kind": "fact",
+          "title": "Software parks",
+          "summary": "Software Technology Parks of India, set up from 1991, gave exporters cheap data links.",
+          "sources": [
+            {
+              "label": "Wikipedia: Software Technology Parks of India",
+              "url": "https://en.wikipedia.org/wiki/Software_Technology_Parks_of_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "south",
+          "todo": true
+        }
+      ]
+    },
+    "schoolAndChildhood": {
+      "title": "Growing up",
+      "standfirst": "A national midday meal scheme started on 15 August 1995 in primary schools.",
+      "items": [
+        {
+          "id": "in.1995.everyday.school-and-childhood.mdm-1995",
+          "kind": "fact",
+          "title": "Midday meal scheme",
+          "summary": "A national midday meal scheme started on 15 August 1995 in primary schools.",
+          "sources": [
+            {
+              "label": "Wikipedia: Mid-Day Meal Scheme",
+              "url": "https://en.wikipedia.org/wiki/Mid-Day_Meal_Scheme",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.school-and-childhood.english-medium",
+          "kind": "fact",
+          "title": "English-medium schools",
+          "summary": "Private English-medium schools grew in cities and towns as parents saw English as a route to jobs.",
+          "sources": [
+            {
+              "label": "Wikipedia: Education in India",
+              "url": "https://en.wikipedia.org/wiki/Education_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.school-and-childhood.computer-class",
+          "kind": "fact",
+          "title": "Computer classes",
+          "summary": "Computer institutes such as NIIT and Aptech taught programming to students after school hours.",
+          "sources": [
+            {
+              "label": "Wikipedia: NIIT",
+              "url": "https://en.wikipedia.org/wiki/NIIT",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "national",
+          "todo": true
+        }
+      ]
+    },
+    "gettingAround": {
+      "title": "Getting around",
+      "standfirst": "India's first metro line, in Kolkata, opened in 1984 and carried commuters through the 1990s.",
+      "items": [
+        {
+          "id": "in.1995.everyday.getting-around.kolkata-metro",
+          "kind": "fact",
+          "title": "Kolkata Metro",
+          "summary": "India's first metro line, in Kolkata, opened in 1984 and carried commuters through the 1990s.",
+          "sources": [
+            {
+              "label": "Wikipedia: Kolkata Metro",
+              "url": "https://en.wikipedia.org/wiki/Kolkata_Metro",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "east",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.getting-around.jet-airways",
+          "kind": "fact",
+          "title": "Private airlines",
+          "summary": "Private airlines such as Jet Airways started flying in 1993 after the monopoly ended.",
+          "sources": [
+            {
+              "label": "Wikipedia: Jet Airways",
+              "url": "https://en.wikipedia.org/wiki/Jet_Airways",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.getting-around.maruti-800",
+          "kind": "fact",
+          "title": "Maruti 800",
+          "summary": "The Maruti 800 was the small car that many middle-class families aspired to own.",
+          "sources": [
+            {
+              "label": "Wikipedia: Maruti 800",
+              "url": "https://en.wikipedia.org/wiki/Maruti_800",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "north",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.getting-around.scooter-wait",
+          "kind": "fact",
+          "title": "Waiting for a scooter",
+          "summary": "Scooters like Bajaj Chetak had waiting lists, and a scooter was a family's main vehicle.",
+          "sources": [
+            {
+              "label": "Wikipedia: Bajaj Chetak",
+              "url": "https://en.wikipedia.org/wiki/Bajaj_Chetak",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "regionTag": "west",
+          "todo": true
+        }
+      ]
+    },
+    "keepingInTouch": {
+      "title": "Keeping in touch",
+      "standfirst": "The first mobile calls and the first public internet connections came in August; most households were still waiting for a landline.",
+      "items": [
+        {
+          "id": "in.1995.everyday.keeping-in-touch.phones-1991",
+          "kind": "stat",
+          "title": "Telephones",
+          "summary": "India had 5.07 million telephones in 1991, up from 0.98 million in 1971 and 2.15 million in 1981.",
+          "sources": [
+            {
+              "label": "Wikipedia: Telecommunications in India",
+              "url": "https://en.wikipedia.org/wiki/Telecommunications_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "metric": "Telephones in India",
+          "value": "5.07 million",
+          "unit": "telephones",
+          "asOf": "1991",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.keeping-in-touch.first-mobile",
+          "kind": "fact",
+          "title": "The first mobile service",
+          "summary": "The first mobile telephone service started on a non-commercial basis in Delhi on 15 August 1995.",
+          "sources": [
+            {
+              "label": "Wikipedia: Telecommunications in India",
+              "url": "https://en.wikipedia.org/wiki/Telecommunications_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1995-08-15",
+          "place": "Delhi",
+          "regionTag": "north",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.keeping-in-touch.gias",
+          "kind": "fact",
+          "title": "Public internet",
+          "summary": "VSNL launched India's first public internet service, the Gateway Internet Access Service at 9.6 kbit/s, on 15 August 1995; an individual account cost ₹5,200 for 250 hours and an institutional dial-up account ₹16,200.",
+          "sources": [
+            {
+              "label": "Wikipedia: Internet in India",
+              "url": "https://en.wikipedia.org/wiki/Internet_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1995-08-15",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.1995.dd.technology-science.internet-public"
+          ],
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.keeping-in-touch.ntp-94",
+          "kind": "fact",
+          "title": "A policy for every village",
+          "summary": "The National Telecom Policy of 1994 aimed to bring telephone facilities to all villages, set a target of one public call office for every 500 people in urban areas, and reserved 5 percent of new lines for PCO booths.",
+          "sources": [
+            {
+              "label": "Wikipedia: Telecommunications in India",
+              "url": "https://en.wikipedia.org/wiki/Telecommunications_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Voice&Data: Segment analysis, PCO",
+              "url": "https://www.voicendata.com/segment-analysis-pco",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1994",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1995 letter rates, call charges or waiting lists beyond what is shown."
+    },
+    "healthAndMedicine": {
+      "title": "Health and medicine",
+      "standfirst": "The Pulse Polio campaign began.",
+      "items": [
+        {
+          "id": "in.1995.everyday.health-and-medicine.pulse-polio",
+          "kind": "fact",
+          "title": "Pulse Polio",
+          "summary": "In 1995, following the Global Polio Eradication Initiative, India launched the Pulse Polio programme of oral vaccine for children under five on national immunisation days.",
+          "sources": [
+            {
+              "label": "Wikipedia: Pulse Polio",
+              "url": "https://en.wikipedia.org/wiki/Pulse_Polio",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1995",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.health-and-medicine.polio-free",
+          "kind": "fact",
+          "title": "The end of polio",
+          "summary": "The last cases of wild polio in India were reported in West Bengal and Gujarat on 13 January 2011, and the WHO declared India polio-free on 27 March 2014.",
+          "sources": [
+            {
+              "label": "Wikipedia: Pulse Polio",
+              "url": "https://en.wikipedia.org/wiki/Pulse_Polio",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "2014-03-27",
+          "regionTag": "national",
+          "relatedIds": [
+            "in.1995.everyday.health-and-medicine.pulse-polio"
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1995 doctor fees, hospital costs or other health figures."
+    },
+    "leisureAndFun": {
+      "title": "Evenings, weekends and festivals",
+      "standfirst": "A film released in October kept running at the same Bombay cinema for twenty years.",
+      "items": [
+        {
+          "id": "in.1995.everyday.leisure-and-fun.ddlj-run",
+          "kind": "fact",
+          "title": "A film that never left",
+          "summary": "Dilwale Dulhania Le Jayenge opened on 20 October 1995 and has been shown daily since at the Maratha Mandir cinema in Mumbai, reaching its 1,000th week in December 2014.",
+          "sources": [
+            {
+              "label": "Wikipedia: Dilwale Dulhania Le Jayenge",
+              "url": "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 1995 in India",
+              "url": "https://en.wikipedia.org/wiki/1995_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "date": "1995-10-20",
+          "place": "Mumbai",
+          "regionTag": "west",
+          "relatedIds": [
+            "in.1995.dd.cinema.ddlj"
+          ],
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find sourced 1995 ticket prices, festival or sport material beyond the cinema item."
+    },
+    "spotlight": {
+      "title": "Cable TV and the PCO booth",
+      "standfirst": "Cable and satellite television spread through towns before the law caught up, and a yellow booth with a telephone and a meter became the neighbourhood's long-distance line.",
+      "items": [
+        {
+          "id": "in.1995.everyday.spotlight.cable-act",
+          "kind": "fact",
+          "title": "The Cable Act of 1995",
+          "summary": "The Cable Television Networks (Regulation) Act, 1995, was passed to address the sudden growth of cable and satellite networks in the early 1990s; it required registration and a programme code and advertisement code, and operators to carry at least two Doordarshan channels and one regional-language channel.",
+          "sources": [
+            {
+              "label": "iPleaders: An analysis of the Cable Television Networks (Regulation) Act, 1995",
+              "url": "https://blog.ipleaders.in/an-analysis-of-the-cable-television-networks-regulation-act-1995/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Jus Scriptum Law: Cable Television Network (Regulation) Act, 1995",
+              "url": "https://www.jusscriptumlaw.com/blog/cable-television-network-regulation-act-1995",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1995",
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.spotlight.cable-operators",
+          "kind": "fact",
+          "title": "Sixty thousand operators",
+          "summary": "One estimate puts the number of cable operators at about 60,000 in 1995, of which later only 16,000 to 19,000 registered under the Act.",
+          "sources": [
+            {
+              "label": "iPleaders: An analysis of the Cable Television Networks (Regulation) Act, 1995",
+              "url": "https://blog.ipleaders.in/an-analysis-of-the-cable-television-networks-regulation-act-1995/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "date": "1995",
+          "regionTag": "national",
+          "todo": true
+        },
+        {
+          "id": "in.1995.everyday.spotlight.dishes-and-stars",
+          "kind": "fact",
+          "title": "From CNN to Zee",
+          "summary": "The spread of cable is tied to CNN's Gulf War coverage in 1990, which created demand for satellite dishes, and to the launch of Star TV and Zee TV.",
+          "sources": [
+            {
+              "label": "IUP: The Indian cable TV industry",
+              "url": "https://www.iupindia.in/306/EE_Indian_Cable_TV_Industry_57.html",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "St. Xavier's/ SH College: History of Television in India (NAAC document)",
+              "url": "https://www.shcollege.ac.in/wp-content/uploads/NAAC_Documents_IV_Cycle/Criterion-II/2.3.2/HistoryofTV.pdf",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item touches on war, famine, epidemic disease or disaster."
+          },
+          "checked": "2026-10-18"
+        },
+        {
+          "id": "in.1995.everyday.spotlight.yellow-booth",
+          "kind": "fact",
+          "title": "The yellow booth",
+          "summary": "Sam Pitroda's push under Rajiv Gandhi spread bright-yellow STD/PCO booths across India, giving a business to people who would otherwise have been unemployed.",
+          "sources": [
+            {
+              "label": "Open Magazine: Sam Pitroda, the original whiz",
+              "url": "https://openthemagazine.com/features/india/sam-pitroda-the-original-whiz",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            },
+            {
+              "label": "Founding Fuel: An insider's account of Indian telecom",
+              "url": "https://foundingfuel.com/article/an-insiders-account-of-indian-telecom/",
+              "accessed": "2026-10-18",
+              "quality": "secondary"
+            }
+          ],
+          "regionTag": "national",
+          "checked": "2026-10-18"
+        }
+      ],
+      "scarcityNote": "We could not find a sourced count of cable homes, monthly cable fees or STD booths for 1995, so the section describes the system rather than the numbers."
+    }
+  }
+}

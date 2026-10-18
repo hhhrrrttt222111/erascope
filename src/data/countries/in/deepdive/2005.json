@@ -108,7 +108,7 @@
       "interactive": {
         "component": "TechThenNow"
       },
-      "scarcityNote": "Only 3 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "government-politics": {
       "title": "Government & politics",
@@ -269,7 +269,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "freedom-history": {
       "title": "Independence & history",
@@ -350,12 +351,41 @@
             }
           ],
           "checked": "2026-10-13"
+        },
+        {
+          "id": "in.2005.dd.freedom-history.air-india-182",
+          "kind": "event",
+          "title": "The Air India 182 verdict",
+          "summary": "On 16 March 2005 a Canadian court found Ripudaman Singh Malik and Ajaib Singh Bagri not guilty on all counts of the 1985 bombing of Air India Flight 182, which killed all 329 people aboard, 22 of them Indian; the evidence fell short of proof beyond reasonable doubt.",
+          "eventType": "other",
+          "date": "2005-03-16",
+          "place": "Vancouver, Canada",
+          "regionTag": "overseas",
+          "sensitivity": {
+            "level": "content-note",
+            "note": "This item concerns a bombing that killed 329 people."
+          },
+          "sources": [
+            {
+              "label": "Wikipedia: Air India Flight 182",
+              "url": "https://en.wikipedia.org/wiki/Air_India_Flight_182",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
         "component": "ChronicleScroll"
       },
-      "scarcityNote": "Only 3 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "personalities": {
       "title": "Famous personalities",
@@ -369,7 +399,7 @@
           "field": "Science and politics",
           "born": "1931",
           "whyThisYear": "He was President throughout 2005.",
-          "regionTag": "national",
+          "regionTag": "south",
           "died": "2015",
           "sources": [
             {
@@ -385,7 +415,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2005.dd.personalities.manmohan-singh",
@@ -395,7 +426,7 @@
           "field": "Politics and economics",
           "born": "1932",
           "whyThisYear": "His government passed the RTI and rural employment guarantee Acts.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "2024",
           "sources": [
             {
@@ -411,7 +442,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2005.dd.personalities.sania-mirza",
@@ -421,7 +453,7 @@
           "field": "Tennis",
           "born": "1986",
           "whyThisYear": "She reached the fourth round of the US Open and was the WTA's Newcomer of the Year.",
-          "regionTag": "national",
+          "regionTag": "south",
           "sources": [
             {
               "label": "Wikipedia: Sania Mirza",
@@ -430,7 +462,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "female"
         },
         {
           "id": "in.2005.dd.personalities.kunwar-narayan",
@@ -440,7 +473,7 @@
           "field": "Poetry",
           "born": "1927",
           "whyThisYear": "He was awarded the 41st Jnanpith Award for 2005, announced in November 2008.",
-          "regionTag": "national",
+          "regionTag": "north",
           "died": "2017",
           "sources": [
             {
@@ -456,7 +489,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2005.dd.personalities.chetan-bhagat",
@@ -466,7 +500,7 @@
           "field": "Writing",
           "born": "1974",
           "whyThisYear": "His second novel, One Night @ the Call Center, appeared in 2005.",
-          "regionTag": "national",
+          "regionTag": "north",
           "sources": [
             {
               "label": "Wikipedia: Chetan Bhagat",
@@ -481,7 +515,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2005.dd.personalities.rajinikanth",
@@ -491,7 +526,7 @@
           "field": "Cinema",
           "born": "1950",
           "whyThisYear": "He starred in Chandramukhi, released on 14 April 2005.",
-          "regionTag": "national",
+          "regionTag": "south",
           "sources": [
             {
               "label": "Wikipedia: Rajinikanth",
@@ -506,7 +541,8 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
         },
         {
           "id": "in.2005.dd.personalities.sanjay-leela-bhansali",
@@ -516,7 +552,7 @@
           "field": "Cinema",
           "born": "1963",
           "whyThisYear": "He directed Black.",
-          "regionTag": "national",
+          "regionTag": "west",
           "sources": [
             {
               "label": "Wikipedia: Sanjay Leela Bhansali",
@@ -531,7 +567,36 @@
               "quality": "reference"
             }
           ],
-          "checked": "2026-10-13"
+          "checked": "2026-10-13",
+          "gender": "male"
+        },
+        {
+          "id": "in.2005.dd.personalities.amrita-pritam",
+          "kind": "person",
+          "title": "Amrita Pritam",
+          "summary": "Punjabi and Hindi poet and novelist, author of Pinjar and the poem 'Ajj aakhaan Waris Shah nu'.",
+          "field": "Poetry and fiction",
+          "born": "1919-08-31",
+          "died": "2005-10-31",
+          "gender": "female",
+          "regionTag": "north",
+          "place": "Delhi",
+          "whyThisYear": "She died in Delhi on 31 October 2005, aged 86, a year after receiving the Padma Vibhushan and the Sahitya Akademi Fellowship.",
+          "sources": [
+            {
+              "label": "Wikipedia: Amrita Pritam",
+              "url": "https://en.wikipedia.org/wiki/Amrita_Pritam",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            },
+            {
+              "label": "Wikipedia: 2005 in India",
+              "url": "https://en.wikipedia.org/wiki/2005_in_India",
+              "accessed": "2026-10-18",
+              "quality": "reference"
+            }
+          ],
+          "checked": "2026-10-18"
         }
       ],
       "interactive": {
@@ -658,7 +723,8 @@
             "quality": "reference"
           }
         ]
-      }
+      },
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "sports": {
       "title": "Sports",
@@ -697,7 +763,7 @@
       "interactive": {
         "component": "ScorecardReplay"
       },
-      "scarcityNote": "Only 1 item for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "literature": {
       "title": "Literature",
@@ -787,7 +853,7 @@
       "interactive": {
         "component": "Bookshelf3D"
       },
-      "scarcityNote": "Only 3 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "books-reading": {
       "title": "Books & reading",
@@ -845,7 +911,7 @@
       "interactive": {
         "component": "ReadingRoom"
       },
-      "scarcityNote": "Only 2 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "cinema": {
       "title": "Cinema",
@@ -916,7 +982,7 @@
       "interactive": {
         "component": "ProjectorReel"
       },
-      "scarcityNote": "Only 3 items for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "music-arts": {
       "title": "Music & arts",
@@ -944,7 +1010,7 @@
       "interactive": {
         "component": "RiyaazRoom"
       },
-      "scarcityNote": "Only 1 item for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     },
     "economy-business": {
       "title": "Economy & business",
@@ -1012,7 +1078,7 @@
           }
         ]
       },
-      "scarcityNote": "Only 1 item for 2005 could be checked against sources; items that could not be verified were removed rather than shown."
+      "scarcityNote": "For 2005 only items that could be checked against two sources were kept; the section is short by the sources, not by choice."
     }
   }
 }

@@ -7,7 +7,7 @@ import { motion, useDragControls, useMotionValue } from "framer-motion";
 import { useEffect, useRef, useState, type ReactNode, type RefObject } from "react";
 import { useEraContext, useShellEra } from "../../context/EraContext";
 import { EraScene } from "../three/EraScene";
-import { eraDate, headingDomId, SLIDER_CLEARANCE, type ChromeProps, type SectionId } from "./shared";
+import { CORE_SECTIONS, eraDate, headingDomId, SLIDER_CLEARANCE, type ChromeProps, type SectionId } from "./shared";
 
 type WinId = "welcome" | SectionId;
 
@@ -159,11 +159,13 @@ export function Win98Chrome({ sections }: ChromeProps) {
     ...sections.map((s) => ({ id: s.id, title: s.title, Icon: s.Icon, node: s.node })),
   ];
 
+  // Only the original six windows cascade open; the everyday ones open from icons or the Start menu.
+  const cascade = windows.filter((w) => w.id === "welcome" || CORE_SECTIONS.includes(w.id)).map((w) => w.id);
   const [state, setState] = useState<Record<WinId, WinState>>(
-    () => Object.fromEntries(windows.map((w) => [w.id, { open: true, minimized: false, maximized: false }])) as Record<WinId, WinState>,
+    () => Object.fromEntries(windows.map((w) => [w.id, { open: cascade.includes(w.id), minimized: false, maximized: false }])) as Record<WinId, WinState>,
   );
   // Last entry is on top. Start with Welcome in front of the cascade.
-  const [zOrder, setZOrder] = useState<WinId[]>(() => [...windows.map((w) => w.id).slice(1).reverse(), "welcome"]);
+  const [zOrder, setZOrder] = useState<WinId[]>(() => [...windows.map((w) => w.id).filter((id) => id !== "welcome").reverse(), "welcome"]);
 
   useEffect(() => {
     const t = window.setInterval(() => setClock(new Date()), 30_000);
@@ -224,7 +226,7 @@ export function Win98Chrome({ sections }: ChromeProps) {
               zIndex: 0,
             }}
           >
-            {windows.map((w) => (
+            {windows.filter((w) => cascade.includes(w.id)).map((w) => (
               <Box
                 key={w.id}
                 component="button"
@@ -253,13 +255,13 @@ export function Win98Chrome({ sections }: ChromeProps) {
             ))}
           </Box>
 
-          {windows.map((w, i) =>
+          {windows.map((w) =>
             state[w.id].open ? (
               <Win98Window
                 key={w.id}
                 win={w}
                 // Cascade in stacking order so each title bar peeks out above the next window.
-                index={i === 0 ? windows.length - 1 : windows.length - 1 - i}
+                index={Math.max(0, cascade.length - 1 - cascade.indexOf(w.id))}
                 z={zOrder.indexOf(w.id) + 1}
                 active={w.id === activeId}
                 small={small}
